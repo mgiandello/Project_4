@@ -1,0 +1,1985 @@
+title,movie_rating,run_time,meta_score,imdb_rating,director,writer,actor,genre_name,Year,Predictions_BoxOffice,Predictions_Upcoming,label_boxoffice
+The Shining,R,146.0,0.0,8.4,Stanley Kubrick,Stephen King,Jack Nicholson,Drama,1980,1.0,0.0,0.0
+Superman II,PG,127.0,0.0,6.8,Richard Lester,Jerry Siegel,Gene Hackman,Action,1981,1.0,0.0,0.0
+Dressed to Kill,R,104.0,0.0,7.1,Brian De Palma,Brian De Palma,Michael Caine,Crime,1980,1.0,0.0,0.0
+Somewhere in Time,PG,103.0,0.0,7.2,Jeannot Szwarc,Richard Matheson,Christopher Reeve,Drama,1980,1.0,0.0,0.0
+9 to 5,PG,109.0,0.0,6.9,Colin Higgins,Patricia Resnick,Jane Fonda,Comedy,1980,1.0,0.0,0.0
+Stir Crazy,R,111.0,0.0,6.8,Sidney Poitier,Bruce Jay Friedman,Gene Wilder,Comedy,1980,1.0,0.0,0.0
+Xanadu,PG,96.0,0.0,5.3,Robert Greenwald,Richard Christian Danus,Olivia Newton-John,Fantasy,1980,1.0,0.0,0.0
+Prom Night,R,92.0,0.0,5.4,Paul Lynch,William Gray,Leslie Nielsen,Horror,1980,1.0,0.0,0.0
+Motel Hell,R,101.0,0.0,6.0,Kevin Connor,Robert Jaffe,Rory Calhoun,Comedy,1980,1.0,0.0,0.0
+Breaker Morant,PG,107.0,0.0,7.9,Bruce Beresford,Jonathan Hardy,Edward Woodward,Drama,1980,1.0,0.0,0.0
+Cheech and Chong's Next Movie,R,99.0,0.0,6.1,Tommy Chong,Tommy Chong,Cheech Marin,Comedy,1980,1.0,0.0,0.0
+The Nude Bomb,PG,94.0,0.0,5.1,Clive Donner,Mel Brooks,Don Adams,Action,1980,1.0,0.0,0.0
+Stardust Memories,PG,89.0,0.0,7.3,Woody Allen,Woody Allen,Woody Allen,Comedy,1980,1.0,0.0,0.0
+Melvin and Howard,R,95.0,0.0,6.8,Jonathan Demme,Bo Goldman,Paul Le Mat,Comedy,1980,1.0,0.0,0.0
+When Time Ran Out...,PG,121.0,0.0,4.6,James Goldstone,Gordon Thomas,Paul Newman,Action,1980,1.0,0.0,0.0
+Oh Heavenly Dog,PG,103.0,0.0,5.4,Joe Camp,Rod Browning,Chevy Chase,Comedy,1980,1.0,0.0,0.0
+The Octagon,R,103.0,0.0,5.1,Eric Karson,Leigh Chapman,Chuck Norris,Action,1980,1.0,0.0,0.0
+Hangar 18,PG,97.0,0.0,5.3,James L. Conway,Ken Pettus,Darren McGavin,Sci-Fi,1981,1.0,0.0,0.0
+The Competition,PG,123.0,0.0,6.7,Joel Oliansky,Joel Oliansky,Richard Dreyfuss,Drama,1980,1.0,0.0,0.0
+Fatso,PG,93.0,0.0,6.3,Anne Bancroft,Anne Bancroft,Dom DeLuise,Comedy,1980,1.0,0.0,0.0
+Hero at Large,PG,98.0,0.0,6.0,Martin Davidson,AJ Carothers,John Ritter,Comedy,1980,1.0,0.0,0.0
+Roadie,PG,106.0,0.0,5.2,Alan Rudolph,Big Boy Medlin,Meat Loaf,Comedy,1980,1.0,0.0,0.0
+Phobia,R,94.0,0.0,4.0,John Huston,Gary Sherman,Paul Michael Glaser,Drama,1980,1.0,0.0,0.0
+Windows,R,96.0,0.0,4.8,Gordon Willis,Barry Siegel,Talia Shire,Drama,1980,1.0,0.0,0.0
+"Those Lips, Those Eyes",R,105.0,0.0,6.5,Michael Pressman,David Shaber,Frank Langella,Comedy,1980,1.0,0.0,0.0
+Gilda Live,R,96.0,0.0,6.8,Mike Nichols,Anne Beatts,Gilda Radner,Comedy,1980,1.0,0.0,0.0
+Why Would I Lie?,PG,105.0,0.0,6.5,Larry Peerce,Hollis Hodges,Treat Williams,Comedy,1980,1.0,0.0,0.0
+Body Heat,R,113.0,0.0,7.4,Lawrence Kasdan,Lawrence Kasdan,William Hurt,Crime,1981,1.0,0.0,0.0
+Escape from New York,R,99.0,0.0,7.2,John Carpenter,John Carpenter,Kurt Russell,Action,1981,1.0,0.0,0.0
+Porky's,R,94.0,0.0,6.2,Bob Clark,Bob Clark,Dan Monahan,Comedy,1982,1.0,0.0,0.0
+Blow Out,R,108.0,0.0,7.4,Brian De Palma,Brian De Palma,John Travolta,Crime,1981,1.0,0.0,0.0
+Stripes,R,106.0,0.0,6.9,Ivan Reitman,Len Blum,Bill Murray,Comedy,1981,1.0,0.0,0.0
+Possession,R,124.0,0.0,7.4,Andrzej Zulawski,Andrzej Zulawski,Isabelle Adjani,Drama,1983,1.0,0.0,0.0
+The Four Seasons,PG,107.0,0.0,6.8,Alan Alda,Alan Alda,Alan Alda,Comedy,1981,1.0,0.0,0.0
+Friday the 13th Part 2,R,87.0,0.0,6.1,Steve Miner,Ron Kurz,Betsy Palmer,Horror,1981,1.0,0.0,0.0
+Halloween II,R,92.0,0.0,6.5,Rick Rosenthal,John Carpenter,Jamie Lee Curtis,Horror,1981,1.0,0.0,0.0
+Caveman,PG,91.0,0.0,5.8,Carl Gottlieb,Rudy De Luca,Ringo Starr,Comedy,1981,1.0,0.0,0.0
+Dead & Buried,R,94.0,0.0,6.6,Gary Sherman,Jeff Millar,James Farentino,Horror,1981,1.0,0.0,0.0
+The Postman Always Rings Twice,R,122.0,0.0,6.6,Bob Rafelson,David Mamet,Jack Nicholson,Crime,1981,1.0,0.0,0.0
+Ragtime,PG,155.0,0.0,7.3,Milos Forman,E.L. Doctorow,James Cagney,Drama,1981,1.0,0.0,0.0
+Nice Dreams,R,88.0,0.0,6.2,Tommy Chong,Tommy Chong,Cheech Marin,Comedy,1981,1.0,0.0,0.0
+Prince of the City,R,167.0,0.0,7.5,Sidney Lumet,Jay Presson Allen,Treat Williams,Crime,1981,1.0,0.0,0.0
+The Hand,R,104.0,0.0,5.5,Oliver Stone,Marc Brandel,Michael Caine,Drama,1981,1.0,0.0,0.0
+The Night the Lights Went Out in Georgia,PG,112.0,0.0,6.0,Ron Maxwell,Bob Bonney,Kristy McNichol,Drama,1981,1.0,0.0,0.0
+Quartet,R,101.0,0.0,6.3,James Ivory,Jean Rhys,Isabelle Adjani,Drama,1981,1.0,0.0,0.0
+Graduation Day,R,96.0,0.0,4.9,Herb Freed,Anne Marisse,Christopher George,Horror,1981,1.0,0.0,0.0
+American Pop,R,96.0,0.0,7.2,Ralph Bakshi,Ronni Kern,Mews Small,Animation,1981,1.0,0.0,0.0
+An Eye for an Eye,R,106.0,0.0,5.5,Steve Carver,James Bruner,Chuck Norris,Action,1981,1.0,0.0,0.0
+Zoot Suit,R,103.0,0.0,6.8,Luis Valdez,Luis Valdez,Daniel Valdez,Drama,1982,1.0,0.0,0.0
+Buddy Buddy,R,96.0,0.0,6.5,Billy Wilder,Francis Veber,Jack Lemmon,Comedy,1981,1.0,0.0,0.0
+Modern Romance,R,93.0,0.0,7.0,Albert Brooks,Albert Brooks,Albert Brooks,Comedy,1981,1.0,0.0,0.0
+Take This Job and Shove It,PG,100.0,0.0,5.0,Gus Trikonis,Barry Schneider,Robert Hays,Comedy,1981,1.0,0.0,0.0
+Raggedy Man,R,94.0,0.0,6.8,Jack Fisk,William D. Wittliff,Sissy Spacek,Drama,1981,1.0,0.0,0.0
+All Night Long,R,87.0,0.0,5.5,Jean-Claude Tramont,W.D. Richter,Gene Hackman,Comedy,1981,1.0,0.0,0.0
+The Devil and Max Devlin,PG,96.0,0.0,5.0,Steven Hilliard Stern,Mary Rodgers,Elliott Gould,Comedy,1981,1.0,0.0,0.0
+Longshot,TV-PG,100.0,0.0,5.1,E.W. Swackhamer,Barry Rosen,Leif Garrett,Comedy,1981,1.0,0.0,0.0
+Comin' at Ya!,R,91.0,0.0,5.1,Ferdinando Baldi,Wolfe Lowenthal,Tony Anthony,Western,1981,1.0,0.0,0.0
+An Officer and a Gentleman,R,124.0,0.0,7.0,Taylor Hackford,Douglas Day Stewart,Richard Gere,Drama,1982,1.0,0.0,0.0
+Annie,PG,127.0,0.0,6.6,John Huston,Carol Sobieski,Aileen Quinn,Comedy,1982,1.0,0.0,0.0
+Sophie's Choice,R,150.0,0.0,7.6,Alan J. Pakula,William Styron,Meryl Streep,Drama,1983,1.0,0.0,0.0
+Gandhi,PG,191.0,0.0,8.0,Richard Attenborough,John Briley,Ben Kingsley,Biography,1983,1.0,0.0,0.0
+The King of Comedy,PG,109.0,0.0,7.8,Martin Scorsese,Paul D. Zimmerman,Robert De Niro,Comedy,1983,1.0,0.0,0.0
+Rocky III,PG,99.0,0.0,6.8,Sylvester Stallone,Sylvester Stallone,Sylvester Stallone,Drama,1982,1.0,0.0,0.0
+Fanny and Alexander,R,188.0,0.0,8.1,Ingmar Bergman,Ingmar Bergman,Bertil Guve,Drama,1982,1.0,0.0,0.0
+Firefox,PG,136.0,0.0,6.0,Clint Eastwood,Alex Lasker,Clint Eastwood,Action,1982,1.0,0.0,0.0
+Halloween III: Season of the Witch,R,98.0,0.0,5.0,Tommy Lee Wallace,Tommy Lee Wallace,Tom Atkins,Horror,1982,1.0,0.0,0.0
+The Verdict,R,129.0,0.0,7.7,Sidney Lumet,Barry Reed,Paul Newman,Drama,1982,1.0,0.0,0.0
+The Best Little Whorehouse in Texas,R,114.0,0.0,6.0,Colin Higgins,Larry L. King,Burt Reynolds,Comedy,1982,1.0,0.0,0.0
+The Entity,R,125.0,0.0,6.7,Sidney J. Furie,Frank De Felitta,Barbara Hershey,Drama,1983,1.0,0.0,0.0
+The Toy,PG,102.0,0.0,5.8,Richard Donner,Francis Veber,Richard Pryor,Comedy,1982,1.0,0.0,0.0
+The House on Sorority Row,R,91.0,0.0,6.0,Mark Rosman,Mark Rosman,Kate McNeil,Horror,1983,1.0,0.0,0.0
+Death Wish II,R,89.0,0.0,6.0,Michael Winner,David Engelbach,Charles Bronson,Action,1982,1.0,0.0,0.0
+Personal Best,R,128.0,0.0,6.3,Robert Towne,Robert Towne,Mariel Hemingway,Drama,1982,1.0,0.0,0.0
+The Seduction,R,104.0,0.0,4.9,David Schmoeller,David Schmoeller,Morgan Fairchild,Thriller,1982,1.0,0.0,0.0
+Time Walker,PG,83.0,0.0,3.6,Tom Kennedy,Jason Williams,Ben Murphy,Horror,1982,1.0,0.0,0.0
+Tempest,PG,140.0,0.0,6.5,Paul Mazursky,Paul Mazursky,John Cassavetes,Comedy,1982,1.0,0.0,0.0
+My Favorite Year,PG,92.0,0.0,7.4,Richard Benjamin,Norman Steinberg,Peter O'Toole,Comedy,1982,1.0,0.0,0.0
+A Midsummer Night's Sex Comedy,PG,88.0,0.0,6.6,Woody Allen,Woody Allen,Woody Allen,Comedy,1982,1.0,0.0,0.0
+A Little Sex,R,95.0,0.0,4.9,Bruce Paltrow,Robert De Laurentiis,Tim Matheson,Comedy,1982,1.0,0.0,0.0
+Split Image,R,110.0,0.0,6.5,Ted Kotcheff,Scott Spencer,Michael O'Keefe,Drama,1982,1.0,0.0,0.0
+The Challenge,R,108.0,0.0,6.3,John Frankenheimer,Richard Maxwell,Scott Glenn,Action,1982,1.0,0.0,0.0
+Wrong Is Right,R,117.0,0.0,5.7,Richard Brooks,Charles McCarry,Sean Connery,Comedy,1982,1.0,0.0,0.0
+Forced Vengeance,R,90.0,0.0,5.6,James Fargo,Franklin Thompson,Chuck Norris,Action,1982,1.0,0.0,0.0
+Five Days One Summer,PG,108.0,0.0,6.1,Fred Zinnemann,Michael Austin,Sean Connery,Drama,1982,1.0,0.0,0.0
+"Yes, Giorgio",PG,110.0,0.0,3.9,Franklin J. Schaffner,Anne Piper,Luciano Pavarotti,Comedy,1982,1.0,0.0,0.0
+Fighting Back,R,98.0,0.0,6.1,Lewis Teague,Thomas Hedley Jr.,Tom Skerritt,Action,1982,1.0,0.0,0.0
+Kamikaze 89,Not Rated,106.0,0.0,5.8,Wolf Gremm,Robert Katz,Rainer Werner Fassbinder,Sci-Fi,1982,1.0,0.0,0.0
+Heidi's Song,G,94.0,0.0,6.3,Robert Taylor,Joseph Barbera,Lorne Greene,Animation,1982,1.0,0.0,0.0
+Love Child,R,96.0,0.0,5.7,Larry Peerce,Anne Gerard,Amy Madigan,Crime,1982,1.0,0.0,0.0
+Boardinghouse,R,98.0,0.0,3.8,John Wintergate,John Wintergate,John Wintergate,Comedy,1983,1.0,0.0,0.0
+Experience Preferred... But Not Essential,PG,80.0,0.0,7.0,Peter Duffell,June Roberts,Elizabeth Edmonds,Drama,1982,1.0,0.0,0.0
+The Personals,PG,90.0,0.0,6.7,Peter Markle,Peter Markle,Bill Schoppert,Comedy,1982,1.0,0.0,0.0
+Trading Places,R,116.0,0.0,7.5,John Landis,Timothy Harris,Eddie Murphy,Comedy,1983,1.0,0.0,0.0
+Superman III,PG,125.0,0.0,5.0,Richard Lester,Jerry Siegel,Christopher Reeve,Action,1983,1.0,0.0,0.0
+The Big Chill,R,105.0,0.0,7.2,Lawrence Kasdan,Lawrence Kasdan,Tom Berenger,Comedy,1983,1.0,0.0,0.0
+Flashdance,R,95.0,0.0,6.2,Adrian Lyne,Thomas Hedley Jr.,Jennifer Beals,Drama,1983,1.0,0.0,0.0
+Private School,R,89.0,0.0,5.3,Noel Black,Dan Greenburg,Phoebe Cates,Comedy,1983,1.0,0.0,0.0
+Valley Girl,R,99.0,0.0,6.4,Martha Coolidge,Andrew Lane,Nicolas Cage,Comedy,1983,1.0,0.0,0.0
+Videodrome,R,87.0,0.0,7.2,David Cronenberg,David Cronenberg,James Woods,Horror,1983,1.0,0.0,0.0
+Twilight Zone: The Movie,PG,101.0,0.0,6.5,Directors,John Landis,Dan Aykroyd,Horror,1983,1.0,0.0,0.0
+Cujo,R,93.0,0.0,6.1,Lewis Teague,Stephen King,Dee Wallace,Horror,1983,1.0,0.0,0.0
+Yentl,PG,133.0,0.0,6.6,Barbra Streisand,Jack Rosenthal,Barbra Streisand,Drama,1984,1.0,0.0,0.0
+The Meaning of Life,R,107.0,0.0,7.5,Terry Jones,Graham Chapman,John Cleese,Comedy,1983,1.0,0.0,0.0
+Hot Dog... The Movie,R,96.0,0.0,5.0,Peter Markle,Mike Marvin,David Naughton,Comedy,1984,1.0,0.0,0.0
+Porky's II: The Next Day,R,98.0,0.0,5.0,Bob Clark,Roger Swaybill,Dan Monahan,Comedy,1983,1.0,0.0,0.0
+Tender Mercies,PG,92.0,0.0,7.4,Bruce Beresford,Horton Foote,Robert Duvall,Drama,1983,1.0,0.0,0.0
+Gorky Park,R,128.0,0.0,6.7,Michael Apted,Martin Cruz Smith,William Hurt,Crime,1983,1.0,0.0,0.0
+Lone Wolf McQuade,PG,107.0,0.0,6.3,Steve Carver,B.J. Nelson,Chuck Norris,Action,1983,1.0,0.0,0.0
+The Man with Two Brains,R,93.0,0.0,6.4,Carl Reiner,George Gipe,Steve Martin,Comedy,1983,1.0,0.0,0.0
+Stroker Ace,PG,96.0,0.0,4.9,Hal Needham,William Neely,Burt Reynolds,Action,1983,1.0,0.0,0.0
+Rock & Rule,PG,77.0,0.0,6.5,Clive Smith,Patrick Loubert,Don Francks,Animation,1987,1.0,0.0,0.0
+The Osterman Weekend,R,103.0,0.0,5.9,Sam Peckinpah,Robert Ludlum,Rutger Hauer,Action,1983,1.0,0.0,0.0
+Zelig,PG,79.0,0.0,7.7,Woody Allen,Woody Allen,Woody Allen,Comedy,1983,1.0,0.0,0.0
+Eureka,R,130.0,0.0,6.0,Nicolas Roeg,Marshall Houts,Gene Hackman,Drama,1983,1.0,0.0,0.0
+The Wicked Lady,R,98.0,0.0,4.7,Michael Winner,Leslie Arliss,Faye Dunaway,Adventure,1983,1.0,0.0,0.0
+Of Unknown Origin,R,88.0,0.0,6.1,George P. Cosmatos,Chauncey G. Parker III,Peter Weller,Horror,1983,1.0,0.0,0.0
+D.C. Cab,R,100.0,0.0,5.5,Joel Schumacher,Topper Carew,Max Gail,Action,1983,1.0,0.0,0.0
+Beyond the Limit,R,104.0,0.0,5.7,John Mackenzie,Graham Greene,Michael Caine,Drama,1983,1.0,0.0,0.0
+The Dresser,PG,118.0,0.0,7.6,Peter Yates,Ronald Harwood,Albert Finney,Drama,1983,1.0,0.0,0.0
+The Lords of Discipline,R,102.0,0.0,6.6,Franc Roddam,Pat Conroy,David Keith,Thriller,1983,1.0,0.0,0.0
+Nightmares,R,99.0,0.0,5.8,Joseph Sargent,Christopher Crowe,Cristina Raines,Horror,1983,1.0,0.0,0.0
+Max Dugan Returns,PG,98.0,0.0,6.6,Herbert Ross,Neil Simon,Jason Robards,Comedy,1983,1.0,0.0,0.0
+Baby It's You,R,105.0,0.0,6.3,John Sayles,Amy Robinson,Rosanna Arquette,Comedy,1983,1.0,0.0,0.0
+Heat and Dust,R,130.0,0.0,6.6,James Ivory,Ruth Prawer Jhabvala,Julie Christie,Drama,1983,1.0,0.0,0.0
+Daniel,R,130.0,0.0,6.6,Sidney Lumet,E.L. Doctorow,Timothy Hutton,Drama,1984,1.0,0.0,0.0
+Heart Like a Wheel,PG,113.0,0.0,6.7,Jonathan Kaplan,Ken Friedman,Bonnie Bedelia,Biography,1983,1.0,0.0,0.0
+Love Letters,R,88.0,0.0,5.9,Amy Holden Jones,Amy Holden Jones,Jamie Lee Curtis,Drama,1984,1.0,0.0,0.0
+The Black Stallion Returns,PG,103.0,0.0,6.0,Robert Dalva,Walter Farley,Kelly Reno,Adventure,1983,1.0,0.0,0.0
+Getting It on,R,96.0,0.0,3.7,William Olsen,William Olsen,Martin Yost,Comedy,1983,1.0,0.0,0.0
+Better Late Than Never,PG,89.0,0.0,5.8,Bryan Forbes,Gwen Davis,David Niven,Comedy,1983,1.0,0.0,0.0
+The Man Who Wasn't There,R,111.0,0.0,3.8,Bruce Malmuth,Stanford Sherman,Steve Guttenberg,Action,1983,1.0,0.0,0.0
+"Man, Woman and Child",PG,99.0,0.0,6.1,Dick Richards,Erich Segal,Martin Sheen,Drama,1983,1.0,0.0,0.0
+Cross Country,R,95.0,0.0,5.4,Paul Lynch,Herbert Kastle,Richard Beymer,Thriller,1983,1.0,0.0,0.0
+The Golden Seal,PG,94.0,0.0,5.3,Frank Zuniga,Donald G. Payne,Steve Railsback,Drama,1983,1.0,0.0,0.0
+The Terminator,R,107.0,0.0,8.0,James Cameron,James Cameron,Arnold Schwarzenegger,Action,1984,1.0,0.0,0.0
+The Karate Kid,PG,126.0,0.0,7.3,John G. Avildsen,Robert Mark Kamen,Ralph Macchio,Action,1984,1.0,0.0,0.0
+Once Upon a Time in America,R,229.0,0.0,8.4,Sergio Leone,Harry Grey,Robert De Niro,Crime,1984,1.0,0.0,0.0
+Body Double,R,114.0,0.0,6.8,Brian De Palma,Robert J. Avrech,Craig Wasson,Crime,1984,1.0,0.0,0.0
+Amadeus,PG,160.0,0.0,8.3,Milos Forman,Peter Shaffer,F. Murray Abraham,Biography,1984,1.0,0.0,0.0
+Beverly Hills Cop,R,105.0,0.0,7.3,Martin Brest,Daniel Petrie Jr.,Eddie Murphy,Action,1984,1.0,0.0,0.0
+Streets of Fire,PG,93.0,0.0,6.7,Walter Hill,Walter Hill,Michael Paré,Action,1984,1.0,0.0,0.0
+Sixteen Candles,PG,93.0,0.0,7.0,John Hughes,John Hughes,Molly Ringwald,Comedy,1984,1.0,0.0,0.0
+Top Secret!,PG,90.0,0.0,7.2,Jim Abrahams,Jim Abrahams,Val Kilmer,Comedy,1984,1.0,0.0,0.0
+Blood Simple,R,99.0,0.0,7.6,Joel Coen,Joel Coen,John Getz,Crime,1985,1.0,0.0,0.0
+Hardbodies,R,88.0,0.0,4.9,Mark Griffiths,Steve Greene,Grant Cramer,Comedy,1984,1.0,0.0,0.0
+Against All Odds,R,128.0,0.0,5.9,Taylor Hackford,Eric Hughes,Rachel Ward,Action,1984,1.0,0.0,0.0
+The Bounty,PG,132.0,0.0,7.0,Roger Donaldson,Robert Bolt,Mel Gibson,Adventure,1984,1.0,0.0,0.0
+C.H.U.D.,R,88.0,0.0,5.6,Douglas Cheek,Parnell Hall,John Heard,Horror,1984,1.0,0.0,0.0
+The Woman in Red,PG-13,87.0,0.0,6.0,Gene Wilder,Jean-Loup Dabadie,Gene Wilder,Comedy,1984,1.0,0.0,0.0
+Star Trek III: The Search for Spock,PG,105.0,0.0,6.7,Leonard Nimoy,Gene Roddenberry,William Shatner,Action,1984,1.0,0.0,0.0
+2010: the Year We Make Contact,PG,116.0,0.0,6.8,Peter Hyams,Arthur C. Clarke,Roy Scheider,Adventure,1984,1.0,0.0,0.0
+Crimes of Passion,R,107.0,0.0,6.4,Ken Russell,Barry Sandler,Kathleen Turner,Drama,1984,1.0,0.0,0.0
+The Hotel New Hampshire,R,109.0,0.0,6.0,Tony Richardson,John Irving,Rob Lowe,Comedy,1984,1.0,0.0,0.0
+Missing in Action,R,101.0,0.0,5.5,Joseph Zito,Arthur Silver,Chuck Norris,Action,1984,1.0,0.0,0.0
+Falling in Love,PG-13,106.0,0.0,6.5,Ulu Grosbard,Michael Cristofer,Robert De Niro,Drama,1984,1.0,0.0,0.0
+Gwendoline,R,87.0,0.0,5.3,Just Jaeckin,Just Jaeckin,Tawny Kitaen,Action,1985,1.0,0.0,0.0
+The Company of Wolves,R,95.0,0.0,6.7,Neil Jordan,Angela Carter,Sarah Patterson,Drama,1985,1.0,0.0,0.0
+"Silent Night, Deadly Night",R,79.0,0.0,5.9,Charles E. Sellier Jr.,Paul Caimi,Lilyan Chauvin,Horror,1984,1.0,0.0,0.0
+The Pope of Greenwich Village,R,121.0,0.0,6.7,Stuart Rosenberg,Vincent Patrick,Eric Roberts,Action,1984,1.0,0.0,0.0
+Where the Boys Are,R,94.0,0.0,4.1,Hy Averback,Stu Krieger,Lisa Hartman,Comedy,1984,1.0,0.0,0.0
+Reckless,R,90.0,0.0,6.3,James Foley,Chris Columbus,Aidan Quinn,Comedy,1984,1.0,0.0,0.0
+Tightrope,R,114.0,0.0,6.3,Richard Tuggle,Richard Tuggle,Clint Eastwood,Crime,1984,1.0,0.0,0.0
+Rhinestone,PG,111.0,0.0,3.9,Bob Clark,Phil Alden Robinson,Sylvester Stallone,Comedy,1984,1.0,0.0,0.0
+Swing Shift,PG,100.0,0.0,5.9,Jonathan Demme,Nancy Dowd,Goldie Hawn,Drama,1984,1.0,0.0,0.0
+Beat Street,PG,105.0,0.0,6.5,Stan Lathan,Steven Hager,Rae Dawn Chong,Drama,1984,1.0,0.0,0.0
+Tank,PG,113.0,0.0,5.8,Marvin J. Chomsky,Dan Gordon,James Garner,Action,1984,1.0,0.0,0.0
+The Warrior and the Sorceress,R,81.0,0.0,4.3,John C. Broderick,John C. Broderick,David Carradine,Adventure,1984,1.0,0.0,0.0
+Teachers,R,107.0,0.0,6.1,Arthur Hiller,W.R. McKinney,Nick Nolte,Comedy,1984,1.0,0.0,0.0
+Irreconcilable Differences,PG,113.0,0.0,5.8,Charles Shyer,Nancy Meyers,Ryan O'Neal,Comedy,1984,1.0,0.0,0.0
+Iceman,PG,100.0,0.0,6.1,Fred Schepisi,Chip Proser,Timothy Hutton,Drama,1984,1.0,0.0,0.0
+Flashpoint,R,93.0,0.0,6.4,William Tannen,George LaFountaine,Kris Kristofferson,Action,1984,1.0,0.0,0.0
+Broadway Danny Rose,PG,84.0,0.0,7.4,Woody Allen,Woody Allen,Woody Allen,Comedy,1984,1.0,0.0,0.0
+Best Defense,R,94.0,0.0,3.8,Willard Huyck,Robert Grossbach,Dudley Moore,Comedy,1984,1.0,0.0,0.0
+Choose Me,R,106.0,0.0,6.8,Alan Rudolph,Alan Rudolph,Geneviève Bujold,Comedy,1984,1.0,0.0,0.0
+Country,PG,105.0,0.0,6.7,Richard Pearce,William D. Wittliff,Jessica Lange,Drama,1984,1.0,0.0,0.0
+Purple Hearts,R,116.0,0.0,5.8,Sidney J. Furie,Rick Natkin,Ken Wahl,Drama,1984,1.0,0.0,0.0
+Finders Keepers,R,96.0,0.0,5.4,Richard Lester,Charles Dennis,Michael O'Keefe,Comedy,1984,1.0,0.0,0.0
+Kaos,R,187.0,0.0,7.9,Paolo Taviani,Luigi Pirandello,Margarita Lozano,Comedy,1986,1.0,0.0,0.0
+Heartbreakers,R,98.0,0.0,5.9,Bobby Roth,Bobby Roth,Peter Coyote,Drama,1984,1.0,0.0,0.0
+A Sunday in the Country,G,90.0,0.0,7.6,Bertrand Tavernier,Pierre Bost,Louis Ducreux,Drama,1984,1.0,0.0,0.0
+Windy City,R,103.0,0.0,5.8,Armyan Bernstein,Armyan Bernstein,John Shea,Drama,1986,1.0,0.0,0.0
+Lovelines,R,93.0,0.0,5.3,Rod Amateau,Chip Hand,Greg Bradford,Comedy,1984,1.0,0.0,0.0
+The Bear,PG,110.0,0.0,6.1,Richard C. Sarafian,Michael Kane,Gary Busey,Biography,1984,1.0,0.0,0.0
+Clue,PG,94.0,0.0,7.3,John Hughes,John Landis,Eileen Brennan,Comedy,1985,1.0,0.0,0.0
+Cocoon,PG-13,117.0,0.0,6.7,George P. Cosmatos,Tom Benedek,Don Ameche,Comedy,1985,1.0,0.0,0.0
+Fright Night,R,106.0,0.0,7.1,Joe Dante,Tom Holland,Chris Sarandon,Fantasy,1985,1.0,0.0,0.0
+Mad Max Beyond Thunderdome,PG-13,107.0,0.0,6.3,Martin Scorsese,Terry Hayes,Mel Gibson,Action,1985,1.0,0.0,0.0
+Lifeforce,R,101.0,0.0,6.2,Tim Burton,Colin Wilson,Steve Railsback,Action,1985,1.0,0.0,0.0
+Just One of the Guys,PG-13,100.0,0.0,6.5,Amy Heckerling,Dennis Feldman,Joyce Hyser,Comedy,1985,1.0,0.0,0.0
+The Black Cauldron,PG,80.0,0.0,6.4,Danny Steinmann,Lloyd Alexander,Grant Bardsley,Animation,1985,1.0,0.0,0.0
+Friday the 13th: A New Beginning,R,92.0,0.0,4.8,Andrey Konchalovskiy,Martin Kitrosser,Melanie Kinnaman,Horror,1985,1.0,0.0,0.0
+Runaway Train,R,111.0,0.0,7.2,Stuart Gordon,Djordje Milicevic,Jon Voight,Action,1986,1.0,0.0,0.0
+Tuff Turf,R,112.0,0.0,6.1,Nicholas Meyer,Jette Rinck,James Spader,Action,1985,1.0,0.0,0.0
+Volunteers,R,107.0,0.0,5.5,Lewis Teague,Keith Critchlow,Tom Hanks,Adventure,1985,1.0,0.0,0.0
+Once Bitten,PG-13,94.0,0.0,5.5,George Bowers,Dimitri Villard,Lauren Hutton,Comedy,1985,1.0,0.0,0.0
+White Nights,PG-13,136.0,0.0,6.7,Mel Damski,James Goldman,Mikhail Baryshnikov,Drama,1985,1.0,0.0,0.0
+My Beautiful Laundrette,R,97.0,0.0,6.9,Barry Levinson,Hanif Kureishi,Saeed Jaffrey,Comedy,1986,1.0,0.0,0.0
+Young Sherlock Holmes,PG-13,109.0,0.0,6.8,Joyce Chopra,Arthur Conan Doyle,Nicholas Rowe,Adventure,1985,1.0,0.0,0.0
+Prizzi's Honor,R,130.0,0.0,6.7,Geoff Murphy,Richard Condon,Jack Nicholson,Comedy,1985,1.0,0.0,0.0
+The Quiet Earth,R,91.0,0.0,6.8,Jûzô Itami,Craig Harrison,Bruno Lawrence,Drama,1985,1.0,0.0,0.0
+Tampopo,Not Rated,114.0,0.0,8.0,William Malone,Jûzô Itami,Ken Watanabe,Comedy,1987,1.0,0.0,0.0
+The Holcroft Covenant,R,112.0,0.0,5.7,John Frankenheimer,Robert Ludlum,Michael Caine,Action,1985,1.0,0.0,0.0
+Desert Hearts,R,91.0,0.0,7.0,Donna Deitch,Jane Rule,Helen Shaver,Drama,1986,1.0,0.0,0.0
+The Heavenly Kid,PG-13,90.0,0.0,6.3,Cary Medoway,Cary Medoway,Lewis Smith,Comedy,1985,1.0,0.0,0.0
+The Man with One Red Shoe,PG,92.0,0.0,5.7,Stan Dragoti,Francis Veber,Tom Hanks,Comedy,1985,1.0,0.0,0.0
+My Life as a Dog,Unrated,101.0,0.0,7.6,Lasse Hallström,Reidar Jönsson,Anton Glanzelius,Drama,1987,1.0,0.0,0.0
+Tomboy,R,91.0,0.0,4.7,Herb Freed,Ben Zelig,Betsy Russell,Comedy,1985,1.0,0.0,0.0
+Invasion U.S.A.,R,107.0,0.0,5.5,Joseph Zito,James Bruner,Chuck Norris,Action,1985,1.0,0.0,0.0
+Subway,R,104.0,0.0,6.6,Luc Besson,Luc Besson,Christopher Lambert,Thriller,1985,1.0,0.0,0.0
+Moving Violations,PG-13,90.0,0.0,5.7,Neal Israel,Neal Israel,John Murray,Comedy,1985,1.0,0.0,0.0
+Nomads,R,91.0,0.0,5.3,John McTiernan,John McTiernan,Lesley-Anne Down,Horror,1986,1.0,0.0,0.0
+Code of Silence,R,101.0,0.0,6.1,Andrew Davis,Michael Butler,Chuck Norris,Action,1985,1.0,0.0,0.0
+Crimewave,PG-13,83.0,0.0,5.7,Sam Raimi,Ethan Coen,Louise Lasser,Comedy,1986,1.0,0.0,0.0
+The Slugger's Wife,PG-13,105.0,0.0,4.5,Hal Ashby,Neil Simon,Michael O'Keefe,Comedy,1985,1.0,0.0,0.0
+Avenging Angel,R,93.0,0.0,4.8,Robert Vincent O'Neil,Robert Vincent O'Neil,Betsy Russell,Action,1985,1.0,0.0,0.0
+The Adventures of Mark Twain,G,86.0,0.0,7.4,Will Vinton,Susan Shadburne,James Whitmore,Animation,1985,1.0,0.0,0.0
+The Bride,PG-13,118.0,0.0,5.3,Franc Roddam,Lloyd Fonvielle,Sting,Fantasy,1985,1.0,0.0,0.0
+Morons from Outer Space,PG-13,90.0,0.0,4.5,Mike Hodges,Griff Rhys Jones,Mel Smith,Comedy,1985,1.0,0.0,0.0
+The Official Story,Not Rated,112.0,0.0,7.8,Luis Puenzo,Aída Bortnik,Norma Aleandro,Drama,1985,1.0,0.0,0.0
+Radioactive Dreams,R,98.0,0.0,5.6,Albert Pyun,Albert Pyun,John Stockwell,Action,1986,1.0,0.0,0.0
+Twice in a Lifetime,R,111.0,0.0,6.5,Bud Yorkin,Colin Welland,Gene Hackman,Drama,1985,1.0,0.0,0.0
+Water,PG-13,115.0,0.0,6.1,Dick Clement,Dick Clement,Michael Caine,Adventure,1986,1.0,0.0,0.0
+Fever Pitch,R,96.0,0.0,4.1,Richard Brooks,Richard Brooks,Ryan O'Neal,Drama,1985,1.0,0.0,0.0
+Dreamchild,PG,94.0,0.0,6.8,Gavin Millar,Dennis Potter,Coral Browne,Biography,1985,1.0,0.0,0.0
+Bad Medicine,PG-13,98.0,0.0,4.6,Harvey Miller,Steven Horowitz,Steve Guttenberg,Comedy,1985,1.0,0.0,0.0
+Three Men and a Cradle,PG-13,106.0,0.0,6.6,Coline Serreau,Coline Serreau,Roland Giraud,Comedy,1986,1.0,0.0,0.0
+Code Name: Emerald,PG,95.0,0.0,5.9,Jonathan Sanger,Ronald Bass,Ed Harris,Action,1985,1.0,0.0,0.0
+Colonel Redl,R,144.0,0.0,7.5,István Szabó,István Szabó,Klaus Maria Brandauer,Biography,1985,1.0,0.0,0.0
+Wuthering Heights,Not Rated,130.0,0.0,6.5,Jacques Rivette,Pascal Bonitzer,Fabienne Babe,Drama,1985,1.0,0.0,0.0
+Top Gun,PG,110.0,0.0,6.9,Tony Scott,Jim Cash,Tom Cruise,Action,1986,1.0,0.0,0.0
+Stand by Me,R,89.0,0.0,8.1,Rob Reiner,Stephen King,Wil Wheaton,Adventure,1986,1.0,0.0,0.0
+Labyrinth,PG,101.0,0.0,7.4,Jim Henson,Dennis Lee,David Bowie,Adventure,1986,1.0,0.0,0.0
+Platoon,R,120.0,0.0,8.1,Oliver Stone,Oliver Stone,Charlie Sheen,Drama,1987,1.0,0.0,0.0
+Little Shop of Horrors,PG-13,94.0,0.0,7.0,Frank Oz,Howard Ashman,Rick Moranis,Comedy,1986,1.0,0.0,0.0
+The Golden Child,PG-13,94.0,0.0,6.0,Michael Ritchie,Dennis Feldman,Eddie Murphy,Action,1986,1.0,0.0,0.0
+The Name of the Rose,R,130.0,0.0,7.7,Jean-Jacques Annaud,Umberto Eco,Sean Connery,Crime,1986,1.0,0.0,0.0
+The Color of Money,R,119.0,0.0,7.0,Martin Scorsese,Walter Tevis,Paul Newman,Drama,1986,1.0,0.0,0.0
+The Mission,PG,125.0,0.0,7.4,Roland Joffé,Robert Bolt,Robert De Niro,Adventure,1986,1.0,0.0,0.0
+Working Girls,Unrated,93.0,0.0,6.6,Lizzie Borden,Lizzie Borden,Louise Smith,Drama,1987,1.0,0.0,0.0
+Youngblood,R,110.0,0.0,6.2,Peter Markle,Peter Markle,Rob Lowe,Drama,1986,1.0,0.0,0.0
+Iron Eagle,PG-13,117.0,0.0,5.5,Sidney J. Furie,Kevin Alyn Elders,Louis Gossett Jr.,Action,1986,1.0,0.0,0.0
+From Beyond,R,85.0,0.0,6.7,Stuart Gordon,H.P. Lovecraft,Jeffrey Combs,Horror,1986,1.0,0.0,0.0
+Sid and Nancy,R,112.0,0.0,7.0,Alex Cox,Alex Cox,Gary Oldman,Biography,1986,1.0,0.0,0.0
+Henry: Portrait of a Serial Killer,Unrated,83.0,0.0,7.0,John McNaughton,Richard Fire,Michael Rooker,Biography,1990,1.0,0.0,0.0
+SpaceCamp,PG,107.0,0.0,5.7,Harry Winer,Clifford Green,Kate Capshaw,Adventure,1986,1.0,0.0,0.0
+Running Scared,R,107.0,0.0,6.5,Peter Hyams,Gary DeVore,Gregory Hines,Action,1986,1.0,0.0,0.0
+Down by Law,R,107.0,0.0,7.7,Jim Jarmusch,Jim Jarmusch,Tom Waits,Comedy,1986,1.0,0.0,0.0
+Poltergeist II: the Other Side,PG-13,91.0,0.0,5.7,Brian Gibson,Mark Victor,JoBeth Williams,Horror,1986,1.0,0.0,0.0
+Allan Quatermain and the Lost City of Gold,PG,99.0,0.0,4.6,Gary Nelson,H. Rider Haggard,Richard Chamberlain,Action,1987,1.0,0.0,0.0
+Lady Jane,PG-13,136.0,0.0,7.1,Trevor Nunn,Chris Bryant,Helena Bonham Carter,Biography,1986,1.0,0.0,0.0
+F/X,R,109.0,0.0,6.7,Robert Mandel,Robert T. Megginson,Bryan Brown,Action,1986,1.0,0.0,0.0
+King Kong Lives,PG-13,105.0,0.0,3.9,John Guillermin,Ronald Shusett,Brian Kerwin,Action,1986,1.0,0.0,0.0
+Trick or Treat,R,98.0,0.0,5.8,Charles Martin Smith,Rhet Topham,Marc Price,Comedy,1986,1.0,0.0,0.0
+True Stories,PG,89.0,0.0,7.2,David Byrne,Stephen Tobolowsky,David Byrne,Comedy,1986,1.0,0.0,0.0
+Deadly Friend,R,91.0,0.0,5.6,Wes Craven,Diana Henstell,Matthew Labyorteaux,Drama,1986,1.0,0.0,0.0
+Firewalker,PG,105.0,0.0,5.1,J. Lee Thompson,Robert Gosnell,Chuck Norris,Action,1986,1.0,0.0,0.0
+Clockwise,PG,96.0,0.0,6.6,Christopher Morahan,Michael Frayn,John Cleese,Comedy,1986,1.0,0.0,0.0
+American Anthem,PG-13,102.0,0.0,4.8,Albert Magnoli,Evan Archerd,Mitchell Gaylord,Drama,1986,1.0,0.0,0.0
+Meatballs III: Summer Job,R,96.0,0.0,3.5,George Mendeluk,Janis Allen,Sally Kellerman,Comedy,1987,1.0,0.0,0.0
+A Fine Mess,PG,90.0,0.0,4.7,Blake Edwards,Blake Edwards,Ted Danson,Action,1986,1.0,0.0,0.0
+Ginger and Fred,PG-13,125.0,0.0,7.3,Federico Fellini,Federico Fellini,Marcello Mastroianni,Comedy,1986,1.0,0.0,0.0
+Violets Are Blue...,PG-13,88.0,0.0,5.9,Jack Fisk,Naomi Foner,Sissy Spacek,Drama,1986,1.0,0.0,0.0
+Parting Glances,Not Rated,90.0,0.0,7.2,Bill Sherwood,Bill Sherwood,John Bolger,Drama,1986,1.0,0.0,0.0
+"'night, Mother",PG-13,96.0,0.0,7.6,Tom Moore,Marsha Norman,Sissy Spacek,Drama,1987,1.0,0.0,0.0
+Blue City,R,83.0,0.0,4.4,Michelle Manning,Ross Macdonald,Judd Nelson,Action,1986,1.0,0.0,0.0
+Dangerously Close,R,95.0,0.0,5.6,Albert Pyun,Scott Fields,John Stockwell,Action,1986,1.0,0.0,0.0
+Nutcracker,G,89.0,0.0,7.2,Carroll Ballard,Kent Stowell,Hugh Duncan Bigney Mitchell,Family,1986,1.0,0.0,0.0
+Oviri,R,90.0,0.0,6.0,Henning Carlsen,Henning Carlsen,Donald Sutherland,Biography,1986,1.0,0.0,0.0
+Armed Response,R,86.0,0.0,5.0,Fred Olen Ray,T.L. Lankford,David Carradine,Action,1986,1.0,0.0,0.0
+Bullies,R,90.0,0.0,5.3,Paul Lynch,John Sheppard,Jonathan Crombie,Action,1986,1.0,0.0,0.0
+Native Son,PG,111.0,0.0,5.8,Jerrold Freedman,Richard Wesley,Victor Love,Drama,1986,1.0,0.0,0.0
+Nobody's Fool,PG-13,107.0,0.0,5.5,Evelyn Purcell,Beth Henley,Rosanna Arquette,Comedy,1986,1.0,0.0,0.0
+Full Metal Jacket,R,116.0,0.0,8.3,Stanley Kubrick,Stanley Kubrick,Matthew Modine,Drama,1987,1.0,0.0,0.0
+Predator,R,107.0,0.0,7.8,John McTiernan,Jim Thomas,Arnold Schwarzenegger,Action,1987,1.0,0.0,0.0
+The Untouchables,R,119.0,0.0,7.9,Brian De Palma,David Mamet,Kevin Costner,Crime,1987,1.0,0.0,0.0
+Spaceballs,PG,96.0,0.0,7.1,Mel Brooks,Mel Brooks,Mel Brooks,Adventure,1987,1.0,0.0,0.0
+Lethal Weapon,R,109.0,0.0,7.6,Richard Donner,Shane Black,Mel Gibson,Action,1987,1.0,0.0,0.0
+Near Dark,R,94.0,0.0,7.0,Kathryn Bigelow,Kathryn Bigelow,Adrian Pasdar,Action,1988,1.0,0.0,0.0
+Hellraiser,R,94.0,0.0,7.0,Clive Barker,Clive Barker,Andrew Robinson,Horror,1987,1.0,0.0,0.0
+Empire of the Sun,PG,153.0,0.0,7.7,Steven Spielberg,Tom Stoppard,Christian Bale,Action,1987,1.0,0.0,0.0
+The Witches of Eastwick,R,118.0,0.0,6.6,George Miller,John Updike,Jack Nicholson,Comedy,1987,1.0,0.0,0.0
+Jaws: the Revenge,PG-13,89.0,0.0,3.0,Joseph Sargent,Peter Benchley,Lorraine Gary,Adventure,1987,1.0,0.0,0.0
+Wall Street,R,126.0,0.0,7.4,Oliver Stone,Stanley Weiser,Charlie Sheen,Crime,1987,1.0,0.0,0.0
+"Good Morning, Vietnam",R,121.0,0.0,7.3,Barry Levinson,Mitch Markowitz,Robin Williams,Biography,1988,1.0,0.0,0.0
+Overboard,PG,112.0,0.0,6.9,Garry Marshall,Leslie Dixon,Goldie Hawn,Comedy,1987,1.0,0.0,0.0
+La Bamba,PG-13,108.0,0.0,6.9,Luis Valdez,Luis Valdez,Lou Diamond Phillips,Biography,1987,1.0,0.0,0.0
+Revenge of the Nerds II: Nerds in Paradise,PG-13,88.0,0.0,5.1,Joe Roth,Tim Metcalfe,Robert Carradine,Comedy,1987,1.0,0.0,0.0
+Wings of Desire,PG-13,128.0,0.0,8.0,Wim Wenders,Wim Wenders,Bruno Ganz,Drama,1988,1.0,0.0,0.0
+Maurice,R,140.0,0.0,7.7,James Ivory,E.M. Forster,James Wilby,Drama,1987,1.0,0.0,0.0
+The Stepfather,R,89.0,0.0,6.8,Joseph Ruben,Carolyn Lefcourt,Terry O'Quinn,Horror,1987,1.0,0.0,0.0
+*batteries not included,PG,106.0,0.0,6.7,Matthew Robbins,Mick Garris,Hume Cronyn,Comedy,1987,1.0,0.0,0.0
+Throw Momma from the Train,PG-13,88.0,0.0,6.3,Danny DeVito,Stu Silver,Danny DeVito,Comedy,1987,1.0,0.0,0.0
+Aria,R,90.0,0.0,5.8,Directors,Robert Altman,John Hurt,Comedy,1987,1.0,0.0,0.0
+The Bedroom Window,R,112.0,0.0,6.4,Curtis Hanson,Anne Holden,Steve Guttenberg,Crime,1987,1.0,0.0,0.0
+Maid to Order,PG,93.0,0.0,5.5,Amy Holden Jones,Amy Holden Jones,Ally Sheedy,Fantasy,1987,1.0,0.0,0.0
+No Man's Land,R,106.0,0.0,6.1,Peter Werner,Dick Wolf,Charlie Sheen,Crime,1987,1.0,0.0,0.0
+Ishtar,PG-13,107.0,0.0,4.5,Elaine May,Elaine May,Warren Beatty,Action,1987,1.0,0.0,0.0
+Bagdad Cafe,PG,95.0,0.0,7.4,Percy Adlon,Eleonore Adlon,Marianne Sägebrecht,Comedy,1988,1.0,0.0,0.0
+North Shore,PG,96.0,0.0,6.5,William Phelps,William Phelps,Matt Adler,Action,1987,1.0,0.0,0.0
+Back to the Beach,PG,92.0,0.0,5.9,Lyndall Hobbs,James Komack,Frankie Avalon,Comedy,1987,1.0,0.0,0.0
+Someone to Watch Over Me,R,106.0,0.0,6.1,Ridley Scott,Howard Franklin,Tom Berenger,Crime,1987,1.0,0.0,0.0
+White Water Summer,PG,90.0,0.0,6.2,Jeff Bleckner,Manya Starr,Kevin Bacon,Adventure,1987,1.0,0.0,0.0
+Best Seller,R,95.0,0.0,6.5,John Flynn,Larry Cohen,James Woods,Action,1987,1.0,0.0,0.0
+A Month in the Country,PG,96.0,0.0,6.9,Pat O'Connor,Simon Gray,Colin Firth,Drama,1987,1.0,0.0,0.0
+Tin Men,R,112.0,0.0,6.6,Barry Levinson,Barry Levinson,Richard Dreyfuss,Comedy,1987,1.0,0.0,0.0
+Gandahar,PG,78.0,0.0,7.1,René Laloux,René Laloux,Glenn Close,Animation,1989,1.0,0.0,0.0
+The House on Carroll Street,PG,101.0,0.0,6.1,Peter Yates,Walter Bernstein,Kelly McGillis,Thriller,1987,1.0,0.0,0.0
+Prick Up Your Ears,R,105.0,0.0,7.3,Stephen Frears,John Lahr,Gary Oldman,Biography,1987,1.0,0.0,0.0
+Slam Dance,R,92.0,0.0,5.3,Wayne Wang,Don Keith Opper,Tom Hulce,Crime,1987,1.0,0.0,0.0
+The Sicilian,R,115.0,0.0,5.4,Michael Cimino,Mario Puzo,Christopher Lambert,Action,1987,1.0,0.0,0.0
+Creepozoids,R,72.0,0.0,4.0,David DeCoteau,Dave Eisenstark,Linnea Quigley,Horror,1987,1.0,0.0,0.0
+The Outing,R,87.0,0.0,5.1,Tom Daley,Warren Chaney,Deborah Winters,Horror,1987,1.0,0.0,0.0
+Nightflyers,R,89.0,0.0,4.3,Robert Collector,George R.R. Martin,Catherine Mary Stewart,Horror,1988,1.0,0.0,0.0
+Fatal Beauty,R,104.0,0.0,5.4,Tom Holland,Bill Svanoe,Whoopi Goldberg,Action,1987,1.0,0.0,0.0
+Siesta,R,97.0,0.0,5.6,Mary Lambert,Patrice Chaplin,Ellen Barkin,Drama,1987,1.0,0.0,0.0
+Hot Pursuit,PG-13,93.0,0.0,5.8,Steven Lisberger,Steven Lisberger,John Cusack,Comedy,1987,1.0,0.0,0.0
+The Dead,PG,83.0,0.0,7.3,John Huston,James Joyce,Anjelica Huston,Drama,1987,1.0,0.0,0.0
+Cross My Heart,R,90.0,0.0,5.7,Armyan Bernstein,Armyan Bernstein,Martin Short,Comedy,1987,1.0,0.0,0.0
+Return to Horror High,R,95.0,0.0,4.3,Bill Froehlich,Bill Froehlich,Lori Lethin,Comedy,1987,1.0,0.0,0.0
+Straight to Hell,R,86.0,0.0,5.7,Alex Cox,Alex Cox,Sy Richardson,Action,1987,1.0,0.0,0.0
+Promised Land,R,102.0,0.0,5.7,Michael Hoffman,Michael Hoffman,Jason Gedrick,Drama,1988,1.0,0.0,0.0
+"No Retreat, No Surrender 2",R,92.0,0.0,5.1,Corey Yuen,Maria Elena Cellino,Loren Avedon,Adventure,1989,1.0,0.0,0.0
+China Girl,R,90.0,0.0,6.2,Abel Ferrara,Nicholas St. John,James Russo,Crime,1987,1.0,0.0,0.0
+The Squeeze,PG-13,101.0,0.0,4.7,Roger Young,Daniel Taplitz,Michael Keaton,Action,1987,1.0,0.0,0.0
+In the Mood,PG-13,98.0,0.0,6.2,Phil Alden Robinson,Robert Kosberg,Patrick Dempsey,Comedy,1987,1.0,0.0,0.0
+Square Dance,PG-13,112.0,0.0,5.9,Daniel Petrie,Alan Hines,Jason Robards,Drama,1988,1.0,0.0,0.0
+Disorderlies,PG,86.0,0.0,5.0,Michael Schultz,Mark Feldberg,Darren Robinson,Comedy,1987,1.0,0.0,0.0
+The Kindred,R,91.0,0.0,5.6,Stephen Carpenter,Stephen Carpenter,Rod Steiger,Horror,1987,1.0,0.0,0.0
+Russkies,PG,99.0,0.0,5.6,Rick Rosenthal,Sheldon Lettich,Whip Hubley,Drama,1987,1.0,0.0,0.0
+From the Hip,PG,111.0,0.0,6.2,Bob Clark,Bob Clark,Judd Nelson,Comedy,1987,1.0,0.0,0.0
+Million Dollar Mystery,PG,95.0,0.0,5.1,Richard Fleischer,Tim Metcalfe,Eddie Deezen,Comedy,1987,1.0,0.0,0.0
+Akira,R,124.0,0.0,8.0,Katsuhiro Ôtomo,Katsuhiro Ôtomo,Mitsuo Iwata,Animation,1988,1.0,0.0,0.0
+Mississippi Burning,R,128.0,0.0,7.8,Alan Parker,Chris Gerolmo,Gene Hackman,Crime,1989,1.0,0.0,0.0
+Working Girl,R,113.0,0.0,6.8,Mike Nichols,Kevin Wade,Melanie Griffith,Comedy,1988,1.0,0.0,0.0
+Earth Girls Are Easy,PG,100.0,0.0,5.4,Julien Temple,Julie Brown,Geena Davis,Comedy,1989,1.0,0.0,0.0
+Dead Ringers,R,116.0,0.0,7.3,David Cronenberg,David Cronenberg,Jeremy Irons,Drama,1988,1.0,0.0,0.0
+Elvira: Mistress of the Dark,PG-13,96.0,0.0,6.6,James Signorelli,Sam Egan,Cassandra Peterson,Comedy,1988,1.0,0.0,0.0
+The Dead Pool,R,91.0,0.0,6.3,Buddy Van Horn,Harry Julian Fink,Clint Eastwood,Action,1988,1.0,0.0,0.0
+Hellbound: Hellraiser II,R,97.0,0.0,6.5,Tony Randel,Peter Atkins,Doug Bradley,Horror,1988,1.0,0.0,0.0
+Return of the Living Dead II,R,89.0,0.0,5.8,Ken Wiederhorn,Ken Wiederhorn,James Karen,Comedy,1988,1.0,0.0,0.0
+Eight Men Out,PG,119.0,0.0,7.2,John Sayles,Eliot Asinof,John Cusack,Drama,1989,1.0,0.0,0.0
+Stand and Deliver,PG,103.0,0.0,7.3,Ramón Menéndez,Ramón Menéndez,Edward James Olmos,Biography,1988,1.0,0.0,0.0
+Police Academy 5: Assignment: Miami Beach,PG,90.0,0.0,4.6,Alan Myerson,Neal Israel,Bubba Smith,Comedy,1988,1.0,0.0,0.0
+Johnny Be Good,R,91.0,0.0,4.6,Bud S. Smith,Steve Zacharias,Anthony Michael Hall,Comedy,1988,1.0,0.0,0.0
+Short Circuit 2,PG,110.0,0.0,5.7,Kenneth Johnson,S.S. Wilson,Fisher Stevens,Comedy,1988,1.0,0.0,0.0
+The Presidio,R,97.0,0.0,6.0,Peter Hyams,Larry Ferguson,Sean Connery,Action,1988,1.0,0.0,0.0
+Big Business,PG,97.0,0.0,6.4,Jim Abrahams,Dori Pierson,Bette Midler,Comedy,1988,1.0,0.0,0.0
+Monkey Shines,R,113.0,0.0,6.2,George A. Romero,Michael Stewart,Jason Beghe,Drama,1988,1.0,0.0,0.0
+The Seventh Sign,R,97.0,0.0,5.9,Carl Schultz,Ellen Green,Demi Moore,Drama,1988,1.0,0.0,0.0
+Action Jackson,R,96.0,0.0,5.4,Craig R. Baxley,Robert Reneau,Carl Weathers,Action,1988,1.0,0.0,0.0
+Shoot to Kill,R,110.0,0.0,6.8,Roger Spottiswoode,Harv Zimmel,Sidney Poitier,Action,1988,1.0,0.0,0.0
+Betrayed,R,127.0,0.0,6.3,Costa-Gavras,Joe Eszterhas,Debra Winger,Crime,1988,1.0,0.0,0.0
+For Keeps?,PG-13,90.0,0.0,5.9,John G. Avildsen,Tim Kazurinsky,Molly Ringwald,Comedy,1988,1.0,0.0,0.0
+Satisfaction,PG-13,92.0,0.0,4.9,Joan Freeman,Charles Purpura,Justine Bateman,Comedy,1988,1.0,0.0,0.0
+The Milagro Beanfield War,R,117.0,0.0,6.9,Robert Redford,John Nichols,Rubén Blades,Comedy,1988,1.0,0.0,0.0
+Jack's Back,R,97.0,0.0,5.9,Rowdy Herrington,Rowdy Herrington,James Spader,Crime,1988,1.0,0.0,0.0
+And God Created Woman,R,100.0,0.0,4.3,Roger Vadim,R.J. Stewart,Rebecca De Mornay,Comedy,1988,1.0,0.0,0.0
+Little Nikita,PG,98.0,0.0,6.0,Richard Benjamin,John Hill,Sidney Poitier,Drama,1988,1.0,0.0,0.0
+Watchers,R,91.0,0.0,5.4,Jon Hess,Dean R. Koontz,Corey Haim,Action,1988,1.0,0.0,0.0
+Rocket Gibraltar,PG,99.0,0.0,6.6,Daniel Petrie,Amos Poe,Burt Lancaster,Drama,1988,1.0,0.0,0.0
+The Unholy,R,102.0,0.0,5.0,Camilo Vila,Philip Yordan,Ben Cross,Horror,1988,1.0,0.0,0.0
+Not of This Earth,R,81.0,0.0,4.9,Jim Wynorski,R.J. Robertson,Traci Lords,Comedy,1988,1.0,0.0,0.0
+A New Life,PG-13,104.0,0.0,5.8,Alan Alda,Alan Alda,Alan Alda,Comedy,1988,1.0,0.0,0.0
+1969,R,95.0,0.0,5.8,Ernest Thompson,Ernest Thompson,Robert Downey Jr.,Drama,1988,1.0,0.0,0.0
+Chocolat,PG-13,105.0,0.0,7.3,Claire Denis,Claire Denis,Isaach De Bankolé,Drama,1989,1.0,0.0,0.0
+Another Woman,PG,81.0,0.0,7.3,Woody Allen,Woody Allen,Gena Rowlands,Drama,1988,1.0,0.0,0.0
+Sunset,R,102.0,0.0,5.7,Blake Edwards,Rod Amateau,Bruce Willis,Crime,1988,1.0,0.0,0.0
+Crossing Delancey,PG,97.0,0.0,6.9,Joan Micklin Silver,Susan Sandler,Amy Irving,Comedy,1988,1.0,0.0,0.0
+Shakedown,R,97.0,0.0,6.0,James Glickenhaus,James Glickenhaus,Peter Weller,Action,1988,1.0,0.0,0.0
+Everybody's All-American,R,127.0,0.0,6.2,Taylor Hackford,Frank Deford,Jessica Lange,Drama,1988,1.0,0.0,0.0
+The Chocolate War,R,100.0,0.0,6.7,Keith Gordon,Robert Cormier,John Glover,Drama,1988,1.0,0.0,0.0
+Party Line,R,91.0,0.0,4.9,William Webb,Richard Brandes,Richard Hatch,Thriller,1988,1.0,0.0,0.0
+The Kiss,R,101.0,0.0,5.4,Pen Densham,Tom Ropelewski,Joanna Pacula,Drama,1988,1.0,0.0,0.0
+Spellbinder,R,99.0,0.0,5.8,Janet Greek,Tracy Tormé,Tim Daly,Drama,1988,1.0,0.0,0.0
+Criminal Law,R,117.0,0.0,5.7,Martin Campbell,Mark Kasdan,Gary Oldman,Crime,1989,1.0,0.0,0.0
+Platoon Leader,R,97.0,0.0,5.4,Aaron Norris,Andrew Deutsch,Tony Pierce,Drama,1988,1.0,0.0,0.0
+Permanent Record,PG-13,91.0,0.0,6.4,Marisa Silver,Jarre Fees,Alan Boyce,Drama,1988,1.0,0.0,0.0
+Ernest Saves Christmas,PG,95.0,0.0,5.6,John R. Cherry III,Ed Turner,Jim Varney,Comedy,1988,1.0,0.0,0.0
+Feds,PG-13,82.0,0.0,5.4,Daniel Goldberg,Len Blum,Rebecca De Mornay,Comedy,1988,1.0,0.0,0.0
+Moon Over Parador,PG-13,103.0,0.0,6.0,Paul Mazursky,Charles G. Booth,Richard Dreyfuss,Comedy,1988,1.0,0.0,0.0
+Off Limits,R,102.0,0.0,6.2,Christopher Crowe,Christopher Crowe,Willem Dafoe,Action,1988,1.0,0.0,0.0
+Apartment Zero,R,124.0,0.0,7.0,Martin Donovan,Martin Donovan,Hart Bochner,Drama,1989,1.0,0.0,0.0
+The Good Mother,R,103.0,0.0,5.7,Leonard Nimoy,Michael Bortman,Diane Keaton,Drama,1988,1.0,0.0,0.0
+Batman,PG-13,126.0,0.0,7.5,Tim Burton,Bob Kane,Michael Keaton,Action,1989,1.0,0.0,0.0
+Bill & Ted's Excellent Adventure,PG,90.0,0.0,7.0,Stephen Herek,Chris Matheson,Keanu Reeves,Adventure,1989,1.0,0.0,0.0
+The Little Mermaid,G,83.0,0.0,7.6,Ron Clements,John Musker,Jodi Benson,Animation,1989,1.0,0.0,0.0
+Do the Right Thing,R,120.0,0.0,8.0,Spike Lee,Spike Lee,Danny Aiello,Comedy,1989,1.0,0.0,0.0
+Turner & Hooch,PG,97.0,0.0,6.2,Roger Spottiswoode,Dennis Shryack,Tom Hanks,Comedy,1989,1.0,0.0,0.0
+Major League,R,107.0,0.0,7.2,David S. Ward,David S. Ward,Tom Berenger,Comedy,1989,1.0,0.0,0.0
+Uncle Buck,PG,100.0,0.0,7.0,John Hughes,John Hughes,John Candy,Comedy,1989,1.0,0.0,0.0
+Parenthood,PG-13,124.0,0.0,7.0,Ron Howard,Lowell Ganz,Steve Martin,Comedy,1989,1.0,0.0,0.0
+Lethal Weapon 2,R,114.0,0.0,7.2,Richard Donner,Jeffrey Boam,Mel Gibson,Action,1989,1.0,0.0,0.0
+My Left Foot,R,103.0,0.0,7.9,Jim Sheridan,Shane Connaughton,Daniel Day-Lewis,Biography,1990,1.0,0.0,0.0
+Wild Orchid,R,105.0,0.0,4.6,Zalman King,Patricia Louisianna Knop,Mickey Rourke,Drama,1990,1.0,0.0,0.0
+Leviathan,R,98.0,0.0,5.8,George P. Cosmatos,David Webb Peoples,Peter Weller,Adventure,1989,1.0,0.0,0.0
+Kickboxer,R,97.0,0.0,6.5,Mark DiSalle,Mark DiSalle,Jean-Claude Van Damme,Action,1989,1.0,0.0,0.0
+Driving Miss Daisy,PG,99.0,0.0,7.4,Bruce Beresford,Alfred Uhry,Morgan Freeman,Drama,1990,1.0,0.0,0.0
+Halloween 5: The Revenge of Michael Myers,R,96.0,0.0,5.1,Dominique Othenin-Girard,John Carpenter,Donald Pleasence,Horror,1989,1.0,0.0,0.0
+DeepStar Six,R,99.0,0.0,5.4,Sean S. Cunningham,Lewis Abernathy,Greg Evigan,Action,1989,1.0,0.0,0.0
+Scandal,R,106.0,0.0,6.5,Michael Caton-Jones,Michael Thomas,John Hurt,Drama,1989,1.0,0.0,0.0
+The Fabulous Baker Boys,R,114.0,0.0,6.9,Steve Kloves,Steve Kloves,Jeff Bridges,Comedy,1989,1.0,0.0,0.0
+Next of Kin,R,108.0,0.0,5.8,John Irvin,Michael Jenning,Patrick Swayze,Action,1989,1.0,0.0,0.0
+The Fly II,R,105.0,0.0,5.1,Chris Walas,Mick Garris,Eric Stoltz,Drama,1989,1.0,0.0,0.0
+Gleaming the Cube,PG-13,105.0,0.0,6.3,Graeme Clifford,Michael Tolkin,Christian Slater,Action,1989,1.0,0.0,0.0
+Communion,R,107.0,0.0,5.6,Philippe Mora,Whitley Strieber,Christopher Walken,Biography,1989,1.0,0.0,0.0
+Crimes and Misdemeanors,PG-13,104.0,0.0,7.9,Woody Allen,Woody Allen,Martin Landau,Comedy,1989,1.0,0.0,0.0
+An Innocent Man,R,113.0,0.0,6.5,Peter Yates,Larry Brothers,Tom Selleck,Action,1989,1.0,0.0,0.0
+Let It Ride,PG-13,90.0,0.0,6.8,Joe Pytka,Jay Cronley,Richard Dreyfuss,Comedy,1989,1.0,0.0,0.0
+Loverboy,PG-13,98.0,0.0,6.1,Joan Micklin Silver,Robin Schiff,Patrick Dempsey,Comedy,1989,1.0,0.0,0.0
+Kill Me Again,R,94.0,0.0,6.3,John Dahl,John Dahl,Val Kilmer,Action,1989,1.0,0.0,0.0
+Fat Man and Little Boy,PG-13,127.0,0.0,6.5,Roland Joffé,Bruce Robinson,Paul Newman,Biography,1989,1.0,0.0,0.0
+Her Alibi,PG,94.0,0.0,5.8,Bruce Beresford,Charlie Peters,Tom Selleck,Comedy,1989,1.0,0.0,0.0
+The Blood of Heroes,R,90.0,0.0,6.5,David Webb Peoples,David Webb Peoples,Rutger Hauer,Action,1990,1.0,0.0,0.0
+Robot Jox,PG,85.0,0.0,5.4,Stuart Gordon,Stuart Gordon,Gary Graham,Action,1990,1.0,0.0,0.0
+Chattahoochee,R,98.0,0.0,6.3,Mick Jackson,James Cresson,Gary Oldman,Biography,1990,1.0,0.0,0.0
+Stepfather II: Make Room for Daddy,R,93.0,0.0,5.7,Jeff Burr,Carolyn Lefcourt,Terry O'Quinn,Horror,1989,1.0,0.0,0.0
+Eddie and the Cruisers II: Eddie Lives!,PG-13,104.0,0.0,6.2,Jean-Claude Lord,P.F. Kluge,Michael Paré,Drama,1989,1.0,0.0,0.0
+Speed Zone,PG,94.0,0.0,4.5,Jim Drake,Michael Short,Peter Boyle,Action,1989,1.0,0.0,0.0
+Longtime Companion,R,96.0,0.0,7.6,Norman René,Craig Lucas,Stephen Caffrey,Drama,1990,1.0,0.0,0.0
+Tap,PG-13,111.0,0.0,6.5,Nick Castle,Nick Castle,Gregory Hines,Comedy,1989,1.0,0.0,0.0
+A Dry White Season,R,106.0,0.0,7.0,Euzhan Palcy,André P. Brink,Donald Sutherland,Drama,1989,1.0,0.0,0.0
+The Phantom of the Opera,R,93.0,0.0,5.5,Dwight H. Little,Gaston Leroux,Robert Englund,Drama,1989,1.0,0.0,0.0
+Triumph of the Spirit,R,120.0,0.0,6.8,Robert M. Young,Shimon Arama,Willem Dafoe,Biography,1989,1.0,0.0,0.0
+The Unbelievable Truth,R,90.0,0.0,7.3,Hal Hartley,Hal Hartley,Adrienne Shelly,Comedy,1990,1.0,0.0,0.0
+True Believer,R,108.0,0.0,6.7,Joseph Ruben,Wesley Strick,James Woods,Crime,1989,1.0,0.0,0.0
+The Tall Guy,R,92.0,0.0,6.2,Mel Smith,Richard Curtis,Jeff Goldblum,Comedy,1990,1.0,0.0,0.0
+The Toxic Avenger Part II,R,102.0,0.0,5.1,Michael Herz,Lloyd Kaufman,Ron Fazio,Action,1989,1.0,0.0,0.0
+Gross Anatomy,PG-13,109.0,0.0,6.1,Thom Eberhardt,Mark Spragg,Matthew Modine,Drama,1989,1.0,0.0,0.0
+Miss Firecracker,PG,102.0,0.0,6.0,Thomas Schlamme,Beth Henley,Holly Hunter,Comedy,1990,1.0,0.0,0.0
+Disorganized Crime,R,98.0,0.0,6.3,Jim Kouf,Jim Kouf,Hoyt Axton,Action,1989,1.0,0.0,0.0
+The Terror Within,R,88.0,0.0,4.8,Thierry Notz,Thomas McKelvey Cleaver,Andrew Stevens,Horror,1989,1.0,0.0,0.0
+"Enemies, A Love Story",R,119.0,0.0,6.6,Paul Mazursky,Isaac Bashevis Singer,Ron Silver,Comedy,1989,1.0,0.0,0.0
+Physical Evidence,R,99.0,0.0,5.1,Michael Crichton,Steve Ransohoff,Burt Reynolds,Crime,1989,1.0,0.0,0.0
+Mortal Passions,R,92.0,0.0,4.5,Andrew Lane,Alan Moskowitz,Zach Galligan,Crime,1990,1.0,0.0,0.0
+Too Beautiful for You,R,91.0,0.0,6.8,Bertrand Blier,Bertrand Blier,Gérard Depardieu,Comedy,1990,1.0,0.0,0.0
+Rude Awakening,R,100.0,0.0,4.8,David Greenwalt,Neil Levy,Cheech Marin,Comedy,1989,1.0,0.0,0.0
+Martians Go Home,PG-13,89.0,0.0,3.1,David Odell,Fredric Brown,Randy Quaid,Comedy,1990,1.0,0.0,0.0
+Night Game,R,95.0,0.0,4.9,Peter Masterson,Spencer Eastman,Roy Scheider,Crime,1989,1.0,0.0,0.0
+Romero,PG-13,102.0,0.0,7.2,John Duigan,John Sacret Young,Raul Julia,Biography,1989,1.0,0.0,0.0
+84C MoPic,R,95.0,0.0,6.9,Patrick Sheane Duncan,Patrick Sheane Duncan,Jonathan Emerson,Drama,1989,1.0,0.0,0.0
+The Lemon Sisters,PG-13,93.0,0.0,5.0,Joyce Chopra,Jeremy Pikser,Diane Keaton,Comedy,1990,1.0,0.0,0.0
+Dances with Wolves,PG-13,181.0,0.0,8.0,Kevin Costner,Michael Blake,Kevin Costner,Adventure,1990,1.0,0.0,0.0
+Die Hard 2,R,124.0,0.0,7.1,Renny Harlin,Steven E. de Souza,Bruce Willis,Action,1990,1.0,0.0,0.0
+The Handmaid's Tale,R,108.0,0.0,6.0,Volker Schlöndorff,Margaret Atwood,Natasha Richardson,Drama,1990,1.0,0.0,0.0
+Back to the Future Part III,PG,118.0,0.0,7.4,Robert Zemeckis,Robert Zemeckis,Michael J. Fox,Adventure,1990,1.0,0.0,0.0
+Darkman,R,96.0,0.0,6.4,Sam Raimi,Sam Raimi,Liam Neeson,Action,1990,1.0,0.0,0.0
+Cry-Baby,PG-13,85.0,0.0,6.5,John Waters,John Waters,Johnny Depp,Comedy,1990,1.0,0.0,0.0
+King of New York,R,103.0,0.0,7.0,Abel Ferrara,Nicholas St. John,Christopher Walken,Crime,1991,1.0,0.0,0.0
+Lord of the Flies,R,90.0,0.0,6.4,Harry Hook,William Golding,Balthazar Getty,Adventure,1990,1.0,0.0,0.0
+Child's Play 2,R,84.0,0.0,5.9,John Lafia,Don Mancini,Alex Vincent,Horror,1990,1.0,0.0,0.0
+Days of Being Wild,Not Rated,94.0,0.0,7.5,Kar-Wai Wong,Jeffrey Lau,Leslie Cheung,Crime,1990,1.0,0.0,0.0
+The Exorcist III,R,110.0,0.0,6.4,William Peter Blatty,William Peter Blatty,George C. Scott,Drama,1990,1.0,0.0,0.0
+Quigley Down Under,PG-13,119.0,0.0,6.9,Simon Wincer,John Hill,Tom Selleck,Action,1990,1.0,0.0,0.0
+Nightbreed,R,102.0,0.0,6.5,Clive Barker,Clive Barker,Craig Sheffer,Action,1990,1.0,0.0,0.0
+Problem Child,PG,81.0,0.0,5.4,Dennis Dugan,Scott Alexander,Michael Oliver,Comedy,1990,1.0,0.0,0.0
+Frankenhooker,R,85.0,0.0,6.2,Frank Henenlotter,Robert Martin,James Lorinz,Comedy,1990,1.0,0.0,0.0
+Marked for Death,R,93.0,0.0,6.0,Dwight H. Little,Michael Grais,Steven Seagal,Action,1990,1.0,0.0,0.0
+Dreams,PG,119.0,0.0,7.8,Akira Kurosawa,Akira Kurosawa,Akira Terao,Drama,1990,1.0,0.0,0.0
+Air America,R,113.0,0.0,5.8,Roger Spottiswoode,Christopher Robbins,Mel Gibson,Action,1990,1.0,0.0,0.0
+I Love You to Death,R,97.0,0.0,6.4,Lawrence Kasdan,John Kostmayer,Kevin Kline,Comedy,1990,1.0,0.0,0.0
+White Palace,R,103.0,0.0,6.5,Luis Mandoki,Glenn Savan,Susan Sarandon,Drama,1990,1.0,0.0,0.0
+The Comfort of Strangers,R,107.0,0.0,6.3,Paul Schrader,Ian McEwan,Christopher Walken,Drama,1991,1.0,0.0,0.0
+"Welcome Home, Roxy Carmichael",PG-13,95.0,0.0,5.9,Jim Abrahams,Karen Leigh Hopkins,Winona Ryder,Comedy,1990,1.0,0.0,0.0
+Bad Influence,R,99.0,0.0,6.3,Curtis Hanson,David Koepp,Rob Lowe,Drama,1990,1.0,0.0,0.0
+Green Card,PG-13,107.0,0.0,6.2,Peter Weir,Peter Weir,Gérard Depardieu,Comedy,1991,1.0,0.0,0.0
+Europa Europa,R,112.0,0.0,7.6,Agnieszka Holland,Agnieszka Holland,Solomon Perel,Drama,1990,1.0,0.0,0.0
+Cyrano de Bergerac,PG,137.0,0.0,7.5,Jean-Paul Rappeneau,Edmond Rostand,Gérard Depardieu,Comedy,1990,1.0,0.0,0.0
+Almost an Angel,PG,95.0,0.0,5.6,John Cornell,Paul Hogan,Paul Hogan,Comedy,1990,1.0,0.0,0.0
+Everybody Wins,R,97.0,0.0,5.1,Karel Reisz,Arthur Miller,Debra Winger,Drama,1990,1.0,0.0,0.0
+Truly Madly Deeply,PG,106.0,0.0,7.2,Anthony Minghella,Anthony Minghella,Juliet Stevenson,Comedy,1991,1.0,0.0,0.0
+Jetsons: The Movie,G,82.0,0.0,5.6,Joseph Barbera,Dennis Marks,George O'Hanlon,Animation,1990,1.0,0.0,0.0
+Narrow Margin,R,97.0,0.0,6.6,Peter Hyams,Peter Hyams,Gene Hackman,Action,1990,1.0,0.0,0.0
+Cadillac Man,R,97.0,0.0,5.7,Roger Donaldson,Ken Friedman,Robin Williams,Comedy,1990,1.0,0.0,0.0
+Fire Birds,PG-13,85.0,0.0,4.8,George Armitage,Step Tyner,Nicolas Cage,Action,1990,1.0,0.0,0.0
+Desperate Hours,R,105.0,0.0,5.4,Yimou Zhang,Joseph Hayes,Mickey Rourke,Action,1990,1.0,0.0,0.0
+Brain Dead,R,85.0,0.0,6.0,Patrice Leconte,Charles Beaumont,Bill Pullman,Horror,1990,1.0,0.0,0.0
+Ernest Goes to Jail,PG,81.0,0.0,5.4,Tom Ropelewski,Charlie Cohen,Jim Varney,Comedy,1990,1.0,0.0,0.0
+Two Evil Eyes,R,120.0,0.0,6.1,James Ivory,Edgar Allan Poe,Adrienne Barbeau,Horror,1991,1.0,0.0,0.0
+Crazy People,R,90.0,0.0,6.0,Jan Egleson,Mitch Markowitz,Dudley Moore,Comedy,1990,1.0,0.0,0.0
+Stanley & Iris,PG-13,104.0,0.0,6.4,Franco Amurri,Pat Barker,Jane Fonda,Drama,1990,1.0,0.0,0.0
+Everybody's Fine,PG-13,118.0,0.0,7.7,Patrick Read Johnson,Massimo De Rita,Marcello Mastroianni,Drama,1991,1.0,0.0,0.0
+Spaced Invaders,PG,100.0,0.0,5.3,Michael Lehmann,Patrick Read Johnson,Douglas Barr,Adventure,1990,1.0,0.0,0.0
+Meet the Applegates,R,90.0,0.0,5.5,Alan Alda,Michael Lehmann,Ed Begley Jr.,Comedy,1991,1.0,0.0,0.0
+Def by Temptation,R,95.0,0.0,4.7,James D. Parriott,James Bond III,James Bond III,Horror,1990,1.0,0.0,0.0
+Streets,R,85.0,0.0,5.7,John Erman,Andy Ruben,Christina Applegate,Action,1990,1.0,0.0,0.0
+Loose Cannons,R,94.0,0.0,4.9,Éric Rohmer,Richard Christian Matheson,Gene Hackman,Action,1990,1.0,0.0,0.0
+To Sleep with Anger,PG,102.0,0.0,7.2,John Boorman,Charles Burnett,Danny Glover,Drama,1990,1.0,0.0,0.0
+Come See the Paradise,R,138.0,0.0,6.7,Derek Jarman,Alan Parker,Dennis Quaid,Drama,1991,1.0,0.0,0.0
+May Fools,R,107.0,0.0,7.3,John Mackenzie,Louis Malle,Miou-Miou,Comedy,1990,1.0,0.0,0.0
+Funny About Love,PG-13,101.0,0.0,4.9,Prince,Bob Greene,Gene Wilder,Comedy,1990,1.0,0.0,0.0
+The Haunting of Morella,R,82.0,0.0,4.4,John Frankenheimer,Edgar Allan Poe,Nicole Eggert,Horror,1990,1.0,0.0,0.0
+Heaven and Earth,PG-13,125.0,0.0,7.0,David Leland,Haruki Kadokawa,Takaaki Enoki,Action,1991,1.0,0.0,0.0
+The Addams Family,PG-13,99.0,0.0,6.9,Ridley Scott,Charles Addams,Anjelica Huston,Comedy,1991,1.0,0.0,0.0
+Thelma & Louise,R,130.0,0.0,7.5,Alfonso Cuarón,Callie Khouri,Susan Sarandon,Adventure,1991,1.0,0.0,0.0
+The Doors,R,140.0,0.0,7.2,Gary Trousdale,Randall Jahnson,Val Kilmer,Biography,1991,1.0,0.0,0.0
+The Rocketeer,PG,108.0,0.0,6.5,Howard Zieff,Dave Stevens,Billy Campbell,Action,1991,1.0,0.0,0.0
+My Girl,PG,102.0,0.0,6.9,Ron Howard,Laurice Elehwany,Anna Chlumsky,Comedy,1991,1.0,0.0,0.0
+City Slickers,PG-13,113.0,0.0,6.8,Stephen Herek,Lowell Ganz,Billy Crystal,Comedy,1991,1.0,0.0,0.0
+Return to the Blue Lagoon,PG-13,102.0,0.0,5.2,Tony Scott,Henry De Vere Stacpoole,Brian Krause,Adventure,1991,1.0,0.0,0.0
+Barton Fink,R,116.0,0.0,7.7,Dan Aykroyd,Joel Coen,John Turturro,Comedy,1991,1.0,0.0,0.0
+Nothing But Trouble,PG-13,94.0,0.0,5.1,Frank Oz,Peter Aykroyd,Chevy Chase,Comedy,1991,1.0,0.0,0.0
+Teenage Mutant Ninja Turtles II: The Secret of the Ooze,PG,88.0,0.0,6.0,David Zucker,Kevin Eastman,Paige Turco,Action,1991,1.0,0.0,0.0
+Double Impact,R,110.0,0.0,5.6,Alan Parker,Sheldon Lettich,Jean-Claude Van Damme,Action,1991,1.0,0.0,0.0
+The Double Life of Véronique,R,98.0,0.0,7.8,Mario Van Peebles,Krzysztof Kieslowski,Irène Jacob,Drama,1991,1.0,0.0,0.0
+Toy Soldiers,R,111.0,0.0,6.6,Wes Craven,William P. Kennedy,Sean Astin,Action,1991,1.0,0.0,0.0
+The People Under the Stairs,R,102.0,0.0,6.4,Mike Nichols,Wes Craven,Brandon Quintin Adams,Comedy,1991,1.0,0.0,0.0
+Regarding Henry,PG-13,108.0,0.0,6.7,Barry Levinson,J.J. Abrams,Harrison Ford,Drama,1991,1.0,0.0,0.0
+Bugsy,R,136.0,0.0,6.8,Michael Caton-Jones,James Toback,Warren Beatty,Biography,1991,1.0,0.0,0.0
+Child's Play 3,R,90.0,0.0,5.1,Rachel Talalay,Don Mancini,Justin Whalin,Horror,1991,1.0,0.0,0.0
+Highlander II: The Quickening,R,91.0,0.0,4.2,Craig R. Baxley,Gregory Widen,Christopher Lambert,Action,1991,1.0,0.0,0.0
+Wild Hearts Can't Be Broken,G,88.0,0.0,7.2,Mark L. Lester,Matt Williams,Gabrielle Anwar,Drama,1991,1.0,0.0,0.0
+Showdown in Little Tokyo,R,79.0,0.0,6.1,Spike Lee,Stephen Glantz,Dolph Lundgren,Action,1991,1.0,0.0,0.0
+Not Without My Daughter,PG-13,116.0,0.0,6.4,Albert Brooks,Betty Mahmoody,Sally Field,Drama,1991,1.0,0.0,0.0
+Flight of the Intruder,PG-13,115.0,0.0,5.8,Brian Levant,Stephen Coonts,Danny Glover,Action,1991,1.0,0.0,0.0
+Rush,R,120.0,0.0,6.8,Kenneth Branagh,Kim Wozencraft,Jason Patric,Action,1992,1.0,0.0,0.0
+Dead Again,R,107.0,0.0,6.9,John Flynn,Scott Frank,Kenneth Branagh,Crime,1991,1.0,0.0,0.0
+An American Tail: Fievel Goes West,G,75.0,0.0,6.5,Phil Nibbelink,Flint Dille,James Stewart,Animation,1991,1.0,0.0,0.0
+The Rapture,R,100.0,0.0,6.3,Michael Tolkin,Michael Tolkin,Mimi Rogers,Drama,1991,1.0,0.0,0.0
+White Fang,PG,107.0,0.0,6.7,Randal Kleiser,Jack London,Ethan Hawke,Adventure,1991,1.0,0.0,0.0
+Dutch,PG-13,107.0,0.0,6.5,Peter Faiman,John Hughes,Ed O'Neill,Comedy,1991,1.0,0.0,0.0
+Shattered,R,98.0,0.0,6.5,Wolfgang Petersen,Richard Neely,Tom Berenger,Crime,1991,1.0,0.0,0.0
+Suburban Commando,PG,90.0,0.0,4.5,Burt Kennedy,Frank A. Cappello,Hulk Hogan,Action,1991,1.0,0.0,0.0
+Popcorn,R,91.0,0.0,5.8,Mark Herrier,Mitchell Smith,Jill Schoelen,Comedy,1991,1.0,0.0,0.0
+If Looks Could Kill,PG-13,88.0,0.0,5.8,William Dear,Fred Dekker,Richard Grieco,Action,1991,1.0,0.0,0.0
+Whore,NC-17,85.0,0.0,5.6,Ken Russell,David Hines,Theresa Russell,Drama,1991,1.0,0.0,0.0
+Kafka,PG-13,98.0,0.0,6.9,Steven Soderbergh,Lem Dobbs,Jeremy Irons,Drama,1991,1.0,0.0,0.0
+Johnny Suede,R,97.0,0.0,5.8,Tom DiCillo,Tom DiCillo,Brad Pitt,Comedy,1992,1.0,0.0,0.0
+Mississippi Masala,R,118.0,0.0,6.7,Mira Nair,Sooni Taraporevala,Denzel Washington,Drama,1992,1.0,0.0,0.0
+House Party 2,R,94.0,0.0,5.3,George Jackson,Reginald Hudlin,Christopher Reid,Comedy,1991,1.0,0.0,0.0
+The Perfect Weapon,R,83.0,0.0,6.0,Mark DiSalle,David C. Wilson,Jeff Speakman,Action,1991,1.0,0.0,0.0
+F/X2,PG-13,108.0,0.0,5.9,Richard Franklin,Robert T. Megginson,Bryan Brown,Action,1991,1.0,0.0,0.0
+Mortal Thoughts,R,103.0,0.0,5.7,Alan Rudolph,William Reilly,Demi Moore,Mystery,1991,1.0,0.0,0.0
+Eve of Destruction,R,99.0,0.0,4.9,Duncan Gibbins,Duncan Gibbins,Gregory Hines,Action,1991,1.0,0.0,0.0
+A Rage in Harlem,R,115.0,0.0,5.9,Bill Duke,Chester Himes,Forest Whitaker,Comedy,1991,1.0,0.0,0.0
+At Play in the Fields of the Lord,R,189.0,0.0,6.8,Hector Babenco,Peter Matthiessen,Tom Berenger,Drama,1991,1.0,0.0,0.0
+True Colors,R,111.0,0.0,6.3,Herbert Ross,Kevin Wade,John Cusack,Drama,1991,1.0,0.0,0.0
+Strictly Business,PG-13,83.0,0.0,5.5,Kevin Hooks,Pam Gibson,Tommy Davidson,Comedy,1991,1.0,0.0,0.0
+Madame Bovary,PG-13,143.0,0.0,6.6,Claude Chabrol,Gustave Flaubert,Isabelle Huppert,Drama,1991,1.0,0.0,0.0
+Stepping Out,PG,106.0,0.0,6.4,Lewis Gilbert,Richard Harris,Liza Minnelli,Comedy,1991,1.0,0.0,0.0
+Defenseless,R,104.0,0.0,5.6,Martin Campbell,James Cresson,Barbara Hershey,Mystery,1991,1.0,0.0,0.0
+Basic Instinct,R,127.0,0.0,7.0,Paul Verhoeven,Joe Eszterhas,Michael Douglas,Drama,1992,1.0,0.0,0.0
+My Cousin Vinny,R,120.0,0.0,7.6,Jonathan Lynn,Dale Launer,Joe Pesci,Comedy,1992,1.0,0.0,0.0
+A League of Their Own,PG,128.0,0.0,7.3,Penny Marshall,Kim Wilson,Tom Hanks,Comedy,1992,1.0,0.0,0.0
+Scent of a Woman,R,156.0,0.0,8.0,Martin Brest,Giovanni Arpino,Al Pacino,Drama,1993,1.0,0.0,0.0
+Aladdin,G,90.0,0.0,8.0,Ron Clements,Ron Clements,Scott Weinger,Animation,1992,1.0,0.0,0.0
+Alien 3,R,114.0,0.0,6.5,David Fincher,Dan O'Bannon,Sigourney Weaver,Action,1992,1.0,0.0,0.0
+Home Alone 2: Lost in New York,PG,120.0,0.0,6.8,Chris Columbus,John Hughes,Macaulay Culkin,Adventure,1992,1.0,0.0,0.0
+Poison Ivy,R,93.0,0.0,5.4,Katt Shea,Melissa Goddard,Drew Barrymore,Drama,1992,1.0,0.0,0.0
+Juice,R,95.0,0.0,7.1,Ernest R. Dickerson,Ernest R. Dickerson,Omar Epps,Action,1992,1.0,0.0,0.0
+3 Ninjas,PG,84.0,0.0,5.3,Jon Turteltaub,Kenny Kim,Victor Wong,Action,1992,1.0,0.0,0.0
+Captain Ron,PG-13,100.0,0.0,5.8,Thom Eberhardt,John Dwyer,Kurt Russell,Adventure,1992,1.0,0.0,0.0
+The Cutting Edge,PG,101.0,0.0,6.9,Paul Michael Glaser,Tony Gilroy,D.B. Sweeney,Comedy,1992,1.0,0.0,0.0
+Strictly Ballroom,PG,94.0,0.0,7.2,Baz Luhrmann,Baz Luhrmann,Paul Mercurio,Comedy,1993,1.0,0.0,0.0
+Raising Cain,R,92.0,0.0,6.1,Brian De Palma,Brian De Palma,John Lithgow,Crime,1992,1.0,0.0,0.0
+Split Second,R,90.0,0.0,6.2,Tony Maylam,Gary Scott Thompson,Rutger Hauer,Action,1992,1.0,0.0,0.0
+Sidekicks,PG,101.0,0.0,5.1,Aaron Norris,Lou Illar,Chuck Norris,Action,1993,1.0,0.0,0.0
+Thunderheart,R,119.0,0.0,6.8,Michael Apted,John Fusco,Val Kilmer,Crime,1992,1.0,0.0,0.0
+Stop! Or My Mom Will Shoot,PG-13,87.0,0.0,4.3,Roger Spottiswoode,Blake Snyder,Sylvester Stallone,Action,1992,1.0,0.0,0.0
+Innocent Blood,R,112.0,0.0,6.2,John Landis,Michael Wolk,Anne Parillaud,Action,1992,1.0,0.0,0.0
+Final Analysis,R,124.0,0.0,5.9,Phil Joanou,Robert Berger,Richard Gere,Drama,1992,1.0,0.0,0.0
+Consenting Adults,R,99.0,0.0,5.7,Alan J. Pakula,Matthew Chapman,Kevin Kline,Crime,1992,1.0,0.0,0.0
+Fortress,R,95.0,0.0,5.9,Stuart Gordon,Troy Neighbors,Christopher Lambert,Action,1993,1.0,0.0,0.0
+Bébé's Kids,PG-13,72.0,0.0,5.8,Bruce W. Smith,Robin Harris,Faizon Love,Animation,1992,1.0,0.0,0.0
+Peter's Friends,R,101.0,0.0,7.0,Kenneth Branagh,Rita Rudner,Hugh Laurie,Comedy,1992,1.0,0.0,0.0
+Freejack,R,110.0,0.0,5.4,Geoff Murphy,Robert Sheckley,Emilio Estevez,Action,1992,1.0,0.0,0.0
+Class Act,PG-13,98.0,0.0,6.1,Randall Miller,Michael Swerdlick,Christopher Reid,Comedy,1992,1.0,0.0,0.0
+Diggstown,R,98.0,0.0,7.0,Michael Ritchie,Leonard Wise,James Woods,Drama,1992,1.0,0.0,0.0
+Indochine,PG-13,160.0,0.0,7.1,Régis Wargnier,Erik Orsenna,Catherine Deneuve,Drama,1992,1.0,0.0,0.0
+Husbands and Wives,R,108.0,0.0,7.5,Woody Allen,Woody Allen,Woody Allen,Comedy,1992,1.0,0.0,0.0
+Wind,PG-13,126.0,0.0,6.4,Carroll Ballard,Jeff Benjamin,Matthew Modine,Action,1992,1.0,0.0,0.0
+Light Sleeper,R,103.0,0.0,6.8,Paul Schrader,Paul Schrader,Willem Dafoe,Crime,1992,1.0,0.0,0.0
+Where the Day Takes You,R,105.0,0.0,6.6,Marc Rocco,Michael Hitchcock,Dermot Mulroney,Crime,1992,1.0,0.0,0.0
+That Night,PG-13,89.0,0.0,6.6,Craig Bolotin,Alice McDermott,C. Thomas Howell,Drama,1993,1.0,0.0,0.0
+American Heart,R,113.0,0.0,6.7,Martin Bell,Peter Silverman,Jeff Bridges,Crime,1993,1.0,0.0,0.0
+Into the West,PG,97.0,0.0,7.0,Mike Newell,Jim Sheridan,Gabriel Byrne,Adventure,1993,1.0,0.0,0.0
+The Playboys,PG-13,117.0,0.0,6.3,Gillies MacKinnon,Shane Connaughton,Albert Finney,Drama,1992,1.0,0.0,0.0
+Qing shao nian nuo zha,Not Rated,106.0,0.0,7.6,Ming-liang Tsai,Ming-liang Tsai,Chao-jung Chen,Crime,1994,1.0,0.0,0.0
+Love Field,PG-13,105.0,0.0,6.6,Jonathan Kaplan,Don Roos,Michelle Pfeiffer,Drama,1993,1.0,0.0,0.0
+Mr. Saturday Night,R,119.0,0.0,5.9,Billy Crystal,Billy Crystal,Billy Crystal,Comedy,1992,1.0,0.0,0.0
+Twin Dragons,PG-13,104.0,0.0,6.5,Ringo Lam,Barry Wong,Jackie Chan,Action,1999,1.0,0.0,0.0
+Folks!,PG-13,107.0,0.0,5.7,Ted Kotcheff,Robert Klane,Tom Selleck,Comedy,1992,1.0,0.0,0.0
+Night and the City,R,105.0,0.0,5.8,Irwin Winkler,Gerald Kersh,Robert De Niro,Comedy,1992,1.0,0.0,0.0
+Out on a Limb,PG,93.0,0.0,5.3,Francis Veber,Daniel Goldin,Matthew Broderick,Comedy,1992,1.0,0.0,0.0
+The Waterdance,R,106.0,0.0,6.8,Neal Jimenez,Neal Jimenez,Eric Stoltz,Drama,1992,1.0,0.0,0.0
+This Is My Life,PG-13,105.0,0.0,6.1,Nora Ephron,Meg Wolitzer,Julie Kavner,Drama,1992,1.0,0.0,0.0
+Once Upon a Time in China III,R,109.0,0.0,6.8,Hark Tsui,Tin-suen Chan,Jet Li,Action,1993,1.0,0.0,0.0
+Dazed and Confused,R,102.0,0.0,7.6,Richard Linklater,Richard Linklater,Jason London,Comedy,1993,1.0,0.0,0.0
+Robin Hood: Men in Tights,PG-13,104.0,0.0,6.7,Mel Brooks,J.D. Shapiro,Cary Elwes,Adventure,1993,1.0,0.0,0.0
+A Bronx Tale,R,121.0,0.0,7.8,Robert De Niro,Chazz Palminteri,Robert De Niro,Crime,1993,1.0,0.0,0.0
+What's Eating Gilbert Grape,PG-13,118.0,0.0,7.7,Lasse Hallström,Peter Hedges,Johnny Depp,Drama,1994,1.0,0.0,0.0
+Carlito's Way,R,144.0,0.0,7.9,Brian De Palma,Edwin Torres,Al Pacino,Crime,1993,1.0,0.0,0.0
+Dennis the Menace,PG,94.0,0.0,5.6,Nick Castle,Hank Ketcham,Walter Matthau,Comedy,1993,1.0,0.0,0.0
+The Nightmare Before Christmas,PG,76.0,0.0,8.0,Henry Selick,Tim Burton,Danny Elfman,Animation,1993,1.0,0.0,0.0
+Alive,R,120.0,0.0,7.1,Frank Marshall,Piers Paul Read,Ethan Hawke,Biography,1993,1.0,0.0,0.0
+In the Line of Fire,R,128.0,0.0,7.2,Wolfgang Petersen,Jeff Maguire,Clint Eastwood,Action,1993,1.0,0.0,0.0
+RoboCop 3,PG-13,104.0,0.0,4.1,Fred Dekker,Edward Neumeier,Robert John Burke,Action,1993,1.0,0.0,0.0
+Fire in the Sky,PG-13,109.0,0.0,6.5,Robert Lieberman,Travis Walton,D.B. Sweeney,Biography,1993,1.0,0.0,0.0
+Cool Runnings,PG,98.0,0.0,7.0,Jon Turteltaub,Lynn Siefert,John Candy,Adventure,1993,1.0,0.0,0.0
+Kalifornia,R,117.0,0.0,6.7,Dominic Sena,Stephen Levy,Brad Pitt,Crime,1993,1.0,0.0,0.0
+Sliver,R,107.0,0.0,5.0,Phillip Noyce,Ira Levin,Sharon Stone,Drama,1993,1.0,0.0,0.0
+Hot Shots! Part Deux,PG-13,86.0,0.0,6.6,Jim Abrahams,Jim Abrahams,Charlie Sheen,Action,1993,1.0,0.0,0.0
+Much Ado About Nothing,PG-13,111.0,0.0,7.3,Kenneth Branagh,William Shakespeare,Kenneth Branagh,Comedy,1993,1.0,0.0,0.0
+Loaded Weapon 1,PG-13,84.0,0.0,6.2,Gene Quintano,Don Holley,Emilio Estevez,Action,1993,1.0,0.0,0.0
+This Boy's Life,R,115.0,0.0,7.3,Michael Caton-Jones,Tobias Wolff,Robert De Niro,Biography,1993,1.0,0.0,0.0
+Short Cuts,R,188.0,0.0,7.7,Robert Altman,Raymond Carver,Andie MacDowell,Comedy,1993,1.0,0.0,0.0
+Son in Law,PG-13,95.0,0.0,5.8,Steve Rash,Patrick J. Clifton,Pauly Shore,Comedy,1993,1.0,0.0,0.0
+Matinee,PG,99.0,0.0,6.9,Joe Dante,Jerico Stone,John Goodman,Comedy,1993,1.0,0.0,0.0
+The Good Son,R,87.0,0.0,6.4,Joseph Ruben,Ian McEwan,Macaulay Culkin,Drama,1993,1.0,0.0,0.0
+Killing Zoe,R,96.0,0.0,6.5,Roger Avary,Roger Avary,Eric Stoltz,Crime,1994,1.0,0.0,0.0
+Rising Sun,R,129.0,0.0,6.3,Philip Kaufman,Michael Crichton,Sean Connery,Action,1993,1.0,0.0,0.0
+Body Snatchers,R,87.0,0.0,6.0,Abel Ferrara,Jack Finney,Gabrielle Anwar,Horror,1994,1.0,0.0,0.0
+Stalingrad,Not Rated,134.0,0.0,7.5,Joseph Vilsmaier,Jürgen Büscher,Dominique Horwitz,Drama,1993,1.0,0.0,0.0
+Airborne,PG,91.0,0.0,6.3,Rob Bowman,Bill Apablasa,Shane McDermott,Adventure,1993,1.0,0.0,0.0
+The Thing Called Love,PG-13,116.0,0.0,6.4,Peter Bogdanovich,Carol Heikkinen,River Phoenix,Comedy,1993,1.0,0.0,0.0
+Poetic Justice,R,109.0,0.0,6.1,John Singleton,John Singleton,Janet Jackson,Drama,1993,1.0,0.0,0.0
+The Cement Garden,Not Rated,101.0,0.0,7.1,Andrew Birkin,Andrew Birkin,Charlotte Gainsbourg,Drama,1994,1.0,0.0,0.0
+Swing Kids,PG-13,112.0,0.0,6.8,Thomas Carter,Jonathan Marc Feldman,Robert Sean Leonard,Drama,1993,1.0,0.0,0.0
+Heart and Souls,PG-13,104.0,0.0,7.0,Ron Underwood,Gregory Hansen,Robert Downey Jr.,Comedy,1993,1.0,0.0,0.0
+Needful Things,R,120.0,0.0,6.3,Fraser C. Heston,Stephen King,Max von Sydow,Crime,1993,1.0,0.0,0.0
+Weekend at Bernie's II,PG,97.0,0.0,4.8,Robert Klane,Robert Klane,Andrew McCarthy,Adventure,1993,1.0,0.0,0.0
+Les visiteurs,R,107.0,0.0,7.1,Jean-Marie Poiré,Christian Clavier,Christian Clavier,Comedy,1996,1.0,0.0,0.0
+Mi vida loca,R,92.0,0.0,6.5,Allison Anders,Allison Anders,Angel Aviles,Crime,1994,1.0,0.0,0.0
+Fatal Instinct,PG-13,91.0,0.0,5.8,Carl Reiner,David O'Malley,Armand Assante,Comedy,1993,1.0,0.0,0.0
+Heaven & Earth,R,140.0,0.0,6.8,Oliver Stone,Le Ly Hayslip,Hiep Thi Le,Action,1994,1.0,0.0,0.0
+Posse,R,111.0,0.0,5.5,Mario Van Peebles,Sy Richardson,Mario Van Peebles,Western,1993,1.0,0.0,0.0
+Even Cowgirls Get the Blues,R,106.0,0.0,4.4,Gus Van Sant,Tom Robbins,Uma Thurman,Comedy,1994,1.0,0.0,0.0
+A Far Off Place,PG,108.0,0.0,6.6,Mikael Salomon,Lourens van der Post,Reese Witherspoon,Adventure,1993,1.0,0.0,0.0
+Cop & ½,PG,97.0,0.0,4.1,Henry Winkler,Arne Olsen,Burt Reynolds,Comedy,1993,1.0,0.0,0.0
+Caro diario,Unrated,100.0,0.0,7.3,Nanni Moretti,Nanni Moretti,Nanni Moretti,Biography,1994,1.0,0.0,0.0
+Bhaji on the Beach,R,101.0,0.0,6.4,Gurinder Chadha,Gurinder Chadha,Kim Vithana,Comedy,1994,1.0,0.0,0.0
+Silent Tongue,PG-13,102.0,0.0,5.3,Sam Shepard,Sam Shepard,Alan Bates,Drama,1995,1.0,0.0,0.0
+Born Yesterday,PG,100.0,0.0,5.2,Luis Mandoki,Garson Kanin,Melanie Griffith,Comedy,1993,1.0,0.0,0.0
+The Nutcracker,G,92.0,0.0,5.9,Emile Ardolino,Susan Cooper,Darci Kistler,Family,1993,1.0,0.0,0.0
+Philadelphia Experiment II,PG-13,97.0,0.0,4.5,Stephen Cornwell,Wallace C. Bennett,Brad Johnson,Action,1994,1.0,0.0,0.0
+Blue,Not Rated,79.0,0.0,7.3,Derek Jarman,Derek Jarman,Derek Jarman,Biography,1993,1.0,0.0,0.0
+Fear of a Black Hat,R,88.0,0.0,7.2,Rusty Cundieff,Rusty Cundieff,Larry B. Scott,Comedy,1994,1.0,0.0,0.0
+The Night We Never Met,R,99.0,0.0,6.0,Warren Leight,Warren Leight,Matthew Broderick,Comedy,1993,1.0,0.0,0.0
+Forrest Gump,PG-13,142.0,0.0,8.8,Robert Zemeckis,Winston Groom,Tom Hanks,Drama,1994,1.0,0.0,0.0
+True Lies,R,141.0,0.0,7.2,James Cameron,Claude Zidi,Arnold Schwarzenegger,Action,1994,1.0,0.0,0.0
+The Lion King,G,88.0,0.0,8.5,Roger Allers,Irene Mecchi,Matthew Broderick,Animation,1994,1.0,0.0,0.0
+Dumb and Dumber,PG-13,107.0,0.0,7.3,Peter Farrelly,Peter Farrelly,Jim Carrey,Comedy,1994,1.0,0.0,0.0
+Little Women,PG,115.0,0.0,7.3,Gillian Armstrong,Louisa May Alcott,Susan Sarandon,Drama,1994,1.0,0.0,0.0
+Street Fighter,PG-13,102.0,0.0,4.0,Steven E. de Souza,Steven E. de Souza,Jean-Claude Van Damme,Action,1994,1.0,0.0,0.0
+The Last Seduction,R,110.0,0.0,7.1,John Dahl,Steve Barancik,Linda Fiorentino,Crime,1994,1.0,0.0,0.0
+Star Trek: Generations,PG,118.0,0.0,6.6,David Carson,Gene Roddenberry,Patrick Stewart,Action,1994,1.0,0.0,0.0
+Disclosure,R,128.0,0.0,6.1,Barry Levinson,Michael Crichton,Michael Douglas,Drama,1994,1.0,0.0,0.0
+Angels in the Outfield,PG,102.0,0.0,6.2,William Dear,Dorothy Kingsley,Danny Glover,Comedy,1994,1.0,0.0,0.0
+Sirens,R,98.0,0.0,5.9,John Duigan,John Duigan,Hugh Grant,Comedy,1994,1.0,0.0,0.0
+The River Wild,PG-13,111.0,0.0,6.4,Curtis Hanson,Denis O'Neill,Meryl Streep,Adventure,1994,1.0,0.0,0.0
+Blown Away,R,121.0,0.0,6.2,Stephen Hopkins,John Rice,Jeff Bridges,Action,1994,1.0,0.0,0.0
+North,PG,87.0,0.0,4.5,Rob Reiner,Alan Zweibel,Elijah Wood,Adventure,1994,1.0,0.0,0.0
+Muriel's Wedding,R,106.0,0.0,7.2,P.J. Hogan,P.J. Hogan,Toni Collette,Comedy,1995,1.0,0.0,0.0
+Once Were Warriors,R,102.0,0.0,7.9,Lee Tamahori,Riwia Brown,Rena Owen,Crime,1995,1.0,0.0,0.0
+Exit to Eden,R,113.0,0.0,4.3,Garry Marshall,Anne Rice,Dana Delany,Comedy,1994,1.0,0.0,0.0
+The Specialist,R,110.0,0.0,5.6,Luis Llosa,John Shirley,Sylvester Stallone,Action,1994,1.0,0.0,0.0
+Serial Mom,R,95.0,0.0,6.8,John Waters,John Waters,Kathleen Turner,Comedy,1994,1.0,0.0,0.0
+When a Man Loves a Woman,R,126.0,0.0,6.6,Luis Mandoki,Ronald Bass,Meg Ryan,Drama,1994,1.0,0.0,0.0
+Surviving the Game,R,96.0,0.0,6.2,Ernest R. Dickerson,Eric Bernt,Rutger Hauer,Action,1994,1.0,0.0,0.0
+My Father the Hero,PG,90.0,0.0,5.5,Steve Miner,Gérard Lauzier,Gérard Depardieu,Comedy,1994,1.0,0.0,0.0
+Chasers,R,102.0,0.0,5.1,Dennis Hopper,Joe Batteer,Tom Berenger,Action,1994,1.0,0.0,0.0
+Torment,Not Rated,102.0,0.0,7.1,Claude Chabrol,Claude Chabrol,Emmanuelle Béart,Crime,1994,1.0,0.0,0.0
+Clifford,PG,90.0,0.0,5.5,Paul Flaherty,William Porter,Martin Short,Comedy,1994,1.0,0.0,0.0
+Thumbelina,G,86.0,0.0,6.4,Don Bluth,Hans Christian Andersen,Jodi Benson,Animation,1994,1.0,0.0,0.0
+Greedy,PG-13,113.0,0.0,6.3,Jonathan Lynn,Lowell Ganz,Michael J. Fox,Comedy,1994,1.0,0.0,0.0
+Little Big League,PG,119.0,0.0,6.1,Andrew Scheinman,Gregory K. Pincus,Luke Edwards,Comedy,1994,1.0,0.0,0.0
+Ready to Wear,R,133.0,0.0,5.2,Robert Altman,Robert Altman,Sophia Loren,Comedy,1994,1.0,0.0,0.0
+Bullets Over Broadway,R,98.0,0.0,7.4,Woody Allen,Woody Allen,John Cusack,Comedy,1995,1.0,0.0,0.0
+Spanking the Monkey,Unrated,100.0,0.0,6.3,David O. Russell,David O. Russell,Jeremy Davies,Comedy,1994,1.0,0.0,0.0
+Intersection,R,98.0,0.0,5.4,Mark Rydell,David Rayfiel,Richard Gere,Drama,1994,1.0,0.0,0.0
+Sister My Sister,R,86.0,0.0,6.6,Nancy Meckler,Wendy Kesselman,Julie Walters,Drama,1995,1.0,0.0,0.0
+Miracle on 34th Street,PG,114.0,0.0,6.5,Les Mayfield,Valentine Davies,Richard Attenborough,Family,1994,1.0,0.0,0.0
+Jason's Lyric,R,119.0,0.0,6.6,Doug McHenry,Bobby Smith Jr.,Allen Payne,Crime,1994,1.0,0.0,0.0
+Blue Chips,PG-13,108.0,0.0,6.2,William Friedkin,Ron Shelton,Nick Nolte,Drama,1994,1.0,0.0,0.0
+Cemetery Man,R,105.0,0.0,7.1,Michele Soavi,Tiziano Sclavi,Rupert Everett,Comedy,1996,1.0,0.0,0.0
+Ashes of Time,R,100.0,0.0,7.1,Kar-Wai Wong,Louis Cha,Brigitte Lin,Action,1994,1.0,0.0,0.0
+Brainscan,R,96.0,0.0,6.1,John Flynn,Brian Owens,Edward Furlong,Comedy,1994,1.0,0.0,0.0
+Through the Olive Trees,G,103.0,0.0,7.8,Abbas Kiarostami,Abbas Kiarostami,Mohamad Ali Keshavarz,Drama,1995,1.0,0.0,0.0
+The Puppet Masters,R,109.0,0.0,5.9,Stuart Orme,Robert A. Heinlein,Donald Sutherland,Horror,1994,1.0,0.0,0.0
+Backbeat,R,100.0,0.0,6.7,Iain Softley,Iain Softley,Stephen Dorff,Biography,1994,1.0,0.0,0.0
+Leprechaun 2,R,85.0,0.0,4.6,Rodman Flender,Mark Jones,Warwick Davis,Comedy,1994,1.0,0.0,0.0
+Mixed Nuts,PG-13,97.0,0.0,5.4,Nora Ephron,Nora Ephron,Steve Martin,Comedy,1994,1.0,0.0,0.0
+House Party 3,R,100.0,0.0,4.7,Eric Meza,Reginald Hudlin,Christopher Reid,Comedy,1994,1.0,0.0,0.0
+Sleep with Me,R,86.0,0.0,5.7,Rory Kelly,Duane Dell'Amico,Craig Sheffer,Comedy,1994,1.0,0.0,0.0
+Princess Caraboo,PG,97.0,0.0,6.0,Michael Austin,Michael Austin,Phoebe Cates,Comedy,1994,1.0,0.0,0.0
+A Low Down Dirty Shame,R,108.0,0.0,6.0,Keenen Ivory Wayans,Keenen Ivory Wayans,Keenen Ivory Wayans,Action,1994,1.0,0.0,0.0
+A Troll in Central Park,G,76.0,0.0,5.4,Don Bluth,Stu Krieger,Dom DeLuise,Animation,1994,1.0,0.0,0.0
+Mrs. Parker and the Vicious Circle,R,125.0,0.0,6.4,Alan Rudolph,Alan Rudolph,Jennifer Jason Leigh,Biography,1994,1.0,0.0,0.0
+Holy Matrimony,PG-13,93.0,0.0,5.1,Leonard Nimoy,David Weisberg,Patricia Arquette,Comedy,1994,1.0,0.0,0.0
+Squanto: A Warrior's Tale,PG,102.0,0.0,6.0,Xavier Koller,Darlene Craviotto,Adam Beach,Adventure,1994,1.0,0.0,0.0
+Rapa Nui,R,107.0,0.0,6.4,Kevin Reynolds,Kevin Reynolds,Jason Scott Lee,Action,1994,1.0,0.0,0.0
+Braveheart,R,178.0,0.0,8.3,Mel Gibson,Randall Wallace,Mel Gibson,Biography,1995,1.0,0.0,0.0
+Jumanji,PG,104.0,0.0,7.0,Joe Johnston,Jonathan Hensleigh,Robin Williams,Adventure,1995,1.0,0.0,0.0
+Congo,PG-13,109.0,0.0,5.2,Frank Marshall,Michael Crichton,Laura Linney,Action,1995,1.0,0.0,0.0
+Desperado,R,104.0,0.0,7.2,Robert Rodriguez,Robert Rodriguez,Antonio Banderas,Action,1995,1.0,0.0,0.0
+12 Monkeys,R,129.0,0.0,8.0,Terry Gilliam,Chris Marker,Bruce Willis,Mystery,1996,1.0,0.0,0.0
+Leaving Las Vegas,R,111.0,0.0,7.5,Mike Figgis,John O'Brien,Nicolas Cage,Drama,1996,1.0,0.0,0.0
+Showgirls,NC-17,128.0,0.0,4.9,Paul Verhoeven,Joe Eszterhas,Elizabeth Berkley,Drama,1995,1.0,0.0,0.0
+Species,R,108.0,0.0,5.8,Roger Donaldson,Dennis Feldman,Natasha Henstridge,Action,1995,1.0,0.0,0.0
+La Haine,Not Rated,98.0,0.0,8.1,Mathieu Kassovitz,Mathieu Kassovitz,Vincent Cassel,Crime,1996,1.0,0.0,0.0
+"To Wong Foo Thanks for Everything, Julie Newmar",PG-13,109.0,0.0,6.6,Beeban Kidron,Douglas Carter Beane,Wesley Snipes,Comedy,1995,1.0,0.0,0.0
+Heavyweights,PG,100.0,0.0,6.6,Steven Brill,Judd Apatow,Tom McGowan,Comedy,1995,1.0,0.0,0.0
+Tank Girl,R,104.0,0.0,5.4,Rachel Talalay,Alan Martin,Lori Petty,Action,1995,1.0,0.0,0.0
+A Goofy Movie,G,78.0,0.0,6.9,Kevin Lima,Jymn Magon,Bill Farmer,Animation,1995,1.0,0.0,0.0
+To Die For,R,106.0,0.0,6.8,Gus Van Sant,Joyce Maynard,Nicole Kidman,Comedy,1995,1.0,0.0,0.0
+Johnny Mnemonic,R,96.0,0.0,5.7,Robert Longo,William Gibson,Keanu Reeves,Action,1995,1.0,0.0,0.0
+The City of Lost Children,R,112.0,0.0,7.5,Marc Caro,Gilles Adrien,Ron Perlman,Fantasy,1995,1.0,0.0,0.0
+Higher Learning,R,127.0,0.0,6.5,John Singleton,John Singleton,Omar Epps,Crime,1995,1.0,0.0,0.0
+The Prophecy,R,98.0,0.0,6.5,Gregory Widen,Gregory Widen,Christopher Walken,Action,1995,1.0,0.0,0.0
+The Big Green,PG,100.0,0.0,5.6,Holly Goldberg Sloan,Holly Goldberg Sloan,Steve Guttenberg,Comedy,1995,1.0,0.0,0.0
+Virtuosity,R,106.0,0.0,5.6,Brett Leonard,Eric Bernt,Denzel Washington,Action,1995,1.0,0.0,0.0
+Assassins,R,132.0,0.0,6.3,Richard Donner,Lilly Wachowski,Sylvester Stallone,Action,1995,1.0,0.0,0.0
+Dead Presidents,R,119.0,0.0,6.9,Albert Hughes,Allen Hughes,Larenz Tate,Action,1995,1.0,0.0,0.0
+Rumble in the Bronx,R,87.0,0.0,6.8,Stanley Tong,Edward Tang,Jackie Chan,Action,1996,1.0,0.0,0.0
+How to Make an American Quilt,PG-13,117.0,0.0,6.3,Jocelyn Moorhouse,Whitney Otto,Winona Ryder,Comedy,1995,1.0,0.0,0.0
+Village of the Damned,R,98.0,0.0,5.7,John Carpenter,John Wyndham,Christopher Reeve,Horror,1995,1.0,0.0,0.0
+Wild Bill,R,98.0,0.0,5.9,Walter Hill,Peter Dexter,Jeff Bridges,Action,1995,1.0,0.0,0.0
+Underground,Not Rated,167.0,0.0,8.1,Emir Kusturica,Dusan Kovacevic,Predrag 'Miki' Manojlovic,Comedy,1997,1.0,0.0,0.0
+Fair Game,R,91.0,0.0,4.3,Andrew Sipes,Paula Gosling,William Baldwin,Action,1995,1.0,0.0,0.0
+Senior Trip,R,91.0,0.0,5.7,Kelly Makin,Roger Kumble,Matt Frewer,Adventure,1995,1.0,0.0,0.0
+Heavy,R,105.0,0.0,6.8,James Mangold,James Mangold,Pruitt Taylor Vince,Drama,1996,1.0,0.0,0.0
+The Cure,PG-13,97.0,0.0,7.7,Peter Horton,Robert Kuhn,Joseph Mazzello,Drama,1995,1.0,0.0,0.0
+Forget Paris,PG-13,101.0,0.0,6.5,Billy Crystal,Billy Crystal,Billy Crystal,Comedy,1995,1.0,0.0,0.0
+The Hunted,R,110.0,0.0,6.0,J.F. Lawton,J.F. Lawton,Christopher Lambert,Action,1995,1.0,0.0,0.0
+Fluke,PG,96.0,0.0,6.7,Carlo Carlei,James Herbert,Matthew Modine,Drama,1995,1.0,0.0,0.0
+Rumpelstiltskin,R,87.0,0.0,4.5,Mark Jones,Mark Jones,Max Grodénchik,Comedy,1995,1.0,0.0,0.0
+Three Wishes,PG,115.0,0.0,6.1,Martha Coolidge,Clifford Green,Patrick Swayze,Drama,1995,1.0,0.0,0.0
+Far from Home: the Adventures of Yellow Dog,PG,81.0,0.0,6.4,Phillip Borsos,Phillip Borsos,Jesse Bradford,Adventure,1995,1.0,0.0,0.0
+Magic in the Water,PG,101.0,0.0,5.5,Rick Stevenson,Rick Stevenson,Mark Harmon,Adventure,1995,1.0,0.0,0.0
+Rough Magic,PG-13,104.0,0.0,5.5,Clare Peploe,James Hadley Chase,Bridget Fonda,Comedy,1997,1.0,0.0,0.0
+Sleepers,R,147.0,0.0,7.6,Barry Levinson,Lorenzo Carcaterra,Robert De Niro,Crime,1996,1.0,0.0,0.0
+Twister,PG-13,113.0,0.0,6.4,Jan de Bont,Michael Crichton,Helen Hunt,Action,1996,1.0,0.0,0.0
+A Time to Kill,R,149.0,0.0,7.5,Joel Schumacher,John Grisham,Matthew McConaughey,Crime,1996,1.0,0.0,0.0
+The Long Kiss Goodnight,R,121.0,0.0,6.8,Renny Harlin,Shane Black,Geena Davis,Action,1996,1.0,0.0,0.0
+Stealing Beauty,R,118.0,0.0,6.6,Bernardo Bertolucci,Bernardo Bertolucci,Jeremy Irons,Drama,1996,1.0,0.0,0.0
+The Birdcage,R,117.0,0.0,7.1,Mike Nichols,Jean Poiret,Robin Williams,Comedy,1996,1.0,0.0,0.0
+Kingpin,PG-13,114.0,0.0,6.9,Bobby Farrelly,Barry Fanaro,Woody Harrelson,Comedy,1996,1.0,0.0,0.0
+Striptease,R,115.0,0.0,4.5,Andrew Bergman,Carl Hiaasen,Demi Moore,Comedy,1996,1.0,0.0,0.0
+Swingers,R,96.0,0.0,7.2,Doug Liman,Jon Favreau,Vince Vaughn,Comedy,1997,1.0,0.0,0.0
+The Cable Guy,PG-13,96.0,0.0,6.1,Ben Stiller,Lou Holtz Jr.,Jim Carrey,Comedy,1996,1.0,0.0,0.0
+James and the Giant Peach,PG,79.0,0.0,6.7,Henry Selick,Roald Dahl,Paul Terry,Animation,1996,1.0,0.0,0.0
+White Squall,PG-13,129.0,0.0,6.6,Ridley Scott,Charles Gieg Jr.,Jeff Bridges,Adventure,1996,1.0,0.0,0.0
+Broken Arrow,R,108.0,0.0,6.0,John Woo,Graham Yost,John Travolta,Action,1996,1.0,0.0,0.0
+Waiting for Guffman,R,84.0,0.0,7.5,Christopher Guest,Christopher Guest,Christopher Guest,Comedy,1997,1.0,0.0,0.0
+Beavis and Butt-Head Do America,PG-13,81.0,0.0,6.8,Directors,Mike Judge,Mike Judge,Animation,1996,1.0,0.0,0.0
+Barb Wire,R,98.0,0.0,3.4,David Hogan,Chris Warner,Pamela Anderson,Action,1996,1.0,0.0,0.0
+The Phantom,PG,100.0,0.0,5.0,Simon Wincer,Lee Falk,Billy Zane,Action,1996,1.0,0.0,0.0
+Eye for an Eye,R,101.0,0.0,6.2,John Schlesinger,Erika Holzer,Sally Field,Crime,1996,1.0,0.0,0.0
+2 Days in the Valley,R,104.0,0.0,6.5,John Herzfeld,John Herzfeld,Teri Hatcher,Comedy,1996,1.0,0.0,0.0
+Freeway,R,102.0,0.0,6.8,Matthew Bright,Matthew Bright,Reese Witherspoon,Comedy,1997,1.0,0.0,0.0
+Kazaam,PG,93.0,0.0,3.0,Paul Michael Glaser,Paul Michael Glaser,Shaquille O'Neal,Comedy,1996,1.0,0.0,0.0
+Down Periscope,PG-13,92.0,0.0,6.2,David S. Ward,Hugh Wilson,Kelsey Grammer,Comedy,1996,1.0,0.0,0.0
+Jingle All the Way,PG,89.0,0.0,5.6,Brian Levant,Randy Kornfield,Arnold Schwarzenegger,Adventure,1996,1.0,0.0,0.0
+Lone Star,R,135.0,0.0,7.4,John Sayles,John Sayles,Chris Cooper,Drama,1996,1.0,0.0,0.0
+Phenomenon,PG,123.0,0.0,6.4,Jon Turteltaub,Gerald Di Pego,John Travolta,Drama,1996,1.0,0.0,0.0
+Evita,PG,135.0,0.0,6.3,Alan Parker,Tim Rice,Madonna,Biography,1997,1.0,0.0,0.0
+Multiplicity,PG-13,117.0,0.0,6.1,Harold Ramis,Chris Miller,Michael Keaton,Comedy,1996,1.0,0.0,0.0
+Basquiat,R,107.0,0.0,6.9,Julian Schnabel,Lech Majewski,Jeffrey Wright,Biography,1996,1.0,0.0,0.0
+Jude,R,123.0,0.0,6.9,Michael Winterbottom,Hossein Amini,Christopher Eccleston,Drama,1996,1.0,0.0,0.0
+Bulletproof,R,84.0,0.0,5.8,Ernest R. Dickerson,Joe Gayton,Damon Wayans,Action,1996,1.0,0.0,0.0
+The Portrait of a Lady,PG-13,144.0,0.0,6.2,Jane Campion,Henry James,Nicole Kidman,Drama,1997,1.0,0.0,0.0
+Foxfire,R,102.0,0.0,6.2,Annette Haywood-Carter,Joyce Carol Oates,Hedy Burress,Drama,1996,1.0,0.0,0.0
+Up Close & Personal,PG-13,124.0,0.0,6.2,Jon Avnet,Joan Didion,Robert Redford,Drama,1996,1.0,0.0,0.0
+Ghosts of Mississippi,PG-13,130.0,0.0,6.7,Rob Reiner,Lewis Colick,Alec Baldwin,Drama,1997,1.0,0.0,0.0
+Jane Eyre,PG,112.0,0.0,6.8,Franco Zeffirelli,Charlotte Brontë,William Hurt,Drama,1996,1.0,0.0,0.0
+SubUrbia,R,121.0,0.0,6.8,Richard Linklater,Eric Bogosian,Giovanni Ribisi,Comedy,1997,1.0,0.0,0.0
+Mary Reilly,R,108.0,0.0,5.8,Stephen Frears,Valerie Martin,Julia Roberts,Drama,1996,1.0,0.0,0.0
+Caught,R,110.0,0.0,6.6,Robert M. Young,Edward Pomerantz,Edward James Olmos,Drama,1996,1.0,0.0,0.0
+All Dogs Go to Heaven 2,G,82.0,0.0,5.5,Larry Leker,Arne Olsen,Charlie Sheen,Animation,1996,1.0,0.0,0.0
+The Van,R,100.0,0.0,6.7,Stephen Frears,Roddy Doyle,Colm Meaney,Comedy,1997,1.0,0.0,0.0
+Moll Flanders,PG-13,123.0,0.0,6.5,Pen Densham,Daniel Defoe,Robin Wright,Drama,1996,1.0,0.0,0.0
+Shiloh,PG,93.0,0.0,6.4,Dale Rosenbloom,Phyllis Reynolds Naylor,Blake Heron,Drama,1997,1.0,0.0,0.0
+Mr. Wrong,PG-13,96.0,0.0,3.8,Nick Castle,Chris Matheson,Ellen DeGeneres,Comedy,1996,1.0,0.0,0.0
+Bloodsport 2,R,90.0,0.0,4.8,Alan Mehrez,Jeff Schechter,Daniel Bernhardt,Action,1996,1.0,0.0,0.0
+Phat Beach,R,89.0,0.0,3.9,Doug Ellin,Cleveland O'Neal III,Jermaine Hopkins,Comedy,1996,1.0,0.0,0.0
+Celtic Pride,PG-13,91.0,0.0,5.3,Tom DeCerchio,Judd Apatow,Damon Wayans,Comedy,1996,1.0,0.0,0.0
+The Game,R,129.0,0.0,7.8,David Fincher,John Brancato,Michael Douglas,Drama,1997,1.0,0.0,0.0
+Austin Powers: International Man of Mystery,PG-13,89.0,0.0,7.0,Jay Roach,Mike Myers,Mike Myers,Adventure,1997,1.0,0.0,0.0
+Lolita,R,137.0,0.0,6.9,Adrian Lyne,Vladimir Nabokov,Jeremy Irons,Drama,1998,1.0,0.0,0.0
+Con Air,R,115.0,0.0,6.9,Simon West,Scott Rosenberg,Nicolas Cage,Action,1997,1.0,0.0,0.0
+Jackie Brown,R,154.0,0.0,7.5,Quentin Tarantino,Quentin Tarantino,Pam Grier,Crime,1997,1.0,0.0,0.0
+Home Alone 3,PG,102.0,0.0,4.5,Raja Gosnell,John Hughes,Alex D. Linz,Action,1997,1.0,0.0,0.0
+Air Force One,R,124.0,0.0,6.5,Wolfgang Petersen,Andrew W. Marlowe,Harrison Ford,Action,1997,1.0,0.0,0.0
+Dante's Peak,PG-13,108.0,0.0,6.0,Roger Donaldson,Leslie Bohem,Pierce Brosnan,Action,1997,1.0,0.0,0.0
+Princess Mononoke,PG-13,134.0,0.0,8.4,Hayao Miyazaki,Hayao Miyazaki,Yôji Matsuda,Animation,1997,1.0,0.0,0.0
+Scream 2,R,120.0,0.0,6.2,Wes Craven,Kevin Williamson,Neve Campbell,Horror,1997,1.0,0.0,0.0
+Gattaca,PG-13,106.0,0.0,7.8,Andrew Niccol,Andrew Niccol,Ethan Hawke,Drama,1997,1.0,0.0,0.0
+Liar Liar,PG-13,86.0,0.0,6.9,Tom Shadyac,Paul Guay,Jim Carrey,Comedy,1997,1.0,0.0,0.0
+Donnie Brasco,R,127.0,0.0,7.7,Mike Newell,Joseph D. Pistone,Al Pacino,Biography,1997,1.0,0.0,0.0
+George of the Jungle,PG,92.0,0.0,5.5,Sam Weisman,Jay Ward,Brendan Fraser,Action,1997,1.0,0.0,0.0
+Anastasia,G,94.0,0.0,7.2,Don Bluth,Susan Gauthier,Meg Ryan,Animation,1997,1.0,0.0,0.0
+Good Burger,PG,95.0,0.0,5.7,Brian Robbins,Dan Schneider,Kel Mitchell,Comedy,1997,1.0,0.0,0.0
+The Edge,R,117.0,0.0,6.9,Lee Tamahori,David Mamet,Anthony Hopkins,Action,1997,1.0,0.0,0.0
+Speed 2: Cruise Control,PG-13,121.0,0.0,3.9,Jan de Bont,Graham Yost,Sandra Bullock,Action,1997,1.0,0.0,0.0
+Seven Years in Tibet,PG-13,136.0,0.0,7.1,Jean-Jacques Annaud,Heinrich Harrer,Brad Pitt,Adventure,1997,1.0,0.0,0.0
+U Turn,R,125.0,0.0,6.7,Oliver Stone,John Ridley,Sean Penn,Crime,1997,1.0,0.0,0.0
+Open Your Eyes,R,119.0,0.0,7.7,Alejandro Amenábar,Alejandro Amenábar,Eduardo Noriega,Drama,1997,1.0,0.0,0.0
+Murder at 1600,R,107.0,0.0,6.1,Dwight H. Little,Wayne Beach,Wesley Snipes,Action,1997,1.0,0.0,0.0
+Soul Food,R,115.0,0.0,7.0,George Tillman Jr.,George Tillman Jr.,Vanessa Williams,Comedy,1997,1.0,0.0,0.0
+Wishmaster,R,90.0,0.0,5.8,Robert Kurtzman,Peter Atkins,Tammy Lauren,Fantasy,1997,1.0,0.0,0.0
+The Sweet Hereafter,R,112.0,0.0,7.5,Atom Egoyan,Russell Banks,Ian Holm,Drama,1997,1.0,0.0,0.0
+Steel,PG-13,97.0,0.0,2.9,Kenneth Johnson,Louise Simonson,Shaquille O'Neal,Action,1997,1.0,0.0,0.0
+Kundun,PG-13,134.0,0.0,7.0,Martin Scorsese,Melissa Mathison,Tenzin Thuthob Tsarong,Biography,1998,1.0,0.0,0.0
+Cure,Not Rated,111.0,0.0,7.4,Kiyoshi Kurosawa,Kiyoshi Kurosawa,Masato Hagiwara,Crime,2001,1.0,0.0,0.0
+Live Flesh,R,103.0,0.0,7.4,Pedro Almodóvar,Pedro Almodóvar,Liberto Rabal,Drama,1998,1.0,0.0,0.0
+Turbo: A Power Rangers Movie,PG,99.0,0.0,3.7,Shuki Levy,Shuki Levy,Jason David Frank,Action,1997,1.0,0.0,0.0
+Nowhere,R,82.0,0.0,6.5,Gregg Araki,Gregg Araki,James Duval,Comedy,1997,1.0,0.0,0.0
+Excess Baggage,PG-13,101.0,0.0,5.4,Marco Brambilla,Max D. Adams,Alicia Silverstone,Action,1997,1.0,0.0,0.0
+The Beautician and the Beast,PG,105.0,0.0,5.5,Ken Kwapis,Todd Graff,Fran Drescher,Comedy,1997,1.0,0.0,0.0
+City of Industry,R,97.0,0.0,6.1,John Irvin,Ken Solarz,Harvey Keitel,Crime,1997,1.0,0.0,0.0
+A Life Less Ordinary,R,103.0,0.0,6.4,Danny Boyle,John Hodge,Cameron Diaz,Comedy,1997,1.0,0.0,0.0
+Insomnia,Not Rated,96.0,0.0,7.3,Erik Skjoldbjærg,Nikolaj Frobenius,Stellan Skarsgård,Crime,1998,1.0,0.0,0.0
+Nightwatch,R,101.0,0.0,6.2,Ole Bornedal,Ole Bornedal,Ewan McGregor,Drama,1998,1.0,0.0,0.0
+Gridlock'd,R,91.0,0.0,6.9,Vondie Curtis-Hall,Vondie Curtis-Hall,Tupac Shakur,Comedy,1997,1.0,0.0,0.0
+Prefontaine,PG-13,106.0,0.0,6.8,Steve James,Steve James,Jared Leto,Biography,1997,1.0,0.0,0.0
+Cats Don't Dance,G,75.0,0.0,6.9,Mark Dindal,Mark Dindal,Scott Bakula,Animation,1997,1.0,0.0,0.0
+Two Girls and a Guy,R,84.0,0.0,5.5,James Toback,James Toback,Robert Downey Jr.,Comedy,1999,1.0,0.0,0.0
+Leave It to Beaver,PG,84.0,0.0,5.2,Andy Cadiff,Bob Mosher,Christopher McDonald,Comedy,1997,1.0,0.0,0.0
+Plump Fiction,R,82.0,0.0,2.7,Bob Koherr,Bob Koherr,Tommy Davidson,Comedy,1997,1.0,0.0,0.0
+Gone Fishin',PG,94.0,0.0,4.8,Christopher Cain,Jill Mazursky,Joe Pesci,Comedy,1997,1.0,0.0,0.0
+Eight Days a Week,R,92.0,0.0,6.2,Michael Davis,Michael Davis,Joshua Schaefer,Comedy,1999,1.0,0.0,0.0
+Welcome to Sarajevo,R,103.0,0.0,6.8,Michael Winterbottom,Michael Nicholson,Stephen Dillane,Drama,1997,1.0,0.0,0.0
+How to Be a Player,R,93.0,0.0,5.4,Lionel C. Martin,Mark Brown,Bill Bellamy,Comedy,1997,1.0,0.0,0.0
+The MatchMaker,R,97.0,0.0,6.5,Mark Joffe,Greg Dinner,Janeane Garofalo,Comedy,1997,1.0,0.0,0.0
+Wild Things,R,108.0,0.0,6.5,John McNaughton,Stephen Peters,Kevin Bacon,Crime,1998,1.0,0.0,0.0
+Meet Joe Black,PG-13,178.0,0.0,7.2,Martin Brest,Ron Osborn,Brad Pitt,Drama,1998,1.0,0.0,0.0
+Fear and Loathing in Las Vegas,R,118.0,0.0,7.6,Terry Gilliam,Hunter S. Thompson,Johnny Depp,Adventure,1998,1.0,0.0,0.0
+There's Something About Mary,R,119.0,0.0,7.1,Bobby Farrelly,Ed Decter,Cameron Diaz,Comedy,1998,1.0,0.0,0.0
+Out of Sight,R,123.0,0.0,7.0,Steven Soderbergh,Elmore Leonard,George Clooney,Comedy,1998,1.0,0.0,0.0
+Pleasantville,PG-13,124.0,0.0,7.5,Gary Ross,Gary Ross,Tobey Maguire,Comedy,1998,1.0,0.0,0.0
+The Mask of Zorro,PG-13,136.0,0.0,6.8,Martin Campbell,Johnston McCulley,Antonio Banderas,Action,1998,1.0,0.0,0.0
+Stepmom,PG-13,125.0,0.0,6.8,Chris Columbus,Gigi Levangie,Julia Roberts,Comedy,1998,1.0,0.0,0.0
+The Horse Whisperer,PG-13,169.0,0.0,6.6,Robert Redford,Nick Evans,Robert Redford,Drama,1998,1.0,0.0,0.0
+Happiness,Unrated,134.0,0.0,7.7,Todd Solondz,Todd Solondz,Jane Adams,Comedy,1998,1.0,0.0,0.0
+Patch Adams,PG-13,115.0,0.0,6.8,Tom Shadyac,Patch Adams,Robin Williams,Biography,1998,1.0,0.0,0.0
+U.S. Marshals,PG-13,131.0,0.0,6.6,Stuart Baird,Roy Huggins,Tommy Lee Jones,Action,1998,1.0,0.0,0.0
+54,R,93.0,0.0,5.8,Mark Christopher,Mark Christopher,Ryan Phillippe,Drama,1998,1.0,0.0,0.0
+Buffalo '66,R,110.0,0.0,7.5,Vincent Gallo,Vincent Gallo,Vincent Gallo,Comedy,1998,1.0,0.0,0.0
+Psycho,R,105.0,0.0,4.6,Gus Van Sant,Robert Bloch,Vince Vaughn,Horror,1998,1.0,0.0,0.0
+Disturbing Behavior,R,84.0,0.0,5.6,David Nutter,Scott Rosenberg,James Marsden,Horror,1998,1.0,0.0,0.0
+Run Lola Run,R,80.0,0.0,7.7,Tom Tykwer,Tom Tykwer,Franka Potente,Crime,1999,1.0,0.0,0.0
+City of Angels,PG-13,114.0,0.0,6.7,Brad Silberling,Wim Wenders,Nicolas Cage,Drama,1998,1.0,0.0,0.0
+Vampires,R,108.0,0.0,6.1,John Carpenter,John Steakley,James Woods,Action,1998,1.0,0.0,0.0
+Dirty Work,PG-13,82.0,0.0,6.4,Bob Saget,Frank Sebastiano,Norm MacDonald,Comedy,1998,1.0,0.0,0.0
+Apt Pupil,R,111.0,0.0,6.7,Bryan Singer,Stephen King,Ian McKellen,Crime,1998,1.0,0.0,0.0
+Madeline,PG,88.0,0.0,6.0,Daisy von Scherler Mayer,Ludwig Bemelmans,Frances McDormand,Comedy,1998,1.0,0.0,0.0
+The Big Hit,R,91.0,0.0,6.1,Kirk Wong,Ben Ramsey,Mark Wahlberg,Action,1998,1.0,0.0,0.0
+Blues Brothers 2000,PG-13,123.0,0.0,4.9,John Landis,Dan Aykroyd,Dan Aykroyd,Action,1998,1.0,0.0,0.0
+Twilight,R,94.0,0.0,6.2,Robert Benton,Robert Benton,Paul Newman,Crime,1998,1.0,0.0,0.0
+Waking Ned Devine,PG,91.0,0.0,7.4,Kirk Jones,Kirk Jones,Ian Bannen,Comedy,1999,1.0,0.0,0.0
+Wrongfully Accused,PG-13,87.0,0.0,6.1,Pat Proft,Pat Proft,Leslie Nielsen,Action,1998,1.0,0.0,0.0
+"Crna macka, beli macor",R,127.0,0.0,8.1,Emir Kusturica,Gordan Mihic,Bajram Severdzan,Comedy,1998,1.0,0.0,0.0
+Jack Frost,PG,101.0,0.0,5.4,Troy Miller,Mark Steven Johnson,Michael Keaton,Comedy,1998,1.0,0.0,0.0
+Dead Man on Campus,R,96.0,0.0,6.0,Alan Cohn,Anthony Abrams,Tom Everett Scott,Comedy,1998,1.0,0.0,0.0
+Central Station,R,110.0,0.0,8.0,Walter Salles,Marcos Bernstein,Fernanda Montenegro,Drama,1998,1.0,0.0,0.0
+Return to Paradise,R,111.0,0.0,6.9,Joseph Ruben,Pierre Jolivet,Vince Vaughn,Drama,1998,1.0,0.0,0.0
+Lovers of the Arctic Circle,R,112.0,0.0,7.7,Julio Medem,Julio Medem,Najwa Nimri,Drama,1998,1.0,0.0,0.0
+Slums of Beverly Hills,R,91.0,0.0,6.6,Tamara Jenkins,Tamara Jenkins,Natasha Lyonne,Comedy,1998,1.0,0.0,0.0
+Strangeland,R,85.0,0.0,5.1,John Pieplow,Dee Snider,Kevin Gage,Horror,1998,1.0,0.0,0.0
+Paulie,PG,91.0,0.0,6.5,John Roberts,Laurie Craig,Gena Rowlands,Adventure,1998,1.0,0.0,0.0
+After Life,Not Rated,119.0,0.0,7.6,Hirokazu Koreeda,Hirokazu Koreeda,Arata Iura,Drama,1999,1.0,0.0,0.0
+Permanent Midnight,R,88.0,0.0,6.2,David Veloz,Jerry Stahl,Ben Stiller,Biography,1999,1.0,0.0,0.0
+I'll Be Home for Christmas,PG,86.0,0.0,5.5,Arlene Sanford,Tom Nursall,Jonathan Taylor Thomas,Comedy,1998,1.0,0.0,0.0
+The Acid House,Unrated,111.0,0.0,6.3,Paul McGuigan,Irvine Welsh,Stephen McCole,Comedy,1999,1.0,0.0,0.0
+Kissing a Fool,R,93.0,0.0,5.6,Doug Ellin,James Frey,David Schwimmer,Comedy,1998,1.0,0.0,0.0
+Sour Grapes,R,91.0,0.0,5.8,Larry David,Larry David,Steven Weber,Comedy,1998,1.0,0.0,0.0
+Place Vendôme,R,117.0,0.0,6.3,Nicole Garcia,Jacques Fieschi,Catherine Deneuve,Crime,1998,1.0,0.0,0.0
+Sweet Jane,Not Rated,83.0,0.0,7.0,Joe Gayton,Joe Gayton,Samantha Mathis,Drama,1998,1.0,0.0,0.0
+The Talented Mr. Ripley,R,139.0,0.0,7.4,Anthony Minghella,Patricia Highsmith,Matt Damon,Crime,1999,1.0,0.0,0.0
+The Mummy,PG-13,124.0,0.0,7.0,Stephen Sommers,Stephen Sommers,Brendan Fraser,Action,1999,1.0,0.0,0.0
+Galaxy Quest,PG,102.0,0.0,7.3,Dean Parisot,David Howard,Tim Allen,Adventure,1999,1.0,0.0,0.0
+The Blair Witch Project,R,81.0,0.0,6.5,Daniel Myrick,Daniel Myrick,Heather Donahue,Horror,1999,1.0,0.0,0.0
+Deep Blue Sea,R,105.0,0.0,5.9,Renny Harlin,Duncan Kennedy,Thomas Jane,Action,1999,1.0,0.0,0.0
+Election,R,103.0,0.0,7.2,Alexander Payne,Tom Perrotta,Matthew Broderick,Comedy,1999,1.0,0.0,0.0
+The Iron Giant,PG,86.0,0.0,8.0,Brad Bird,Tim McCanlies,Eli Marienthal,Animation,1999,1.0,0.0,0.0
+Deuce Bigalow: Male Gigolo,R,88.0,0.0,5.7,Mike Mitchell,Harris Goldberg,Rob Schneider,Comedy,1999,1.0,0.0,0.0
+Drop Dead Gorgeous,PG-13,97.0,0.0,6.6,Michael Patrick Jann,Lona Williams,Kirsten Dunst,Comedy,1999,1.0,0.0,0.0
+Boys Don't Cry,R,118.0,0.0,7.5,Kimberly Peirce,Kimberly Peirce,Hilary Swank,Biography,2000,1.0,0.0,0.0
+October Sky,PG,108.0,0.0,7.8,Joe Johnston,Homer H. Hickam Jr.,Jake Gyllenhaal,Biography,1999,1.0,0.0,0.0
+"South Park: Bigger, Longer & Uncut",R,81.0,0.0,7.7,Trey Parker,Trey Parker,Trey Parker,Animation,1999,1.0,0.0,0.0
+Idle Hands,R,92.0,0.0,6.2,Rodman Flender,Terri Hughes Burton,Devon Sawa,Comedy,1999,1.0,0.0,0.0
+Ravenous,R,101.0,0.0,7.0,Antonia Bird,Ted Griffin,Guy Pearce,Adventure,1999,1.0,0.0,0.0
+Mansfield Park,PG-13,112.0,0.0,7.1,Patricia Rozema,Jane Austen,Frances O'Connor,Comedy,1999,1.0,0.0,0.0
+Stir of Echoes,R,99.0,0.0,7.0,David Koepp,Richard Matheson,Kevin Bacon,Horror,1999,1.0,0.0,0.0
+Teaching Mrs. Tingle,PG-13,96.0,0.0,5.3,Kevin Williamson,Kevin Williamson,Helen Mirren,Comedy,1999,1.0,0.0,0.0
+Inspector Gadget,PG,78.0,0.0,4.2,David Kellogg,Andy Heyward,Matthew Broderick,Action,1999,1.0,0.0,0.0
+Arlington Road,R,117.0,0.0,7.2,Mark Pellington,Ehren Kruger,Jeff Bridges,Action,1999,1.0,0.0,0.0
+All About My Mother,R,101.0,0.0,7.9,Pedro Almodóvar,Pedro Almodóvar,Cecilia Roth,Drama,2000,1.0,0.0,0.0
+Blue Streak,PG-13,93.0,0.0,6.3,Les Mayfield,Michael Berry,Martin Lawrence,Action,1999,1.0,0.0,0.0
+Message in a Bottle,PG-13,126.0,0.0,6.2,Luis Mandoki,Nicholas Sparks,Kevin Costner,Drama,1999,1.0,0.0,0.0
+Dick,PG-13,94.0,0.0,6.2,Andrew Fleming,Andrew Fleming,Kirsten Dunst,Comedy,1999,1.0,0.0,0.0
+Titus,R,162.0,0.0,7.1,Julie Taymor,William Shakespeare,Anthony Hopkins,Drama,2000,1.0,0.0,0.0
+Edtv,PG-13,122.0,0.0,6.1,Ron Howard,Émile Gaudreault,Matthew McConaughey,Comedy,1999,1.0,0.0,0.0
+Random Hearts,R,133.0,0.0,5.2,Sydney Pollack,Warren Adler,Harrison Ford,Drama,1999,1.0,0.0,0.0
+Fantasia 2000,G,75.0,0.0,7.2,Directors,Eric Goldberg,James Levine,Animation,2000,1.0,0.0,0.0
+The Rage: Carrie 2,R,104.0,0.0,4.7,Katt Shea,Stephen King,Emily Bergl,Horror,1999,1.0,0.0,0.0
+The Astronaut's Wife,R,109.0,0.0,5.4,Rand Ravich,Rand Ravich,Charlize Theron,Drama,1999,1.0,0.0,0.0
+The Adventures of Elmo in Grouchland,G,73.0,0.0,5.8,Gary Halvorson,Mitchell Kriegman,Kevin Clash,Adventure,1999,1.0,0.0,0.0
+Dudley Do-Right,PG,77.0,0.0,3.9,Hugh Wilson,Jay Ward,Brendan Fraser,Comedy,1999,1.0,0.0,0.0
+Pokémon the Movie 2000,G,99.0,0.0,6.1,Michael Haigney,Satoshi Tajiri,Veronica Taylor,Animation,2000,1.0,0.0,0.0
+At First Sight,PG-13,128.0,0.0,6.0,Irwin Winkler,Oliver Sacks,Val Kilmer,Drama,1999,1.0,0.0,0.0
+Cookie's Fortune,PG-13,118.0,0.0,6.9,Robert Altman,Anne Rapp,Glenn Close,Comedy,1999,1.0,0.0,0.0
+Onegin,R,106.0,0.0,6.8,Martha Fiennes,Peter Ettedgui,Ralph Fiennes,Drama,1999,1.0,0.0,0.0
+The Love Letter,PG-13,88.0,0.0,5.5,Peter Ho-Sun Chan,Cathleen Schine,Kate Capshaw,Comedy,1999,1.0,0.0,0.0
+In Too Deep,R,95.0,0.0,6.3,Michael Rymer,Michael Henry Brown,Omar Epps,Crime,1999,1.0,0.0,0.0
+Play It to the Bone,R,124.0,0.0,5.5,Ron Shelton,Ron Shelton,Woody Harrelson,Comedy,2000,1.0,0.0,0.0
+The Color of Paradise,PG,90.0,0.0,8.2,Majid Majidi,Majid Majidi,Hossein Mahjoub,Drama,2000,1.0,0.0,0.0
+An Affair of Love,R,80.0,0.0,7.1,Frédéric Fonteyne,Philippe Blasband,Nathalie Baye,Drama,1999,1.0,0.0,0.0
+Aimee & Jaguar,Not Rated,125.0,0.0,7.2,Max Färberböck,Max Färberböck,Maria Schrader,Biography,1999,1.0,0.0,0.0
+The Minus Man,R,111.0,0.0,6.1,Hampton Fancher,Lew McCreary,Owen Wilson,Crime,1999,1.0,0.0,0.0
+Joe the King,R,93.0,0.0,6.7,Frank Whaley,Frank Whaley,Noah Fleiss,Crime,1999,1.0,0.0,0.0
+American Psycho,R,101.0,0.0,7.6,Mary Harron,Bret Easton Ellis,Christian Bale,Comedy,2000,1.0,0.0,0.0
+X-Men,PG-13,104.0,0.0,7.4,Bryan Singer,Tom DeSanto,Patrick Stewart,Action,2000,1.0,0.0,0.0
+Unbreakable,PG-13,106.0,0.0,7.3,M. Night Shyamalan,M. Night Shyamalan,Bruce Willis,Drama,2000,1.0,0.0,0.0
+The Beach,R,119.0,0.0,6.7,Danny Boyle,John Hodge,Leonardo DiCaprio,Adventure,2000,1.0,0.0,0.0
+Mission: Impossible II,PG-13,123.0,0.0,6.1,John Woo,Bruce Geller,Tom Cruise,Action,2000,1.0,0.0,0.0
+The 6th Day,PG-13,123.0,0.0,5.9,Roger Spottiswoode,Cormac Wibberley,Arnold Schwarzenegger,Action,2000,1.0,0.0,0.0
+Chicken Run,G,84.0,0.0,7.0,Peter Lord,Peter Lord,Mel Gibson,Animation,2000,1.0,0.0,0.0
+Final Destination,R,98.0,0.0,6.7,James Wong,Glen Morgan,Devon Sawa,Horror,2000,1.0,0.0,0.0
+What Lies Beneath,PG-13,130.0,0.0,6.6,Robert Zemeckis,Clark Gregg,Harrison Ford,Drama,2000,1.0,0.0,0.0
+The Emperor's New Groove,G,78.0,0.0,7.4,Mark Dindal,Chris Williams,David Spade,Animation,2000,1.0,0.0,0.0
+"Crouching Tiger, Hidden Dragon",PG-13,120.0,0.0,7.8,Ang Lee,Hui-Ling Wang,Chow Yun-Fat,Action,2001,1.0,0.0,0.0
+"Dude, Where's My Car?",PG-13,83.0,0.0,5.5,Danny Leiner,Philip Stark,Ashton Kutcher,Comedy,2000,1.0,0.0,0.0
+Scarlet Diva,R,90.0,0.0,5.0,Asia Argento,Asia Argento,Asia Argento,Drama,2000,1.0,0.0,0.0
+Love & Basketball,PG-13,124.0,0.0,7.2,Gina Prince-Bythewood,Gina Prince-Bythewood,Sanaa Lathan,Drama,2000,1.0,0.0,0.0
+Pay It Forward,PG-13,123.0,0.0,7.2,Mimi Leder,Catherine Ryan Hyde,Kevin Spacey,Drama,2000,1.0,0.0,0.0
+Vertical Limit,PG-13,124.0,0.0,5.9,Martin Campbell,Robert King,Scott Glenn,Action,2000,1.0,0.0,0.0
+102 Dalmatians,G,100.0,0.0,4.9,Kevin Lima,Dodie Smith,Glenn Close,Adventure,2000,1.0,0.0,0.0
+Shaft,R,99.0,0.0,6.0,John Singleton,Ernest Tidyman,Samuel L. Jackson,Action,2000,1.0,0.0,0.0
+Keeping the Faith,PG-13,128.0,0.0,6.4,Edward Norton,Stuart Blumberg,Ben Stiller,Comedy,2000,1.0,0.0,0.0
+Book of Shadows: Blair Witch 2,R,90.0,0.0,4.0,Joe Berlinger,Daniel Myrick,Jeffrey Donovan,Adventure,2000,1.0,0.0,0.0
+Rules of Engagement,R,128.0,0.0,6.4,William Friedkin,Jim Webb,Tommy Lee Jones,Drama,2000,1.0,0.0,0.0
+The Dish,PG-13,101.0,0.0,7.2,Rob Sitch,Santo Cilauro,Sam Neill,Comedy,2001,1.0,0.0,0.0
+The Adventures of Rocky & Bullwinkle,PG,92.0,0.0,4.2,Des McAnuff,Jay Ward,Robert De Niro,Animation,2000,1.0,0.0,0.0
+Bamboozled,R,135.0,0.0,6.6,Spike Lee,Spike Lee,Damon Wayans,Comedy,2000,1.0,0.0,0.0
+Tigerland,R,101.0,0.0,7.0,Joel Schumacher,Ross Klavan,Colin Farrell,Drama,2001,1.0,0.0,0.0
+Left Behind: The Movie,PG-13,96.0,0.0,4.5,Vic Sarin,Alan B. McElroy,Kirk Cameron,Action,2001,1.0,0.0,0.0
+Psycho Beach Party,Unrated,95.0,0.0,6.2,Robert Lee King,Charles Busch,Lauren Ambrose,Comedy,2001,1.0,0.0,0.0
+The Isle,Not Rated,90.0,0.0,7.0,Kim Ki-duk,Kim Ki-duk,Jung Suh,Drama,2000,1.0,0.0,0.0
+Ready to Rumble,PG-13,107.0,0.0,5.4,Brian Robbins,Steven Brill,David Arquette,Comedy,2000,1.0,0.0,0.0
+My Dog Skip,PG,95.0,0.0,7.0,Jay Russell,Willie Morris,Frankie Muniz,Comedy,2000,1.0,0.0,0.0
+Lucky Numbers,R,105.0,0.0,5.0,Nora Ephron,Adam Resnick,John Travolta,Comedy,2000,1.0,0.0,0.0
+Small Time Crooks,PG,94.0,0.0,6.7,Woody Allen,Woody Allen,Woody Allen,Comedy,2000,1.0,0.0,0.0
+Bounce,PG-13,106.0,0.0,5.7,Don Roos,Don Roos,Ben Affleck,Drama,2000,1.0,0.0,0.0
+The House of Mirth,PG,135.0,0.0,7.0,Terence Davies,Edith Wharton,Gillian Anderson,Romance,2000,1.0,0.0,0.0
+The Tigger Movie,G,77.0,0.0,6.4,Jun Falkenstein,Eddie Guzelian,Jim Cummings,Animation,2000,1.0,0.0,0.0
+Committed,R,98.0,0.0,5.1,Lisa Krueger,Lisa Krueger,Heather Graham,Comedy,2000,1.0,0.0,0.0
+The Golden Bowl,R,130.0,0.0,5.9,James Ivory,Henry James,Uma Thurman,Drama,2001,1.0,0.0,0.0
+Digimon: The Movie,PG,82.0,0.0,6.1,Directors,Akiyoshi Hongo,Lara Jill Miller,Animation,2000,1.0,0.0,0.0
+Harry Potter and the Sorcerer's Stone,PG,152.0,0.0,7.6,Chris Columbus,J.K. Rowling,Daniel Radcliffe,Adventure,2001,1.0,0.0,0.0
+The Lord of the Rings: The Fellowship of the Ring,PG-13,178.0,0.0,8.8,Peter Jackson,J.R.R. Tolkien,Elijah Wood,Action,2001,1.0,0.0,0.0
+Legally Blonde,PG-13,96.0,0.0,6.3,Robert Luketic,Amanda Brown,Reese Witherspoon,Comedy,2001,1.0,0.0,0.0
+"Monsters, Inc.",G,92.0,0.0,8.1,Pete Docter,Pete Docter,Billy Crystal,Animation,2001,1.0,0.0,0.0
+Not Another Teen Movie,R,89.0,0.0,5.7,Joel Gallen,Mike Bender,Chyler Leigh,Comedy,2001,1.0,0.0,0.0
+A Beautiful Mind,PG-13,135.0,0.0,8.2,Ron Howard,Akiva Goldsman,Russell Crowe,Biography,2002,1.0,0.0,0.0
+Amélie,R,122.0,0.0,8.3,Jean-Pierre Jeunet,Guillaume Laurant,Audrey Tautou,Comedy,2002,1.0,0.0,0.0
+Vanilla Sky,R,136.0,0.0,6.9,Cameron Crowe,Alejandro Amenábar,Tom Cruise,Fantasy,2001,1.0,0.0,0.0
+Rat Race,PG-13,112.0,0.0,6.4,Jerry Zucker,Andy Breckman,Breckin Meyer,Action,2001,1.0,0.0,0.0
+Summer Catch,PG-13,104.0,0.0,5.1,Michael Tollin,Kevin Falls,Freddie Prinze Jr.,Comedy,2001,1.0,0.0,0.0
+Zoolander,PG-13,90.0,0.0,6.5,Ben Stiller,Drake Sather,Ben Stiller,Comedy,2001,1.0,0.0,0.0
+Jurassic Park III,PG-13,92.0,0.0,5.9,Joe Johnston,Michael Crichton,Sam Neill,Action,2001,1.0,0.0,0.0
+Enemy at the Gates,R,131.0,0.0,7.6,Jean-Jacques Annaud,Jean-Jacques Annaud,Jude Law,Drama,2001,1.0,0.0,0.0
+Evolution,PG-13,101.0,0.0,6.1,Ivan Reitman,Don Jakoby,David Duchovny,Comedy,2001,1.0,0.0,0.0
+Bully,TV-MA,108.0,0.0,6.9,Larry Clark,Jim Schutze,Brad Renfro,Biography,2001,1.0,0.0,0.0
+The Piano Teacher,R,131.0,0.0,7.5,Michael Haneke,Michael Haneke,Isabelle Huppert,Drama,2001,1.0,0.0,0.0
+Lara Croft: Tomb Raider,PG-13,100.0,0.0,5.8,Simon West,Sara B. Cooper,Angelina Jolie,Action,2001,1.0,0.0,0.0
+Along Came a Spider,R,104.0,0.0,6.4,Lee Tamahori,James Patterson,Morgan Freeman,Drama,2001,1.0,0.0,0.0
+Domestic Disturbance,PG-13,89.0,0.0,5.6,Harold Becker,Lewis Colick,John Travolta,Crime,2001,1.0,0.0,0.0
+3000 Miles to Graceland,R,125.0,0.0,6.0,Demian Lichtenstein,Richard Recco,Kurt Russell,Action,2001,1.0,0.0,0.0
+Jay and Silent Bob Strike Back,R,104.0,0.0,6.8,Kevin Smith,Kevin Smith,Jason Mewes,Comedy,2001,1.0,0.0,0.0
+Crocodile Dundee in Los Angeles,PG,95.0,0.0,4.8,Simon Wincer,Paul Hogan,Paul Hogan,Action,2001,1.0,0.0,0.0
+Heist,R,109.0,0.0,6.5,David Mamet,David Mamet,Gene Hackman,Action,2001,1.0,0.0,0.0
+The Pledge,R,124.0,0.0,6.8,Sean Penn,Friedrich Dürrenmatt,Jack Nicholson,Crime,2001,1.0,0.0,0.0
+Ghosts of Mars,R,98.0,0.0,4.9,John Carpenter,Larry Sulkis,Natasha Henstridge,Action,2001,1.0,0.0,0.0
+Rock Star,R,105.0,0.0,6.3,Stephen Herek,John Stockwell,Mark Wahlberg,Drama,2001,1.0,0.0,0.0
+The Glass House,PG-13,106.0,0.0,5.8,Daniel Sackheim,Wesley Strick,Diane Lane,Crime,2001,1.0,0.0,0.0
+Baby Boy,R,130.0,0.0,6.4,John Singleton,John Singleton,Alexsandra Wright,Crime,2001,1.0,0.0,0.0
+Don't Say a Word,R,113.0,0.0,6.3,Gary Fleder,Andrew Klavan,Michael Douglas,Drama,2001,1.0,0.0,0.0
+In the Bedroom,R,131.0,0.0,7.4,Todd Field,Andre Dubus,Tom Wilkinson,Crime,2002,1.0,0.0,0.0
+Pootie Tang,PG-13,81.0,0.0,5.3,Louis C.K.,Louis C.K.,Chris Rock,Action,2001,1.0,0.0,0.0
+The Devil's Backbone,R,106.0,0.0,7.4,Guillermo del Toro,Guillermo del Toro,Marisa Paredes,Drama,2001,1.0,0.0,0.0
+Exit Wounds,R,101.0,0.0,5.6,Andrzej Bartkowiak,Ed Horowitz,Steven Seagal,Action,2001,1.0,0.0,0.0
+America's Sweethearts,PG-13,102.0,0.0,5.7,Joe Roth,Billy Crystal,Julia Roberts,Comedy,2001,1.0,0.0,0.0
+Millennium Actress,PG,87.0,0.0,7.9,Satoshi Kon,Satoshi Kon,Miyoko Shôji,Animation,2002,1.0,0.0,0.0
+Formula 51,R,93.0,0.0,6.3,Ronny Yu,Stel Pavlou,Samuel L. Jackson,Action,2002,1.0,0.0,0.0
+15 Minutes,R,120.0,0.0,6.1,John Herzfeld,John Herzfeld,Robert De Niro,Action,2001,1.0,0.0,0.0
+Iris,R,91.0,0.0,7.0,Richard Eyre,John Bayley,Judi Dench,Biography,2002,1.0,0.0,0.0
+Trouble Every Day,Not Rated,101.0,0.0,6.0,Claire Denis,Claire Denis,Vincent Gallo,Drama,2001,1.0,0.0,0.0
+Max Keeble's Big Move,PG,86.0,0.0,5.4,Tim Hill,David L. Watts,Alex D. Linz,Comedy,2001,1.0,0.0,0.0
+Lantana,R,121.0,0.0,7.3,Ray Lawrence,Andrew Bovell,Anthony LaPaglia,Drama,2002,1.0,0.0,0.0
+L.I.E.,Unrated,97.0,0.0,7.1,Michael Cuesta,Stephen M. Ryder,Brian Cox,Crime,2002,1.0,0.0,0.0
+The Wash,R,93.0,0.0,4.8,DJ Pooh,DJ Pooh,Dr. Dre,Comedy,2001,1.0,0.0,0.0
+Texas Rangers,PG-13,90.0,0.0,5.2,Steve Miner,George Durham,James Van Der Beek,Action,2001,1.0,0.0,0.0
+What's the Worst That Could Happen?,PG-13,94.0,0.0,5.5,Sam Weisman,Donald E. Westlake,Martin Lawrence,Comedy,2001,1.0,0.0,0.0
+Down to Earth,PG-13,87.0,0.0,5.4,Chris Weitz,Elaine May,Chris Rock,Comedy,2001,1.0,0.0,0.0
+See Spot Run,PG,94.0,0.0,5.4,John Whitesell,George Gallo,David Arquette,Action,2001,1.0,0.0,0.0
+Metropolis,PG-13,108.0,0.0,7.2,Rintaro,Osamu Tezuka,Toshio Furukawa,Animation,2002,1.0,0.0,0.0
+Corky Romano,PG-13,86.0,0.0,4.7,Rob Pritts,David Garrett,Chris Kattan,Comedy,2001,1.0,0.0,0.0
+The Sum of All Fears,PG-13,124.0,0.0,6.4,Phil Alden Robinson,Tom Clancy,Ben Affleck,Action,2002,1.0,0.0,0.0
+Star Wars: Episode II - Attack of the Clones,PG,142.0,0.0,6.5,George Lucas,George Lucas,Hayden Christensen,Action,2002,1.0,0.0,0.0
+Austin Powers in Goldmember,PG-13,94.0,0.0,6.2,Jay Roach,Mike Myers,Mike Myers,Action,2002,1.0,0.0,0.0
+Ice Age,PG,81.0,0.0,7.5,Chris Wedge,Michael J. Wilson,Denis Leary,Animation,2002,1.0,0.0,0.0
+My Big Fat Greek Wedding,PG,95.0,0.0,6.6,Joel Zwick,Nia Vardalos,Nia Vardalos,Comedy,2002,1.0,0.0,0.0
+We Were Soldiers,R,138.0,0.0,7.2,Randall Wallace,Harold G. Moore,Mel Gibson,Action,2002,1.0,0.0,0.0
+xXx,PG-13,124.0,0.0,5.9,Rob Cohen,Rich Wilkes,Vin Diesel,Action,2002,1.0,0.0,0.0
+The Scorpion King,PG-13,92.0,0.0,5.5,Chuck Russell,Stephen Sommers,Dwayne Johnson,Action,2002,1.0,0.0,0.0
+Die Another Day,PG-13,133.0,0.0,6.1,Lee Tamahori,Ian Fleming,Pierce Brosnan,Action,2002,1.0,0.0,0.0
+Ghost Ship,R,91.0,0.0,5.5,Steve Beck,Mark Hanlon,Julianna Margulies,Horror,2002,1.0,0.0,0.0
+Spirit: Stallion of the Cimarron,G,83.0,0.0,7.2,Kelly Asbury,John Fusco,Matt Damon,Animation,2002,1.0,0.0,0.0
+Phone Booth,R,81.0,0.0,7.0,Joel Schumacher,Larry Cohen,Colin Farrell,Crime,2003,1.0,0.0,0.0
+Cabin Fever,R,93.0,0.0,5.6,Eli Roth,Eli Roth,Jordan Ladd,Horror,2003,1.0,0.0,0.0
+25th Hour,R,135.0,0.0,7.6,Spike Lee,David Benioff,Edward Norton,Drama,2003,1.0,0.0,0.0
+Infernal Affairs,R,101.0,0.0,8.0,Andrew Lau,Alan Mak,Andy Lau,Action,2002,1.0,0.0,0.0
+The Rules of Attraction,R,110.0,0.0,6.6,Roger Avary,Bret Easton Ellis,James Van Der Beek,Comedy,2002,1.0,0.0,0.0
+Antwone Fisher,PG-13,120.0,0.0,7.3,Denzel Washington,Antwone Fisher,Denzel Washington,Biography,2003,1.0,0.0,0.0
+Sympathy for Mr. Vengeance,R,129.0,0.0,7.6,Park Chan-Wook,Myeong-chan Park,Kang-ho Song,Crime,2002,1.0,0.0,0.0
+High Crimes,PG-13,115.0,0.0,6.4,Carl Franklin,Joseph Finder,Jim Caviezel,Crime,2002,1.0,0.0,0.0
+Two Weeks Notice,PG-13,101.0,0.0,6.1,Marc Lawrence,Marc Lawrence,Sandra Bullock,Comedy,2002,1.0,0.0,0.0
+Asterix & Obelix: Mission Cleopatra,PG,107.0,0.0,6.7,Alain Chabat,René Goscinny,Gérard Depardieu,Adventure,2005,1.0,0.0,0.0
+Swept Away,R,89.0,0.0,3.6,Guy Ritchie,Guy Ritchie,Madonna,Comedy,2002,1.0,0.0,0.0
+Juwanna Mann,PG-13,91.0,0.0,4.6,Jesse Vaughan,Bradley Allenstein,Miguel A. Núñez Jr.,Comedy,2002,1.0,0.0,0.0
+Divine Secrets of the Ya-Ya Sisterhood,PG-13,116.0,0.0,6.1,Callie Khouri,Rebecca Wells,Sandra Bullock,Drama,2002,1.0,0.0,0.0
+Swimfan,PG-13,85.0,0.0,5.1,John Polson,Charles F. Bohl,Jesse Bradford,Drama,2002,1.0,0.0,0.0
+Talk to Her,R,112.0,0.0,7.9,Pedro Almodóvar,Pedro Almodóvar,Rosario Flores,Drama,2003,1.0,0.0,0.0
+Far from Heaven,PG-13,107.0,0.0,7.4,Todd Haynes,Todd Haynes,Julianne Moore,Drama,2003,1.0,0.0,0.0
+Auto Focus,R,105.0,0.0,6.6,Paul Schrader,Robert Graysmith,Greg Kinnear,Biography,2002,1.0,0.0,0.0
+Collateral Damage,R,108.0,0.0,5.5,Andrew Davis,Ronald Roose,Arnold Schwarzenegger,Action,2002,1.0,0.0,0.0
+Undisputed,R,94.0,0.0,6.2,Walter Hill,David Giler,Wesley Snipes,Action,2002,1.0,0.0,0.0
+Whale Rider,PG-13,101.0,0.0,7.5,Niki Caro,Niki Caro,Keisha Castle-Hughes,Drama,2003,1.0,0.0,0.0
+Trapped,R,106.0,0.0,6.2,Luis Mandoki,Greg Iles,Kevin Bacon,Action,2002,1.0,0.0,0.0
+In America,PG-13,105.0,0.0,7.7,Jim Sheridan,Jim Sheridan,Paddy Considine,Drama,2004,1.0,0.0,0.0
+The Quiet American,R,101.0,0.0,7.1,Phillip Noyce,Graham Greene,Michael Caine,Drama,2003,1.0,0.0,0.0
+The Santa Clause 2,G,104.0,0.0,5.7,Michael Lembeck,Don Rhymer,Tim Allen,Comedy,2002,1.0,0.0,0.0
+Sorority Boys,R,93.0,0.0,5.5,Wallace Wolodarsky,Joe Jarvis,Barry Watson,Comedy,2002,1.0,0.0,0.0
+The Country Bears,G,88.0,0.0,4.2,Peter Hastings,Mark Perez,Haley Joel Osment,Comedy,2002,1.0,0.0,0.0
+All About the Benjamins,R,95.0,0.0,5.9,Kevin Bray,Ronald Lang,Ice Cube,Action,2002,1.0,0.0,0.0
+Darkness,PG-13,88.0,0.0,5.4,Jaume Balagueró,Jaume Balagueró,Anna Paquin,Horror,2004,1.0,0.0,0.0
+Moonlight Mile,PG-13,117.0,0.0,6.6,Brad Silberling,Brad Silberling,Jake Gyllenhaal,Drama,2002,1.0,0.0,0.0
+Half Past Dead,PG-13,98.0,0.0,4.6,Don Michael Paul,Don Michael Paul,Morris Chestnut,Action,2002,1.0,0.0,0.0
+Open Hearts,R,113.0,0.0,7.5,Susanne Bier,Susanne Bier,Sonja Richter,Drama,2002,1.0,0.0,0.0
+Deuces Wild,R,96.0,0.0,5.6,Scott Kalvert,Paul Kimatian,Stephen Dorff,Action,2002,1.0,0.0,0.0
+Pirates of the Caribbean: the Curse of the Black Pearl,PG-13,143.0,0.0,8.0,Gore Verbinski,Ted Elliott,Johnny Depp,Action,2003,1.0,0.0,0.0
+The Life of David Gale,R,130.0,0.0,7.5,Alan Parker,Charles Randolph,Kevin Spacey,Crime,2003,1.0,0.0,0.0
+The Italian Job,PG-13,111.0,0.0,7.0,F. Gary Gray,Troy Kennedy-Martin,Donald Sutherland,Action,2003,1.0,0.0,0.0
+Monster,R,109.0,0.0,7.3,Patty Jenkins,Patty Jenkins,Charlize Theron,Biography,2004,1.0,0.0,0.0
+Daredevil,PG-13,103.0,0.0,5.3,Mark Steven Johnson,Mark Steven Johnson,Ben Affleck,Action,2003,1.0,0.0,0.0
+The Missing,R,137.0,0.0,6.5,Ron Howard,Thomas Eidson,Tommy Lee Jones,Adventure,2003,1.0,0.0,0.0
+Holes,PG,117.0,0.0,7.0,Andrew Davis,Louis Sachar,Shia LaBeouf,Adventure,2003,1.0,0.0,0.0
+The Rundown,PG-13,104.0,0.0,6.7,Peter Berg,R.J. Stewart,Dwayne Johnson,Action,2003,1.0,0.0,0.0
+Once Upon a Time in Mexico,R,102.0,0.0,6.4,Robert Rodriguez,Robert Rodriguez,Antonio Banderas,Action,2003,1.0,0.0,0.0
+In the Cut,R,119.0,0.0,5.3,Jane Campion,Jane Campion,Meg Ryan,Mystery,2003,1.0,0.0,0.0
+Bad Boys II,R,147.0,0.0,6.6,Michael Bay,George Gallo,Will Smith,Action,2003,1.0,0.0,0.0
+Open Range,R,139.0,0.0,7.4,Kevin Costner,Lauran Paine,Kevin Costner,Action,2003,1.0,0.0,0.0
+Bruce Almighty,PG-13,101.0,0.0,6.7,Tom Shadyac,Steve Koren,Jim Carrey,Comedy,2003,1.0,0.0,0.0
+Charlie's Angels: Full Throttle,PG-13,106.0,0.0,4.9,McG,Ivan Goff,Drew Barrymore,Action,2003,1.0,0.0,0.0
+Open Water,R,79.0,0.0,5.7,Chris Kentis,Chris Kentis,Blanchard Ryan,Adventure,2004,1.0,0.0,0.0
+Something's Gotta Give,PG-13,128.0,0.0,6.7,Nancy Meyers,Nancy Meyers,Jack Nicholson,Comedy,2003,1.0,0.0,0.0
+Girl with a Pearl Earring,PG-13,100.0,0.0,6.9,Peter Webber,Tracy Chevalier,Scarlett Johansson,Biography,2004,1.0,0.0,0.0
+The Brown Bunny,Not Rated,93.0,0.0,5.0,Vincent Gallo,Vincent Gallo,Vincent Gallo,Drama,2003,1.0,0.0,0.0
+Intolerable Cruelty,PG-13,100.0,0.0,6.2,Joel Coen,Robert Ramsey,George Clooney,Comedy,2003,1.0,0.0,0.0
+Under the Tuscan Sun,PG-13,113.0,0.0,6.8,Audrey Wells,Frances Mayes,Diane Lane,Comedy,2003,1.0,0.0,0.0
+Elephant,R,81.0,0.0,7.2,Gus Van Sant,Gus Van Sant,Elias McConnell,Crime,2003,1.0,0.0,0.0
+Darkness Falls,PG-13,86.0,0.0,5.0,Jonathan Liebesman,Joe Harris,Chaney Kley,Fantasy,2003,1.0,0.0,0.0
+Spy Kids 3-D: Game Over,PG,84.0,0.0,4.3,Robert Rodriguez,Robert Rodriguez,Daryl Sabara,Action,2003,1.0,0.0,0.0
+Daddy Day Care,PG,92.0,0.0,5.6,Steve Carr,Geoff Rodkey,Eddie Murphy,Comedy,2003,1.0,0.0,0.0
+Wonderland,R,104.0,0.0,6.6,James Cox,James Cox,Val Kilmer,Crime,2003,1.0,0.0,0.0
+Gods and Generals,PG-13,219.0,0.0,6.3,Ron Maxwell,Jeff Shaara,Stephen Lang,Biography,2003,1.0,0.0,0.0
+House of Sand and Fog,R,126.0,0.0,7.5,Vadim Perelman,Andre Dubus III,Jennifer Connelly,Crime,2004,1.0,0.0,0.0
+Basic,R,98.0,0.0,6.5,John McTiernan,James Vanderbilt,John Travolta,Action,2003,1.0,0.0,0.0
+Agent Cody Banks,PG,102.0,0.0,5.1,Harald Zwart,Ashley Miller,Frankie Muniz,Action,2003,1.0,0.0,0.0
+Cold Creek Manor,R,118.0,0.0,5.0,Mike Figgis,Richard Jefferies,Dennis Quaid,Drama,2003,1.0,0.0,0.0
+View from the Top,PG-13,87.0,0.0,5.3,Bruno Barreto,Eric Wald,Gwyneth Paltrow,Comedy,2003,1.0,0.0,0.0
+The Return,Not Rated,110.0,0.0,8.0,Andrey Zvyagintsev,Vladimir Moiseenko,Vladimir Garin,Drama,2003,1.0,0.0,0.0
+Radio,PG,109.0,0.0,6.9,Michael Tollin,Mike Rich,Cuba Gooding Jr.,Biography,2003,1.0,0.0,0.0
+Tokyo Godfathers,PG-13,92.0,0.0,7.8,Satoshi Kon,Satoshi Kon,Tôru Emori,Animation,2003,1.0,0.0,0.0
+Dorm Daze,R,96.0,0.0,4.6,David Hillenbrand,Pat Casey,Tatyana Ali,Comedy,2004,1.0,0.0,0.0
+Bright Young Things,R,102.0,0.0,6.6,Stephen Fry,Stephen Fry,Stephen Campbell Moore,Comedy,2003,1.0,0.0,0.0
+Love Me If You Dare,R,93.0,0.0,7.6,Yann Samuell,Yann Samuell,Guillaume Canet,Comedy,2004,1.0,0.0,0.0
+The Green Butchers,R,100.0,0.0,7.3,Anders Thomas Jensen,Anders Thomas Jensen,Nikolaj Lie Kaas,Comedy,2003,1.0,0.0,0.0
+Willard,PG-13,100.0,0.0,6.1,Glen Morgan,Glen Morgan,Crispin Glover,Drama,2003,1.0,0.0,0.0
+Love Don't Cost a Thing,PG-13,100.0,0.0,5.2,Troy Byer,Michael Swerdlick,Nick Cannon,Comedy,2003,1.0,0.0,0.0
+The Best of Youth,R,366.0,0.0,8.5,Marco Tullio Giordana,Sandro Petraglia,Luigi Lo Cascio,Drama,2003,1.0,0.0,0.0
+The in-Laws,PG-13,98.0,0.0,5.7,Andrew Fleming,Andrew Bergman,Albert Brooks,Action,2003,1.0,0.0,0.0
+It Runs in the Family,PG-13,109.0,0.0,5.6,Fred Schepisi,Jesse Wigutow,Kirk Douglas,Comedy,2003,1.0,0.0,0.0
+The Fighting Temptations,PG-13,123.0,0.0,5.6,Jonathan Lynn,Elizabeth Hunter,Cuba Gooding Jr.,Comedy,2003,1.0,0.0,0.0
+Anything Else,R,108.0,0.0,6.3,Woody Allen,Woody Allen,Woody Allen,Comedy,2003,1.0,0.0,0.0
+Camp,PG-13,114.0,0.0,6.2,Todd Graff,Todd Graff,Don Dixon,Comedy,2003,1.0,0.0,0.0
+The Jungle Book 2,G,72.0,0.0,5.4,Steve Trenbirth,Karl Geurs,John Goodman,Animation,2003,1.0,0.0,0.0
+Intermission,R,105.0,0.0,6.8,John Crowley,Mark O'Rowe,Cillian Murphy,Comedy,2004,1.0,0.0,0.0
+All the Real Girls,R,108.0,0.0,6.8,David Gordon Green,David Gordon Green,Zooey Deschanel,Drama,2003,1.0,0.0,0.0
+Head of State,PG-13,95.0,0.0,5.5,Chris Rock,Chris Rock,Chris Rock,Comedy,2003,1.0,0.0,0.0
+The Order,R,102.0,0.0,5.2,Brian Helgeland,Brian Helgeland,Heath Ledger,Horror,2003,1.0,0.0,0.0
+Sylvia,R,100.0,0.0,6.3,Christine Jeffs,John Brownlow,Gwyneth Paltrow,Biography,2003,1.0,0.0,0.0
+My Life Without Me,R,106.0,0.0,7.5,Isabel Coixet,Isabel Coixet,Sarah Polley,Drama,2003,1.0,0.0,0.0
+Dodgeball: A True Underdog Story,PG-13,92.0,0.0,6.7,Rawson Marshall Thurber,Rawson Marshall Thurber,Ben Stiller,Comedy,2004,1.0,0.0,0.0
+Mean Girls,PG-13,97.0,0.0,7.0,Mark Waters,Rosalind Wiseman,Lindsay Lohan,Comedy,2004,1.0,0.0,0.0
+Eternal Sunshine of the Spotless Mind,R,108.0,0.0,8.3,Michel Gondry,Charlie Kaufman,Jim Carrey,Drama,2004,1.0,0.0,0.0
+Kill Bill: Vol. 2,R,137.0,0.0,8.0,Quentin Tarantino,Quentin Tarantino,Uma Thurman,Action,2004,1.0,0.0,0.0
+Saw,R,103.0,0.0,7.6,James Wan,Leigh Whannell,Cary Elwes,Horror,2004,1.0,0.0,0.0
+"I, Robot",PG-13,115.0,0.0,7.1,Alex Proyas,Jeff Vintar,Will Smith,Action,2004,1.0,0.0,0.0
+Howl's Moving Castle,PG,119.0,0.0,8.2,Hayao Miyazaki,Hayao Miyazaki,Chieko Baishô,Animation,2005,1.0,0.0,0.0
+My Summer of Love,R,86.0,0.0,6.7,Pawel Pawlikowski,Helen Cross,Natalie Press,Drama,2005,1.0,0.0,0.0
+50 First Dates,PG-13,99.0,0.0,6.8,Peter Segal,George Wing,Adam Sandler,Comedy,2004,1.0,0.0,0.0
+Downfall,R,156.0,0.0,8.2,Oliver Hirschbiegel,Bernd Eichinger,Bruno Ganz,Biography,2005,1.0,0.0,0.0
+Shrek 2,PG,93.0,0.0,7.2,Andrew Adamson,William Steig,Mike Myers,Animation,2004,1.0,0.0,0.0
+Dawn of the Dead,R,101.0,0.0,7.3,Zack Snyder,George A. Romero,Sarah Polley,Action,2004,1.0,0.0,0.0
+Anchorman: The Legend of Ron Burgundy,PG-13,94.0,0.0,7.2,Adam McKay,Will Ferrell,Will Ferrell,Comedy,2004,1.0,0.0,0.0
+9 Songs,Not Rated,71.0,0.0,4.8,Michael Winterbottom,Michael Winterbottom,Kieran O'Brien,Drama,2005,1.0,0.0,0.0
+Meet the Fockers,PG-13,115.0,0.0,6.3,Jay Roach,Greg Glienna,Ben Stiller,Comedy,2004,1.0,0.0,0.0
+Sideways,R,127.0,0.0,7.5,Alexander Payne,Rex Pickett,Paul Giamatti,Comedy,2004,1.0,0.0,0.0
+Starsky & Hutch,PG-13,101.0,0.0,6.1,Todd Phillips,William Blinn,Ben Stiller,Comedy,2004,1.0,0.0,0.0
+Shark Tale,PG,90.0,0.0,6.0,Bibo Bergeron,Michael J. Wilson,Will Smith,Animation,2004,1.0,0.0,0.0
+Primer,PG-13,77.0,0.0,6.9,Shane Carruth,Shane Carruth,Shane Carruth,Drama,2005,1.0,0.0,0.0
+Somersault,Not Rated,106.0,0.0,6.7,Cate Shortland,Cate Shortland,Abbie Cornish,Drama,2004,1.0,0.0,0.0
+The SpongeBob SquarePants Movie,PG,87.0,0.0,7.1,Stephen Hillenburg,Derek Drymon,Tom Kenny,Animation,2004,1.0,0.0,0.0
+The Princess Diaries 2: Royal Engagement,G,113.0,0.0,5.8,Garry Marshall,Meg Cabot,Anne Hathaway,Comedy,2004,1.0,0.0,0.0
+Catwoman,PG-13,104.0,0.0,3.4,Pitof,Bob Kane,Halle Berry,Action,2004,1.0,0.0,0.0
+Seed of Chucky,R,87.0,0.0,4.8,Don Mancini,Don Mancini,Jennifer Tilly,Comedy,2004,1.0,0.0,0.0
+Torque,PG-13,84.0,0.0,4.1,Joseph Kahn,Matt Johnson,Martin Henderson,Action,2004,1.0,0.0,0.0
+Around the World in 80 Days,PG,120.0,0.0,5.9,Frank Coraci,Jules Verne,Jackie Chan,Action,2004,1.0,0.0,0.0
+Mindhunters,R,106.0,0.0,6.4,Renny Harlin,Wayne Kramer,Val Kilmer,Crime,2005,1.0,0.0,0.0
+The Heart Is Deceitful Above All Things,R,97.0,0.0,6.4,Asia Argento,Laura Albert,Asia Argento,Drama,2005,1.0,0.0,0.0
+Sky Captain and the World of Tomorrow,PG,106.0,0.0,6.0,Kerry Conran,Kerry Conran,Gwyneth Paltrow,Action,2004,1.0,0.0,0.0
+District B13,R,84.0,0.0,7.1,Pierre Morel,Luc Besson,Cyril Raffaelli,Action,2006,1.0,0.0,0.0
+A Very Long Engagement,R,133.0,0.0,7.6,Jean-Pierre Jeunet,Sébastien Japrisot,Audrey Tautou,Drama,2005,1.0,0.0,0.0
+Saved!,PG-13,92.0,0.0,6.7,Brian Dannelly,Brian Dannelly,Jena Malone,Comedy,2004,1.0,0.0,0.0
+Bridget Jones: The Edge of Reason,R,108.0,0.0,6.0,Beeban Kidron,Helen Fielding,Renée Zellweger,Comedy,2004,1.0,0.0,0.0
+Dirty Dancing: Havana Nights,PG-13,86.0,0.0,6.0,Guy Ferland,Kate Gunzinger,Diego Luna,Drama,2004,1.0,0.0,0.0
+D.E.B.S.,PG-13,91.0,0.0,5.3,Angela Robinson,Angela Robinson,Sara Foster,Action,2005,1.0,0.0,0.0
+Vanity Fair,PG-13,141.0,0.0,6.2,Mira Nair,Matthew Faulk,Reese Witherspoon,Drama,2004,1.0,0.0,0.0
+Swades,Not Rated,189.0,0.0,8.2,Ashutosh Gowariker,M.G. Sathya,Shah Rukh Khan,Drama,2004,1.0,0.0,0.0
+I Heart Huckabees,R,107.0,0.0,6.6,David O. Russell,David O. Russell,Jason Schwartzman,Comedy,2004,1.0,0.0,0.0
+The Door in the Floor,R,111.0,0.0,6.7,Tod Williams,John Irving,Jeff Bridges,Comedy,2004,1.0,0.0,0.0
+The Whole Ten Yards,PG-13,98.0,0.0,5.5,Howard Deutch,Mitchell Kapner,Bruce Willis,Comedy,2004,1.0,0.0,0.0
+Envy,PG-13,99.0,0.0,4.8,Barry Levinson,Steve Adams,Ben Stiller,Comedy,2004,1.0,0.0,0.0
+Alfie,R,103.0,0.0,6.2,Charles Shyer,Bill Naughton,Jude Law,Comedy,2004,1.0,0.0,0.0
+Nobody Knows,PG-13,141.0,0.0,8.1,Hirokazu Koreeda,Hirokazu Koreeda,Yûya Yagira,Drama,2004,1.0,0.0,0.0
+The Woodsman,R,87.0,0.0,7.2,Nicole Kassell,Steven Fechter,Kevin Bacon,Drama,2005,1.0,0.0,0.0
+Ladder 49,PG-13,115.0,0.0,6.5,Jay Russell,Lewis Colick,Joaquin Phoenix,Action,2004,1.0,0.0,0.0
+You Got Served,PG-13,95.0,0.0,3.9,Chris Stokes,Chris Stokes,Omarion,Drama,2004,1.0,0.0,0.0
+Beyond the Sea,PG-13,118.0,0.0,6.7,Kevin Spacey,Kevin Spacey,Kevin Spacey,Biography,2004,1.0,0.0,0.0
+Ladies in Lavender,PG-13,104.0,0.0,7.0,Charles Dance,William J. Locke,Judi Dench,Drama,2005,1.0,0.0,0.0
+Maria Full of Grace,R,101.0,0.0,7.4,Joshua Marston,Joshua Marston,Catalina Sandino Moreno,Crime,2004,1.0,0.0,0.0
+It's All Gone Pete Tong,R,90.0,0.0,7.3,Michael Dowse,Michael Dowse,Paul Kaye,Biography,2005,1.0,0.0,0.0
+Welcome to Mooseport,PG-13,110.0,0.0,5.2,Donald Petrie,Doug Richardson,Gene Hackman,Comedy,2004,1.0,0.0,0.0
+Melinda and Melinda,PG-13,99.0,0.0,6.4,Woody Allen,Woody Allen,Will Ferrell,Comedy,2005,1.0,0.0,0.0
+King Kong,PG-13,187.0,0.0,7.2,Peter Jackson,Fran Walsh,Naomi Watts,Action,2005,1.0,0.0,0.0
+The Hitchhiker's Guide to the Galaxy,PG,109.0,0.0,6.7,Garth Jennings,Douglas Adams,Martin Freeman,Adventure,2005,1.0,0.0,0.0
+Green Street Hooligans,R,109.0,0.0,7.4,Lexi Alexander,Lexi Alexander,Elijah Wood,Crime,2005,1.0,0.0,0.0
+House of Wax,R,113.0,0.0,5.4,Jaume Collet-Serra,Charles Belden,Chad Michael Murray,Horror,2005,1.0,0.0,0.0
+Four Brothers,R,109.0,0.0,6.8,John Singleton,David Elliot,Mark Wahlberg,Action,2005,1.0,0.0,0.0
+The Interpreter,PG-13,128.0,0.0,6.4,Sydney Pollack,Martin Stellman,Nicole Kidman,Crime,2005,1.0,0.0,0.0
+Walk the Line,PG-13,136.0,0.0,7.8,James Mangold,Johnny Cash,Joaquin Phoenix,Biography,2005,1.0,0.0,0.0
+Lords of Dogtown,PG-13,107.0,0.0,7.1,Catherine Hardwicke,Stacy Peralta,Heath Ledger,Biography,2005,1.0,0.0,0.0
+Munich,R,164.0,0.0,7.5,Steven Spielberg,Tony Kushner,Eric Bana,Action,2006,1.0,0.0,0.0
+Hitch,PG-13,118.0,0.0,6.6,Andy Tennant,Kevin Bisch,Will Smith,Comedy,2005,1.0,0.0,0.0
+Rent,PG-13,135.0,0.0,6.9,Chris Columbus,Stephen Chbosky,Taye Diggs,Drama,2005,1.0,0.0,0.0
+Jarhead,R,125.0,0.0,7.0,Sam Mendes,William Broyles Jr.,Jake Gyllenhaal,Action,2005,1.0,0.0,0.0
+Into the Blue,PG-13,110.0,0.0,5.9,John Stockwell,Matt Johnson,Paul Walker,Action,2005,1.0,0.0,0.0
+Revolver,R,111.0,0.0,6.4,Guy Ritchie,Luc Besson,Jason Statham,Action,2005,1.0,0.0,0.0
+Zathura: A Space Adventure,PG,101.0,0.0,6.2,Jon Favreau,Chris Van Allsburg,Josh Hutcherson,Action,2005,1.0,0.0,0.0
+Be Cool,PG-13,118.0,0.0,5.6,F. Gary Gray,Elmore Leonard,John Travolta,Comedy,2005,1.0,0.0,0.0
+The Brothers Grimm,PG-13,118.0,0.0,5.9,Terry Gilliam,Ehren Kruger,Matt Damon,Action,2005,1.0,0.0,0.0
+Wolf Creek,R,99.0,0.0,6.2,Greg McLean,Greg McLean,Nathan Phillips,Horror,2005,1.0,0.0,0.0
+The Legend of Zorro,PG,129.0,0.0,6.0,Martin Campbell,Roberto Orci,Antonio Banderas,Action,2005,1.0,0.0,0.0
+Cheaper by the Dozen 2,PG,94.0,0.0,5.5,Adam Shankman,Sam Harper,Steve Martin,Adventure,2005,1.0,0.0,0.0
+Kicking & Screaming,PG,95.0,0.0,5.6,Jesse Dylan,Leo Benvenuti,Will Ferrell,Comedy,2005,1.0,0.0,0.0
+The Cave,PG-13,97.0,0.0,5.1,Bruce Hunt,Michael Steinberg,Piper Perabo,Action,2005,1.0,0.0,0.0
+The Skeleton Key,PG-13,104.0,0.0,6.5,Iain Softley,Ehren Kruger,Kate Hudson,Drama,2005,1.0,0.0,0.0
+Chicken Little,G,81.0,0.0,5.7,Mark Dindal,Mark Dindal,Zach Braff,Animation,2005,1.0,0.0,0.0
+The Ring Two,PG-13,110.0,0.0,5.4,Hideo Nakata,Ehren Kruger,Naomi Watts,Horror,2005,1.0,0.0,0.0
+London,R,92.0,0.0,6.5,Hunter Richards,Hunter Richards,Jessica Biel,Drama,2006,1.0,0.0,0.0
+Casanova,R,112.0,0.0,6.5,Lasse Hallström,Jeffrey Hatcher,Heath Ledger,Adventure,2006,1.0,0.0,0.0
+Thank You for Smoking,R,92.0,0.0,7.6,Jason Reitman,Jason Reitman,Aaron Eckhart,Comedy,2006,1.0,0.0,0.0
+Miss Congeniality 2: Armed & Fabulous,PG-13,115.0,0.0,5.1,John Pasquin,Marc Lawrence,Sandra Bullock,Action,2005,1.0,0.0,0.0
+The Greatest Game Ever Played,PG,120.0,0.0,7.4,Bill Paxton,Mark Frost,Shia LaBeouf,Biography,2005,1.0,0.0,0.0
+Hoodwinked,PG,80.0,0.0,6.4,Cory Edwards,Todd Edwards,Anne Hathaway,Animation,2006,1.0,0.0,0.0
+Adam's Apples,R,94.0,0.0,7.8,Anders Thomas Jensen,Anders Thomas Jensen,Ulrich Thomsen,Comedy,2005,1.0,0.0,0.0
+BloodRayne,R,95.0,0.0,2.9,Uwe Boll,Guinevere Turner,Kristanna Loken,Action,2006,1.0,0.0,0.0
+The Notorious Bettie Page,R,91.0,0.0,6.5,Mary Harron,Mary Harron,Gretchen Mol,Biography,2006,1.0,0.0,0.0
+"Good Night, and Good Luck.",PG,93.0,0.0,7.4,George Clooney,George Clooney,David Strathairn,Biography,2005,1.0,0.0,0.0
+Ice Princess,G,98.0,0.0,6.0,Tim Fywell,Meg Cabot,Michelle Trachtenberg,Comedy,2005,1.0,0.0,0.0
+A Lot Like Love,PG-13,107.0,0.0,6.6,Nigel Cole,Colin Patrick Lynch,Ashton Kutcher,Comedy,2005,1.0,0.0,0.0
+Cry Wolf,PG-13,90.0,0.0,5.8,Jeff Wadlow,Jeff Wadlow,Julian Morris,Drama,2005,1.0,0.0,0.0
+The Proposition,R,104.0,0.0,7.3,John Hillcoat,Nick Cave,Ray Winstone,Crime,2006,1.0,0.0,0.0
+Must Love Dogs,PG-13,98.0,0.0,5.9,Gary David Goldberg,Claire Cook,Diane Lane,Comedy,2005,1.0,0.0,0.0
+Roll Bounce,PG-13,112.0,0.0,6.2,Malcolm D. Lee,Norman Vance Jr.,Shad Moss,Comedy,2005,1.0,0.0,0.0
+Supercross,PG-13,80.0,0.0,4.3,Steve Boyum,Ken Solarz,Steve Howey,Action,2005,1.0,0.0,0.0
+Oliver Twist,PG-13,130.0,0.0,6.8,Roman Polanski,Charles Dickens,Barney Clark,Crime,2005,1.0,0.0,0.0
+Last Days,R,97.0,0.0,5.8,Gus Van Sant,Gus Van Sant,Michael Pitt,Drama,2005,1.0,0.0,0.0
+Angel-A,R,91.0,0.0,7.1,Luc Besson,Luc Besson,Rie Rasmussen,Comedy,2005,1.0,0.0,0.0
+Me and You and Everyone We Know,R,91.0,0.0,7.3,Miranda July,Miranda July,John Hawkes,Comedy,2005,1.0,0.0,0.0
+Dominion,R,117.0,0.0,5.2,Paul Schrader,William Wisher,Stellan Skarsgård,Drama,2005,1.0,0.0,0.0
+Battle in Heaven,Unrated,98.0,0.0,5.6,Carlos Reygadas,Carlos Reygadas,Marcos Hernández,Crime,2005,1.0,0.0,0.0
+Little Manhattan,PG,90.0,0.0,7.5,Mark Levin,Jennifer Flackett,Josh Hutcherson,Comedy,2006,1.0,0.0,0.0
+Dreamer,PG,106.0,0.0,6.8,John Gatins,John Gatins,Kurt Russell,Drama,2005,1.0,0.0,0.0
+Factotum,R,94.0,0.0,6.6,Bent Hamer,Charles Bukowski,Matt Dillon,Comedy,2005,1.0,0.0,0.0
+Joyeux Noel,PG-13,116.0,0.0,7.7,Christian Carion,Christian Carion,Diane Kruger,Drama,2005,1.0,0.0,0.0
+Dirty Love,R,91.0,0.0,3.6,John Asher,Jenny McCarthy,Jenny McCarthy,Comedy,2006,1.0,0.0,0.0
+Everything Is Illuminated,PG-13,106.0,0.0,7.4,Liev Schreiber,Jonathan Safran Foer,Elijah Wood,Comedy,2005,1.0,0.0,0.0
+The Departed,R,151.0,0.0,8.5,Martin Scorsese,William Monahan,Leonardo DiCaprio,Crime,2006,1.0,0.0,0.0
+The Fast and the Furious: Tokyo Drift,PG-13,104.0,0.0,6.0,Justin Lin,Chris Morgan,Lucas Black,Action,2006,1.0,0.0,0.0
+300,R,117.0,0.0,7.6,Zack Snyder,Zack Snyder,Gerard Butler,Action,2007,1.0,0.0,0.0
+Children of Men,R,109.0,0.0,7.9,Alfonso Cuarón,Alfonso Cuarón,Julianne Moore,Adventure,2007,1.0,0.0,0.0
+Little Miss Sunshine,R,101.0,0.0,7.8,Jonathan Dayton,Michael Arndt,Steve Carell,Comedy,2006,1.0,0.0,0.0
+Blood Diamond,R,143.0,0.0,8.0,Edward Zwick,Charles Leavitt,Leonardo DiCaprio,Adventure,2006,1.0,0.0,0.0
+Night at the Museum,PG,108.0,0.0,6.4,Shawn Levy,Robert Ben Garant,Ben Stiller,Adventure,2006,1.0,0.0,0.0
+Accepted,PG-13,93.0,0.0,6.4,Steve Pink,Adam Cooper,Justin Long,Comedy,2006,1.0,0.0,0.0
+X-Men: the Last Stand,PG-13,104.0,0.0,6.7,Brett Ratner,Simon Kinberg,Patrick Stewart,Action,2006,1.0,0.0,0.0
+Basic Instinct 2,R,114.0,0.0,4.3,Michael Caton-Jones,Joe Eszterhas,Sharon Stone,Drama,2006,1.0,0.0,0.0
+Deja Vu,PG-13,126.0,0.0,7.0,Tony Scott,Bill Marsilii,Denzel Washington,Action,2006,1.0,0.0,0.0
+Step Up,PG-13,104.0,0.0,6.5,Anne Fletcher,Duane Adler,Channing Tatum,Crime,2006,1.0,0.0,0.0
+The Host,R,120.0,0.0,7.1,Bong Joon Ho,Bong Joon Ho,Kang-ho Song,Action,2007,1.0,0.0,0.0
+Snakes on a Plane,R,105.0,0.0,5.4,David R. Ellis,John Heffernan,Samuel L. Jackson,Action,2006,1.0,0.0,0.0
+Alpha Dog,R,122.0,0.0,6.9,Nick Cassavetes,Nick Cassavetes,Emile Hirsch,Biography,2007,1.0,0.0,0.0
+Eragon,PG,104.0,0.0,5.1,Stefen Fangmeier,Peter Buchman,Ed Speleers,Action,2006,1.0,0.0,0.0
+Dreamgirls,PG-13,130.0,0.0,6.5,Bill Condon,Tom Eyen,Beyoncé,Drama,2006,1.0,0.0,0.0
+Happy Feet,PG,108.0,0.0,6.4,George Miller,George Miller,Elijah Wood,Animation,2006,1.0,0.0,0.0
+Paprika,R,90.0,0.0,7.7,Satoshi Kon,Yasutaka Tsutsui,Megumi Hayashibara,Animation,2007,1.0,0.0,0.0
+Monster House,PG,91.0,0.0,6.6,Gil Kenan,Dan Harmon,Mitchel Musso,Animation,2006,1.0,0.0,0.0
+Scoop,PG-13,96.0,0.0,6.6,Woody Allen,Woody Allen,Scarlett Johansson,Comedy,2006,1.0,0.0,0.0
+Rescue Dawn,PG-13,120.0,0.0,7.3,Werner Herzog,Werner Herzog,Christian Bale,Action,2007,1.0,0.0,0.0
+A Scanner Darkly,R,100.0,0.0,7.1,Richard Linklater,Philip K. Dick,Keanu Reeves,Animation,2006,1.0,0.0,0.0
+The Break-Up,PG-13,106.0,0.0,5.8,Peyton Reed,Jeremy Garelick,Jennifer Aniston,Comedy,2006,1.0,0.0,0.0
+The Pink Panther,PG,93.0,0.0,5.7,Shawn Levy,Len Blum,Steve Martin,Adventure,2006,1.0,0.0,0.0
+Clerks II,R,97.0,0.0,7.3,Kevin Smith,Kevin Smith,Brian O'Halloran,Comedy,2006,1.0,0.0,0.0
+The Lake House,PG,99.0,0.0,6.8,Alejandro Agresti,David Auburn,Keanu Reeves,Drama,2006,1.0,0.0,0.0
+Open Season,PG,86.0,0.0,6.1,Roger Allers,Steve Bencich,Ashton Kutcher,Animation,2006,1.0,0.0,0.0
+The Omen,R,110.0,0.0,5.5,John Moore,David Seltzer,Liev Schreiber,Action,2006,1.0,0.0,0.0
+The Wind that Shakes the Barley,Not Rated,127.0,0.0,7.5,Ken Loach,Paul Laverty,Cillian Murphy,Drama,2007,1.0,0.0,0.0
+Beerfest,R,110.0,0.0,6.3,Jay Chandrasekhar,Jay Chandrasekhar,Jay Chandrasekhar,Comedy,2006,1.0,0.0,0.0
+Volver,R,121.0,0.0,7.6,Pedro Almodóvar,Pedro Almodóvar,Penélope Cruz,Comedy,2007,1.0,0.0,0.0
+Seraphim Falls,R,115.0,0.0,6.7,David Von Ancken,David Von Ancken,Pierce Brosnan,Action,2007,1.0,0.0,0.0
+Madea's Family Reunion,PG-13,107.0,0.0,5.3,Tyler Perry,Tyler Perry,Tyler Perry,Comedy,2006,1.0,0.0,0.0
+Let's Go to Prison,R,84.0,0.0,6.0,Bob Odenkirk,Robert Ben Garant,Dax Shepard,Comedy,2006,1.0,0.0,0.0
+Arthur and the Invisibles,PG,94.0,0.0,6.0,Luc Besson,Céline Garcia,Freddie Highmore,Animation,2007,1.0,0.0,0.0
+Flyboys,PG-13,140.0,0.0,6.5,Tony Bill,Phil Sears,James Franco,Action,2006,1.0,0.0,0.0
+After the Wedding,R,120.0,0.0,7.7,Susanne Bier,Susanne Bier,Mads Mikkelsen,Drama,2007,1.0,0.0,0.0
+Last Holiday,PG-13,112.0,0.0,6.5,Wayne Wang,Jeffrey Price,Queen Latifah,Comedy,2006,1.0,0.0,0.0
+Friends with Money,R,88.0,0.0,5.8,Nicole Holofcener,Nicole Holofcener,Jennifer Aniston,Comedy,2006,1.0,0.0,0.0
+Behind the Mask: The Rise of Leslie Vernon,R,92.0,0.0,6.7,Scott Glosserman,Scott Glosserman,Nathan Baesel,Comedy,2006,1.0,0.0,0.0
+Bobby,R,117.0,0.0,7.0,Emilio Estevez,Emilio Estevez,Anthony Hopkins,Biography,2006,1.0,0.0,0.0
+Gridiron Gang,PG-13,125.0,0.0,6.9,Phil Joanou,Jeff Maguire,Dwayne Johnson,Biography,2006,1.0,0.0,0.0
+Rang De Basanti,Not Rated,167.0,0.0,8.1,Rakeysh Omprakash Mehra,Renzil D'Silva,Aamir Khan,Comedy,2006,1.0,0.0,0.0
+Big Momma's House 2,PG-13,99.0,0.0,4.8,John Whitesell,Don Rhymer,Martin Lawrence,Comedy,2006,1.0,0.0,0.0
+The Foot Fist Way,R,85.0,0.0,6.3,Jody Hill,Ben Best,Danny McBride,Comedy,2008,1.0,0.0,0.0
+Loving Annabelle,Not Rated,77.0,0.0,6.3,Katherine Brooks,Katherine Brooks,Erin Kelly,Drama,2007,1.0,0.0,0.0
+Kabhi Alvida Naa Kehna,Not Rated,193.0,0.0,6.1,Karan Johar,Karan Johar,Shah Rukh Khan,Drama,2006,1.0,0.0,0.0
+Old Joy,Unrated,76.0,0.0,6.8,Kelly Reichardt,Jonathan Raymond,Daniel London,Drama,2007,1.0,0.0,0.0
+The Sentinel,PG-13,108.0,0.0,6.1,Clark Johnson,George Nolfi,Michael Douglas,Action,2006,1.0,0.0,0.0
+The Breed,R,91.0,0.0,5.1,Nicholas Mastandrea,Robert Conte,Michelle Rodriguez,Action,2007,1.0,0.0,0.0
+Hoot,PG,91.0,0.0,5.5,Wil Shriner,Wil Shriner,Logan Lerman,Adventure,2006,1.0,0.0,0.0
+No Country for Old Men,R,122.0,0.0,8.1,Ethan Coen,Joel Coen,Tommy Lee Jones,Crime,2007,1.0,0.0,0.0
+Spider-Man 3,PG-13,139.0,0.0,6.2,Sam Raimi,Sam Raimi,Tobey Maguire,Action,2007,1.0,0.0,0.0
+I Am Legend,PG-13,101.0,0.0,7.2,Francis Lawrence,Mark Protosevich,Will Smith,Action,2007,1.0,0.0,0.0
+Hitman,R,100.0,0.0,6.3,Xavier Gens,Skip Woods,Timothy Olyphant,Action,2007,1.0,0.0,0.0
+Enchanted,PG,107.0,0.0,7.0,Kevin Lima,Bill Kelly,Amy Adams,Comedy,2007,1.0,0.0,0.0
+The Nanny Diaries,PG-13,105.0,0.0,6.2,Shari Springer Berman,Emma McLaughlin,Scarlett Johansson,Comedy,2007,1.0,0.0,0.0
+Next,PG-13,96.0,0.0,6.2,Lee Tamahori,Gary Goldman,Nicolas Cage,Action,2007,1.0,0.0,0.0
+3:10 to Yuma,R,122.0,0.0,7.7,James Mangold,Halsted Welles,Russell Crowe,Action,2007,1.0,0.0,0.0
+Across the Universe,PG-13,133.0,0.0,7.3,Julie Taymor,Dick Clement,Evan Rachel Wood,Drama,2007,1.0,0.0,0.0
+Bee Movie,PG,91.0,0.0,6.1,Simon J. Smith,Jerry Seinfeld,Jerry Seinfeld,Animation,2007,1.0,0.0,0.0
+The Heartbreak Kid,R,116.0,0.0,5.8,Bobby Farrelly,Scot Armstrong,Ben Stiller,Comedy,2007,1.0,0.0,0.0
+Aliens vs. Predator: Requiem,R,94.0,0.0,4.6,Colin Strause,Shane Salerno,Reiko Aylesworth,Action,2007,1.0,0.0,0.0
+Shrek the Third,PG,93.0,0.0,6.1,Chris Miller,Jeffrey Price,Mike Myers,Animation,2007,1.0,0.0,0.0
+The Assassination of Jesse James by the Coward Robert Ford,R,160.0,0.0,7.5,Andrew Dominik,Andrew Dominik,Brad Pitt,Biography,2007,1.0,0.0,0.0
+The Golden Compass,PG-13,113.0,0.0,6.1,Chris Weitz,Chris Weitz,Nicole Kidman,Adventure,2007,1.0,0.0,0.0
+Rush Hour 3,PG-13,91.0,0.0,6.2,Brett Ratner,Jeff Nathanson,Jackie Chan,Action,2007,1.0,0.0,0.0
+Timecrimes,R,92.0,0.0,7.2,Nacho Vigalondo,Nacho Vigalondo,Karra Elejalde,Horror,2008,1.0,0.0,0.0
+Epic Movie,PG-13,86.0,0.0,2.4,Jason Friedberg,Jason Friedberg,Kal Penn,Adventure,2007,1.0,0.0,0.0
+Meet the Robinsons,G,95.0,0.0,6.8,Stephen J. Anderson,Jon Bernstein,Daniel Hansen,Animation,2007,1.0,0.0,0.0
+Charlie Wilson's War,R,102.0,0.0,7.0,Mike Nichols,Aaron Sorkin,Tom Hanks,Biography,2007,1.0,0.0,0.0
+Alvin and the Chipmunks,PG,92.0,0.0,5.2,Tim Hill,Jon Vitti,Jason Lee,Animation,2007,1.0,0.0,0.0
+Walk Hard: the Dewey Cox Story,R,96.0,0.0,6.8,Jake Kasdan,Judd Apatow,John C. Reilly,Comedy,2007,1.0,0.0,0.0
+National Treasure: Book of Secrets,PG,124.0,0.0,6.5,Jon Turteltaub,Marianne Wibberley,Nicolas Cage,Action,2007,1.0,0.0,0.0
+The Game Plan,PG,110.0,0.0,6.1,Andy Fickman,Nichole Millard,Dwayne Johnson,Comedy,2007,1.0,0.0,0.0
+Wild Hogs,PG-13,100.0,0.0,5.8,Walt Becker,Brad Copeland,Tim Allen,Action,2007,1.0,0.0,0.0
+Like Stars on Earth,PG,165.0,0.0,8.4,Aamir Khan,Amole Gupte,Darsheel Safary,Drama,2007,1.0,0.0,0.0
+Reservation Road,R,102.0,0.0,6.7,Terry George,John Burnham Schwartz,Joaquin Phoenix,Crime,2008,1.0,0.0,0.0
+Shoot 'Em Up,R,86.0,0.0,6.6,Michael Davis,Michael Davis,Clive Owen,Action,2007,1.0,0.0,0.0
+Rogue,R,99.0,0.0,6.2,Greg McLean,Greg McLean,Michael Vartan,Action,2007,1.0,0.0,0.0
+Shelter,R,97.0,0.0,7.7,Jonah Markowitz,Jonah Markowitz,Trevor Wright,Drama,2009,1.0,0.0,0.0
+Sydney White,PG-13,108.0,0.0,6.2,Joe Nussbaum,Chad Gomez Creasey,Amanda Bynes,Comedy,2007,1.0,0.0,0.0
+Savage Grace,Not Rated,97.0,0.0,5.8,Tom Kalin,Howard A. Rodman,Julianne Moore,Drama,2008,1.0,0.0,0.0
+The Water Horse,PG,112.0,0.0,6.4,Jay Russell,Robert Nelson Jacobs,Emily Watson,Adventure,2007,1.0,0.0,0.0
+The Diving Bell and the Butterfly,PG-13,112.0,0.0,8.0,Julian Schnabel,Ronald Harwood,Mathieu Amalric,Biography,2008,1.0,0.0,0.0
+Margot at the Wedding,R,91.0,0.0,6.0,Noah Baumbach,Noah Baumbach,Nicole Kidman,Comedy,2008,1.0,0.0,0.0
+I Know Who Killed Me,R,105.0,0.0,3.6,Chris Sivertson,Jeff Hammond,Lindsay Lohan,Crime,2007,1.0,0.0,0.0
+Mr. Magorium's Wonder Emporium,G,93.0,0.0,6.2,Zach Helm,Zach Helm,Natalie Portman,Comedy,2007,1.0,0.0,0.0
+Rise: Blood Hunter,R,97.0,0.0,4.9,Sebastian Gutierrez,Sebastian Gutierrez,Lucy Liu,Action,2007,1.0,0.0,0.0
+The Invisible,PG-13,102.0,0.0,6.2,David S. Goyer,Mick Davis,Justin Chatwin,Crime,2007,1.0,0.0,0.0
+The Last Legion,PG-13,101.0,0.0,5.4,Doug Lefler,Jez Butterworth,Colin Firth,Action,2007,1.0,0.0,0.0
+Evangelion: 1.0 You Are (Not) Alone,PG-13,98.0,0.0,7.7,Masayuki,Hideaki Anno,Megumi Ogata,Animation,2007,1.0,0.0,0.0
+Mongol: The Rise of Genghis Khan,R,126.0,0.0,7.2,Sergei Bodrov,Arif Aliev,Tadanobu Asano,Action,2008,1.0,0.0,0.0
+Joshua,R,106.0,0.0,5.9,George Ratliff,David Gilbert,Sam Rockwell,Drama,2007,1.0,0.0,0.0
+Rendition,R,122.0,0.0,6.8,Gavin Hood,Kelley Sane,Reese Witherspoon,Drama,2007,1.0,0.0,0.0
+Stomp the Yard,PG-13,115.0,0.0,5.4,Sylvain White,Robert Adetuyi,Columbus Short,Drama,2007,1.0,0.0,0.0
+Tropic Thunder,R,107.0,0.0,7.0,Ben Stiller,Justin Theroux,Ben Stiller,Action,2008,1.0,0.0,0.0
+Step Brothers,R,98.0,0.0,6.9,Adam McKay,Will Ferrell,Will Ferrell,Comedy,2008,1.0,0.0,0.0
+Taken,PG-13,90.0,0.0,7.8,Pierre Morel,Luc Besson,Liam Neeson,Action,2009,1.0,0.0,0.0
+Wanted,R,110.0,0.0,6.7,Timur Bekmambetov,Michael Brandt,Angelina Jolie,Action,2008,1.0,0.0,0.0
+Forgetting Sarah Marshall,R,111.0,0.0,7.1,Nicholas Stoller,Jason Segel,Kristen Bell,Comedy,2008,1.0,0.0,0.0
+Sex and the City,R,145.0,0.0,5.6,Michael Patrick King,Michael Patrick King,Sarah Jessica Parker,Comedy,2008,1.0,0.0,0.0
+The House Bunny,PG-13,97.0,0.0,5.5,Fred Wolf,Karen McCullah,Anna Faris,Comedy,2008,1.0,0.0,0.0
+Gran Torino,R,116.0,0.0,8.1,Clint Eastwood,Nick Schenk,Clint Eastwood,Drama,2009,1.0,0.0,0.0
+The Hurt Locker,R,131.0,0.0,7.5,Kathryn Bigelow,Mark Boal,Jeremy Renner,Drama,2009,1.0,0.0,0.0
+Eden Lake,R,91.0,0.0,6.8,James Watkins,James Watkins,Kelly Reilly,Horror,2008,1.0,0.0,0.0
+Eagle Eye,PG-13,118.0,0.0,6.6,D.J. Caruso,John Glenn,Shia LaBeouf,Action,2008,1.0,0.0,0.0
+Hancock,PG-13,92.0,0.0,6.4,Peter Berg,Vy Vincent Ngo,Will Smith,Action,2008,1.0,0.0,0.0
+Sex Drive,R,109.0,0.0,6.5,Sean Anders,Sean Anders,Josh Zuckerman,Comedy,2008,1.0,0.0,0.0
+Pineapple Express,R,111.0,0.0,6.9,David Gordon Green,Seth Rogen,Seth Rogen,Action,2008,1.0,0.0,0.0
+27 Dresses,PG-13,111.0,0.0,6.1,Anne Fletcher,Aline Brosh McKenna,Katherine Heigl,Comedy,2008,1.0,0.0,0.0
+Role Models,R,99.0,0.0,6.8,David Wain,Timothy Dowling,Paul Rudd,Comedy,2008,1.0,0.0,0.0
+Defiance,R,137.0,0.0,7.2,Edward Zwick,Clayton Frohman,Daniel Craig,Action,2009,1.0,0.0,0.0
+Yes Man,PG-13,104.0,0.0,6.8,Peyton Reed,Nicholas Stoller,Jim Carrey,Comedy,2008,1.0,0.0,0.0
+The Bank Job,R,111.0,0.0,7.2,Roger Donaldson,Dick Clement,Jason Statham,Crime,2008,1.0,0.0,0.0
+Fool's Gold,PG-13,112.0,0.0,5.7,Andy Tennant,John Claflin,Matthew McConaughey,Action,2008,1.0,0.0,0.0
+Nick and Norah's Infinite Playlist,PG-13,90.0,0.0,6.6,Peter Sollett,Lorene Scafaria,Michael Cera,Comedy,2008,1.0,0.0,0.0
+The Spirit,PG-13,103.0,0.0,4.8,Frank Miller,Frank Miller,Gabriel Macht,Action,2008,1.0,0.0,0.0
+Ghost Town,PG-13,102.0,0.0,6.7,David Koepp,David Koepp,Ricky Gervais,Comedy,2008,1.0,0.0,0.0
+Saw V,R,92.0,0.0,5.8,David Hackl,Patrick Melton,Scott Patterson,Crime,2008,1.0,0.0,0.0
+The Women,PG-13,114.0,0.0,5.0,Diane English,Diane English,Meg Ryan,Comedy,2008,1.0,0.0,0.0
+"10,000 BC",PG-13,109.0,0.0,5.1,Roland Emmerich,Roland Emmerich,Camilla Belle,Action,2008,1.0,0.0,0.0
+Drillbit Taylor,PG-13,110.0,0.0,5.7,Steven Brill,Kristofor Brown,Owen Wilson,Action,2008,1.0,0.0,0.0
+Made of Honor,PG-13,101.0,0.0,5.9,Paul Weiland,Adam Sztykiel,Patrick Dempsey,Comedy,2008,1.0,0.0,0.0
+Red Cliff,R,148.0,0.0,7.4,John Woo,John Woo,Tony Chiu-Wai Leung,Action,2009,1.0,0.0,0.0
+Righteous Kill,R,101.0,0.0,6.0,Jon Avnet,Russell Gewirtz,Robert De Niro,Crime,2008,1.0,0.0,0.0
+Meet the Spartans,PG-13,87.0,0.0,2.8,Jason Friedberg,Jason Friedberg,Sean Maguire,Comedy,2008,1.0,0.0,0.0
+Mirrors,R,110.0,0.0,6.1,Alexandre Aja,Alexandre Aja,Kiefer Sutherland,Horror,2008,1.0,0.0,0.0
+The Edge of Love,R,110.0,0.0,6.2,John Maybury,Sharman Macdonald,Keira Knightley,Biography,2008,1.0,0.0,0.0
+Chocolate,R,110.0,0.0,7.0,Prachya Pinkaew,Napalee,JeeJa Yanin,Action,2008,1.0,0.0,0.0
+Killshot,R,95.0,0.0,6.0,John Madden,Hossein Amini,Thomas Jane,Action,2008,1.0,0.0,0.0
+Passengers,PG-13,93.0,0.0,5.9,Rodrigo García,Ronnie Christensen,Anne Hathaway,Romance,2008,1.0,0.0,0.0
+Shutter,PG-13,85.0,0.0,5.2,Masayuki Ochiai,Luke Dawson,Joshua Jackson,Horror,2008,1.0,0.0,0.0
+Ghajini,Not Rated,186.0,0.0,7.3,A.R. Murugadoss,Piyush Mishra,Aamir Khan,Action,2008,1.0,0.0,0.0
+The Informers,R,98.0,0.0,5.0,Gregor Jordan,Bret Easton Ellis,Billy Bob Thornton,Crime,2009,1.0,0.0,0.0
+"New York, I Love You",R,103.0,0.0,6.2,Directors,Hu Hong,Shia LaBeouf,Comedy,2009,1.0,0.0,0.0
+Waltz with Bashir,R,90.0,0.0,8.0,Ari Folman,Ari Folman,Ari Folman,Animation,2008,1.0,0.0,0.0
+The Burning Plain,R,107.0,0.0,6.8,Guillermo Arriaga,Guillermo Arriaga,Charlize Theron,Crime,2009,1.0,0.0,0.0
+Brideshead Revisited,PG-13,133.0,0.0,6.7,Julian Jarrold,Andrew Davies,Matthew Goode,Drama,2008,1.0,0.0,0.0
+Pathology,R,95.0,0.0,6.0,Marc Schölermann,Mark Neveldine,Alyssa Milano,Crime,2008,1.0,0.0,0.0
+Igor,PG,87.0,0.0,6.0,Tony Leondis,Chris McKenna,John Cusack,Animation,2008,1.0,0.0,0.0
+CJ7,PG,88.0,0.0,6.4,Stephen Chow,Stephen Chow,Stephen Chow,Comedy,2008,1.0,0.0,0.0
+"Surfer, Dude",R,85.0,0.0,4.7,S.R. Bindler,S.R. Bindler,Matthew McConaughey,Comedy,2008,1.0,0.0,0.0
+Last Chance Harvey,PG-13,93.0,0.0,6.6,Joel Hopkins,Joel Hopkins,Dustin Hoffman,Drama,2009,1.0,0.0,0.0
+The Family That Preys,PG-13,111.0,0.0,5.8,Tyler Perry,Tyler Perry,Kathy Bates,Drama,2008,1.0,0.0,0.0
+Star Trek,PG-13,127.0,0.0,7.9,J.J. Abrams,Roberto Orci,Chris Pine,Action,2009,1.0,0.0,0.0
+Avatar,PG-13,162.0,0.0,7.8,James Cameron,James Cameron,Sam Worthington,Action,2009,1.0,0.0,0.0
+Jennifer's Body,R,102.0,0.0,5.3,Karyn Kusama,Diablo Cody,Megan Fox,Comedy,2009,1.0,0.0,0.0
+Watchmen,R,162.0,0.0,7.6,Zack Snyder,David Hayter,Jackie Earle Haley,Action,2009,1.0,0.0,0.0
+State of Play,PG-13,127.0,0.0,7.1,Kevin Macdonald,Matthew Michael Carnahan,Russell Crowe,Crime,2009,1.0,0.0,0.0
+Up in the Air,R,109.0,0.0,7.4,Jason Reitman,Walter Kirn,George Clooney,Comedy,2009,1.0,0.0,0.0
+Coraline,PG,100.0,0.0,7.7,Henry Selick,Henry Selick,Dakota Fanning,Animation,2009,1.0,0.0,0.0
+Moon,R,97.0,0.0,7.8,Duncan Jones,Duncan Jones,Sam Rockwell,Drama,2009,1.0,0.0,0.0
+Mr. Nobody,R,141.0,0.0,7.8,Jaco Van Dormael,Jaco Van Dormael,Jared Leto,Drama,2013,1.0,0.0,0.0
+Dogtooth,Not Rated,97.0,0.0,7.2,Yorgos Lanthimos,Efthymis Filippou,Christos Stergioglou,Drama,2009,1.0,0.0,0.0
+Angels & Demons,PG-13,138.0,0.0,6.7,Ron Howard,David Koepp,Tom Hanks,Action,2009,1.0,0.0,0.0
+Pandorum,R,108.0,0.0,6.7,Christian Alvart,Travis Milloy,Dennis Quaid,Action,2009,1.0,0.0,0.0
+Sorority Row,R,101.0,0.0,5.1,Stewart Hendler,Josh Stolberg,Briana Evigan,Horror,2009,1.0,0.0,0.0
+The Imaginarium of Doctor Parnassus,PG-13,123.0,0.0,6.8,Terry Gilliam,Terry Gilliam,Christopher Plummer,Adventure,2010,1.0,0.0,0.0
+A Perfect Getaway,R,98.0,0.0,6.5,David Twohy,David Twohy,Milla Jovovich,Drama,2009,1.0,0.0,0.0
+Invictus,PG-13,134.0,0.0,7.3,Clint Eastwood,Anthony Peckham,Morgan Freeman,Biography,2009,1.0,0.0,0.0
+Mother,R,129.0,0.0,7.8,Bong Joon Ho,Bong Joon Ho,Hye-ja Kim,Crime,2009,1.0,0.0,0.0
+The Ugly Truth,R,96.0,0.0,6.4,Robert Luketic,Nicole Eastman,Katherine Heigl,Comedy,2009,1.0,0.0,0.0
+Extract,R,92.0,0.0,6.1,Mike Judge,Mike Judge,Jason Bateman,Comedy,2009,1.0,0.0,0.0
+The Collector,R,90.0,0.0,6.4,Marcus Dunstan,Patrick Melton,Josh Stewart,Horror,2009,1.0,0.0,0.0
+Ninja Assassin,R,99.0,0.0,6.3,James McTeigue,Matthew Sand,Rain,Action,2009,1.0,0.0,0.0
+Dragonball Evolution,PG,85.0,0.0,2.5,James Wong,Ben Ramsey,Justin Chatwin,Action,2009,1.0,0.0,0.0
+Agora,R,127.0,0.0,7.2,Alejandro Amenábar,Alejandro Amenábar,Rachel Weisz,Adventure,2009,1.0,0.0,0.0
+The Joneses,R,96.0,0.0,6.4,Derrick Borte,Randy T. Dinzler,Demi Moore,Comedy,2010,1.0,0.0,0.0
+Julie & Julia,PG-13,123.0,0.0,7.0,Nora Ephron,Nora Ephron,Amy Adams,Biography,2009,1.0,0.0,0.0
+The Young Victoria,PG,105.0,0.0,7.3,Jean-Marc Vallée,Julian Fellowes,Emily Blunt,Biography,2010,1.0,0.0,0.0
+A Prophet,R,155.0,0.0,7.9,Jacques Audiard,Thomas Bidegain,Tahar Rahim,Crime,2010,1.0,0.0,0.0
+My Sister's Keeper,PG-13,109.0,0.0,7.4,Nick Cassavetes,Jeremy Leven,Cameron Diaz,Drama,2009,1.0,0.0,0.0
+Saw VI,R,90.0,0.0,6.0,Kevin Greutert,Patrick Melton,Tobin Bell,Horror,2009,1.0,0.0,0.0
+Push,PG-13,111.0,0.0,6.1,Paul McGuigan,David Bourla,Camilla Belle,Action,2009,1.0,0.0,0.0
+The Box,PG-13,115.0,0.0,5.6,Richard Kelly,Richard Kelly,Cameron Diaz,Drama,2009,1.0,0.0,0.0
+"I Love You, Beth Cooper",PG-13,102.0,0.0,5.3,Chris Columbus,Larry Doyle,Hayden Panettiere,Comedy,2009,1.0,0.0,0.0
+Thirst,R,134.0,0.0,7.1,Park Chan-Wook,Émile Zola,Kang-ho Song,Drama,2009,1.0,0.0,0.0
+The White Ribbon,R,144.0,0.0,7.8,Michael Haneke,Michael Haneke,Christian Friedel,Drama,2010,1.0,0.0,0.0
+Hannah Montana: The Movie,G,102.0,0.0,4.6,Peter Chelsom,Dan Berendsen,Miley Cyrus,Comedy,2009,1.0,0.0,0.0
+12 Rounds,PG-13,108.0,0.0,5.6,Renny Harlin,Daniel Kunka,John Cena,Action,2009,1.0,0.0,0.0
+Survival of the Dead,R,90.0,0.0,4.9,George A. Romero,George A. Romero,Alan Van Sprang,Comedy,2010,1.0,0.0,0.0
+Astro Boy,PG,94.0,0.0,6.3,David Bowers,Osamu Tezuka,Freddie Highmore,Animation,2009,1.0,0.0,0.0
+My Life in Ruins,PG-13,95.0,0.0,5.9,Donald Petrie,Mike Reiss,Nia Vardalos,Comedy,2009,1.0,0.0,0.0
+G-Force,PG,88.0,0.0,5.1,Hoyt Yeatman,Cormac Wibberley,Will Arnett,Animation,2009,1.0,0.0,0.0
+Love Happens,PG-13,109.0,0.0,5.7,Brandon Camp,Brandon Camp,Jennifer Aniston,Drama,2009,1.0,0.0,0.0
+The Girl Who Kicked the Hornet's Nest,R,147.0,0.0,7.3,Daniel Alfredson,Jonas Frykberg,Michael Nyqvist,Crime,2010,1.0,0.0,0.0
+Harry Brown,R,103.0,0.0,7.2,Daniel Barber,Gary Young,Michael Caine,Action,2010,1.0,0.0,0.0
+Madea Goes to Jail,PG-13,103.0,0.0,4.5,Tyler Perry,Tyler Perry,Tyler Perry,Comedy,2009,1.0,0.0,0.0
+Sin Nombre,R,96.0,0.0,7.6,Cary Joji Fukunaga,Cary Joji Fukunaga,Paulina Gaitan,Adventure,2009,1.0,0.0,0.0
+The Messenger,R,113.0,0.0,7.1,Oren Moverman,Alessandro Camon,Ben Foster,Drama,2009,1.0,0.0,0.0
+Bitch Slap,R,109.0,0.0,4.5,Rick Jacobson,Rick Jacobson,Julia Voth,Action,2009,1.0,0.0,0.0
+The Disappearance of Alice Creed,R,100.0,0.0,6.7,J Blakeson,J Blakeson,Gemma Arterton,Crime,2010,1.0,0.0,0.0
+Cirque du Freak: the Vampire's Assistant,PG-13,109.0,0.0,5.8,Paul Weitz,Paul Weitz,Chris Massoglia,Action,2009,1.0,0.0,0.0
+Aliens in the Attic,PG,86.0,0.0,5.4,John Schultz,Mark Burton,Ashley Tisdale,Adventure,2009,1.0,0.0,0.0
+Daniel and Ana,Not Rated,90.0,0.0,6.1,Michel Franco,Michel Franco,Dario Yazbek Bernal,Drama,2010,1.0,0.0,0.0
+Fighting,PG-13,105.0,0.0,5.6,Dito Montiel,Robert Munic,Channing Tatum,Action,2009,1.0,0.0,0.0
+Shutter Island,R,138.0,0.0,8.2,Martin Scorsese,Laeta Kalogridis,Leonardo DiCaprio,Mystery,2010,1.0,0.0,0.0
+Scott Pilgrim vs. the World,PG-13,112.0,0.0,7.5,Edgar Wright,Michael Bacall,Michael Cera,Action,2010,1.0,0.0,0.0
+The Town,R,125.0,0.0,7.5,Ben Affleck,Peter Craig,Ben Affleck,Crime,2010,1.0,0.0,0.0
+Flipped,PG,90.0,0.0,7.7,Rob Reiner,Rob Reiner,Madeline Carroll,Comedy,2010,1.0,0.0,0.0
+Robin Hood,PG-13,140.0,0.0,6.6,Ridley Scott,Brian Helgeland,Russell Crowe,Action,2010,1.0,0.0,0.0
+I Spit on Your Grave,R,108.0,0.0,6.3,Steven R. Monroe,Adam Rockoff,Sarah Butler,Horror,2011,1.0,0.0,0.0
+The Last Airbender,PG,103.0,0.0,4.0,M. Night Shyamalan,M. Night Shyamalan,Noah Ringer,Action,2010,1.0,0.0,0.0
+The American,R,105.0,0.0,6.3,Anton Corbijn,Rowan Joffe,George Clooney,Crime,2010,1.0,0.0,0.0
+Incendies,R,131.0,0.0,8.3,Denis Villeneuve,Denis Villeneuve,Lubna Azabal,Drama,2011,1.0,0.0,0.0
+Love & Other Drugs,R,112.0,0.0,6.7,Edward Zwick,Charles Randolph,Jake Gyllenhaal,Comedy,2010,1.0,0.0,0.0
+True Grit,PG-13,110.0,0.0,7.6,Ethan Coen,Joel Coen,Jeff Bridges,Drama,2010,1.0,0.0,0.0
+Knight and Day,PG-13,109.0,0.0,6.3,James Mangold,Patrick O'Neill,Tom Cruise,Action,2010,1.0,0.0,0.0
+TRON: Legacy,PG,125.0,0.0,6.8,Joseph Kosinski,Edward Kitsis,Jeff Bridges,Action,2010,1.0,0.0,0.0
+The Next Three Days,PG-13,133.0,0.0,7.3,Paul Haggis,Paul Haggis,Russell Crowe,Action,2010,1.0,0.0,0.0
+The Debt,R,113.0,0.0,6.8,John Madden,Matthew Vaughn,Helen Mirren,Drama,2011,1.0,0.0,0.0
+The A-Team,PG-13,117.0,0.0,6.7,Joe Carnahan,Joe Carnahan,Liam Neeson,Action,2010,1.0,0.0,0.0
+Animal Kingdom,R,113.0,0.0,7.3,David Michôd,David Michôd,James Frecheville,Crime,2010,1.0,0.0,0.0
+Diary of a Wimpy Kid,PG,120.0,0.0,6.2,Thor Freudenthal,Jackie Filgo,Zachary Gordon,Animation,2010,1.0,0.0,0.0
+Predators,R,107.0,0.0,6.4,Nimród Antal,Alex Litvak,Adrien Brody,Action,2010,1.0,0.0,0.0
+Legion,R,100.0,0.0,5.3,Scott Stewart,Peter Schink,Paul Bettany,Action,2010,1.0,0.0,0.0
+Jonah Hex,PG-13,81.0,0.0,4.7,Jimmy Hayward,Mark Neveldine,Josh Brolin,Action,2010,1.0,0.0,0.0
+Faster,R,98.0,0.0,6.4,George Tillman Jr.,Tony Gayton,Dwayne Johnson,Action,2010,1.0,0.0,0.0
+It's Kind of a Funny Story,PG-13,101.0,0.0,7.1,Anna Boden,Anna Boden,Keir Gilchrist,Comedy,2010,1.0,0.0,0.0
+The Crazies,R,101.0,0.0,6.5,Breck Eisner,Scott Kosar,Radha Mitchell,Horror,2010,1.0,0.0,0.0
+The Runaways,R,106.0,0.0,6.5,Floria Sigismondi,Floria Sigismondi,Kristen Stewart,Biography,2010,1.0,0.0,0.0
+Frozen,R,93.0,0.0,6.1,Adam Green,Adam Green,Shawn Ashmore,Adventure,2010,1.0,0.0,0.0
+Beyond the Black Rainbow,R,110.0,0.0,6.0,Panos Cosmatos,Panos Cosmatos,Eva Bourne,Horror,2011,1.0,0.0,0.0
+Skyline,PG-13,92.0,0.0,4.4,Colin Strause,Joshua Cordes,Eric Balfour,Action,2010,1.0,0.0,0.0
+The Man from Nowhere,R,119.0,0.0,7.8,Jeong-beom Lee,Jeong-beom Lee,Won Bin,Action,2010,1.0,0.0,0.0
+Trollhunter,PG-13,103.0,0.0,7.0,André Øvredal,André Øvredal,Otto Jespersen,Drama,2010,1.0,0.0,0.0
+Letters to Juliet,PG,105.0,0.0,6.5,Gary Winick,Jose Rivera,Amanda Seyfried,Adventure,2010,1.0,0.0,0.0
+Rubber,R,82.0,0.0,5.8,Quentin Dupieux,Quentin Dupieux,Stephen Spinella,Comedy,2010,1.0,0.0,0.0
+You Again,PG,105.0,0.0,5.8,Andy Fickman,Moe Jelline,Kristen Bell,Comedy,2010,1.0,0.0,0.0
+Nanny McPhee Returns,PG,109.0,0.0,6.1,Susanna White,Emma Thompson,Emma Thompson,Comedy,2010,1.0,0.0,0.0
+Wild Target,PG-13,98.0,0.0,6.8,Jonathan Lynn,Lucinda Coxon,Bill Nighy,Action,2010,1.0,0.0,0.0
+When in Rome,PG-13,91.0,0.0,5.6,Mark Steven Johnson,David Diamond,Kristen Bell,Comedy,2010,1.0,0.0,0.0
+The Whistleblower,R,112.0,0.0,7.1,Larysa Kondracki,Larysa Kondracki,Rachel Weisz,Biography,2011,1.0,0.0,0.0
+Twelve,R,93.0,0.0,5.6,Joel Schumacher,Jordan Melamed,Chace Crawford,Action,2010,1.0,0.0,0.0
+My Name Is Khan,PG-13,165.0,0.0,8.0,Karan Johar,Shibani Bathija,Shah Rukh Khan,Drama,2010,1.0,0.0,0.0
+The Company Men,R,104.0,0.0,6.7,John Wells,John Wells,Ben Affleck,Drama,2011,1.0,0.0,0.0
+Paranormal Activity 2,R,91.0,0.0,5.7,Tod Williams,Michael R. Perry,Katie Featherston,Horror,2010,1.0,0.0,0.0
+Stone,R,105.0,0.0,5.4,John Curran,Angus MacLachlan,Edward Norton,Drama,2010,1.0,0.0,0.0
+Why Did I Get Married Too?,PG-13,121.0,0.0,4.7,Tyler Perry,Tyler Perry,Janet Jackson,Comedy,2010,1.0,0.0,0.0
+The Back-up Plan,PG-13,104.0,0.0,5.4,Alan Poul,Kate Angelo,Jennifer Lopez,Comedy,2010,1.0,0.0,0.0
+What If...,PG,111.0,0.0,6.4,Dallas Jenkins,Chuck Konzelman,Kevin Sorbo,Drama,2010,1.0,0.0,0.0
+Country Strong,PG-13,117.0,0.0,6.3,Shana Feste,Shana Feste,Garrett Hedlund,Drama,2011,1.0,0.0,0.0
+Little White Lies,Not Rated,154.0,0.0,7.1,Guillaume Canet,Guillaume Canet,François Cluzet,Comedy,2010,1.0,0.0,0.0
+Charlie St. Cloud,PG-13,99.0,0.0,6.4,Burr Steers,Craig Pearce,Zac Efron,Drama,2010,1.0,0.0,0.0
+Stake Land,R,98.0,0.0,6.5,Jim Mickle,Nick Damici,Connor Paolo,Drama,2011,1.0,0.0,0.0
+Vanishing on 7th Street,R,92.0,0.0,4.9,Brad Anderson,Anthony Jaswinski,Hayden Christensen,Horror,2011,1.0,0.0,0.0
+Hesher,R,106.0,0.0,7.0,Spencer Susser,Spencer Susser,Joseph Gordon-Levitt,Drama,2011,1.0,0.0,0.0
+Love Ranch,R,117.0,0.0,5.6,Taylor Hackford,Mark Jacobson,Helen Mirren,Biography,2011,1.0,0.0,0.0
+Everything Must Go,R,97.0,0.0,6.4,Dan Rush,Dan Rush,Will Ferrell,Drama,2011,1.0,0.0,0.0
+Thor,PG-13,115.0,0.0,7.0,Kenneth Branagh,Ashley Miller,Chris Hemsworth,Action,2011,1.0,0.0,0.0
+Fast Five,PG-13,130.0,0.0,7.3,Justin Lin,Chris Morgan,Vin Diesel,Action,2011,1.0,0.0,0.0
+No Strings Attached,R,108.0,0.0,6.2,Ivan Reitman,Elizabeth Meriwether,Natalie Portman,Comedy,2011,1.0,0.0,0.0
+Friends with Benefits,R,109.0,0.0,6.5,Will Gluck,Keith Merryman,Mila Kunis,Comedy,2011,1.0,0.0,0.0
+Immortals,R,110.0,0.0,6.0,Tarsem Singh,Charley Parlapanides,Henry Cavill,Action,2011,1.0,0.0,0.0
+Shame,NC-17,101.0,0.0,7.2,Steve McQueen,Steve McQueen,Michael Fassbender,Drama,2012,1.0,0.0,0.0
+Mission: Impossible - Ghost Protocol,PG-13,132.0,0.0,7.4,Brad Bird,Bruce Geller,Tom Cruise,Action,2011,1.0,0.0,0.0
+Super 8,PG-13,112.0,0.0,7.0,J.J. Abrams,J.J. Abrams,Elle Fanning,Mystery,2011,1.0,0.0,0.0
+Cowboys & Aliens,PG-13,119.0,0.0,6.0,Jon Favreau,Roberto Orci,Daniel Craig,Action,2011,1.0,0.0,0.0
+Cars 2,G,106.0,0.0,6.1,John Lasseter,John Lasseter,Owen Wilson,Animation,2011,1.0,0.0,0.0
+Sleeping Beauty,Not Rated,101.0,0.0,5.3,Julia Leigh,Julia Leigh,Emily Browning,Drama,2011,1.0,0.0,0.0
+Tower Heist,PG-13,104.0,0.0,6.2,Brett Ratner,Adam Cooper,Eddie Murphy,Action,2011,1.0,0.0,0.0
+Your Highness,R,102.0,0.0,5.5,David Gordon Green,Danny McBride,Danny McBride,Adventure,2011,1.0,0.0,0.0
+A Separation,PG-13,123.0,0.0,8.3,Asghar Farhadi,Asghar Farhadi,Payman Maadi,Drama,2011,1.0,0.0,0.0
+Final Destination 5,R,92.0,0.0,5.8,Steven Quale,Eric Heisserer,Nicholas D'Agosto,Action,2011,1.0,0.0,0.0
+Drive Angry,R,104.0,0.0,5.4,Patrick Lussier,Todd Farmer,Nicolas Cage,Action,2011,1.0,0.0,0.0
+Battle Los Angeles,PG-13,116.0,0.0,5.7,Jonathan Liebesman,Christopher Bertolini,Aaron Eckhart,Action,2011,1.0,0.0,0.0
+Killer Elite,R,116.0,0.0,6.4,Gary McKendry,Matt Sherring,Jason Statham,Action,2011,1.0,0.0,0.0
+J. Edgar,R,137.0,0.0,6.5,Clint Eastwood,Dustin Lance Black,Leonardo DiCaprio,Biography,2011,1.0,0.0,0.0
+A Dangerous Method,R,99.0,0.0,6.4,David Cronenberg,Christopher Hampton,Michael Fassbender,Biography,2011,1.0,0.0,0.0
+The Snowtown Murders,Not Rated,119.0,0.0,6.6,Justin Kurzel,Shaun Grant,Lucas Pittaway,Biography,2011,1.0,0.0,0.0
+The Human Centipede II (Full Sequence),Not Rated,91.0,0.0,3.8,Tom Six,Tom Six,Laurence R. Harvey,Horror,2011,1.0,0.0,0.0
+Kill List,Not Rated,95.0,0.0,6.4,Ben Wheatley,Ben Wheatley,Neil Maskell,Action,2011,1.0,0.0,0.0
+Attack the Block,R,88.0,0.0,6.7,Joe Cornish,Joe Cornish,John Boyega,Action,2011,1.0,0.0,0.0
+The Guard,R,96.0,0.0,7.3,John Michael McDonagh,John Michael McDonagh,Brendan Gleeson,Comedy,2011,1.0,0.0,0.0
+Beastly,PG-13,86.0,0.0,5.6,Daniel Barnz,Daniel Barnz,Alex Pettyfer,Drama,2011,1.0,0.0,0.0
+The Eagle,PG-13,114.0,0.0,6.2,Kevin Macdonald,Jeremy Brock,Channing Tatum,Action,2011,1.0,0.0,0.0
+Spy Kids 4-D: All the Time in the World,PG,89.0,0.0,3.5,Robert Rodriguez,Robert Rodriguez,Jessica Alba,Animation,2011,1.0,0.0,0.0
+Salmon Fishing in the Yemen,PG-13,107.0,0.0,6.8,Lasse Hallström,Simon Beaufoy,Ewan McGregor,Comedy,2012,1.0,0.0,0.0
+Weekend,Not Rated,97.0,0.0,7.6,Andrew Haigh,Andrew Haigh,Tom Cullen,Drama,2011,1.0,0.0,0.0
+The Big Year,PG,100.0,0.0,6.2,David Frankel,Howard Franklin,Owen Wilson,Comedy,2011,1.0,0.0,0.0
+Take This Waltz,R,116.0,0.0,6.6,Sarah Polley,Sarah Polley,Michelle Williams,Comedy,2012,1.0,0.0,0.0
+Jin ling shi san chai,R,146.0,0.0,7.6,Yimou Zhang,Heng Liu,Christian Bale,Drama,2011,1.0,0.0,0.0
+The Beaver,PG-13,91.0,0.0,6.6,Jodie Foster,Kyle Killen,Mel Gibson,Drama,2011,1.0,0.0,0.0
+Rockstar,Not Rated,159.0,0.0,7.7,Imtiaz Ali,Imtiaz Ali,Ranbir Kapoor,Drama,2011,1.0,0.0,0.0
+"Big Mommas: Like Father, Like Son",PG-13,107.0,0.0,4.4,John Whitesell,Matthew Fogel,Martin Lawrence,Action,2011,1.0,0.0,0.0
+The Dilemma,PG-13,111.0,0.0,5.3,Ron Howard,Allan Loeb,Vince Vaughn,Comedy,2011,1.0,0.0,0.0
+The Dark Knight Rises,PG-13,164.0,0.0,8.4,Christopher Nolan,Jonathan Nolan,Christian Bale,Action,2012,1.0,0.0,0.0
+The Impossible,PG-13,114.0,0.0,7.6,J.A. Bayona,Sergio G. Sánchez,Naomi Watts,Drama,2013,1.0,0.0,0.0
+The Twilight Saga: Breaking Dawn - Part 2,PG-13,115.0,0.0,5.5,Bill Condon,Melissa Rosenberg,Kristen Stewart,Adventure,2012,1.0,0.0,0.0
+Zero Dark Thirty,R,157.0,0.0,7.4,Kathryn Bigelow,Mark Boal,Jessica Chastain,Drama,2013,1.0,0.0,0.0
+Cloud Atlas,R,172.0,0.0,7.4,Tom Tykwer,David Mitchell,Tom Hanks,Action,2012,1.0,0.0,0.0
+Skyfall,PG-13,143.0,0.0,7.7,Sam Mendes,Neal Purvis,Daniel Craig,Action,2012,1.0,0.0,0.0
+The Perks of Being a Wallflower,PG-13,103.0,0.0,7.9,Stephen Chbosky,Stephen Chbosky,Logan Lerman,Drama,2012,1.0,0.0,0.0
+The Master,R,138.0,0.0,7.2,Paul Thomas Anderson,Paul Thomas Anderson,Philip Seymour Hoffman,Drama,2012,1.0,0.0,0.0
+Killing Them Softly,R,97.0,0.0,6.2,Andrew Dominik,Andrew Dominik,Brad Pitt,Crime,2012,1.0,0.0,0.0
+Flight,R,138.0,0.0,7.3,Robert Zemeckis,John Gatins,Denzel Washington,Drama,2012,1.0,0.0,0.0
+Ted,R,106.0,0.0,6.9,Seth MacFarlane,Seth MacFarlane,Mark Wahlberg,Comedy,2012,1.0,0.0,0.0
+Dark Shadows,PG-13,113.0,0.0,6.2,Tim Burton,Seth Grahame-Smith,Johnny Depp,Comedy,2012,1.0,0.0,0.0
+Lore,Not Rated,109.0,0.0,7.1,Cate Shortland,Cate Shortland,Saskia Rosendahl,Drama,2012,1.0,0.0,0.0
+Wreck-It Ralph,PG,101.0,0.0,7.7,Rich Moore,Rich Moore,John C. Reilly,Animation,2012,1.0,0.0,0.0
+Savages,R,131.0,0.0,6.5,Oliver Stone,Shane Salerno,Aaron Taylor-Johnson,Crime,2012,1.0,0.0,0.0
+Rock of Ages,PG-13,123.0,0.0,5.9,Adam Shankman,Justin Theroux,Julianne Hough,Comedy,2012,1.0,0.0,0.0
+The Expendables 2,R,103.0,0.0,6.6,Simon West,Richard Wenk,Sylvester Stallone,Action,2012,1.0,0.0,0.0
+Safety Not Guaranteed,R,86.0,0.0,7.0,Colin Trevorrow,Derek Connolly,Aubrey Plaza,Comedy,2012,1.0,0.0,0.0
+Chronicle,PG-13,84.0,0.0,7.0,Josh Trank,Max Landis,Dane DeHaan,Adventure,2012,1.0,0.0,0.0
+Wrath of the Titans,PG-13,99.0,0.0,5.7,Jonathan Liebesman,Dan Mazeau,Sam Worthington,Action,2012,1.0,0.0,0.0
+Man on a Ledge,PG-13,102.0,0.0,6.6,Asger Leth,Pablo F. Fenjves,Sam Worthington,Action,2012,1.0,0.0,0.0
+The Sessions,R,95.0,0.0,7.2,Ben Lewin,Ben Lewin,John Hawkes,Biography,2012,1.0,0.0,0.0
+The Vow,PG-13,104.0,0.0,6.8,Michael Sucsy,Abby Kohn,Rachel McAdams,Drama,2012,1.0,0.0,0.0
+Taken 2,PG-13,92.0,0.0,6.3,Olivier Megaton,Luc Besson,Liam Neeson,Action,2012,1.0,0.0,0.0
+Bullet to the Head,R,92.0,0.0,5.7,Walter Hill,Alessandro Camon,Sylvester Stallone,Action,2013,1.0,0.0,0.0
+Ice Age: Continental Drift,PG,88.0,0.0,6.5,Steve Martino,Michael Berg,Ray Romano,Animation,2012,1.0,0.0,0.0
+The Possession,PG-13,92.0,0.0,5.9,Ole Bornedal,Juliet Snowden,Natasha Calis,Horror,2012,1.0,0.0,0.0
+John Dies at the End,R,99.0,0.0,6.4,Don Coscarelli,Don Coscarelli,Chase Williamson,Comedy,2012,1.0,0.0,0.0
+The Man with the Iron Fists,R,95.0,0.0,5.4,RZA,RZA,Russell Crowe,Action,2012,1.0,0.0,0.0
+Stand Up Guys,R,95.0,0.0,6.5,Fisher Stevens,Noah Haidle,Al Pacino,Comedy,2013,1.0,0.0,0.0
+Thanks for Sharing,R,112.0,0.0,6.4,Stuart Blumberg,Stuart Blumberg,Mark Ruffalo,Comedy,2013,1.0,0.0,0.0
+The Angels' Share,R,101.0,0.0,7.0,Ken Loach,Paul Laverty,Paul Brannigan,Comedy,2012,1.0,0.0,0.0
+Universal Soldier: Day of Reckoning,R,114.0,0.0,5.0,John Hyams,John Hyams,Jean-Claude Van Damme,Action,2012,1.0,0.0,0.0
+Red Tails,PG-13,125.0,0.0,5.9,Anthony Hemingway,John Ridley,Cuba Gooding Jr.,Action,2012,1.0,0.0,0.0
+The Apparition,PG-13,82.0,0.0,4.1,Todd Lincoln,Todd Lincoln,Ashley Greene,Horror,2012,1.0,0.0,0.0
+Chasing Mavericks,PG,116.0,0.0,7.1,Michael Apted,Kario Salem,Jonny Weston,Biography,2012,1.0,0.0,0.0
+Bachelorette,R,87.0,0.0,5.3,Leslye Headland,Leslye Headland,Kirsten Dunst,Comedy,2012,1.0,0.0,0.0
+Upside Down,PG-13,109.0,0.0,6.4,Juan Solanas,Juan Solanas,Jim Sturgess,Drama,2013,1.0,0.0,0.0
+Premium Rush,PG-13,91.0,0.0,6.5,David Koepp,David Koepp,Joseph Gordon-Levitt,Action,2012,1.0,0.0,0.0
+People Like Us,PG-13,114.0,0.0,7.1,Alex Kurtzman,Alex Kurtzman,Chris Pine,Comedy,2012,1.0,0.0,0.0
+A Thousand Words,PG-13,91.0,0.0,5.9,Brian Robbins,Steve Koren,Eddie Murphy,Comedy,2012,1.0,0.0,0.0
+Escape from Planet Earth,PG,89.0,0.0,5.9,Cal Brunker,Bob Barlen,Brendan Fraser,Animation,2013,1.0,0.0,0.0
+"For a Good Time, Call...",R,85.0,0.0,6.0,Jamie Travis,Katie Anne Naylon,Ari Graynor,Comedy,2012,1.0,0.0,0.0
+The Devil Inside,R,83.0,0.0,4.2,William Brent Bell,William Brent Bell,Fernanda Andrade,Horror,2012,1.0,0.0,0.0
+Fun Size,PG-13,86.0,0.0,5.4,Josh Schwartz,Max Werner,Victoria Justice,Adventure,2012,1.0,0.0,0.0
+Iron Man 3,PG-13,130.0,0.0,7.1,Shane Black,Drew Pearce,Robert Downey Jr.,Action,2013,1.0,0.0,0.0
+The Conjuring,R,112.0,0.0,7.5,James Wan,Chad Hayes,Patrick Wilson,Horror,2013,1.0,0.0,0.0
+The Purge,R,85.0,0.0,5.7,James DeMonaco,James DeMonaco,Ethan Hawke,Horror,2013,1.0,0.0,0.0
+Grown Ups 2,PG-13,101.0,0.0,5.4,Dennis Dugan,Fred Wolf,Adam Sandler,Comedy,2013,1.0,0.0,0.0
+Gravity,PG-13,91.0,0.0,7.7,Alfonso Cuarón,Alfonso Cuarón,Sandra Bullock,Drama,2013,1.0,0.0,0.0
+The Hobbit: The Desolation of Smaug,PG-13,161.0,0.0,7.8,Peter Jackson,Fran Walsh,Ian McKellen,Adventure,2013,1.0,0.0,0.0
+Man of Steel,PG-13,143.0,0.0,7.0,Zack Snyder,David S. Goyer,Henry Cavill,Action,2013,1.0,0.0,0.0
+Under the Skin,R,108.0,0.0,6.3,Jonathan Glazer,Walter Campbell,Scarlett Johansson,Drama,2014,1.0,0.0,0.0
+Blue Is the Warmest Colour,NC-17,180.0,0.0,7.7,Abdellatif Kechiche,Abdellatif Kechiche,Léa Seydoux,Drama,2013,1.0,0.0,0.0
+Snowpiercer,R,126.0,0.0,7.1,Bong Joon Ho,Jacques Lob,Chris Evans,Action,2014,1.0,0.0,0.0
+American Hustle,R,138.0,0.0,7.2,David O. Russell,Eric Warren Singer,Christian Bale,Crime,2013,1.0,0.0,0.0
+Monsters University,G,104.0,0.0,7.2,Dan Scanlon,Dan Scanlon,Billy Crystal,Animation,2013,1.0,0.0,0.0
+The Croods,PG,98.0,0.0,7.2,Kirk DeMicco,Chris Sanders,Nicolas Cage,Animation,2013,1.0,0.0,0.0
+Evil Dead,R,91.0,0.0,6.5,Fede Alvarez,Fede Alvarez,Jane Levy,Horror,2013,1.0,0.0,0.0
+White House Down,PG-13,131.0,0.0,6.3,Roland Emmerich,James Vanderbilt,Channing Tatum,Action,2013,1.0,0.0,0.0
+Olympus Has Fallen,R,119.0,0.0,6.5,Antoine Fuqua,Creighton Rothenberger,Gerard Butler,Action,2013,1.0,0.0,0.0
+Coherence,Not Rated,89.0,0.0,7.2,James Ward Byrkit,James Ward Byrkit,Emily Baldoni,Drama,2014,1.0,0.0,0.0
+Anchorman 2: the Legend Continues,PG-13,119.0,0.0,6.3,Adam McKay,Will Ferrell,Will Ferrell,Comedy,2013,1.0,0.0,0.0
+The Mortal Instruments: City of Bones,PG-13,130.0,0.0,5.9,Harald Zwart,Jessica Postigo,Lily Collins,Action,2013,1.0,0.0,0.0
+Riddick,R,119.0,0.0,6.4,David Twohy,David Twohy,Vin Diesel,Action,2013,1.0,0.0,0.0
+A Good Day to Die Hard,R,98.0,0.0,5.3,John Moore,Skip Woods,Bruce Willis,Action,2013,1.0,0.0,0.0
+Escape Plan,R,115.0,0.0,6.7,Mikael Håfström,Miles Chapman,Sylvester Stallone,Action,2013,1.0,0.0,0.0
+47 Ronin,PG-13,128.0,0.0,6.3,Carl Rinsch,Chris Morgan,Keanu Reeves,Action,2013,1.0,0.0,0.0
+Percy Jackson: Sea of Monsters,PG,106.0,0.0,5.8,Thor Freudenthal,Marc Guggenheim,Logan Lerman,Adventure,2013,1.0,0.0,0.0
+Nymphomaniac: Vol. II,Not Rated,124.0,0.0,6.7,Lars von Trier,Lars von Trier,Charlotte Gainsbourg,Drama,2014,1.0,0.0,0.0
+Locke,R,85.0,0.0,7.1,Steven Knight,Steven Knight,Tom Hardy,Drama,2014,1.0,0.0,0.0
+The Call,R,94.0,0.0,6.7,Brad Anderson,Richard D'Ovidio,Halle Berry,Crime,2013,1.0,0.0,0.0
+Side Effects,R,106.0,0.0,7.1,Steven Soderbergh,Scott Z. Burns,Rooney Mara,Crime,2013,1.0,0.0,0.0
+The Heat,R,117.0,0.0,6.6,Paul Feig,Katie Dippold,Sandra Bullock,Action,2013,1.0,0.0,0.0
+Belle,PG,100.0,0.0,7.3,Amma Asante,Misan Sagay,Gugu Mbatha-Raw,Biography,2014,1.0,0.0,0.0
+Lee Daniels' The Butler,PG-13,132.0,0.0,7.2,Lee Daniels,Danny Strong,Forest Whitaker,Biography,2013,1.0,0.0,0.0
+Only God Forgives,R,90.0,0.0,5.7,Nicolas Winding Refn,Nicolas Winding Refn,Ryan Gosling,Action,2013,1.0,0.0,0.0
+42,PG-13,128.0,0.0,7.5,Brian Helgeland,Brian Helgeland,Chadwick Boseman,Biography,2013,1.0,0.0,0.0
+Short Term 12,R,96.0,0.0,8.0,Destin Daniel Cretton,Destin Daniel Cretton,Brie Larson,Drama,2013,1.0,0.0,0.0
+The Book Thief,PG-13,131.0,0.0,7.5,Brian Percival,Markus Zusak,Sophie Nélisse,Drama,2013,1.0,0.0,0.0
+Lovelace,R,93.0,0.0,6.2,Rob Epstein,Andy Bellin,Amanda Seyfried,Biography,2013,1.0,0.0,0.0
+The Family,R,111.0,0.0,6.3,Luc Besson,Luc Besson,Robert De Niro,Comedy,2013,1.0,0.0,0.0
+The Wind Rises,PG-13,126.0,0.0,7.8,Hayao Miyazaki,Hayao Miyazaki,Hideaki Anno,Animation,2014,1.0,0.0,0.0
+Life of Crime,R,98.0,0.0,5.8,Daniel Schechter,Daniel Schechter,Jennifer Aniston,Comedy,2014,1.0,0.0,0.0
+Grudge Match,PG-13,113.0,0.0,6.4,Peter Segal,Tim Kelleher,Robert De Niro,Comedy,2013,1.0,0.0,0.0
+Planes,PG,91.0,0.0,5.7,Klay Hall,John Lasseter,Carlos Alazraqui,Animation,2013,1.0,0.0,0.0
+The Kings of Summer,R,95.0,0.0,7.1,Jordan Vogt-Roberts,Chris Galletta,Nick Robinson,Adventure,2013,1.0,0.0,0.0
+The Grandmaster,PG-13,130.0,0.0,6.6,Kar-Wai Wong,Kar-Wai Wong,Tony Chiu-Wai Leung,Action,2013,1.0,0.0,0.0
+The Incredible Burt Wonderstone,PG-13,100.0,0.0,5.9,Don Scardino,Jonathan Goldstein,Steve Carell,Comedy,2013,1.0,0.0,0.0
+Snitch,PG-13,112.0,0.0,6.4,Ric Roman Waugh,Justin Haythe,Dwayne Johnson,Action,2013,1.0,0.0,0.0
+Last Vegas,PG-13,105.0,0.0,6.6,Jon Turteltaub,Dan Fogelman,Robert De Niro,Comedy,2013,1.0,0.0,0.0
+Palo Alto,R,100.0,0.0,6.2,Gia Coppola,Gia Coppola,Emma Roberts,Drama,2014,1.0,0.0,0.0
+Europa Report,PG-13,90.0,0.0,6.4,Sebastián Cordero,Philip Gelatt,Sharlto Copley,Action,2013,1.0,0.0,0.0
+I Give It a Year,R,97.0,0.0,5.7,Dan Mazer,Dan Mazer,Rose Byrne,Comedy,2013,1.0,0.0,0.0
+Starred Up,Not Rated,106.0,0.0,7.4,David Mackenzie,Jonathan Asser,Jack O'Connell,Crime,2014,1.0,0.0,0.0
+The Inevitable Defeat of Mister & Pete,R,108.0,0.0,7.5,George Tillman Jr.,Michael Starrbury,Skylan Brooks,Drama,2013,1.0,0.0,0.0
+Romeo and Juliet,PG-13,118.0,0.0,5.8,Carlo Carlei,Arthur Brooke,Hailee Steinfeld,Drama,2013,1.0,0.0,0.0
+Runner Runner,R,88.0,0.0,5.6,Brad Furman,Brian Koppelman,Ben Affleck,Crime,2013,1.0,0.0,0.0
+The Tale of The Princess Kaguya,PG,137.0,0.0,8.0,Isao Takahata,Isao Takahata,Chloë Grace Moretz,Animation,2013,1.0,0.0,0.0
+Yeh Jawaani Hai Deewani,Not Rated,160.0,0.0,7.2,Ayan Mukherjee,Hussain Dalal,Ranbir Kapoor,Drama,2013,1.0,0.0,0.0
+The Congress,Not Rated,122.0,0.0,6.5,Ari Folman,Stanislaw Lem,Robin Wright,Animation,2014,1.0,0.0,0.0
+Ida,PG-13,82.0,0.0,7.4,Pawel Pawlikowski,Pawel Pawlikowski,Agata Kulesza,Drama,2013,1.0,0.0,0.0
+Ain't Them Bodies Saints,R,96.0,0.0,6.4,David Lowery,David Lowery,Rooney Mara,Crime,2013,1.0,0.0,0.0
+The Lunchbox,PG,104.0,0.0,7.8,Ritesh Batra,Ritesh Batra,Irrfan Khan,Drama,2013,1.0,0.0,0.0
+Charlie Countryman,R,103.0,0.0,6.4,Fredrik Bond,Matt Drake,Shia LaBeouf,Action,2013,1.0,0.0,0.0
+The Grand Budapest Hotel,R,99.0,0.0,8.1,Wes Anderson,Stefan Zweig,Ralph Fiennes,Adventure,2014,1.0,0.0,0.0
+Whiplash,R,106.0,0.0,8.5,Damien Chazelle,Damien Chazelle,Miles Teller,Drama,2014,1.0,0.0,0.0
+Nightcrawler,R,117.0,0.0,7.8,Dan Gilroy,Dan Gilroy,Jake Gyllenhaal,Crime,2014,1.0,0.0,0.0
+The Hobbit: The Battle of the Five Armies,PG-13,144.0,0.0,7.4,Peter Jackson,Fran Walsh,Ian McKellen,Adventure,2014,1.0,0.0,0.0
+The Equalizer,R,132.0,0.0,7.2,Antoine Fuqua,Richard Wenk,Denzel Washington,Action,2014,1.0,0.0,0.0
+The Maze Runner,PG-13,113.0,0.0,6.8,Wes Ball,Noah Oppenheim,Dylan O'Brien,Action,2014,1.0,0.0,0.0
+The Imitation Game,PG-13,114.0,0.0,8.0,Morten Tyldum,Graham Moore,Benedict Cumberbatch,Biography,2014,1.0,0.0,0.0
+Blended,PG-13,117.0,0.0,6.5,Frank Coraci,Ivan Menchell,Adam Sandler,Comedy,2014,1.0,0.0,0.0
+The Amazing Spider-Man 2,PG-13,142.0,0.0,6.6,Marc Webb,Alex Kurtzman,Andrew Garfield,Action,2014,1.0,0.0,0.0
+Maleficent,PG,97.0,0.0,7.0,Robert Stromberg,Linda Woolverton,Angelina Jolie,Action,2014,1.0,0.0,0.0
+The Lego Movie,PG,100.0,0.0,7.7,Christopher Miller,Phil Lord,Chris Pratt,Animation,2014,1.0,0.0,0.0
+Night at the Museum: Secret of the Tomb,PG,98.0,0.0,6.2,Shawn Levy,David Guion,Ben Stiller,Adventure,2014,1.0,0.0,0.0
+The Fault in Our Stars,PG-13,126.0,0.0,7.7,Josh Boone,Scott Neustadter,Shailene Woodley,Drama,2014,1.0,0.0,0.0
+"As Above, So Below",R,93.0,0.0,6.2,John Erick Dowdle,John Erick Dowdle,Perdita Weeks,Horror,2014,1.0,0.0,0.0
+Transformers: Age of Extinction,PG-13,165.0,0.0,5.6,Michael Bay,Ehren Kruger,Mark Wahlberg,Action,2014,1.0,0.0,0.0
+Sex Tape,R,94.0,0.0,5.1,Jake Kasdan,Kate Angelo,Jason Segel,Comedy,2014,1.0,0.0,0.0
+Wild Tales,R,122.0,0.0,8.1,Damián Szifron,Germán Servidio,Darío Grandinetti,Comedy,2014,1.0,0.0,0.0
+Foxcatcher,R,134.0,0.0,7.0,Bennett Miller,E. Max Frye,Steve Carell,Biography,2015,1.0,0.0,0.0
+The Monuments Men,PG-13,118.0,0.0,6.1,George Clooney,George Clooney,George Clooney,Comedy,2014,1.0,0.0,0.0
+Dumb and Dumber to,PG-13,109.0,0.0,5.6,Bobby Farrelly,Sean Anders,Jim Carrey,Comedy,2014,1.0,0.0,0.0
+A Walk Among the Tombstones,R,114.0,0.0,6.5,Scott Frank,Lawrence Block,Liam Neeson,Action,2014,1.0,0.0,0.0
+Need for Speed,PG-13,132.0,0.0,6.4,Scott Waugh,George Gatins,Aaron Paul,Action,2014,1.0,0.0,0.0
+Testament of Youth,PG-13,129.0,0.0,7.3,James Kent,Vera Brittain,Alicia Vikander,Biography,2015,1.0,0.0,0.0
+Unfriended,R,83.0,0.0,5.5,Levan Gabriadze,Nelson Greaves,Heather Sossaman,Horror,2015,1.0,0.0,0.0
+The Good Lie,PG-13,110.0,0.0,7.4,Philippe Falardeau,Margaret Nagle,Reese Witherspoon,Biography,2014,1.0,0.0,0.0
+Deliver Us from Evil,R,118.0,0.0,6.2,Scott Derrickson,Scott Derrickson,Eric Bana,Action,2014,1.0,0.0,0.0
+Kill Me Three Times,R,90.0,0.0,5.9,Kriv Stenders,James McFarland,Simon Pegg,Action,2015,1.0,0.0,0.0
+Ride Along,PG-13,99.0,0.0,6.2,Tim Story,Greg Coolidge,Ice Cube,Action,2014,1.0,0.0,0.0
+Clown,R,100.0,0.0,5.7,Jon Watts,Christopher Ford,Andy Powers,Horror,2016,1.0,0.0,0.0
+The Signal,PG-13,97.0,0.0,6.1,William Eubank,Carlyle Eubank,Brenton Thwaites,Drama,2014,1.0,0.0,0.0
+She's Funny That Way,R,93.0,0.0,6.1,Peter Bogdanovich,Louise Stratten,Imogen Poots,Comedy,2015,1.0,0.0,0.0
+3 Days to Kill,PG-13,117.0,0.0,6.2,McG,Adi Hasak,Kevin Costner,Action,2014,1.0,0.0,0.0
+Love & Mercy,PG-13,121.0,0.0,7.4,Bill Pohlad,Oren Moverman,John Cusack,Biography,2015,1.0,0.0,0.0
+Big Eyes,PG-13,106.0,0.0,7.0,Tim Burton,Scott Alexander,Amy Adams,Biography,2014,1.0,0.0,0.0
+The One I Love,R,91.0,0.0,7.1,Charlie McDowell,Justin Lader,Mark Duplass,Comedy,2014,1.0,0.0,0.0
+Cake,R,102.0,0.0,6.4,Daniel Barnz,Patrick Tobin,Jennifer Aniston,Drama,2015,1.0,0.0,0.0
+Two Night Stand,R,86.0,0.0,6.4,Max Nichols,Mark Hammer,Miles Teller,Comedy,2014,1.0,0.0,0.0
+Kill the Messenger,R,112.0,0.0,6.9,Michael Cuesta,Peter Landesman,Jeremy Renner,Biography,2014,1.0,0.0,0.0
+Winter's Tale,PG-13,118.0,0.0,6.2,Akiva Goldsman,Akiva Goldsman,Colin Farrell,Drama,2014,1.0,0.0,0.0
+Tammy,R,97.0,0.0,4.9,Ben Falcone,Melissa McCarthy,Melissa McCarthy,Comedy,2014,1.0,0.0,0.0
+The Rover,R,103.0,0.0,6.4,David Michôd,David Michôd,Guy Pearce,Action,2014,1.0,0.0,0.0
+Magic in the Moonlight,PG-13,97.0,0.0,6.5,Woody Allen,Woody Allen,Colin Firth,Comedy,2014,1.0,0.0,0.0
+Song of the Sea,PG,93.0,0.0,8.1,Tomm Moore,Will Collins,David Rawle,Animation,2015,1.0,0.0,0.0
+Zombeavers,R,77.0,0.0,4.8,Jordan Rubin,Al Kaplan,Rachel Melvin,Action,2015,1.0,0.0,0.0
+Frank,R,95.0,0.0,7.0,Lenny Abrahamson,Jon Ronson,Michael Fassbender,Comedy,2014,1.0,0.0,0.0
+Get on Up,PG-13,139.0,0.0,6.9,Tate Taylor,Jez Butterworth,Chadwick Boseman,Biography,2014,1.0,0.0,0.0
+Suffragette,PG-13,106.0,0.0,6.9,Sarah Gavron,Abi Morgan,Carey Mulligan,Drama,2015,1.0,0.0,0.0
+Heaven Is for Real,PG,99.0,0.0,5.8,Randall Wallace,Randall Wallace,Greg Kinnear,Biography,2014,1.0,0.0,0.0
+Dear White People,R,108.0,0.0,6.1,Justin Simien,Justin Simien,Tyler James Williams,Comedy,2014,1.0,0.0,0.0
+The Keeping Room,R,95.0,0.0,6.0,Daniel Barber,Julia Hart,Brit Marling,Drama,2015,1.0,0.0,0.0
+Laggies,R,99.0,0.0,6.4,Lynn Shelton,Andrea Seigel,Keira Knightley,Comedy,2014,1.0,0.0,0.0
+Crimson Peak,R,119.0,0.0,6.5,Guillermo del Toro,Guillermo del Toro,Mia Wasikowska,Drama,2015,1.0,0.0,0.0
+Fifty Shades of Grey,R,125.0,0.0,4.1,Sam Taylor-Johnson,Kelly Marcel,Dakota Johnson,Drama,2015,1.0,0.0,0.0
+The Witch,R,92.0,0.0,6.9,Robert Eggers,Robert Eggers,Anya Taylor-Joy,Drama,2016,1.0,0.0,0.0
+Room,R,118.0,0.0,8.1,Lenny Abrahamson,Emma Donoghue,Brie Larson,Drama,2016,1.0,0.0,0.0
+The Man from U.N.C.L.E.,PG-13,116.0,0.0,7.3,Guy Ritchie,Guy Ritchie,Henry Cavill,Action,2015,1.0,0.0,0.0
+The Intern,PG-13,121.0,0.0,7.1,Nancy Meyers,Nancy Meyers,Robert De Niro,Comedy,2015,1.0,0.0,0.0
+Mission: Impossible - Rogue Nation,PG-13,131.0,0.0,7.4,Christopher McQuarrie,Bruce Geller,Tom Cruise,Action,2015,1.0,0.0,0.0
+Creed,PG-13,133.0,0.0,7.6,Ryan Coogler,Ryan Coogler,Michael B. Jordan,Drama,2015,1.0,0.0,0.0
+The Age of Adaline,PG-13,112.0,0.0,7.2,Lee Toland Krieger,J. Mills Goodloe,Blake Lively,Drama,2015,1.0,0.0,0.0
+Focus,R,105.0,0.0,6.6,Glenn Ficarra,Glenn Ficarra,Will Smith,Comedy,2015,1.0,0.0,0.0
+Jupiter Ascending,PG-13,127.0,0.0,5.3,Lana Wachowski,Lilly Wachowski,Channing Tatum,Action,2015,1.0,0.0,0.0
+I Saw the Light,R,123.0,0.0,5.8,Marc Abraham,Marc Abraham,Tom Hiddleston,Biography,2016,1.0,0.0,0.0
+The Danish Girl,R,119.0,0.0,7.1,Tom Hooper,Lucinda Coxon,Eddie Redmayne,Biography,2016,1.0,0.0,0.0
+Straight Outta Compton,R,147.0,0.0,7.8,F. Gary Gray,Jonathan Herman,O'Shea Jackson Jr.,Biography,2015,1.0,0.0,0.0
+Hitman: Agent 47,R,96.0,0.0,5.7,Aleksander Bach,Skip Woods,Rupert Friend,Action,2015,1.0,0.0,0.0
+Steve Jobs,R,122.0,0.0,7.2,Danny Boyle,Aaron Sorkin,Michael Fassbender,Biography,2015,1.0,0.0,0.0
+Brooklyn,PG-13,117.0,0.0,7.5,John Crowley,Nick Hornby,Saoirse Ronan,Drama,2015,1.0,0.0,0.0
+Youth,R,124.0,0.0,7.3,Paolo Sorrentino,Paolo Sorrentino,Michael Caine,Comedy,2015,1.0,0.0,0.0
+Self/less,PG-13,117.0,0.0,6.5,Tarsem Singh,Àlex Pastor,Ryan Reynolds,Action,2015,1.0,0.0,0.0
+Run All Night,R,114.0,0.0,6.6,Jaume Collet-Serra,Brad Ingelsby,Liam Neeson,Action,2015,1.0,0.0,0.0
+Magic Mike XXL,R,115.0,0.0,5.6,Gregory Jacobs,Reid Carolin,Channing Tatum,Comedy,2015,1.0,0.0,0.0
+Trumbo,R,124.0,0.0,7.5,Jay Roach,John McNamara,Bryan Cranston,Biography,2015,1.0,0.0,0.0
+Goosebumps,PG,103.0,0.0,6.3,Rob Letterman,Darren Lemke,Jack Black,Adventure,2015,1.0,0.0,0.0
+Aloha,PG-13,105.0,0.0,5.4,Cameron Crowe,Cameron Crowe,Bradley Cooper,Comedy,2015,1.0,0.0,0.0
+The Wedding Ringer,R,101.0,0.0,6.6,Jeremy Garelick,Jeremy Garelick,Kevin Hart,Comedy,2015,1.0,0.0,0.0
+Sisters,R,118.0,0.0,6.0,Jason Moore,Paula Pell,Amy Poehler,Comedy,2015,1.0,0.0,0.0
+Paper Towns,PG-13,109.0,0.0,6.2,Jake Schreier,Scott Neustadter,Nat Wolff,Adventure,2015,1.0,0.0,0.0
+Summertime,Not Rated,105.0,0.0,6.7,Catherine Corsini,Catherine Corsini,Cécile de France,Drama,2015,1.0,0.0,0.0
+Attack on Titan Part 1,Not Rated,98.0,0.0,5.0,Shinji Higuchi,Hajime Isayama,Haruma Miura,Action,2015,1.0,0.0,0.0
+Eye in the Sky,R,102.0,0.0,7.3,Gavin Hood,Guy Hibbert,Helen Mirren,Action,2016,1.0,0.0,0.0
+Tumbledown,R,105.0,0.0,6.2,Sean Mewshaw,Sean Mewshaw,Rebecca Hall,Comedy,2016,1.0,0.0,0.0
+By the Sea,R,122.0,0.0,5.3,Angelina Jolie,Angelina Jolie,Brad Pitt,Drama,2015,1.0,0.0,0.0
+Regression,R,106.0,0.0,5.7,Alejandro Amenábar,Alejandro Amenábar,Ethan Hawke,Crime,2015,1.0,0.0,0.0
+The Transporter Refueled,PG-13,96.0,0.0,5.2,Camille Delamarre,Adam Cooper,Ed Skrein,Action,2015,1.0,0.0,0.0
+The Lure,Not Rated,92.0,0.0,6.3,Agnieszka Smoczynska,Robert Bolesto,Marta Mazurek,Drama,2015,1.0,0.0,0.0
+The Peanuts Movie,G,88.0,0.0,7.1,Steve Martino,Craig Schulz,Noah Schnapp,Animation,2015,1.0,0.0,0.0
+Rock the Kasbah,R,106.0,0.0,5.5,Barry Levinson,Mitch Glazer,Bill Murray,Comedy,2015,1.0,0.0,0.0
+Love the Coopers,PG-13,107.0,0.0,5.8,Jessie Nelson,Steven Rogers,Steve Martin,Comedy,2015,1.0,0.0,0.0
+The End of the Tour,R,106.0,0.0,7.3,James Ponsoldt,Donald Margulies,Jason Segel,Biography,2015,1.0,0.0,0.0
+Cop Car,R,88.0,0.0,6.3,Jon Watts,Jon Watts,Kevin Bacon,Crime,2015,1.0,0.0,0.0
+Cemetery of Splendor,Unrated,122.0,0.0,6.8,Apichatpong Weerasethakul,Apichatpong Weerasethakul,Jenjira Pongpas,Drama,2015,1.0,0.0,0.0
+Captive,PG-13,97.0,0.0,5.4,Jerry Jameson,Brian Bird,Kate Mara,Action,2015,1.0,0.0,0.0
+The Magnificent Seven,PG-13,132.0,0.0,6.9,Antoine Fuqua,Akira Kurosawa,Denzel Washington,Action,2016,1.0,0.0,0.0
+Me Before You,PG-13,106.0,0.0,7.4,Thea Sharrock,Jojo Moyes,Emilia Clarke,Drama,2016,1.0,0.0,0.0
+The Conjuring 2,R,134.0,0.0,7.3,James Wan,Chad Hayes,Vera Farmiga,Horror,2016,1.0,0.0,0.0
+Zootopia,PG,108.0,0.0,8.0,Byron Howard,Byron Howard,Ginnifer Goodwin,Animation,2016,1.0,0.0,0.0
+13 Hours,R,144.0,0.0,7.3,Michael Bay,Chuck Hogan,John Krasinski,Action,2016,1.0,0.0,0.0
+Nocturnal Animals,R,116.0,0.0,7.5,Tom Ford,Tom Ford,Amy Adams,Drama,2016,1.0,0.0,0.0
+The Nice Guys,R,116.0,0.0,7.4,Shane Black,Shane Black,Russell Crowe,Action,2016,1.0,0.0,0.0
+Hidden Figures,PG,127.0,0.0,7.8,Theodore Melfi,Allison Schroeder,Taraji P. Henson,Biography,2017,1.0,0.0,0.0
+The Accountant,R,128.0,0.0,7.3,Gavin O'Connor,Bill Dubuque,Ben Affleck,Action,2016,1.0,0.0,0.0
+Silence,R,161.0,0.0,7.2,Martin Scorsese,Jay Cocks,Andrew Garfield,Drama,2017,1.0,0.0,0.0
+10 Cloverfield Lane,PG-13,103.0,0.0,7.2,Dan Trachtenberg,Josh Campbell,John Goodman,Action,2016,1.0,0.0,0.0
+The Lost City of Z,PG-13,141.0,0.0,6.6,James Gray,James Gray,Charlie Hunnam,Biography,2017,1.0,0.0,0.0
+Meet the Blacks,R,94.0,0.0,4.8,Deon Taylor,Deon Taylor,Mike Epps,Comedy,2016,1.0,0.0,0.0
+Deepwater Horizon,PG-13,107.0,0.0,7.1,Peter Berg,Matthew Michael Carnahan,Mark Wahlberg,Action,2016,1.0,0.0,0.0
+The Infiltrator,R,127.0,0.0,7.0,Brad Furman,Ellen Furman,Bryan Cranston,Biography,2016,1.0,0.0,0.0
+A Cure for Wellness,R,146.0,0.0,6.4,Gore Verbinski,Justin Haythe,Dane DeHaan,Drama,2017,1.0,0.0,0.0
+The 5th Wave,PG-13,112.0,0.0,5.2,J Blakeson,Susannah Grant,Chloë Grace Moretz,Action,2016,1.0,0.0,0.0
+Allegiant,PG-13,120.0,0.0,5.7,Robert Schwentke,Noah Oppenheim,Shailene Woodley,Action,2016,1.0,0.0,0.0
+The Great Wall,PG-13,103.0,0.0,5.9,Yimou Zhang,Carlo Bernard,Matt Damon,Action,2017,1.0,0.0,0.0
+Bad Moms,R,100.0,0.0,6.2,Jon Lucas,Jon Lucas,Mila Kunis,Comedy,2016,1.0,0.0,0.0
+Teenage Mutant Ninja Turtles: Out of the Shadows,PG-13,112.0,0.0,6.0,Dave Green,Josh Appelbaum,Megan Fox,Action,2016,1.0,0.0,0.0
+Everybody Wants Some!!,R,117.0,0.0,6.9,Richard Linklater,Richard Linklater,Blake Jenner,Comedy,2016,1.0,0.0,0.0
+The Finest Hours,PG-13,117.0,0.0,6.8,Craig Gillespie,Scott Silver,Chris Pine,Action,2016,1.0,0.0,0.0
+The Belko Experiment,R,89.0,0.0,6.1,Greg McLean,James Gunn,John Gallagher Jr.,Horror,2017,1.0,0.0,0.0
+Nerve,PG-13,96.0,0.0,6.5,Henry Joost,Jessica Sharzer,Emma Roberts,Action,2016,1.0,0.0,0.0
+Mechanic: Resurrection,R,98.0,0.0,5.7,Dennis Gansel,Lewis John Carlino,Jason Statham,Action,2016,1.0,0.0,0.0
+Neighbors 2: Sorority Rising,R,92.0,0.0,5.7,Nicholas Stoller,Andrew Jay Cohen,Seth Rogen,Comedy,2016,1.0,0.0,0.0
+Free State of Jones,R,139.0,0.0,6.9,Gary Ross,Gary Ross,Matthew McConaughey,Action,2016,1.0,0.0,0.0
+Keanu,R,100.0,0.0,6.3,Peter Atencio,Jordan Peele,Keegan-Michael Key,Action,2016,1.0,0.0,0.0
+A Monster Calls,PG-13,108.0,0.0,7.5,J.A. Bayona,Patrick Ness,Lewis MacDougall,Adventure,2017,1.0,0.0,0.0
+Blair Witch,R,89.0,0.0,5.0,Adam Wingard,Simon Barrett,James Allen McCune,Horror,2016,1.0,0.0,0.0
+In a Valley of Violence,R,104.0,0.0,6.0,Ti West,Ti West,Ethan Hawke,Action,2016,1.0,0.0,0.0
+Rules Don't Apply,PG-13,127.0,0.0,5.7,Warren Beatty,Warren Beatty,Lily Collins,Comedy,2016,1.0,0.0,0.0
+Better Watch Out,R,89.0,0.0,6.5,Chris Peckover,Zack Kahn,Olivia DeJonge,Comedy,2017,1.0,0.0,0.0
+Ouija: Origin of Evil,PG-13,99.0,0.0,6.1,Mike Flanagan,Mike Flanagan,Elizabeth Reaser,Drama,2016,1.0,0.0,0.0
+Bleed for This,R,117.0,0.0,6.8,Ben Younger,Ben Younger,Miles Teller,Biography,2016,1.0,0.0,0.0
+Denial,PG-13,109.0,0.0,6.7,Mick Jackson,Deborah Lipstadt,Rachel Weisz,Biography,2016,1.0,0.0,0.0
+Carrie Pilby,Not Rated,98.0,0.0,6.7,Susan Johnson,Kara Holden,Bel Powley,Comedy,2017,1.0,0.0,0.0
+Under the Shadow,PG-13,84.0,0.0,6.9,Babak Anvari,Babak Anvari,Narges Rashidi,Drama,2016,1.0,0.0,0.0
+Rock Dog,PG,90.0,0.0,6.0,Ash Brannon,Ash Brannon,Luke Wilson,Animation,2017,1.0,0.0,0.0
+Complete Unknown,R,91.0,0.0,5.4,Joshua Marston,Joshua Marston,Erin Darke,Drama,2016,1.0,0.0,0.0
+Dunkirk,PG-13,106.0,0.0,7.8,Christopher Nolan,Christopher Nolan,Fionn Whitehead,Action,2017,1.0,0.0,0.0
+Coco,PG,105.0,0.0,8.4,Lee Unkrich,Lee Unkrich,Anthony Gonzalez,Animation,2017,1.0,0.0,0.0
+Logan Lucky,PG-13,118.0,0.0,7.0,Steven Soderbergh,Jules Asner,Channing Tatum,Comedy,2017,1.0,0.0,0.0
+Transformers: The Last Knight,PG-13,154.0,0.0,5.2,Michael Bay,Art Marcum,Mark Wahlberg,Action,2017,1.0,0.0,0.0
+Molly's Game,R,140.0,0.0,7.4,Aaron Sorkin,Aaron Sorkin,Jessica Chastain,Biography,2018,1.0,0.0,0.0
+Hostiles,R,134.0,0.0,7.2,Scott Cooper,Scott Cooper,Scott Shepherd,Drama,2018,1.0,0.0,0.0
+American Assassin,R,111.0,0.0,6.2,Michael Cuesta,Stephen Schiff,Dylan O'Brien,Action,2017,1.0,0.0,0.0
+The Death of Stalin,R,107.0,0.0,7.2,Armando Iannucci,Armando Iannucci,Steve Buscemi,Comedy,2018,1.0,0.0,0.0
+Gifted,PG-13,101.0,0.0,7.6,Marc Webb,Tom Flynn,Chris Evans,Drama,2017,1.0,0.0,0.0
+The Upside,PG-13,126.0,0.0,7.0,Neil Burger,Jon Hartmere,Kevin Hart,Comedy,2019,1.0,0.0,0.0
+American Made,R,115.0,0.0,7.2,Doug Liman,Gary Spinelli,Tom Cruise,Action,2017,1.0,0.0,0.0
+War for the Planet of the Apes,PG-13,140.0,0.0,7.4,Matt Reeves,Mark Bomback,Andy Serkis,Action,2017,1.0,0.0,0.0
+xXx: Return of Xander Cage,PG-13,107.0,0.0,5.2,D.J. Caruso,Rich Wilkes,Vin Diesel,Action,2017,1.0,0.0,0.0
+The Lego Batman Movie,PG,104.0,0.0,7.3,Chris McKay,Seth Grahame-Smith,Will Arnett,Animation,2017,1.0,0.0,0.0
+The Post,PG-13,116.0,0.0,7.2,Steven Spielberg,Liz Hannah,Meryl Streep,Drama,2018,1.0,0.0,0.0
+Loving Vincent,PG-13,94.0,0.0,7.8,Dorota Kobiela,Dorota Kobiela,Douglas Booth,Animation,2017,1.0,0.0,0.0
+Daddy's Home 2,PG-13,100.0,0.0,6.0,Sean Anders,Sean Anders,Will Ferrell,Comedy,2017,1.0,0.0,0.0
+Mark Felt: The Man Who Brought Down the White House,PG-13,103.0,0.0,6.4,Peter Landesman,Mark Felt,Liam Neeson,Biography,2017,1.0,0.0,0.0
+A Dog's Purpose,PG,100.0,0.0,7.2,Lasse Hallström,W. Bruce Cameron,Josh Gad,Adventure,2017,1.0,0.0,0.0
+The Little Hours,R,90.0,0.0,5.8,Jeff Baena,Giovanni Boccaccio,Alison Brie,Comedy,2017,1.0,0.0,0.0
+Professor Marston & the Wonder Women,R,108.0,0.0,7.1,Angela Robinson,Angela Robinson,Luke Evans,Biography,2017,1.0,0.0,0.0
+A Taxi Driver,Not Rated,137.0,0.0,7.9,Hun Jang,Yu-na Eom,Kang-ho Song,Action,2017,1.0,0.0,0.0
+Smurfs: The Lost Village,PG,90.0,0.0,6.0,Kelly Asbury,Stacey Harman,Demi Lovato,Animation,2017,1.0,0.0,0.0
+Fist Fight,R,91.0,0.0,5.6,Richie Keen,Van Robichaux,Ice Cube,Comedy,2017,1.0,0.0,0.0
+Ghost Stories,Not Rated,98.0,0.0,6.4,Jeremy Dyson,Jeremy Dyson,Samuel Bottomley,Drama,2018,1.0,0.0,0.0
+The Bookshop,PG,113.0,0.0,6.5,Isabel Coixet,Isabel Coixet,Emily Mortimer,Drama,2018,1.0,0.0,0.0
+Captain Underpants: The First Epic Movie,PG,89.0,0.0,6.2,David Soren,Nicholas Stoller,Kevin Hart,Animation,2017,1.0,0.0,0.0
+Journey's End,R,107.0,0.0,6.7,Saul Dibb,Simon Reade,Paul Bettany,Drama,2018,1.0,0.0,0.0
+BPM (Beats Per Minute),Not Rated,143.0,0.0,7.4,Robin Campillo,Robin Campillo,Nahuel Pérez Biscayart,Drama,2017,1.0,0.0,0.0
+The Villainess,Not Rated,124.0,0.0,6.7,Byung-gil Jung,Byeong-sik Jung,Kim Ok-bin,Action,2017,1.0,0.0,0.0
+How to Talk to Girls at Parties,R,102.0,0.0,5.7,John Cameron Mitchell,Philippa Goslett,Elle Fanning,Comedy,2018,1.0,0.0,0.0
+Avengers: Infinity War,PG-13,149.0,0.0,8.4,Anthony Russo,Christopher Markus,Robert Downey Jr.,Action,2018,1.0,0.0,0.0
+A Simple Favor,R,117.0,0.0,6.8,Paul Feig,Darcey Bell,Anna Kendrick,Comedy,2018,1.0,0.0,0.0
+Green Book,PG-13,130.0,0.0,8.2,Peter Farrelly,Nick Vallelonga,Viggo Mortensen,Biography,2018,1.0,0.0,0.0
+Crazy Rich Asians,PG-13,120.0,0.0,6.9,Jon M. Chu,Peter Chiarelli,Constance Wu,Comedy,2018,1.0,0.0,0.0
+Midnight Sun,PG-13,91.0,0.0,6.6,Scott Speer,Kenji Bando,Bella Thorne,Drama,2018,1.0,0.0,0.0
+Under the Silver Lake,R,139.0,0.0,6.5,David Robert Mitchell,David Robert Mitchell,Andrew Garfield,Crime,2019,1.0,0.0,0.0
+Annihilation,R,115.0,0.0,6.8,Alex Garland,Alex Garland,Natalie Portman,Adventure,2018,1.0,0.0,0.0
+Death Wish,R,107.0,0.0,6.3,Eli Roth,Joe Carnahan,Bruce Willis,Action,2018,1.0,0.0,0.0
+Sicario: Day of the Soldado,R,122.0,0.0,7.1,Stefano Sollima,Taylor Sheridan,Benicio Del Toro,Action,2018,1.0,0.0,0.0
+Charlie Says,R,110.0,0.0,5.9,Mary Harron,Guinevere Turner,Hannah Murray,Biography,2019,1.0,0.0,0.0
+The Commuter,PG-13,104.0,0.0,6.3,Jaume Collet-Serra,Byron Willinger,Liam Neeson,Action,2018,1.0,0.0,0.0
+Red Joan,R,101.0,0.0,6.4,Trevor Nunn,Lindsay Shapero,Judi Dench,Biography,2019,1.0,0.0,0.0
+Tag,R,100.0,0.0,6.5,Jeff Tomsic,Rob McKittrick,Jeremy Renner,Action,2018,1.0,0.0,0.0
+The Hate U Give,PG-13,133.0,0.0,7.5,George Tillman Jr.,Audrey Wells,Amandla Stenberg,Crime,2018,1.0,0.0,0.0
+Bad Times at the El Royale,R,141.0,0.0,7.1,Drew Goddard,Drew Goddard,Jeff Bridges,Crime,2018,1.0,0.0,0.0
+Fantastic Beasts: The Crimes of Grindelwald,PG-13,134.0,0.0,6.5,David Yates,J.K. Rowling,Eddie Redmayne,Adventure,2018,1.0,0.0,0.0
+Hunter Killer,R,121.0,0.0,6.6,Donovan Marsh,Arne Schmidt,Gerard Butler,Action,2018,1.0,0.0,0.0
+Mary Poppins Returns,PG,130.0,0.0,6.7,Rob Marshall,P.L. Travers,Emily Blunt,Comedy,2018,1.0,0.0,0.0
+Leave No Trace,PG,109.0,0.0,7.2,Debra Granik,Debra Granik,Thomasin McKenzie,Adventure,2018,1.0,0.0,0.0
+Bumblebee,PG-13,114.0,0.0,6.7,Travis Knight,Christina Hodson,Hailee Steinfeld,Action,2018,1.0,0.0,0.0
+The Spy Who Dumped Me,R,117.0,0.0,6.1,Susanna Fogel,Susanna Fogel,Justin Theroux,Action,2018,1.0,0.0,0.0
+The Girl in the Spider's Web,R,115.0,0.0,6.1,Fede Alvarez,David Lagercrantz,Claire Foy,Action,2018,1.0,0.0,0.0
+First Man,PG-13,141.0,0.0,7.3,Damien Chazelle,Josh Singer,Ryan Gosling,Biography,2018,1.0,0.0,0.0
+Creed II,PG-13,130.0,0.0,7.1,Steven Caple Jr.,Juel Taylor,Michael B. Jordan,Drama,2018,1.0,0.0,0.0
+Widows,R,129.0,0.0,6.9,Steve McQueen,Gillian Flynn,Viola Davis,Crime,2018,1.0,0.0,0.0
+Peppermint,R,101.0,0.0,6.5,Pierre Morel,Chad St. John,Jennifer Garner,Action,2018,1.0,0.0,0.0
+Operation Finale,PG-13,122.0,0.0,6.6,Chris Weitz,Matthew Orton,Oscar Isaac,Biography,2018,1.0,0.0,0.0
+American Woman,R,111.0,0.0,6.8,Jake Scott,Brad Ingelsby,Sienna Miller,Drama,2019,1.0,0.0,0.0
+Holmes & Watson,PG-13,90.0,0.0,3.8,Etan Cohen,Etan Cohen,Will Ferrell,Comedy,2018,1.0,0.0,0.0
+Truth or Dare,PG-13,100.0,0.0,5.2,Jeff Wadlow,Michael Reisz,Lucy Hale,Horror,2018,1.0,0.0,0.0
+At Eternity's Gate,PG-13,111.0,0.0,6.9,Julian Schnabel,Jean-Claude Carrière,Willem Dafoe,Biography,2019,1.0,0.0,0.0
+Summer of 84,Not Rated,105.0,0.0,6.7,François Simard,Matt Leslie,Graham Verchere,Drama,2018,1.0,0.0,0.0
+Hotel Mumbai,R,123.0,0.0,7.6,Anthony Maras,John Collee,Dev Patel,Action,2019,1.0,0.0,0.0
+American Animals,R,116.0,0.0,7.0,Bart Layton,Bart Layton,Spencer Reinhard,Biography,2018,1.0,0.0,0.0
+The Miseducation of Cameron Post,Not Rated,91.0,0.0,6.6,Desiree Akhavan,Desiree Akhavan,Chloë Grace Moretz,Drama,2018,1.0,0.0,0.0
+"Don't Worry, He Won't Get Far on Foot",R,114.0,0.0,6.9,Gus Van Sant,John Callahan,Joaquin Phoenix,Biography,2018,1.0,0.0,0.0
+Johnny English Strikes Again,PG,89.0,0.0,6.2,David Kerr,William Davies,Rowan Atkinson,Action,2018,1.0,0.0,0.0
+Wildlife,PG-13,105.0,0.0,6.8,Paul Dano,Paul Dano,Ed Oxenbould,Drama,2019,1.0,0.0,0.0
+On the Basis of Sex,PG-13,120.0,0.0,7.1,Mimi Leder,Daniel Stiepleman,Felicity Jones,Biography,2019,1.0,0.0,0.0
+Border,R,110.0,0.0,7.0,Ali Abbasi,John Ajvide Lindqvist,Eva Melander,Crime,2018,1.0,0.0,0.0
+Lords of Chaos,R,118.0,0.0,6.6,Jonas Åkerlund,Dennis Magnusson,Rory Culkin,Biography,2019,1.0,0.0,0.0
+Wild Rose,R,101.0,0.0,7.2,Tom Harper,Nicole Taylor,Jessie Buckley,Comedy,2019,1.0,0.0,0.0
+The Possession of Hannah Grace,R,86.0,0.0,5.2,Diederik Van Rooijen,Brian Sieve,Shay Mitchell,Horror,2018,1.0,0.0,0.0
+If Beale Street Could Talk,R,119.0,0.0,7.1,Barry Jenkins,Barry Jenkins,KiKi Layne,Drama,2018,1.0,0.0,0.0
+Action Point,R,85.0,0.0,5.1,Tim Kirkby,John Altschuler,Johnny Knoxville,Comedy,2018,1.0,0.0,0.0
+Never Look Away,R,189.0,0.0,7.7,Florian Henckel von Donnersmarck,Florian Henckel von Donnersmarck,Tom Schilling,Biography,2018,1.0,0.0,0.0
+Padmaavat,Not Rated,164.0,0.0,7.0,Sanjay Leela Bhansali,Prakash Kapadia,Deepika Padukone,Drama,2018,1.0,0.0,0.0
+The Hummingbird Project,R,111.0,0.0,6.2,Kim Nguyen,Kim Nguyen,Jesse Eisenberg,Drama,2019,1.0,0.0,0.0
+Kin,PG-13,102.0,0.0,5.8,Jonathan Baker,Jonathan Baker,Myles Truitt,Action,2018,1.0,0.0,0.0
+The Quake,PG-13,106.0,0.0,6.2,John Andreas Andersen,John Kåre Raake,Kristoffer Joner,Action,2018,1.0,0.0,0.0
+Spider-Man: Far from Home,PG-13,129.0,0.0,7.5,Jon Watts,Chris McKenna,Tom Holland,Action,2019,1.0,0.0,0.0
+It Chapter Two,R,169.0,0.0,6.5,Andy Muschietti,Stephen King,Jessica Chastain,Drama,2019,1.0,0.0,0.0
+Us,R,116.0,0.0,6.8,Jordan Peele,Jordan Peele,Lupita Nyong'o,Horror,2019,1.0,0.0,0.0
+Ready or Not,R,95.0,0.0,6.9,Matt Bettinelli-Olpin,Guy Busick,Samara Weaving,Action,2019,1.0,0.0,0.0
+Terminator: Dark Fate,R,128.0,0.0,6.2,Tim Miller,David S. Goyer,Linda Hamilton,Action,2019,1.0,0.0,0.0
+Downton Abbey,PG,122.0,0.0,7.4,Michael Engler,Julian Fellowes,Stephen Campbell Moore,Drama,2019,1.0,0.0,0.0
+Gemini Man,PG-13,117.0,0.0,5.7,Ang Lee,David Benioff,Will Smith,Action,2019,1.0,0.0,0.0
+Godzilla: King of the Monsters,PG-13,132.0,0.0,6.0,Michael Dougherty,Michael Dougherty,Kyle Chandler,Action,2019,1.0,0.0,0.0
+Hustlers,R,110.0,0.0,6.3,Lorene Scafaria,Lorene Scafaria,Constance Wu,Comedy,2019,1.0,0.0,0.0
+Zombieland: Double Tap,R,99.0,0.0,6.7,Ruben Fleischer,Rhett Reese,Woody Harrelson,Action,2019,1.0,0.0,0.0
+Brightburn,R,90.0,0.0,6.1,David Yarovesky,Brian Gunn,Elizabeth Banks,Drama,2019,1.0,0.0,0.0
+Ma,R,99.0,0.0,5.6,Tate Taylor,Scotty Landes,Octavia Spencer,Horror,2019,1.0,0.0,0.0
+Crawl,R,87.0,0.0,6.1,Alexandre Aja,Michael Rasmussen,Kaya Scodelario,Action,2019,1.0,0.0,0.0
+A Beautiful Day in the Neighborhood,PG,109.0,0.0,7.3,Marielle Heller,Micah Fitzerman-Blue,Tom Hanks,Biography,2019,1.0,0.0,0.0
+How to Train Your Dragon: The Hidden World,PG,104.0,0.0,7.5,Dean DeBlois,Dean DeBlois,Jay Baruchel,Animation,2019,1.0,0.0,0.0
+Pokémon Detective Pikachu,PG,104.0,0.0,6.6,Rob Letterman,Dan Hernandez,Ryan Reynolds,Action,2019,1.0,0.0,0.0
+Maleficent: Mistress of Evil,PG,119.0,0.0,6.6,Joachim Rønning,Linda Woolverton,Angelina Jolie,Adventure,2019,1.0,0.0,0.0
+The Secret Life of Pets 2,PG,86.0,0.0,6.5,Chris Renaud,Brian Lynch,Patton Oswalt,Animation,2019,1.0,0.0,0.0
+The Intruder,PG-13,102.0,0.0,5.6,Deon Taylor,David Loughery,Michael Ealy,Thriller,2019,1.0,0.0,0.0
+The Art of Self-Defense,R,104.0,0.0,6.6,Riley Stearns,Riley Stearns,Jesse Eisenberg,Action,2019,1.0,0.0,0.0
+Sword of Trust,R,88.0,0.0,6.3,Lynn Shelton,Lynn Shelton,Marc Maron,Comedy,2019,1.0,0.0,0.0
+The Souvenir,R,120.0,0.0,6.4,Joanna Hogg,Joanna Hogg,Neil Young,Drama,2019,1.0,0.0,0.0
+The Beach Bum,R,95.0,0.0,5.5,Harmony Korine,Harmony Korine,Matthew McConaughey,Comedy,2019,1.0,0.0,0.0
+Can You Keep a Secret?,Not Rated,94.0,0.0,5.3,Elise Durán,Peter Hutchings,Alexandra Daddario,Comedy,2019,1.0,0.0,0.0
+The Art of Racing in the Rain,PG,109.0,0.0,7.6,Simon Curtis,Mark Bomback,Kevin Costner,Comedy,2019,1.0,0.0,0.0
+Ip Man 4: The Finale,Not Rated,107.0,0.0,7.0,Wilson Yip,Edmond Wong,Donnie Yen,Action,2019,1.0,0.0,0.0
+Miss Bala,PG-13,104.0,0.0,5.8,Catherine Hardwicke,Gareth Dunnet-Alcocer,Gina Rodriguez,Action,2019,1.0,0.0,0.0
+The Fanatic,R,88.0,0.0,4.1,Fred Durst,Fred Durst,John Travolta,Crime,2019,1.0,0.0,0.0
+Breakthrough,PG,116.0,0.0,6.3,Roxann Dawson,Joyce Smith,Marcel Ruiz,Biography,2019,1.0,0.0,0.0
+Little,PG-13,109.0,0.0,5.5,Tina Gordon,Tracy Oliver,Regina Hall,Comedy,2019,1.0,0.0,0.0
+Ne Zha,Not Rated,110.0,0.0,7.5,Yu Yang,Yu Yang,Yanting Lü,Animation,2019,1.0,0.0,0.0
+Sonchiriya,Not Rated,143.0,0.0,8.1,Abhishek Chaubey,Sudip Sharma,Sushant Singh Rajput,Action,2019,1.0,0.0,0.0
+Saaho,Not Rated,170.0,0.0,5.2,Sujeeth,Sujeeth,Prabhas,Action,2019,1.0,0.0,0.0
+Exit,Not Rated,103.0,0.0,7.0,Sang-Geun Lee,Sang-Geun Lee,Jo Jung-Suk,Action,2019,1.0,0.0,0.0
+Unplanned,R,109.0,0.0,5.8,Chuck Konzelman,Abby Johnson,Ashley Bratcher,Biography,2019,1.0,0.0,0.0
+Student of the Year 2,Not Rated,146.0,0.0,2.2,Punit Malhotra,Arshad Sayed,Tiger Shroff,Action,2019,1.0,0.0,0.0
+Bennett's War,PG-13,94.0,0.0,5.9,Alex Ranarivelo,Alex Ranarivelo,Michael Roark,Sport,2019,1.0,0.0,0.0
+Code Geass: Lelouch of the Re;Surrection,Not Rated,112.0,0.0,7.4,Gorô Taniguchi,Gorô Taniguchi,Jun Fukuyama,Animation,2019,1.0,0.0,0.0
+Before You Know It,Not Rated,98.0,0.0,5.1,Hannah Pearl Utt,Jen Tullock,Hannah Pearl Utt,Comedy,2019,1.0,0.0,0.0
+Photograph,PG-13,110.0,0.0,6.9,Ritesh Batra,Ritesh Batra,Nawazuddin Siddiqui,Drama,2019,1.0,0.0,0.0
+Body at Brighton Rock,R,87.0,0.0,4.8,Roxanne Benjamin,Roxanne Benjamin,Karina Fontes,Horror,2019,1.0,0.0,0.0
+The Bravest,PG-13,118.0,0.0,5.6,Tony Chan,Chao Wang,Xiaoming Huang,Action,2019,1.0,0.0,0.0
+42nd Street: The Musical,Not Rated,155.0,0.0,7.9,Mark Bramble,Mark Bramble,Bonnie Langford,Musical,2019,1.0,0.0,0.0
+High on the Hog,R,85.0,0.0,3.5,Tony Wash,Andy Golub,Sid Haig,Action,2019,1.0,0.0,0.0
+The Fighting Preacher,PG,100.0,0.0,5.9,T.C. Christensen,T.C. Christensen,David McConnell,Comedy,2019,1.0,0.0,0.0
+The Least of These: The Graham Staines Story,PG-13,112.0,0.0,6.4,Aneesh Daniel,Andrew E. Matthews,Sharman Joshi,Drama,2019,1.0,0.0,0.0
+Sonic the Hedgehog,PG,99.0,0.0,6.5,Jeff Fowler,Pat Casey,Ben Schwartz,Action,2020,1.0,0.0,0.0
+Dolittle,PG,101.0,0.0,5.6,Stephen Gaghan,Stephen Gaghan,Robert Downey Jr.,Adventure,2020,1.0,0.0,0.0
+The Call of the Wild,PG,100.0,0.0,6.8,Chris Sanders,Michael Green,Harrison Ford,Adventure,2020,1.0,0.0,0.0
+Black Wall Street Burning,R,78.0,0.0,6.6,Marcus Brown,Dekoven Riggins,Dan Belcher,Drama,2020,1.0,0.0,0.0
+Ghostbusters: Afterlife,PG-13,124.0,45.0,7.2,Jason Reitman,Jason Reitman,Paul Rudd,Adventure,2021,1.0,0.0,0.0
+Free Guy,PG-13,115.0,62.0,7.2,Shawn Levy,Zak Penn,Taika Waititi,Action,2021,1.0,0.0,0.0
+Halloween Kills,R,105.0,42.0,5.6,David Gordon Green,Scott Teems,Judy Greer,Horror,2021,1.0,0.0,0.0
+The Boss Baby: Family Business,PG,107.0,39.0,5.9,Tom McGrath,Tom McGrath,James Marsden,Animation,2021,1.0,0.0,0.0
+PAW Patrol: The Movie,G,86.0,50.0,6.2,Cal Brunker,Cal Brunker,Will Brisbin,Animation,2021,1.0,0.0,0.0
+West Side Story,PG-13,156.0,85.0,7.8,Steven Spielberg,Tony Kushner,Rachel Zegler,Crime,2021,1.0,0.0,0.0
+The Matrix Resurrections,R,148.0,63.0,5.7,Lana Wachowski,Lana Wachowski,Yahya Abdul-Mateen II,Action,2021,1.0,0.0,0.0
+Escape Room: Tournament of Champions,PG-13,88.0,48.0,5.8,Adam Robitel,Will Honley,Taylor Russell,Action,2021,1.0,0.0,0.0
+Respect,PG-13,145.0,61.0,6.6,Liesl Tommy,Tracey Scott Wilson,Marlon Wayans,Biography,2021,1.0,0.0,0.0
+The Green Knight,R,130.0,85.0,6.6,David Lowery,David Lowery,Joel Edgerton,Adventure,2021,1.0,0.0,0.0
+Resident Evil: Welcome to Raccoon City,R,107.0,44.0,5.2,Johannes Roberts,Johannes Roberts,Robbie Amell,Action,2021,1.0,0.0,0.0
+Licorice Pizza,R,133.0,90.0,7.8,Paul Thomas Anderson,Paul Thomas Anderson,Sean Penn,Comedy,2021,1.0,0.0,0.0
+The Little Things,R,128.0,54.0,6.3,John Lee Hancock,John Lee Hancock,Rami Malek,Crime,2021,1.0,0.0,0.0
+Dear Evan Hansen,PG-13,137.0,39.0,6.1,Stephen Chbosky,Steven Levenson,Kaitlyn Dever,Drama,2021,1.0,0.0,0.0
+Malignant,R,111.0,51.0,6.3,James Wan,James Wan,Maddie Hasson,Crime,2021,1.0,0.0,0.0
+The Last Duel,R,152.0,67.0,7.4,Ridley Scott,Nicole Holofcener,Matt Damon,Action,2021,1.0,0.0,0.0
+Antlers,R,99.0,57.0,5.9,Scott Cooper,Scott Cooper,Keri Russell,Drama,2021,1.0,0.0,0.0
+Last Night in Soho,R,116.0,65.0,7.2,Edgar Wright,Krysty Wilson-Cairns,Thomasin McKenzie,Drama,2021,1.0,0.0,0.0
+Judas and the Black Messiah,R,126.0,85.0,7.5,Shaka King,Will Berson,LaKeith Stanfield,Biography,2021,1.0,0.0,0.0
+Separation,R,107.0,0.0,4.7,William Brent Bell,Nick Amadeus,Violet McGraw,Horror,2021,1.0,0.0,0.0
+Here Today,PG-13,117.0,40.0,6.7,Billy Crystal,Billy Crystal,Dierdre Friel,Comedy,2021,1.0,0.0,0.0
+Lamb,R,106.0,68.0,6.3,Valdimar Jóhannsson,Valdimar Jóhannsson,Noomi Rapace,Drama,2021,1.0,0.0,0.0
+"Summer of Soul (...Or, When the Revolution Could Not Be Televised)",PG-13,118.0,96.0,8.1,Questlove,0,Dorinda Drake,Documentary,2021,1.0,0.0,0.0
+Red Rocket,R,130.0,75.0,7.4,Sean Baker,Sean Baker,Suzanna Son,Comedy,2021,1.0,0.0,0.0
+True to the Game 3,R,98.0,0.0,4.8,David Wolfgang,Jeff Robertson,Starletta DuPois,Romance,2021,1.0,0.0,0.0
+Blue Bayou,R,117.0,58.0,7.1,Justin Chon,Justin Chon,Mark O'Brien,Drama,2021,1.0,0.0,0.0
+Julia,PG-13,95.0,71.0,7.6,Julie Cohen,0,Julia Child,Documentary,2022,1.0,0.0,0.0
+Becoming Cousteau,PG-13,94.0,74.0,7.1,Liz Garbus,Pax Wassermann,Vincent Cassel,Documentary,2021,1.0,0.0,0.0
+Mass,PG-13,111.0,81.0,7.7,Fran Kranz,Fran Kranz,Martha Plimpton,Drama,2021,1.0,0.0,0.0
+Walking with Herb,PG,110.0,0.0,5.1,Ross Kagan Marks,Mark Medoff,Kathleen Quinlan,Comedy,2021,1.0,0.0,0.0
+Small Engine Repair,R,102.0,57.0,6.6,John Pollono,John Pollono,Shea Whigham,Comedy,2021,1.0,0.0,0.0
+The Loneliest Whale: The Search for 52,PG,96.0,69.0,6.6,Joshua Zeman,Lisa Schiller,Joshua Zeman,Documentary,2021,1.0,0.0,0.0
+Tango Shalom,PG-13,115.0,0.0,6.4,Gabriel Bologna,Joseph Bologna,Renée Taylor,Comedy,2021,1.0,0.0,0.0
+The Souvenir: Part II,R,107.0,90.0,7.7,Joanna Hogg,Joanna Hogg,Tilda Swinton,Drama,2022,1.0,0.0,0.0
+Memoria,PG,136.0,91.0,6.7,Apichatpong Weerasethakul,Apichatpong Weerasethakul,Tilda Swinton,Drama,2021,1.0,0.0,0.0
+France,Unrated,133.0,57.0,5.9,Bruno Dumont,Bruno Dumont,Léa Seydoux,Comedy,2021,1.0,0.0,0.0
+"All Light, Everywhere",Unrated,105.0,76.0,6.9,Theo Anthony,0,Theo Anthony,Documentary,2021,1.0,0.0,0.0
+The Beta Test,Unrated,93.0,72.0,6.1,PJ McCabe,PJ McCabe,Virginia Newcomb,Comedy,2021,1.0,0.0,0.0
+The Laws of the Universe: The Age of Elohim,PG,119.0,0.0,0.0,Isamu Imakake,Sayaka Okawa,Satomi Arai,Animation,2021,1.0,0.0,0.0
+Secret Agent Dingledorf and His Trusty Dog Splat,PG,89.0,0.0,5.0,Billy Dickson,Bill Myers,Zackary Arthur,Comedy,2021,1.0,0.0,0.0
+We Need to Do Something,Unrated,97.0,48.0,4.5,Sean King O'Grady,Max Booth III,Vinessa Shaw,Horror,2021,1.0,0.0,0.0
+Uncharted,PG-13,116.0,42.0,6.9,Ruben Fleischer,Rafe Judkins,Tom Holland,Action,2022,1.0,0.0,0.0
+Moonfall,PG-13,130.0,41.0,5.3,Roland Emmerich,Spenser Cohen,Patrick Wilson,Action,2022,1.0,0.0,0.0
+Marry Me,PG-13,112.0,50.0,6.2,Kat Coiro,Tami Sagher,Owen Wilson,Comedy,2022,1.0,0.0,0.0
+The Tiger Rising,PG,102.0,33.0,5.8,Ray Giarratana,Ray Giarratana,Queen Latifah,Family,2022,1.0,0.0,0.0
+A Day to Die,0,0.0,0.0,0.0,Wes Miller,Scott Mallace,Kevin Dillon,Action,1970,0.0,1.0,0.0
+He Was Asking for It: A Noir Film,0,0.0,0.0,0.0,Rocky Karlage,Staci Layne Wilson,Rocky Karlage,Action,2022,0.0,1.0,0.0
+Tyson's Run,PG,103.0,0.0,0.0,Kim Bass,Kim Bass,Major Dodson,Action,2022,0.0,1.0,0.0
+X,R,0.0,0.0,0.0,Ti West,Ti West,Mia Goth,Action,2022,0.0,1.0,0.0
+Operation Fortune: Ruse de guerre,0,0.0,0.0,0.0,Guy Ritchie,Marn Davies,Josh Hartnett,Action,2022,0.0,1.0,0.0
+The Outfit,R,105.0,0.0,0.0,Graham Moore,Johnathan McClain,Zoey Deutch,Action,2022,0.0,1.0,0.0
+Cheaper by the Dozen,PG,0.0,0.0,0.0,Gail Lerner,Kenya Barris,Zach Braff,Action,2022,0.0,1.0,0.0
+Alice,0,100.0,54.0,5.3,Krystin Ver Linden,Krystin Ver Linden,Keke Palmer,Animation,2022,0.0,1.0,0.0
+The Unbreakable Boy,PG,0.0,0.0,0.0,Jon Gunn,Jon Gunn,Zachary Levi,Adventure,2022,0.0,1.0,0.0
+Umma,0,0.0,0.0,0.0,Iris K. Shim,Iris K. Shim,Sandra Oh,Action,2022,0.0,1.0,0.0
+The Lost City,0,92.0,0.0,0.0,Adam Nee,Oren Uziel,Sandra Bullock,Action,2022,0.0,1.0,0.0
+The Duke of Marylebone,0,100.0,0.0,0.0,Mitch Riverman,Mitch Riverman,Ninette Finch,Action,2022,0.0,1.0,0.0
+Everything Everywhere All at Once,R,140.0,0.0,0.0,Daniel Scheinert,Daniel Scheinert,Michelle Yeoh,Action,2022,0.0,1.0,0.0
+Morbius,PG-13,108.0,0.0,0.0,Daniel Espinosa,Roy Thomas,Michael Keaton,Animation,2022,0.0,1.0,0.0
+The Contractor,R,0.0,0.0,0.0,Tarik Saleh,J.P. Davis,Gillian Jacobs,Horror,2022,0.0,1.0,0.0
+You Won't Be Alone,R,108.0,75.0,6.8,Goran Stolevski,Goran Stolevski,Noomi Rapace,Adventure,2022,0.0,1.0,0.0
+Iris Warriors,0,80.0,0.0,5.1,Roydon Turner,Roydon Turner,Sven-Eric Muller,Animation,2022,0.0,1.0,0.0
+Sonic the Hedgehog 2,0,0.0,0.0,0.0,Jeff Fowler,Pat Casey,Idris Elba,Horror,2022,0.0,1.0,0.0
+Ambulance,R,0.0,0.0,0.0,Michael Bay,Laurits Munch-Petersen,Jake Gyllenhaal,Horror,2022,0.0,1.0,0.0
+The Cow Who Sang a Song Into the Future,0,98.0,0.0,7.0,Francisca Alegria,Manuela Infante,Mía Maestro,Animation,2022,0.0,1.0,0.0
+Father Stu,R,0.0,0.0,0.0,Rosalind Ross,Rosalind Ross,Mel Gibson,Animation,2022,0.0,1.0,0.0
+Fantastic Beasts: The Secrets of Dumbledore,0,0.0,0.0,0.0,David Yates,Steve Kloves,Mads Mikkelsen,Action,2022,0.0,1.0,0.0
+The Bad Guys,PG,0.0,0.0,0.0,Pierre Perifel,Hilary Winston,Sam Rockwell,Animation,2022,0.0,1.0,0.0
+The Northman,0,0.0,0.0,0.0,Robert Eggers,Sjón,Nicole Kidman,Crime,2022,0.0,1.0,0.0
+The Unbearable Weight of Massive Talent,0,0.0,0.0,0.0,Tom Gormican,Tom Gormican,Pedro Pascal,Adventure,2022,0.0,1.0,0.0
+Hatching,0,86.0,75.0,7.1,Hanna Bergholm,Ilja Rautsi,Sophia Heikkilä,Drama,2022,0.0,1.0,0.0
+The Vortex Voices,0,99.0,0.0,0.0,Michael Jason Allen,Michael Jason Allen,Mariya Tensina,Animation,2022,0.0,1.0,0.0
+Firebird,0,0.0,0.0,0.0,0,0,0,Action,1970,0.0,1.0,0.0
+Memory,R,0.0,0.0,0.0,Martin Campbell,Jef Geeraerts,Ray Stevenson,Action,2022,0.0,1.0,0.0
+Doctor Strange in the Multiverse of Madness,0,0.0,0.0,0.0,Sam Raimi,Steve Ditko,Rachel McAdams,Animation,2022,0.0,1.0,0.0
+What's Happening ... Refugees,0,0.0,0.0,0.0,Ted Kamp,0,0,Animation,1970,0.0,1.0,0.0
+The Twin,0,0.0,0.0,0.0,Taneli Mustonen,Taneli Mustonen,Teresa Palmer,Crime,2022,0.0,1.0,0.0
+Firestarter,R,0.0,0.0,0.0,Keith Thomas,Stephen King,Zac Efron,Action,1970,0.0,1.0,0.0
+Downton Abbey: A New Era,PG,0.0,0.0,0.0,Simon Curtis,Julian Fellowes,Michelle Dockery,Action,2022,0.0,1.0,0.0
+Men,0,0.0,0.0,0.0,Alex Garland,Alex Garland,Rory Kinnear,Drama,2022,0.0,1.0,0.0
+DC League of Super-Pets,0,0.0,0.0,0.0,Sam Levine,John Whittington,Vanessa Bayer,Action,2022,0.0,1.0,0.0
+Top Gun: Maverick,PG-13,0.0,0.0,0.0,Joseph Kosinski,Eric Warren Singer,Tom Cruise,Action,2022,0.0,1.0,0.0
+The Bob's Burgers Movie,PG-13,0.0,0.0,0.0,Loren Bouchard,Nora Smith,Kristen Schaal,Action,2022,0.0,1.0,0.0
+Terror on the Prairie,0,0.0,0.0,0.0,Michael Polish,Josiah Nelson,Samaire Armstrong,Biography,1970,0.0,1.0,0.0
+Jurassic World Dominion,PG-13,0.0,0.0,0.0,Colin Trevorrow,Emily Carmichael,Dichen Lachman,Crime,2022,0.0,1.0,0.0
+Lightyear,0,0.0,0.0,0.0,Angus MacLane,Pete Docter,Taika Waititi,Animation,2022,0.0,1.0,0.0
+Red Elvis: The Cold War Cowboy,0,91.0,0.0,7.5,Thomas Latter,0,0,Animation,2022,0.0,1.0,0.0
+Shotgun Wedding,0,0.0,0.0,0.0,Jason Moore,Mark Hammer,Josh Duhamel,Adventure,2022,0.0,1.0,0.0
+Minions 2: The Rise of Gru,PG,90.0,0.0,0.0,Kyle Balda,Matthew Fogel,Taraji P. Henson,Action,2022,0.0,1.0,0.0
+Thor: Love and Thunder,0,0.0,0.0,0.0,Taika Waititi,Taika Waititi,Taika Waititi,Comedy,2022,0.0,1.0,0.0
+Bullet Train,0,0.0,0.0,0.0,David Leitch,Zak Olkewicz,Sandra Bullock,Comedy,2022,0.0,1.0,0.0
+Mrs Harris Goes to Paris,0,0.0,0.0,0.0,Anthony Fabian,Paul Gallico,Lucas Bravo,Action,2022,0.0,1.0,0.0
+The Wrong Place,0,0.0,0.0,0.0,Mike Burns,Bill Lawrence,Michael Sirow,Drama,2022,0.0,1.0,0.0
+Nope,0,0.0,0.0,0.0,Jordan Peele,Jordan Peele,Michael Wincott,Crime,2022,0.0,1.0,0.0
+Where the Crawdads Sing,0,0.0,0.0,0.0,Olivia Newman,Lucy Alibar,Harris Dickinson,Drama,2022,0.0,1.0,0.0
+Blazing Samurai,0,0.0,0.0,0.0,Rob Minkoff,Nate Hopper,Samuel L. Jackson,Biography,2022,0.0,1.0,0.0
+Black Adam,0,0.0,0.0,0.0,Jaume Collet-Serra,Sohrab Noshirvani,Sarah Shahi,Crime,2022,0.0,1.0,0.0
+Guns 3: Alias Billy the Kid,0,0.0,0.0,0.0,Emilio Estevez,John Fusco,Lou Diamond Phillips,Crime,2022,0.0,1.0,0.0
+Secret Headquarters,0,0.0,0.0,0.0,Henry Joost,Josh Koenigsberg,Owen Wilson,Music,2022,0.0,1.0,0.0
+The Man from Toronto,PG-13,0.0,0.0,0.0,Patrick Hughes,Robbie Fox,Woody Harrelson,Action,2022,0.0,1.0,0.0
+Samaritan,PG-13,0.0,0.0,0.0,Julius Avery,Bragi F. Schut,Sylvester Stallone,Crime,2022,0.0,1.0,0.0
+After Ever Happy,0,119.0,0.0,0.0,Castille Landon,Sharon Soboil,Josephine Langford,Action,2022,0.0,1.0,0.0
+Salem's Lot,0,0.0,0.0,0.0,Gary Dauberman,Stephen King,Spencer Treat Clark,Drama,2022,0.0,1.0,0.0
+Dark Harvest,0,0.0,0.0,0.0,David Slade,Norman Partridge,Luke Kirby,Drama,2022,0.0,1.0,0.0
+The Woman King,0,0.0,0.0,0.0,Gina Prince-Bythewood,Gina Prince-Bythewood,Viola Davis,Drama,2022,0.0,1.0,0.0
+Don't Worry Darling,R,0.0,0.0,0.0,Olivia Wilde,Shane Van Dyke,Olivia Wilde,Biography,2022,0.0,1.0,0.0
+Puss in Boots: The Last Wish,0,0.0,0.0,0.0,Joel Crawford,Christopher Meledandri,Miguel Gabriel,Crime,2022,0.0,1.0,0.0
+Spider-Man: Across the Spider-Verse - Part One,0,0.0,0.0,0.0,Kemp Powers,Phil Lord,Shameik Moore,Action,2022,0.0,1.0,0.0
+Till,0,0.0,0.0,0.0,Chinonye Chukwu,Michael Reilly,Whoopi Goldberg,Action,2022,0.0,1.0,0.0
+Halloween Ends,0,0.0,0.0,0.0,David Gordon Green,John Carpenter,Kyle Richards,Biography,2022,0.0,1.0,0.0
+Ticket to Paradise,0,0.0,0.0,0.0,Ol Parker,Ol Parker,Lucas Bravo,Drama,2022,0.0,1.0,0.0
+The Devil's Light,PG-13,93.0,0.0,0.0,Daniel Stamm,Todd R. Jones,Virginia Madsen,Biography,2022,0.0,1.0,0.0
+The Monkey King: The Legend Begins,0,90.0,0.0,5.7,Soi Cheang,Edmond Wong,Donnie Yen,Documentary,2022,0.0,1.0,0.0
+The Flash,0,0.0,0.0,0.0,Andy Muschietti,Harry Lampert,Temuera Morrison,Action,2022,0.0,1.0,0.0
+Untitled David O. Russell,0,0.0,0.0,0.0,David O. Russell,David O. Russell,Rami Malek,Horror,2022,0.0,1.0,0.0
+Black Panther: Wakanda Forever,0,0.0,0.0,0.0,Ryan Coogler,Ryan Coogler,Martin Freeman,Drama,2022,0.0,1.0,0.0
+Spellbound,0,0.0,0.0,0.0,Vicky Jenson,Linda Woolverton,0,Mystery,2022,0.0,1.0,0.0
+Thirteen Lives,PG-13,0.0,0.0,0.0,Ron Howard,William Nicholson,Viggo Mortensen,History,2022,0.0,1.0,0.0
+Creed III,0,0.0,0.0,0.0,Michael B. Jordan,Zach Baylin,Tessa Thompson,Drama,2022,0.0,1.0,0.0
+The Fabelmans,0,0.0,0.0,0.0,Steven Spielberg,Tony Kushner,Seth Rogen,Drama,2022,0.0,1.0,0.0
+Strange World,0,0.0,0.0,0.0,Don Hall,Qui Nguyen,Alan Tudyk,Adventure,2022,0.0,1.0,0.0
+Avatar 2,0,0.0,0.0,0.0,James Cameron,Josh Friedman,Zoe Saldana,Action,2022,0.0,1.0,0.0
+Aquaman and the Lost Kingdom,0,0.0,0.0,0.0,James Wan,Paul Norris,Temuera Morrison,Comedy,2022,0.0,1.0,0.0
+Untitled Illumination Entertainment Project,0,0.0,0.0,0.0,Michael Jelenic,Shigeru Miyamoto,Seth Rogen,Drama,2022,0.0,1.0,0.0
+I Wanna Dance with Somebody,0,0.0,0.0,0.0,Kasi Lemmons,Anthony McCarten,Tamara Tunie,Drama,2022,0.0,1.0,0.0
+A Man Called Otto,0,0.0,0.0,0.0,Marc Forster,Fredrik Backman,Tom Hanks,Crime,1970,0.0,1.0,0.0
+Babylon,0,0.0,0.0,0.0,Damien Chazelle,Damien Chazelle,Olivia Wilde,Adventure,2023,0.0,1.0,0.0
