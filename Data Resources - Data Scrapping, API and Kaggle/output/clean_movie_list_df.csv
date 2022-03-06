@@ -1,0 +1,263 @@
+movie_id,title,movie_rating,release_date,runtime,genre_name,Director,Writer,Actors,Language,metascore,imdb_rating,BoxOffice
+0,Spider-Man: No Way Home,PG-13,2021-12-17,148 min,"Action, Adventure, Fantasy",Jon Watts,"Chris McKenna, Erik Sommers, Stan Lee","Tom Holland, Zendaya, Benedict Cumberbatch",English,71.0,8.7,720891602
+1,Shang-Chi and the Legend of the Ten Rings,PG-13,2021-09-03,132 min,"Action, Adventure, Fantasy",Destin Daniel Cretton,"Dave Callaham, Destin Daniel Cretton, Andrew Lanham","Simu Liu, Awkwafina, Tony Chiu-Wai Leung","English, Mandarin",71.0,7.5,224543292
+2,Venom: Let There Be Carnage,PG-13,2021-10-01,97 min,"Action, Adventure, Sci-Fi",Andy Serkis,"Kelly Marcel, Tom Hardy","Tom Hardy, Woody Harrelson, Michelle Williams",English,49.0,6.0,213550366
+3,Black Widow,PG-13,2021-07-09,134 min,"Action, Adventure, Sci-Fi",Cate Shortland,"Eric Pearson, Jac Schaeffer, Ned Benson","Scarlett Johansson, Florence Pugh, David Harbour","English, Russian, Norwegian, Hungarian, Macedonian, Finnish",67.0,6.7,183651655
+4,F9: The Fast Saga,PG-13,2021-06-25,143 min,"Action, Crime, Thriller",Justin Lin,"Daniel Casey, Justin Lin, Alfredo Botello","Vin Diesel, Michelle Rodriguez, Jordana Brewster",English,58.0,5.2,173005945
+5,Eternals,PG-13,2021-11-05,156 min,"Action, Adventure, Fantasy",Chloé Zhao,"Chloé Zhao, Patrick Burleigh, Ryan Firpo","Gemma Chan, Richard Madden, Angelina Jolie","English, American Sign , Marathi, Spanish, Sumerian, Latin, Greek, Ancient (to 1453)",52.0,6.4,164870234
+6,No Time to Die,PG-13,2021-10-08,163 min,"Action, Adventure, Thriller",Cary Joji Fukunaga,"Neal Purvis, Robert Wade, Cary Joji Fukunaga","Daniel Craig, Ana de Armas, Rami Malek","English, French, Italian, Russian, Spanish, German",68.0,7.3,160891007
+7,Sing 2,PG,2021-12-22,110 min,"Animation, Adventure, Comedy",Garth Jennings,Garth Jennings,"Matthew McConaughey, Reese Witherspoon, Scarlett Johansson",English,49.0,7.6,129708860
+8,Ghostbusters: Afterlife,PG-13,2021-11-19,124 min,"Adventure, Comedy, Fantasy",Jason Reitman,"Gil Kenan, Jason Reitman, Dan Aykroyd","Carrie Coon, Paul Rudd, Finn Wolfhard",English,45.0,7.2,128885266
+9,Free Guy,PG-13,2021-08-13,115 min,"Action, Adventure, Comedy",Shawn Levy,"Matt Lieberman, Zak Penn","Ryan Reynolds, Jodie Comer, Taika Waititi","English, Japanese, German",62.0,7.2,121626598
+10,Jungle Cruise,PG-13,2021-07-30,127 min,"Action, Adventure, Comedy",Jaume Collet-Serra,"Michael Green, Glenn Ficarra, John Requa","Dwayne Johnson, Emily Blunt, Edgar Ramírez","English, German, Spanish, Italian, Tupi, French, Portuguese, Latin",50.0,6.6,116987516
+11,Dune,PG-13,2021-10-22,155 min,"Action, Adventure, Drama",Denis Villeneuve,"Jon Spaihts, Denis Villeneuve, Eric Roth","Timothée Chalamet, Rebecca Ferguson, Zendaya","English, Mandarin",74.0,8.1,107868493
+12,Godzilla vs. Kong,PG-13,2021-03-31,113 min,"Action, Sci-Fi, Thriller",Adam Wingard,"Terry Rossio, Michael Dougherty, Zach Shields","Alexander Skarsgård, Millie Bobby Brown, Rebecca Hall","English, American Sign ",59.0,6.4,100563133
+13,Encanto,PG,2021-11-24,102 min,"Animation, Adventure, Comedy","Jared Bush, Byron Howard, Charise Castro Smith","Charise Castro Smith, Jared Bush, Byron Howard","Stephanie Beatriz, María Cecilia Botero, John Leguizamo","English, Spanish",76.0,7.3,93465570
+14,Halloween Kills,R,2021-10-15,105 min,"Horror, Thriller",David Gordon Green,"John Carpenter, Debra Hill, Scott Teems","Jamie Lee Curtis, Judy Greer, Andi Matichak",English,42.0,5.6,92002155
+15,Cruella,PG-13,2021-05-28,134 min,"Adventure, Comedy, Crime",Craig Gillespie,"Dana Fox, Tony McNamara, Aline Brosh McKenna","Emma Stone, Emma Thompson, Joel Fry","English, French",59.0,7.4,86103234
+16,Space Jam: A New Legacy,PG,2021-07-15,115 min,"Animation, Adventure, Comedy",Malcolm D. Lee,"Leo Benvenuti, Steve Rudnick, Timothy Harris","LeBron James, Don Cheadle, Cedric Joe",English,36.0,4.4,70528072
+17,The Conjuring: The Devil Made Me Do It,R,2021-06-04,112 min,"Horror, Mystery, Thriller",Michael Chaves,"David Leslie Johnson-McGoldrick, James Wan, Chad Hayes","Patrick Wilson, Vera Farmiga, Ruairi O'Connor","English, Latin",53.0,6.3,65631050
+18,Candyman,R,2021-08-27,91 min,"Horror, Thriller",Nia DaCosta,"Jordan Peele, Win Rosenfeld, Nia DaCosta","Yahya Abdul-Mateen II, Teyonah Parris, Nathan Stewart-Jarrett","English, French",72.0,5.9,61186570
+19,The Boss Baby: Family Business,PG,2021-07-02,107 min,"Animation, Adventure, Comedy",Tom McGrath,"Marla Frazee, Tom McGrath, Michael McCullers","Alec Baldwin, James Marsden, Amy Sedaris","English, French, Spanish, German, Japanese, Russian, Hindi, Korean",39.0,5.9,57300280
+20,The Addams Family 2,PG,2021-10-01,93 min,"Animation, Adventure, Comedy","Greg Tiernan, Conrad Vernon, Laura Brousseau","Dan Hernandez, Benji Samit, Ben Queen","Oscar Isaac, Charlize Theron, Chloë Grace Moretz","English, Spanish, Latin",37.0,5.4,56489153
+21,The Suicide Squad,R,2021-08-05,132 min,"Action, Adventure, Comedy",James Gunn,James Gunn,"Margot Robbie, Idris Elba, John Cena",English,72.0,7.2,55817425
+22,Raya and the Last Dragon,PG,2021-03-05,107 min,"Animation, Action, Adventure","Don Hall, Carlos López Estrada, John Ripa","Qui Nguyen, Adele Lim, Paul Briggs","Kelly Marie Tran, Awkwafina, Gemma Chan",English,75.0,7.3,54723032
+23,House of Gucci,R,2021-11-24,158 min,"Crime, Drama",Ridley Scott,"Becky Johnston, Roberto Bentivegna, Sara Gay Forden","Lady Gaga, Adam Driver, Al Pacino","English, Italian, Arabic, French, Japanese",59.0,6.9,53667485
+24,Clifford the Big Red Dog,PG,2021-11-10,96 min,"Adventure, Comedy, Family",Walt Becker,"Jay Scherick, David Ronn, Blaise Hemingway","Darby Camp, Jack Whitehall, Izaac Wang","English, Spanish, Russian, Mandarin",55.0,6.0,48947356
+25,Old,PG-13,2021-07-23,108 min,"Drama, Horror, Mystery",M. Night Shyamalan,"M. Night Shyamalan, Pierre-Oscar Lévy, Frederik Peeters","Gael García Bernal, Vicky Krieps, Rufus Sewell",English,55.0,5.8,48242510
+26,Tom and Jerry,PG,2021-02-26,101 min,"Animation, Adventure, Comedy",Tim Story,"William Hanna, Joseph Barbera, Kevin Costello","Chloë Grace Moretz, Michael Peña, Colin Jost",English,32.0,5.3,46536687
+27,The Forever Purge,R,2021-07-02,103 min,"Action, Horror, Thriller",Everardo Gout,James DeMonaco,"Ana de la Reguera, Tenoch Huerta, Josh Lucas","English, Spanish",53.0,5.4,44539245
+28,Mortal Kombat,R,2021-04-23,110 min,"Action, Adventure, Fantasy",Simon McQuoid,"Greg Russo, Dave Callaham, Oren Uziel","Lewis Tan, Jessica McNamee, Josh Lawson","English, Japanese, Chinese",44.0,6.1,42326031
+29,Peter Rabbit 2: The Runaway,PG,2021-06-11,93 min,"Animation, Adventure, Comedy",Will Gluck,"Will Gluck, Patrick Burleigh, Beatrix Potter","Rose Byrne, Domhnall Gleeson, David Oyelowo",English,43.0,6.2,40501717
+30,PAW Patrol: The Movie,G,2021-08-20,86 min,"Animation, Action, Adventure",Cal Brunker,"Billy Frolick, Cal Brunker, Bob Barlen","Tyler Perry, Ron Pardo, Will Brisbin",English,50.0,6.2,40127371
+31,West Side Story,PG-13,2021-12-10,156 min,"Crime, Drama, Musical",Steven Spielberg,"Tony Kushner, Arthur Laurents","Ansel Elgort, Rachel Zegler, Ariana DeBose","English, Spanish",85.0,7.8,37200196
+32,The Matrix Resurrections,R,2021-12-22,148 min,"Action, Sci-Fi",Lana Wachowski,"Lana Wachowski, David Mitchell, Aleksandar Hemon","Keanu Reeves, Carrie-Anne Moss, Yahya Abdul-Mateen II","English, French, Spanish, Japanese",63.0,5.7,36645917
+33,The King's Man,R,2021-12-22,131 min,"Action, Adventure, Thriller",Matthew Vaughn,"Matthew Vaughn, Karl Gajdusek, Mark Millar","Ralph Fiennes, Gemma Arterton, Rhys Ifans","English, Latin, German, French, Russian",44.0,6.4,37087956
+34,In the Heights,PG-13,2021-06-11,143 min,"Drama, Musical, Romance",Jon M. Chu,"Quiara Alegría Hudes, Lin-Manuel Miranda","Anthony Ramos, Corey Hawkins, Leslie Grace","English, Spanish",84.0,7.3,29975167
+35,Nobody,R,2021-03-26,92 min,"Action, Crime, Drama",Ilya Naishuller,Derek Kolstad,"Bob Odenkirk, Aleksey Serebryakov, Connie Nielsen","English, Russian, Spanish",64.0,7.4,27268035
+36,Wrath of Man,R,2021-05-07,119 min,"Action, Crime, Thriller",Guy Ritchie,"Nicolas Boukhrief, Éric Besnard, Guy Ritchie","Jason Statham, Holt McCallany, Josh Hartnett",English,57.0,7.1,27466489
+37,Escape Room: Tournament of Champions,PG-13,2021-07-16,88 min,"Action, Adventure, Horror",Adam Robitel,"Will Honley, Maria Melnik, Daniel Tuch","Taylor Russell, Logan Miller, Deborah Ann Woll",English,48.0,5.8,25314753
+38,Respect,PG-13,2021-08-13,145 min,"Biography, Drama, Music",Liesl Tommy,"Tracey Scott Wilson, Callie Khouri","Jennifer Hudson, Forest Whitaker, Marlon Wayans",English,61.0,6.6,24278399
+39,Spiral,R,2021-05-14,93 min,"Crime, Drama, Horror",Darren Lynn Bousman,"Josh Stolberg, Pete Goldfinger","Chris Rock, Samuel L. Jackson, Max Minghella",English,40.0,5.3,23216862
+40,Ron's Gone Wrong,PG,2021-10-22,107 min,"Animation, Adventure, Comedy","Sarah Smith, Jean-Philippe Vine, Octavio E. Rodriguez","Peter Baynham, Sarah Smith","Jack Dylan Grazer, Zach Galifianakis, Ed Helms",English,65.0,7.1,23009270
+41,Spirit Untamed,PG,2021-06-04,88 min,"Animation, Adventure, Comedy","Elaine Bogan, Ennio Torresan","Aury Wallington, Kristin Hahn, Katherine Nolfi","Isabela Merced, Marsai Martin, Mckenna Grace",English,49.0,5.5,17635215
+42,The Green Knight,R,2021-07-30,130 min,"Adventure, Drama, Fantasy",David Lowery,David Lowery,"Dev Patel, Alicia Vikander, Joel Edgerton",English,85.0,6.6,17173321
+43,Resident Evil: Welcome to Raccoon City,R,2021-11-24,107 min,"Action, Horror, Sci-Fi",Johannes Roberts,Johannes Roberts,"Kaya Scodelario, Robbie Amell, Hannah John-Kamen",English,44.0,5.2,16962542
+44,The French Dispatch,R,2021-10-22,107 min,"Comedy, Drama, Romance",Wes Anderson,"Wes Anderson, Roman Coppola, Hugo Guinness","Benicio Del Toro, Adrien Brody, Tilda Swinton","English, French",74.0,7.3,16124375
+45,Licorice Pizza,R,2021-12-25,133 min,"Comedy, Drama, Romance",Paul Thomas Anderson,Paul Thomas Anderson,"Alana Haim, Cooper Hoffman, Sean Penn","English, Japanese, Spanish",90.0,7.8,14592081
+46,The Marksman,PG-13,2021-01-15,108 min,"Action, Adventure, Thriller",Robert Lorenz,"Chris Charles, Danny Kravitz, Robert Lorenz","Katheryn Winnick, Liam Neeson, Teresa Ruiz","English, Spanish",44.0,5.6,15566093
+47,The Unholy,PG-13,2021-04-02,99 min,"Drama, Horror, Mystery",Evan Spiliotopoulos,"Evan Spiliotopoulos, James Herbert","Jeffrey Dean Morgan, Cricket Brown, William Sadler","English, American Sign , Latin",36.0,5.1,15532137
+48,The Little Things,R,2021-01-29,128 min,"Crime, Drama, Mystery",John Lee Hancock,John Lee Hancock,"Denzel Washington, Rami Malek, Jared Leto","English, Spanish, Arabic",54.0,6.3,15342746
+49,Dear Evan Hansen,PG-13,2021-09-24,137 min,"Drama, Musical",Stephen Chbosky,"Steven Levenson, Benj Pasek, Justin Paul","Ben Platt, Julianne Moore, Kaitlyn Dever",English,39.0,6.1,15002646
+50,King Richard,PG-13,2021-11-19,144 min,"Biography, Drama, Sport",Reinaldo Marcus Green,Zach Baylin,"Will Smith, Aunjanue Ellis, Jon Bernthal",English,76.0,7.6,14849075
+51,Stillwater,R,2021-07-30,139 min,"Crime, Drama, Thriller",Tom McCarthy,"Tom McCarthy, Marcus Hinchey, Thomas Bidegain","Matt Damon, Camille Cottin, Abigail Breslin","English, French",60.0,6.6,14465535
+52,Malignant,R,2021-09-10,111 min,"Crime, Horror, Mystery",James Wan,"James Wan, Ingrid Bisu, Akela Cooper","Annabelle Wallis, Maddie Hasson, George Young",English,51.0,6.3,13391791
+53,Christmas with the Chosen: The Messengers,Not Rated,2021-12-01,123 min,Music,"Dallas Jenkins, Jacob Schwarz, Aaron Edson",0,"Austin Reed Alleman, Sara Anne, Alican Barlas",0,0.0,7.7,13728000
+54,Chaos Walking,PG-13,2021-03-05,109 min,"Action, Adventure, Fantasy",Doug Liman,"Patrick Ness, Christopher Ford","Tom Holland, Daisy Ridley, Demián Bichir",English,38.0,5.8,13287908
+55,Nightmare Alley,R,2021-12-17,150 min,"Crime, Drama, Thriller",Guillermo del Toro,"Guillermo del Toro, Kim Morgan, William Lindsay Gresham","Bradley Cooper, Cate Blanchett, Toni Collette",English,70.0,7.4,11031950
+56,The Last Duel,R,2021-10-15,152 min,"Action, Drama, History",Ridley Scott,"Nicole Holofcener, Ben Affleck, Matt Damon","Matt Damon, Adam Driver, Jodie Comer","English, German, French, Latin",67.0,7.4,10853945
+57,Antlers,R,2021-10-29,99 min,"Drama, Horror, Mystery",Scott Cooper,"Henry Chaisson, Nick Antosca, Scott Cooper","Keri Russell, Jesse Plemons, Jeremy T. Thomas","English, Ojibwa",57.0,5.9,10619670
+58,Cry Macho,PG-13,2021-09-17,104 min,"Drama, Thriller",Clint Eastwood,"Nick Schenk, N. Richard Nash","Clint Eastwood, Dwight Yoakam, Daniel V. Graulau","English, Spanish, American Sign ",58.0,5.7,10310734
+59,Last Night in Soho,R,2021-10-29,116 min,"Drama, Horror, Mystery",Edgar Wright,"Edgar Wright, Krysty Wilson-Cairns","Thomasin McKenzie, Anya Taylor-Joy, Matt Smith",English,65.0,7.2,10127625
+60,Belfast,PG-13,2021-11-12,98 min,"Biography, Drama, History",Kenneth Branagh,Kenneth Branagh,"Jude Hill, Lewis McAskie, Caitriona Balfe",English,75.0,7.4,7197965
+61,The Many Saints of Newark,R,2021-10-01,120 min,"Crime, Drama",Alan Taylor,"David Chase, Lawrence Konner","Alessandro Nivola, Leslie Odom Jr., Jon Bernthal","English, Italian, Latin",60.0,6.3,8237403
+62,The Protégé,R,2021-08-20,109 min,"Action, Thriller",Martin Campbell,Richard Wenk,"Michael Keaton, Maggie Q, Samuel L. Jackson",English,48.0,6.1,7446823
+63,Those Who Wish Me Dead,R,2021-05-14,100 min,"Action, Crime, Drama",Taylor Sheridan,"Michael Koryta, Charles Leavitt, Taylor Sheridan","Angelina Jolie, Nicholas Hoult, Finn Little",English,59.0,6.0,7407200
+64,Spencer,R,2021-11-05,117 min,"Biography, Drama",Pablo Larraín,Steven Knight,"Kristen Stewart, Timothy Spall, Jack Nielen",English,76.0,6.8,7086632
+65,A Journal for Jordan,PG-13,2021-12-25,131 min,Drama,Denzel Washington,"Virgil Williams, Charles Monroe King, Dana Canedy","Michael B. Jordan, Chanté Adams, Jalon Christian",English,42.0,5.7,6312915
+66,Judas and the Black Messiah,R,2021-02-12,126 min,"Biography, Drama, History",Shaka King,"Will Berson, Shaka King, Kenneth Lucas","Daniel Kaluuya, LaKeith Stanfield, Jesse Plemons",English,85.0,7.5,5478009
+67,Roadrunner: A Film About Anthony Bourdain,R,2021-07-16,119 min,Documentary,Morgan Neville,0,"Anthony Bourdain, Ottavia Bourdain, David Chang",English,0.0,7.8,5249970
+68,Copshop,R,2021-09-17,107 min,"Action, Crime, Thriller",Joe Carnahan,"Kurt McLeod, Joe Carnahan, Mark Williams","Gerard Butler, Frank Grillo, Alexis Louder",English,61.0,6.2,5213243
+69,Separation,R,2021-04-30,107 min,Horror,William Brent Bell,"Nick Amadeus, Josh Braun","Rupert Friend, Violet McGraw, Madeline Brewer",English,0.0,4.7,4509143
+70,Boogie,R,2021-03-05,90 min,"Drama, Sport",Eddie Huang,Eddie Huang,"Taylor Takahashi, Pamelyn Chee, Jorge Lendeborg Jr.",English,54.0,5.2,4178620
+71,Reminiscence,PG-13,2021-08-20,116 min,"Mystery, Romance, Sci-Fi",Lisa Joy,Lisa Joy,"Hugh Jackman, Rebecca Ferguson, Thandiwe Newton","English, Mandarin, Spanish",46.0,5.9,3900193
+72,12 Mighty Orphans,PG-13,2021-06-18,118 min,"History, Sport",Ty Roberts,"Jim Dent, Ty Roberts, Lane Garrison","Luke Wilson, Vinessa Shaw, Wayne Knight",English,44.0,6.9,3689637
+73,Pig,R,2021-07-16,92 min,"Drama, Mystery, Thriller",Michael Sarnoski,"Vanessa Block, Michael Sarnoski","Nicolas Cage, Alex Wolff, Adam Arkin",English,82.0,7.0,3186668
+74,The Girl Who Believes in Miracles,PG,2021-04-02,100 min,"Drama, Family",Richard Correll,"Richard Correll, G.M. Mercier","Mira Sorvino, Austyn Johnson, Kevin Sorbo",English,0.0,5.4,3163362
+75,Voyagers,PG-13,2021-04-09,108 min,"Adventure, Sci-Fi, Thriller",Neil Burger,Neil Burger,"Colin Farrell, Tye Sheridan, Lily-Rose Depp",English,44.0,5.4,3149935
+76,The House Next Door: Meet the Blacks 2,R,2021-06-11,97 min,"Action, Comedy, Horror",Deon Taylor,"Corey Harrell, Deon Taylor","Mike Epps, Katt Williams, Lil Duval",English,0.0,3.8,2893660
+77,Here Today,PG-13,2021-05-07,117 min,"Comedy, Drama",Billy Crystal,"Alan Zweibel, Billy Crystal","Billy Crystal, Chad Jennings, Dierdre Friel",English,40.0,6.7,2807494
+78,Finding You,Not Rated,2021-05-14,0,"Drama, Romance",0,0,"Chris Murphy Smith, Christopher Brian, Phil Kramer",English,0.0,0.0,2676410
+79,Lamb,R,2021-09-24,106 min,"Drama, Fantasy, Horror",Valdimar Jóhannsson,"Sjón, Valdimar Jóhannsson","Noomi Rapace, Hilmir Snær Guðnason, Björn Hlynur Haraldsson",Icelandic,68.0,6.3,2657850
+80,The Card Counter,R,2021-09-10,111 min,"Crime, Drama, Thriller",Paul Schrader,Paul Schrader,"Oscar Isaac, Tiffany Haddish, Tye Sheridan",English,77.0,6.3,2577830
+81,Land,PG-13,2021-02-12,89 min,"Adventure, Drama",Robin Wright,"Jesse Chatham, Erin Dignam","Robin Wright, Demián Bichir, Sarah Dawn Pledge",English,61.0,6.7,2404127
+82,The Eyes of Tammy Faye,PG-13,2021-09-17,126 min,"Biography, Drama, Romance",Michael Showalter,"Fenton Bailey, Randy Barbato, Abe Sylvia","Jessica Chastain, Andrew Garfield, Cherry Jones",English,55.0,6.7,2320649
+83,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)",PG-13,2021-07-02,118 min,"Documentary, Music",Questlove,0,"Dorinda Drake, Barbara Bland-Acosta, Darryl Lewis",English,96.0,8.1,2170750
+84,After We Fell,R,2021-10-22,98 min,"Drama, Romance",Castille Landon,"Anna Todd, Sharon Soboil","Josephine Langford, Hero Fiennes Tiffin, Louise Lombard",English,0.0,4.7,0
+85,The Father,0,2021-03-21,0,"Short, Drama",Blake Ridder,Blake Ridder,"Louis James, Stewart Permutt, Blake Ridder",English,0.0,0.0,1926706
+86,Queen Bees,PG-13,2021-06-11,100 min,"Comedy, Drama, Romance",Michael Lembeck,"Donald Martin, Harrison Powell","Ellen Burstyn, Jane Curtin, Loretta Devine",English,52.0,6.2,1782909
+87,Show Me the Father,PG,2021-09-10,91 min,"Documentary, Drama",Rick Altizer,0,"Jim Daly, Jonathan Evans, Tony Evans",English,0.0,6.4,1442988
+88,Point of View: A Designer Profile,0,2021-03-14,0,0,0,0,"Brian Patrick Flynn, Jean Stoffer, Lauren Bradshaw",English,0.0,0.0,1437938
+89,Titane,R,2021-10-01,108 min,"Drama, Horror, Sci-Fi",Julia Ducournau,"Julia Ducournau, Jacques Akchoti, Simonetta Greggio","Vincent Lindon, Agathe Rousselle, Garance Marillier",French,75.0,6.7,1800000
+90,Together Together,R,2021-04-23,90 min,Comedy,Nikole Beckwith,Nikole Beckwith,"Patti Harrison, Ed Helms, Rosalind Chao",English,70.0,6.5,1251184
+91,Honsla Rakh,0,2021-11-24,145 min,"Comedy, Drama, Romance",Amarjit Singh Saron,Rakesh Dhawan,"Diljit Dosanjh, Shehnaaz Gill, Sonam Bajwa",Punjabi,0.0,8.0,1113723
+92,Wrong Turn,R,2021-02-26,109 min,"Horror, Thriller",Mike P. Nelson,Alan B. McElroy,"Charlotte Vega, Adain Bradley, Bill Sage",English,46.0,5.5,1023086
+93,In the Earth,R,2021-04-16,107 min,"Horror, Sci-Fi, Thriller",Ben Wheatley,Ben Wheatley,"Joel Fry, Reece Shearsmith, Hayley Squires",English,63.0,5.2,1038255
+94,Red Rocket,R,2021-12-17,130 min,"Comedy, Drama",Sean Baker,"Sean Baker, Chris Bergoch","Simon Rex, Bree Elrod, Suzanna Son",English,75.0,7.4,1018532
+95,True to the Game 3,R,2021-12-03,98 min,"Romance, Thriller",David Wolfgang,Jeff Robertson,"Malik Barnhardt, Starletta DuPois, Omar Gooding",English,0.0,4.8,1016725
+96,Long Weekend,R,2021-03-12,91 min,"Comedy, Romance",Steve Basilone,Steve Basilone,"Steve Basilone, Jennifer Irwin, Jess Jacobs",English,53.0,6.1,855765
+97,The Jesus Music,PG-13,2021-10-01,109 min,Documentary,"Andrew Erwin, Jon Erwin","Jon Erwin, Bekah Hubbell","Kirk Franklin, Amy Grant, Kevin Max",English,42.0,7.0,844743
+98,Witnesses,PG,2021-06-04,110 min,"Action, Adventure, Drama",Mark Goodman,Mitch Davis,"Michael Zuccola, Caleb J. Spivak, Lincoln Hoppe",English,0.0,4.2,836536
+99,The Alpinist,PG-13,2021-09-10,92 min,Documentary,"Peter Mortimer, Nick Rosen",0,"Marc-André Leclerc, Peter Mortimer, Alex Honnold",English,67.0,8.0,738175
+100,The Mauritanian,R,2021-03-02,129 min,"Biography, Drama, Thriller",Kevin Macdonald,"Michael Bronner, Rory Haines, Sohrab Noshirvani","Tahar Rahim, Nouhe Hamady Bari, Saadna Hamoud","English, French, Arabic, German",53.0,7.5,1060556
+101,Blue Bayou,R,2021-09-17,117 min,Drama,Justin Chon,Justin Chon,"Justin Chon, Alicia Vikander, Mark O'Brien",English,58.0,7.1,744813
+102,The Rescue,PG,2021-10-08,107 min,"Documentary, Action, Mystery","Jimmy Chin, Elizabeth Chai Vasarhelyi",0,"Bancha Duriyapunt, Apakorn Youkongkaew, Anan Surawan",English,0.0,8.4,637665
+103,Lamb of God: The Concert Film,0,2021-03-12,90 min,Musical,Rob Gardner,Rob Gardner,"Casey Elliott, Katherine Thomas, Tyler Hardwick",English,0.0,8.5,575783
+104,The Sparks Brothers,R,2021-06-18,140 min,"Documentary, Biography, Comedy",Edgar Wright,0,"Ron Mael, Russell Mael, Beck",English,80.0,7.9,480774
+105,Werewolves Within,R,2021-07-02,97 min,"Comedy, Horror, Mystery",Josh Ruben,Mishna Wolff,"Sam Richardson, Milana Vayntrub, George Basil",English,66.0,6.0,475488
+106,For the Love of Money,R,2021-10-20,99 min,"Drama, Thriller",Leslie Small,"Timothy Allen Smith, Zadia Ife, Leslie Small","Katt Williams, Keri Hilson, Rotimi",English,0.0,6.0,470000
+107,National Champions,R,2021-12-10,116 min,"Drama, Sport",Ric Roman Waugh,Adam Mervis,"Stephan James, J.K. Simmons, Alexander Ludwig",English,52.0,5.6,445740
+108,Jathi Ratnalu,0,2021-03-11,145 min,Comedy,Anudeep K.V.,Anudeep K.V.,"Naveen Polishetty, Rahul Ramakrishna, Priyadarshi",Telugu,0.0,7.6,424667
+109,The Lost Leonardo,PG-13,2021-08-13,96 min,Documentary,Andreas Koefoed,"Andreas Dalsgaard, Christian Kirk Muff, Andreas Koefoed","Jerry Saltz, Robert K. Wittman, Doug Patteson","English, French",79.0,7.6,418286
+110,Flag Day,R,2021-08-20,109 min,"Crime, Drama",Sean Penn,"Jez Butterworth, Jennifer Vogel, John-Henry Butterworth","Mitchell McCormick, Tom Anniko, Dylan Penn",English,53.0,4.9,0
+111,Willy's Wonderland,TV-MA,2021-02-12,88 min,"Action, Comedy, Horror",Kevin Lewis,G.O. Parsons,"Nicolas Cage, Emily Tosta, Beth Grant",English,44.0,5.5,395743
+112,Dreamland: The Burning of Black Wall Street,0,2021-05-31,98 min,Documentary,Salima Koroma,0,"Alicia Odewale, Hannibal Johnson, Kary Stacklebeck",English,0.0,6.7,353224
+113,Julia,PG-13,2022-03-18,95 min,Documentary,"Julie Cohen, Betsy West",0,"José Andrés, Antonietta Brownell, Julia Child",English,71.0,7.6,350000
+114,Benedetta,Unrated,2021-12-03,131 min,"Biography, Drama, History",Paul Verhoeven,"David Birke, Paul Verhoeven, Judith C. Brown","Virginie Efira, Charlotte Rampling, Daphne Patakia","French, Latin",73.0,6.7,100094
+115,Bo Gia,0,2021-03-12,128 min,"Comedy, Drama, Family","Tran Thanh, Ngoc Dang Vu","Ho Thuc An, Nhi Bui","Tran Thanh, Tuan Tran, Ngan Chi",Vietnamese,0.0,6.7,404371
+116,Flee,PG-13,2021-06-17,89 min,"Documentary, Animation",Jonas Poher Rasmussen,"Amin Nawabi, Jonas Poher Rasmussen","Daniel Karimyar, Fardin Mijdzadeh, Milad Eskandari","Danish, English, Dari, Russian, Swedish",90.0,8.1,288714
+117,Dutch,R,2021-03-12,109 min,Action,Preston A. Whitmore II,"Preston A. Whitmore II, Teri Woods","Natasha Marc, Iyana Halley, Malcolm David Kelley",English,0.0,3.7,269435
+118,India Sweets and Spices,PG-13,2021-06-12,101 min,Comedy,Geeta Malik,Geeta Malik,"Sophia Ali, Manisha Koirala, Rish Shah",English,57.0,6.0,264626
+119,A Mouthful of Air,R,2021-10-29,105 min,Drama,Amy Koppelman,Amy Koppelman,"Amanda Seyfried, Olivia Katz, Christian Kutz",English,52.0,6.0,254775
+120,Rita Moreno: Just a Girl Who Decided to Go for It,PG-13,2021-06-18,90 min,"Documentary, Biography",Mariem Pérez Riera,0,"Lin-Manuel Miranda, Morgan Freeman, Marlon Brando",English,77.0,7.7,0
+121,Once I Was Engaged,0,2021-07-21,107 min,Comedy,"Maclain Nelson, Stephen Shimek",Maclain Nelson,"Bart Johnson, Paris Warner, Clare Niederpruem",0,0.0,7.0,231687
+122,Supernova,0,2021-07-23,0,"Short, Drama",Lorenzo Baldi,Lorenzo Baldi,"Jules Baron, Paul Samrani",French,0.0,0.0,0
+123,Becoming Cousteau,PG-13,2021-11-24,94 min,"Documentary, Adventure, Biography",Liz Garbus,"Mark Monroe, Pax Wassermann","Vincent Cassel, Carol Burnett, Louis Malle","English, French",74.0,7.1,0
+124,Limbo,0,2021-11-18,118 min,Drama,Soi Cheang,Kin-Yee Au,"Ka-Tung Lam, Yase Liu, Mason Lee","Chinese, Cantonese",0.0,7.2,214390
+125,Doctor,0,2021-10-09,148 min,"Action, Comedy, Crime",Nelson Dilipkumar,Nelson Dilipkumar,"Sivakarthikeyan, Vinay Rai, Priyanka Arulmohan",Tamil,0.0,7.6,0
+126,Together,R,2021-08-27,92 min,"Comedy, Drama","Stephen Daldry, Justin Martin",Dennis Kelly,"James McAvoy, Sharon Horgan, Samuel Logan",English,59.0,6.4,204513
+127,La Piscine,0,2021-05-14,0,0,0,0,0,0,0.0,0.0,191996
+128,Ailey,PG-13,2021-07-23,95 min,"Documentary, Biography",Jamila Wignot,0,"Alvin Ailey, Judith Jamison, Samuel Lee Roberts",English,77.0,6.9,0
+129,The Resort,0,2021-07-12,75 min,Horror,Taylor Chien,Taylor Chien,"Bianca Haase, Brock O'Hurn, Michael Vlamis",English,0.0,3.0,147595
+130,"O, What Rice! O, What Beans!",0,2021-06-01,6 min,"Animation, Short",Jer Moran,Jer Moran,"Alec Bersoux, Timothy Bethel Brewer, Vincent Gagnepain",English,0.0,0.0,146329
+131,Wolf,R,2022-02-18,99 min,"Drama, Mystery, Thriller",Nathalie Biancheri,Nathalie Biancheri,"George MacKay, Lily-Rose Depp, Paddy Considine",English,52.0,6.4,145191
+132,SAS: Red Notice,R,2021-03-16,124 min,"Action, Thriller",Magnus Martens,"Laurence Malkin, Andy McNab","Sam Heughan, Ruby Rose, Andy Serkis","English, French",0.0,5.2,145174
+133,Bergman Island,R,2021-07-14,112 min,Drama,Mia Hansen-Løve,Mia Hansen-Løve,"Vicky Krieps, Tim Roth, Grace Delrue","English, French, Swedish",81.0,6.8,0
+134,Mass,PG-13,2021-10-15,111 min,Drama,Fran Kranz,Fran Kranz,"Jason Isaacs, Martha Plimpton, Ann Dowd",English,81.0,7.7,0
+135,The Reckoning,0,2021-06-04,50 min,Western,"Carlos Diaz, George Meyers, Dink Thomas","CJ Morrison, Dink Thomas, Tracy Townsend","CJ Morrison, Dink Thomas, Wally Welch",English,0.0,0.0,130934
+136,No Man's Land,0,2021-11-19,114 min,"Crime, Drama, Thriller",Jishnu Harindra Varma,Jishnu Harindra Varma,"Lukman Lukku, Sreeja Das, Sudhi Koppa",Malayalam,0.0,7.7,17530
+137,Tadap,0,2021-12-03,126 min,"Action, Drama, Romance",Milan Luthria,"Rajat Arora, Ajay Bhupathi","Ahan Shetty, Tara Sutaria, Saurabh Shukla",Hindi,0.0,5.7,0
+138,Gaia,R,2021-06-18,96 min,"Drama, Fantasy, Horror",Jaco Bouwer,Tertius Kapp,"Monique Rockman, Carel Nel, Alex van Dyk","English, Afrikaans",64.0,5.6,124772
+139,Swan Song,R,2021-12-17,112 min,"Drama, Romance, Sci-Fi",Benjamin Cleary,Benjamin Cleary,"Mahershala Ali, Naomie Harris, Awkwafina",English,66.0,6.8,120226
+140,The Djinn,R,2021-05-14,82 min,"Horror, Thriller","David Charbonier, Justin Powell","David Charbonier, Justin Powell","Ezra Dewey, Rob Brownstein, Tevy Poe","English, American Sign ",59.0,4.7,0
+141,Walking with Herb,PG,2021-04-30,110 min,Comedy,Ross Kagan Marks,Mark Medoff,"Edward James Olmos, George Lopez, Kathleen Quinlan",English,0.0,5.1,110995
+142,The World to Come,0,2021-04-15,0,"Short, Drama, Horror",Josh Fagen,Josh Fagen,"Steven Hobé, Andrew Johnston, Harriet Karsh",English,0.0,0.0,107798
+143,Small Engine Repair,R,2021-09-10,102 min,"Comedy, Drama, Thriller",John Pollono,John Pollono,"Jon Bernthal, Shea Whigham, Jordana Spiro",English,57.0,6.6,102651
+144,The Loneliest Whale: The Search for 52,PG,2021-07-09,96 min,"Documentary, Adventure",Joshua Zeman,"Lisa Schiller, Lisa Schiller, Joshua Zeman","Joshua Zeman, Joseph George, David Rosenberg",English,69.0,6.6,0
+145,Tango Shalom,PG-13,2021-10-29,115 min,"Comedy, Family",Gabriel Bologna,"Joseph Bologna, Claudio Laniado, Jos Laniado","Lainie Kazan, Renée Taylor, Philip Anthony-Rodriguez",English,0.0,6.4,98929
+146,The Misfits,R,2021-06-11,94 min,"Action, Adventure, Thriller",Renny Harlin,"Kurt Wimmer, Robert Henny","Pierce Brosnan, Tim Roth, Nick Cannon",English,25.0,4.3,95643
+147,The Souvenir: Part II,R,2022-02-04,107 min,"Drama, Romance",Joanna Hogg,Joanna Hogg,"Tilda Swinton, Honor Swinton Byrne, James Spencer Ashworth",English,90.0,7.7,90050
+148,Safer at Home,R,2021-02-26,82 min,"Crime, Drama, Thriller",Will Wernick,"Will Wernick, Lia Bozonelis, John Ierardi","Alisa Allapach, Adwin Brown, Katie L. Hall",English,35.0,4.1,8188
+149,Censor,0,2021-06-11,84 min,"Horror, Mystery",Prano Bailey-Bond,"Prano Bailey-Bond, Anthony Fletcher","Niamh Algar, Michael Smiley, Nicholas Burns",English,69.0,6.1,87059
+150,Jockey,R,2022-02-04,94 min,Drama,Clint Bentley,"Clint Bentley, Greg Kwedar","Clifton Collins Jr., Moises Arias, Molly Parker",English,77.0,6.7,0
+151,Mission Stories,0,2021-05-07,110 min,Drama,Bryce Clark,"Bryce Clark, Crystal Myler","Joel Bishop, Louis Boakye, Charley Boon",English,0.0,7.8,0
+152,On Broadway,0,2021-03-19,0,Musical,Zachary James,0,"Zachary James, Charity Wicks",English,0.0,0.0,76650
+153,Undine,0,2021-07-24,30 min,"Animation, Short, Music",Sjaron Minailo,"Michaël Brijs, Stefanie Janssen, Sjaron Minailo","Michaël Brijs, Stefanie Janssen",English,0.0,0.0,73257
+154,In Balanchine's Classroom,0,2021-09-17,89 min,Documentary,Connie Hochman,0,"Merrill Ashley, George Balanchine, Jacques d'Amboise",English,0.0,7.1,93579
+155,Language Lessons,0,2021-09-10,91 min,"Comedy, Drama",Natalie Morales,"Mark Duplass, Natalie Morales","Mark Duplass, Natalie Morales, Desean Terry","English, Spanish",68.0,7.1,0
+156,CatVideoFest 2021,0,2021-07-23,0,0,0,0,0,0,0.0,0.0,71334
+157,Summertime Dropouts,0,2021-10-26,0,"Comedy, Family",Jhene Chase,"Jhene Chase, Hannah Maslinski, Hamid Torabpour","Quinton Aaron, Nick Podany, Josh Richards",English,0.0,0.0,62376
+158,Demonic,R,2021-08-20,104 min,"Drama, Horror, Sci-Fi",Neill Blomkamp,Neill Blomkamp,"Carly Pope, Chris William Martin, Michael J Rogers",English,36.0,4.2,0
+159,The First Wave,R,2021-11-26,93 min,"Documentary, History",Matthew Heineman,0,Nathalie Douge,English,85.0,6.9,61030
+160,Dreams Come True,0,2021-07-12,0,"Short, Music",Belinda Elkaim,0,0,English,0.0,0.0,60389
+161,Lansky,R,2021-06-25,119 min,"Biography, Crime, Drama",Eytan Rockaway,"Eytan Rockaway, Robert Rockaway","Harvey Keitel, Sam Worthington, John Magaro",English,45.0,6.3,55333
+162,Kurt Vonnegut: Unstuck in Time,Not Rated,2021-11-11,127 min,Documentary,"Robert B. Weide, Don Argott",Robert B. Weide,"Linda Bates, Jerome Klinkowitz, Sidney Offit",English,64.0,8.0,55068
+163,Without Getting Killed or Caught,0,2021-03-16,95 min,Documentary,"Tamara Saviano, Paul Whitfield","Bart Knaggs, Tamara Saviano","Jo Harvey Allen, Terry Allen, Guy Clark",English,0.0,7.8,55121
+164,Son,Not Rated,2021-03-05,98 min,"Horror, Thriller",Ivan Kavanagh,Ivan Kavanagh,"Andi Matichak, Emile Hirsch, Luke David Blumm",English,54.0,5.6,0
+165,Christmas vs. The Walters,PG-13,2021-11-26,102 min,"Comedy, Drama, Family",Peter A. D'Amato,"Peter A. D'Amato, Ante Novakovic","Shawnee Smith, Dean Winters, Chris Elliott",English,0.0,4.0,53932
+166,Harry Truman,0,2021-03-01,0,0,0,0,Richard Pious,English,0.0,0.0,0
+167,Azor,0,2021-09-10,100 min,"Drama, Thriller",Andreas Fontana,"Andreas Fontana, Mariano Llinás","Fabrizio Rongione, Stéphanie Cléau, Carmen Iriondo","French, Spanish, English",88.0,6.7,52656
+168,EMA,0,2021-02-27,0,Music,0,0,"Lea Sirk, Ana Soklic",Slovenian,0.0,0.0,49347
+169,Memoria,PG,2021-09-30,136 min,"Drama, Sci-Fi",Apichatpong Weerasethakul,Apichatpong Weerasethakul,"Tilda Swinton, Elkin Díaz, Jeanne Balibar","English, Spanish",91.0,6.7,48144
+170,France,Unrated,2021-12-10,133 min,"Comedy, Drama",Bruno Dumont,Bruno Dumont,"Léa Seydoux, Blanche Gardin, Benjamin Biolay","German, English, French",57.0,5.9,44736
+171,Last Call,R,2021-03-19,102 min,Comedy,Paolo Pilladi,"Greg Lingo, Michael Baughan, Billy Reilly","Jeremy Piven, Taryn Manning, Zach McGowan",English,0.0,4.1,39199
+172,Death Rider in the House of Vampires,Not Rated,2021-08-27,92 min,"Horror, Western",Glenn Danzig,Glenn Danzig,"Devon Sawa, Julian Sands, Kim Director",English,0.0,4.4,42068
+173,The Scary of Sixty-First,Unrated,2021-12-24,81 min,"Comedy, Horror, Mystery",Dasha Nekrasova,"Dasha Nekrasova, Madeline Quinn","Madeline Quinn, Betsey Brown, Stephen Gurewitz",English,49.0,5.2,41598
+174,Old Henry,0,2021-10-01,99 min,"Thriller, Western",Potsy Ponciroli,Potsy Ponciroli,"Tim Blake Nelson, Scott Haze, Gavin Lewis","English, Spanish",69.0,7.3,39948
+175,Senior Moment,0,2021-03-26,92 min,"Comedy, Drama, Romance",Giorgio Serafini,"Kurt Brungardt, Christopher Momenee","William Shatner, Jean Smart, Don McManus",English,41.0,6.1,37266
+176,Luzzu,0,2022-01-05,94 min,Drama,Alex Camilleri,Alex Camilleri,"Filip Sertic, Jesmark Scicluna, Frida Cauchi","Maltese, English",79.0,7.0,37000
+177,"All Light, Everywhere",Unrated,2021-06-04,105 min,Documentary,Theo Anthony,0,"Theo Anthony, Keaver Brenai, Robert Cunniff",English,76.0,6.9,33765
+178,Heart of Champions,PG-13,2021-10-29,119 min,"Drama, Sport",Michael Mailer,Vojin Gjaja,"Michael Shannon, Alexander Ludwig, Charles Melton",English,0.0,5.6,0
+179,Cryptozoo,0,2021-08-20,95 min,Animation,Dash Shaw,Dash Shaw,"Lake Bell, Michael Cera, Emily Davis",English,74.0,6.5,0
+180,Confetti,0,2021-01-04,0,"Short, Drama",Zander Padget,Zander Padget,"Kiley A. Rothweiler, Katherine Wallach",English,0.0,0.0,32934
+181,Bloody Hell: A Rock-Zoo-Mentary,0,2021-07-11,0,"Short, Comedy",Shane Brady,Shane Brady,"Sean Akyildiz, Jeancarlos Bello, Kimberly Blake",English,0.0,0.0,32124
+182,The God Committee,0,2021-07-02,98 min,Drama,Austin Stark,"Austin Stark, Mark St. Germain","Kelsey Grammer, Julia Stiles, Colman Domingo",English,48.0,5.8,0
+183,Yakuza Princess,R,2021-10-07,111 min,Thriller,Vicente Amorim,"Danilo Beyruth, Fernando Toste, Kimi Lee","MASUMI, Jonathan Rhys Meyers, Tsuyoshi Ihara","Japanese, English, Portuguese",34.0,4.5,30520
+184,Monday,0,2021-10-18,4 min,"Short, Drama",Paul Hanna,"Nicholas Denton-Cheng, Paul Hanna","Maya T. Weed, Thomas Baker",English,0.0,0.0,29262
+185,The Beta Test,Unrated,2021-10-15,93 min,"Comedy, Horror, Thriller","Jim Cummings, PJ McCabe","Jim Cummings, PJ McCabe","Jim Cummings, Virginia Newcomb, PJ McCabe",English,72.0,6.1,29183
+186,The Perfect Candidate,0,2021-09-04,0,Documentary,0,0,0,Tagalog,0.0,0.0,0
+187,Trigger Point,Not Rated,2021-04-16,85 min,"Action, Mystery, Thriller",Brad Turner,Michael Vickerman,"Barry Pepper, Colm Feore, Eve Harlow",English,0.0,4.9,27744
+188,Settlers,Not Rated,2021-07-23,103 min,"Drama, Sci-Fi, Thriller",Wyatt Rockefeller,Wyatt Rockefeller,"Sofia Boutella, Ismael Cruz Cordova, Brooklynn Prince",English,56.0,4.7,27588
+189,Prisoners of the Ghostland,0,2021-09-17,103 min,"Action, Fantasy, Sci-Fi",Sion Sono,"Aaron Hendry, Reza Sixo Safai","Nicolas Cage, Sofia Boutella, Nick Cassavetes","English, Japanese, Mandarin, French",53.0,4.2,0
+190,"Ma Belle, My Beauty",0,2021-08-20,93 min,"Drama, Romance",Marion Hill,Marion Hill,"Idella Johnson, Hannah Pepper, Lucien Guignard","English, French",65.0,5.5,25386
+191,Jakob's Wife,Not Rated,2021-04-16,98 min,Horror,Travis Stevens,"Mark Steensland, Kathy Charles, Travis Stevens","Barbara Crampton, Larry Fessenden, Bonnie Aarons",English,59.0,5.5,24322
+192,Our Ladies of Brooklyn,0,,0,"Comedy, Drama",0,0,"Em Haine, Bella Ortiz, Caitlin Kinnunen",0,0.0,0.0,0
+193,The Night,0,2021-09-01,19 min,"Documentary, Short",Ming-liang Tsai,Ming-liang Tsai,0,0,0.0,0.0,21515
+194,John and the Hole,R,2021-08-06,103 min,"Drama, Horror, Thriller",Pascual Sisto,Nicolás Giacobone,"Charlie Shotwell, Michael C. Hall, Jennifer Ehle",English,61.0,5.4,20507
+195,The Novice,R,2021-12-17,94 min,"Drama, Thriller",Lauren Hadaway,Lauren Hadaway,"Isabelle Fuhrman, Amy Forsyth, Dilone",English,85.0,6.5,20268
+196,Gully Rowdy,0,2021-09-17,143 min,Comedy,G. Nageswara Reddy,"Bhanu Bhogavarapu, Kona Venkat, Nandu R.K.","Harsha Chemudu, Sundeep Kishan, Vennela Kishore",Telugu,0.0,5.9,17316
+197,Dating & New York,PG-13,2021-09-30,91 min,Comedy,Jonah Feingold,Jonah Feingold,"Eva Victor, Jerry Ferrara, Jaboukie Young-White",English,42.0,5.1,17200
+198,Writing with Fire,Not Rated,2021-10-20,92 min,Documentary,"Sushmit Ghosh, Rintu Thomas",0,"Meera Devi, Shyamkali Devi, Suneeta Prajapati",Hindi,83.0,7.9,16104
+199,Harper,0,2021-12-14,104 min,Drama,Kate Bohan,"Kate Bohan, Jiamin Qiu","Kayla Bohan, Gina Vitori, Carly Sullivan",English,0.0,8.1,15974
+200,Mystery of the Kingdom of God,0,2021-03-26,91 min,"Animation, Family",Adam Smit,"Jenny Chen, Adam Smit",Adam Smit,English,0.0,2.3,15750
+201,Ascension,0,2021-11-15,97 min,Documentary,Jessica Kingdon,0,0,Mandarin,82.0,7.2,15671
+202,How It Ends,R,2021-07-20,82 min,Comedy,"Zoe Lister-Jones, Daryl Wein","Daryl Wein, Zoe Lister-Jones","Zoe Lister-Jones, Cailee Spaeny, Whitney Cummings",English,57.0,5.1,0
+203,First Date,Not Rated,2021-07-02,103 min,"Comedy, Crime, Mystery","Manuel Crosby, Darren Knapp","Manuel Crosby, Darren Knapp","Tyson Brown, Shelby Duclos, Jesse Janzen",English,52.0,5.3,0
+204,The Laws of the Universe: The Age of Elohim,PG,2021-10-22,119 min,Animation,Isamu Imakake,"Ryuho Okawa, Sayaka Okawa","Satomi Arai, Miki Itô, Kane Jungbluth-Murry",Japanese,0.0,0.0,15063
+205,Even in Dreams,PG,2021-08-06,120 min,Family,Savannah Ostler,Savannah Ostler,"Alison Arngrim, Eric Osmond, Adrian R'Mante",English,0.0,8.3,14000
+206,No Ordinary Man,0,2021-05-01,0,"Short, Crime","Raheeb Ray Ahmad, Amrith Lal","Raheeb Ray Ahmad, Lucas Eisele","Thaer Al-Shayei, Lisa Gealy, Omar Ragab, Shabana Haroon",English,0.0,0.0,13760
+207,Best Sellers,0,2021-09-17,102 min,"Comedy, Drama",Lina Roessler,Anthony Grieco,"Michael Caine, Aubrey Plaza, Scott Speedman",English,54.0,6.2,0
+208,We Broke Up,0,2021-04-23,80 min,"Comedy, Drama",Jeff Rosenberg,"Jeff Rosenberg, Laura Jacqmin","Aya Cash, William Jackson Harper, Sarah Bolger",English,53.0,4.9,13589
+209,American Traitor: The Trial of Axis Sally,R,2021-05-28,109 min,Drama,Michael Polish,"William E. Owen, Vance Owen, Darryl Hicks","Meadow Williams, Al Pacino, Carsten Norgaard",English,25.0,5.6,13375
+210,Secret Agent Dingledorf and His Trusty Dog Splat,PG,2021-07-23,89 min,"Comedy, Family",Billy Dickson,Bill Myers,"Zackary Arthur, Paul Johansson, Jason Dolley",English,0.0,5.0,0
+211,Hive,0,2021-11-26,84 min,Drama,Blerta Basholli,Blerta Basholli,"Yllka Gashi, Çun Lajçi, Aurita Agushi",Albanian,71.0,7.3,13028
+212,We Need to Do Something,Unrated,2021-09-03,97 min,"Horror, Mystery",Sean King O'Grady,Max Booth III,"Sierra McCormick, Vinessa Shaw, Pat Healy",English,48.0,4.5,0
+213,Bring Your Own Brigade,R,2021-08-20,119 min,Documentary,Lucy Walker,"Katherine Montgomery, Lucy Walker","Trina Cunningham, Mike Davis, Don Hankins",English,81.0,7.3,12245
+214,Stray,0,2021-05-13,13 min,"Short, Drama",Niall Gavigan,Fhinn McClure,"Jamie Duffy, Bartek Jedras",English,0.0,0.0,0
+215,Storm Lake,0,2021-06-02,85 min,Documentary,"Beth Levison, Jerry Risius",0,"Jill Biden, Pete Buttigieg, Julian Castro",English,0.0,0.0,10450
+216,Lorelei,0,2021-09-07,12 min,"Short, Fantasy, Thriller",Lars Janssen,"Lars Janssen, Charlotte Dawn Potter","Charlotte Dawn Potter, Martin Doran, Jorge Amorim",English,0.0,0.0,0
+217,The Year of the Everlasting Storm,0,2021-09-09,115 min,Mystery,"Anthony Chen, David Lowery, Jafar Panahi","Anthony Chen, David Lowery, Jafar Panahi","Yay Yay Bobby Jones, Catherine Machovsky, Yu Zhang","Persian, Chinese, English, Spanish, Thai",72.0,5.8,0
+218,"Glam, Sweat & Tears",0,2021-06-07,0,"Documentary, Music",Jovan Radomir,0,"Tomas Ericsson, Eddie Eriksson, Hans Fogelberg","English, Swedish",0.0,6.7,9176
+219,Sabaya,0,2021-07-30,90 min,Documentary,Hogir Hirori,Hogir Hirori,0,"Kurdish, Arabic",86.0,7.2,8316
+220,La Petite fille aux larmes de sel,0,,0,Short,Alannah Carrot,0,Olivia Devlo,0,0.0,0.0,0
+221,All the Streets Are Silent: The Convergence of Hip Hop and Skateboarding (1987-1997),0,2021-07-23,89 min,Documentary,Jeremy Elkin,"Dana Brown, Jeremy Elkin","Stretch Armstrong, Peter Bici, Mike Carroll",English,60.0,7.2,0
+222,Average Joe,Not Rated,2021-01-08,87 min,"Action, Comedy",Mark Cantu,Mark Cantu,"Camden Toy, Jason Sedillo, Caitlin Rose Williams",English,0.0,2.6,6887
+223,The Feast,0,2022-04-29,93 min,"Drama, Horror, Mystery",Lee Haven Jones,Roger Williams,"Annes Elwy, Nia Roberts, Julian Lewis Jones",Welsh,68.0,5.4,5824
+224,El Planeta,0,2021-10-08,79 min,Comedy,Amalia Ulman,Amalia Ulman,"Ale Ulman, Amalia Ulman, Nacho Vigalondo",Spanish,76.0,6.5,0
+225,Final Frequency,0,2021-04-30,0,"Short, Mystery",Richard Baptiste,Richard Baptiste,"Emma Elliott, James Owens, Jeana Varney",English,0.0,0.0,5497
+226,The Boonies,0,2021-04-13,97 min,Horror,Lance Parkin,"Lance Parkin, Matt Schultz","Daniel Johnson, James Quinn, Rick Dutrow",English,0.0,2.7,0
+227,She Professed Herself Pupil of the Wise Man,0,,0,"Animation, Adventure, Fantasy",0,0,"Brianna Roberts, Ayumu Murase, Hinata Minami",Japanese,0.0,0.0,0
+228,Dark State,0,2021-03-19,93 min,"Crime, Drama, Mystery",Tracy Lucca,Tracy Lucca,"Nicholas Baroudi, Melissa Connell, Antoni Corone",English,0.0,3.5,4382
+229,"Here, After",0,2021-05-06,0,Short,Kate Sakamoto,Kate Sakamoto,"Margaret Brock, Carole Miles, Soli Reid",English,0.0,0.0,0
+230,Rock Paper Scissors,0,2021-07-20,95 min,Comedy,"Jayme Laforest, Richard Yearwood",Jayme Laforest,"Vahe Sevani, Jeremy Dozier, Kristopher Maz",English,0.0,4.8,3050
+231,Toutes les deux,0,2021-10-03,90 min,"Comedy, Romance",Noël Mitrani,Noël Mitrani,"Veronika Leclerc Strickland, Mélanie Elliott, Vitali Makarov",French,0.0,0.0,0
+232,Blood Brothers: Malcolm X & Muhammad Ali,PG-13,2021-09-09,95 min,"Documentary, Biography, History",Marcus A. Clarke,"Randy Roberts, Johnny Smith","Ilyasah Shabazz, Rahman Ali, Cornel West",English,69.0,6.8,2839
+233,Mayday,0,2021-10-01,100 min,"Drama, Fantasy, Mystery",Karen Cinorre,Karen Cinorre,"Grace Van Patten, Mia Goth, Soko",English,45.0,4.0,3550
+234,No Place,0,2021-03-12,7 min,"Short, Mystery",Eric Maurer,Eric Maurer,0,None,0.0,0.0,2238
+235,Naked Singularity,R,2021-08-13,93 min,"Comedy, Crime, Drama",Chase Palmer,"Chase Palmer, David Matthews, Sergio De La Pava","John Boyega, Olivia Cooke, Bill Skarsgård",English,36.0,4.6,2113
+236,Project Space 13,0,2021-12-03,0,Comedy,Michael M. Bilandic,0,"Theodore Bouloukos, Jason Grisell, Keith Poulson",English,0.0,0.0,1616
+237,The Village Detective: a song cycle,0,2021-09-05,81 min,Documentary,Bill Morrison,Bill Morrison,Mikhail Zharov,"English, Icelandic, Russian",0.0,0.0,1096
+238,Below the Fold,0,2021-11-23,92 min,"Drama, Mystery, Thriller",Clayton Scott,Clayton Scott,"Davis DeRock, Sarah McGuire, Jamie Addison",English,0.0,4.1,462
+239,A Glitch in the Matrix,Not Rated,2021-02-05,108 min,Documentary,Rodney Ascher,Rodney Ascher,"Nick Bostrom, Joshua Cooke, Erik Davis",English,62.0,5.3,880
+240,Agnes,0,2021-12-10,93 min,"Drama, Horror",Mickey Reece,"Mickey Reece, John Selvidge","Molly C. Quinn, Sean Gunn, Chris Sullivan",English,65.0,4.1,0
+241,Crack House of the Dead,R,2021-06-18,86 min,"Action, Horror",Jason Toler,Jason Toler,"Levi Bowling, Steve Crest, Marcus Hanftaler",English,0.0,0.0,0
+242,Operation Portugal,0,2021-11-02,95 min,Comedy,Frank Cimière,0,"D'Jal, Sarah Perles, Pierre Azéma",French,0.0,4.2,0
+243,Mickey Mouse Funhouse,TV-G,2021-07-16,0,"Animation, Short, Adventure",0,0,"Bret Iwan, Kaitlyn Robrock, Tony Anselmo",English,0.0,5.8,0
+244,Descarrilados,R,2021-08-20,98 min,Comedy,Fer García-Ruiz,David Marqués,"Julián López, Ernesto Sevilla, Arturo Valls",Spanish,0.0,0.0,0
+245,First Signal,0,2021-04-26,102 min,"Drama, History, Sci-Fi",Mark Lund,Mark Lund,"Paul Noonan, Conor Timmis, Wendy Hartman",English,0.0,6.8,0
+246,Scream,R,2022-01-14,114 min,"Horror, Mystery, Thriller","Matt Bettinelli-Olpin, Tyler Gillett","James Vanderbilt, Guy Busick, Kevin Williamson","Neve Campbell, Courteney Cox, David Arquette",English,60.0,7.0,74568594
+247,Uncharted,PG-13,2022-02-18,116 min,"Action, Adventure",Ruben Fleischer,"Rafe Judkins, Art Marcum, Matt Holloway","Tom Holland, Mark Wahlberg, Antonio Banderas",English,42.0,6.9,0
+248,Jackass Forever,R,2022-02-04,96 min,"Documentary, Action, Comedy",Jeff Tremaine,"Jason 'Wee Man' Acuña, Eric André, Derrick Beckles","Johnny Knoxville, Steve-O, Chris Pontius",English,74.0,7.6,41543627
+249,Death on the Nile,PG-13,2022-02-11,127 min,"Crime, Drama, Mystery",Kenneth Branagh,"Michael Green, Agatha Christie","Tom Bateman, Annette Bening, Kenneth Branagh",English,53.0,6.7,12800000
+250,Dog,0,,0,Thriller,0,0,"Devin Montgomery, Brandon L. Smith",English,0.0,0.0,15153549
+251,Moonfall,PG-13,2022-02-04,130 min,"Action, Adventure, Sci-Fi",Roland Emmerich,"Roland Emmerich, Harald Kloser, Spenser Cohen","Halle Berry, Patrick Wilson, John Bradley","English, Chinese",41.0,5.3,13122665
+252,Marry Me,PG-13,2022-02-11,112 min,"Comedy, Music, Romance",Kat Coiro,"John Rogers, Tami Sagher, Harper Dill","Jennifer Lopez, Owen Wilson, Maluma",English,50.0,6.2,14427585
+253,The 355,PG-13,2022-01-07,122 min,"Action, Thriller",Simon Kinberg,"Theresa Rebeck, Simon Kinberg","Jessica Chastain, Penélope Cruz, Bingbing Fan","English, Chinese, Spanish, French, German, Arabic",40.0,5.0,4400380
+254,Redeeming Love,PG-13,2022-01-21,134 min,"Drama, History, Romance",D.J. Caruso,"Francine Rivers, D.J. Caruso","Abigail Cowen, Tom Lewis, Famke Janssen",English,32.0,6.9,0
+255,Blacklight,PG-13,2022-02-11,108 min,"Action, Thriller",Mark Williams,"Nick May, Mark Williams, Brandon Reavis","Liam Neeson, Aidan Quinn, Taylor John Smith",English,0.0,0.0,1471504
+256,The King's Daughter,PG,2022-01-21,90 min,"Action, Adventure, Family",Sean McNamara,"Barry Berman, James Schamus, Vonda N. McIntyre","Pierce Brosnan, Kaya Scodelario, William Hurt",English,30.0,5.1,391252
+257,The Beatles: Get Back - The Rooftop Concert,PG-13,2022-01-30,65 min,Music,Peter Jackson,0,"The Beatles, George Harrison, John Lennon",English,0.0,0.0,793669
+258,The Tiger Rising,PG,2022-02-03,102 min,Family,Ray Giarratana,"Kate DiCamillo, Ray Giarratana","Dennis Quaid, Katharine McPhee, Queen Latifah",English,33.0,5.8,0
+259,Bone Clean,0,,0,"Short, Drama",Katy Maudlin,Morgan Rose,"Keegan Joyce, Gemma Bird Matheson",English,0.0,0.0,0
+260,Sparks - The Ken Sparks Story,0,2022-01-07,88 min,Biography,Jeff Joslin,Ciera Danielle,"Chad Sparks, Chanda Childress, Jeff Joslin",English,0.0,0.0,0
+261,Found Wandering Lost,0,2022-01-25,99 min,"Drama, Thriller",Nicholaus James,"Nicholaus James, James Thomas","Eric Bowles, Dylan Brown, Jessi Burkette",0,0.0,5.8,0

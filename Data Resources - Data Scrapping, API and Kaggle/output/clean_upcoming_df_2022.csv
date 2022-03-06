@@ -1,0 +1,84 @@
+movie_id,title,movie_rating,release_date,run_time,genre_name,director,writer,actors,language,meta_score,imdb_rating,box_office,Trash
+0,The Batman,PG-13,2022-03-04,175,"Action, Crime, Drama",Matt Reeves,"Matt Reeves, Peter Craig, Bob Kane","Zoë Kravitz, Robert Pattinson, Barry Keoghan",English,0.0,0.0,0.0,min
+1,A Day to Die,0,1970-01-01,0,Action,Wes Miller,"Rab Berry, Scott Mallace","Bruce Willis, Frank Grillo, Kevin Dillon",English,0.0,0.0,0.0,
+2,He Was Asking for It: A Noir Film,0,2022-04-30,0,"Short, Crime",Rocky Karlage,"Rocky Karlage, Staci Layne Wilson","Rocky Karlage, Patrick Lamba, Charlie Jiin",English,0.0,0.0,0.0,
+3,Tyson's Run,PG,2022-03-11,103,Drama,Kim Bass,Kim Bass,"Major Dodson, Amy Smart, Barkhad Abdi",English,0.0,0.0,0.0,min
+4,X,R,2022-03-18,0,Horror,Ti West,Ti West,"Jenna Ortega, Mia Goth, Brittany Snow",English,0.0,0.0,0.0,
+5,Operation Fortune: Ruse de guerre,0,2022-03-18,0,"Action, Comedy, Thriller",Guy Ritchie,"Ivan Atkinson, Marn Davies, Guy Ritchie","Jason Statham, Josh Hartnett, Aubrey Plaza","English, Chinese",0.0,0.0,0.0,
+6,The Outfit,R,2022-03-18,105,"Crime, Drama",Graham Moore,"Johnathan McClain, Graham Moore","Mark Rylance, Zoey Deutch, Dylan O'Brien",English,0.0,0.0,0.0,min
+7,Cheaper by the Dozen,PG,2022-03-18,0,"Adventure, Comedy, Family",Gail Lerner,"Kenya Barris, Ernestine Gilbreth Carey, Frank B. Gilbreth Jr.","Gabrielle Union, Zach Braff, Brittany Daniel",English,0.0,0.0,0.0,
+8,Alice,0,2022-03-18,100,Drama,Krystin Ver Linden,Krystin Ver Linden,"Keke Palmer, Common, Jonny Lee Miller",English,54.0,5.3,0.0,min
+9,The Unbreakable Boy,PG,2022-03-18,0,Drama,Jon Gunn,Jon Gunn,"Zachary Levi, Amy Acker, Peter Facinelli",English,0.0,0.0,0.0,
+10,Umma,0,2022-03-18,0,Horror,Iris K. Shim,Iris K. Shim,"Dermot Mulroney, Odeya Rush, Sandra Oh",English,0.0,0.0,0.0,
+11,The Lost City,0,2022-03-25,92,"Action, Adventure, Comedy","Aaron Nee, Adam Nee","Oren Uziel, Dana Fox, Adam Nee","Sandra Bullock, Brad Pitt, Channing Tatum",English,0.0,0.0,0.0,min
+12,The Duke of Marylebone,0,2022-06-29,100,Comedy,Mitch Riverman,Mitch Riverman,"Ninette Finch, Lily Smith, Mark Joseph",English,0.0,0.0,0.0,min
+13,Everything Everywhere All at Once,R,2022-03-25,140,"Action, Adventure, Comedy","Dan Kwan, Daniel Scheinert","Dan Kwan, Daniel Scheinert","Jenny Slate, Michelle Yeoh, Jamie Lee Curtis",English,0.0,0.0,0.0,min
+14,Morbius,PG-13,2022-04-01,108,"Action, Adventure, Drama",Daniel Espinosa,"Matt Sazama, Burk Sharpless, Roy Thomas","Jared Leto, Michael Keaton, Adria Arjona",English,0.0,0.0,0.0,min
+15,The Contractor,R,2022-04-01,0,"Action, Thriller",Tarik Saleh,J.P. Davis,"Chris Pine, Gillian Jacobs, Ben Foster",English,0.0,0.0,0.0,
+16,You Won't Be Alone,R,2022-04-01,108,"Drama, Horror",Goran Stolevski,Goran Stolevski,"Noomi Rapace, Alice Englert, Anamaria Marinca",Macedonian,75.0,6.8,0.0,min
+17,Iris Warriors,0,2022-04-02,80,"Family, Fantasy, Musical",Roydon Turner,"Don Macnab-Stark, Roydon Turner","Jessica Brown Findlay, Cindy Okkers, Sven-Eric Muller",English,0.0,5.1,0.0,min
+18,Sonic the Hedgehog 2,0,2022-04-08,0,"Animation, Action, Adventure",Jeff Fowler,"Pat Casey, Josh Miller, John Whittington","Ben Schwartz, Idris Elba, Colleen O'Shaughnessey",English,0.0,0.0,0.0,
+19,Ambulance,R,2022-04-08,0,"Action, Crime, Drama",Michael Bay,"Chris Fedak, Laurits Munch-Petersen, Lars Andreas Pedersen","Eiza González, Jake Gyllenhaal, Devan Chandler Long",English,0.0,0.0,0.0,
+20,The Cow Who Sang a Song Into the Future,0,2022-01-23,98,Drama,Francisca Alegria,"Francisca Alegria, Manuela Infante, Fernanda Urrejola","Mía Maestro, Enzo Ferrada Rosati, Benjamin Soto",Spanish,0.0,7.0,0.0,min
+21,Father Stu,R,2022-04-13,0,Drama,Rosalind Ross,Rosalind Ross,"Mark Wahlberg, Mel Gibson, Annet Mahendru",English,0.0,0.0,0.0,
+22,Fantastic Beasts: The Secrets of Dumbledore,0,2022-04-15,0,"Adventure, Family, Fantasy",David Yates,"J.K. Rowling, Steve Kloves","Mads Mikkelsen, Ezra Miller, Katherine Waterston",English,0.0,0.0,0.0,
+23,The Bad Guys,PG,2022-04-22,0,"Animation, Adventure, Comedy",Pierre Perifel,"Aaron Blabey, Etan Cohen, Hilary Winston","Sam Rockwell, Awkwafina, Anthony Ramos",English,0.0,0.0,0.0,
+24,The Northman,0,2022-04-22,0,"Action, Adventure, Drama",Robert Eggers,"Robert Eggers, Sjón","Alexander Skarsgård, Nicole Kidman, Claes Bang","English, Norse, Old",0.0,0.0,0.0,
+25,The Unbearable Weight of Massive Talent,0,2022-04-22,0,"Action, Comedy, Crime",Tom Gormican,"Kevin Etten, Tom Gormican","Nicolas Cage, Pedro Pascal, Ike Barinholtz",English,0.0,0.0,0.0,
+26,Hatching,0,2022-04-29,86,Horror,Hanna Bergholm,Ilja Rautsi,"Siiri Solalinna, Sophia Heikkilä, Jani Volanen",Finnish,75.0,7.1,0.0,min
+27,The Vortex Voices,0,2022-02-10,99,Horror,Michael Jason Allen,Michael Jason Allen,"Christine Manola, Mariya Tensina, Corey Busboom",English,0.0,0.0,0.0,min
+28,Firebird,0,1970-01-01,0,"Drama, Romance",0,0,0,0,0.0,0.0,0.0,
+29,Memory,R,2022-04-29,0,"Action, Thriller",Martin Campbell,"Dario Scardapane, Jef Geeraerts, Carl Joos","Liam Neeson, Monica Bellucci, Ray Stevenson",English,0.0,0.0,0.0,
+30,Doctor Strange in the Multiverse of Madness,0,2022-05-06,0,"Action, Adventure, Fantasy",Sam Raimi,"Jade Halley Bartlett, Steve Ditko, Stan Lee","Benedict Cumberbatch, Elizabeth Olsen, Rachel McAdams",English,0.0,0.0,0.0,
+31,What's Happening ... Refugees,0,1970-01-01,0,Documentary,Ted Kamp,0,0,English,0.0,0.0,0.0,
+32,The Twin,0,2022-04-21,0,Horror,Taneli Mustonen,"Aleksi Hyvärinen, Taneli Mustonen","Teresa Palmer, Steven Cree, Barbara Marten",English,0.0,0.0,0.0,
+33,Firestarter,R,1970-01-01,0,"Drama, Horror, Sci-Fi",Keith Thomas,"Stephen King, Scott Teems","Zac Efron, Gloria Reuben, Ryan Kiera Armstrong",English,0.0,0.0,0.0,
+34,Downton Abbey: A New Era,PG,2022-05-20,0,"Drama, Romance",Simon Curtis,Julian Fellowes,"Maggie Smith, Michelle Dockery, Laura Haddock",English,0.0,0.0,0.0,
+35,Men,0,2022-05-20,0,"Drama, Horror, Sci-Fi",Alex Garland,Alex Garland,"Jessie Buckley, Rory Kinnear, Paapa Essiedu",English,0.0,0.0,0.0,
+36,DC League of Super-Pets,0,2022-05-20,0,"Animation, Action, Adventure","Jared Stern, Sam Levine","Jared Stern, John Whittington","Dwayne Johnson, Kevin Hart, Vanessa Bayer",English,0.0,0.0,0.0,
+37,Top Gun: Maverick,PG-13,2022-05-27,0,"Action, Drama",Joseph Kosinski,"Ehren Kruger, Eric Warren Singer, Christopher McQuarrie","Tom Cruise, Jennifer Connelly, Miles Teller",English,0.0,0.0,0.0,
+38,The Bob's Burgers Movie,PG-13,2022-05-27,0,"Animation, Adventure, Comedy","Loren Bouchard, Bernard Derriman","Loren Bouchard, Jim Dauterive, Nora Smith","H. Jon Benjamin, Kristen Schaal, Dan Mintz","English, German",0.0,0.0,0.0,
+39,Terror on the Prairie,0,1970-01-01,0,Western,Michael Polish,Josiah Nelson,"Gina Carano, Nick Searcy, Samaire Armstrong",0,0.0,0.0,0.0,
+40,Jurassic World Dominion,PG-13,2022-06-10,0,"Action, Adventure, Sci-Fi",Colin Trevorrow,"Colin Trevorrow, Emily Carmichael, Derek Connolly","Bryce Dallas Howard, Chris Pratt, Dichen Lachman",English,0.0,0.0,0.0,
+41,Lightyear,0,2022-06-17,0,"Animation, Action, Adventure",Angus MacLane,"Pete Docter, Andrew Stanton, John Lasseter","Chris Evans, Taika Waititi, Keke Palmer",English,0.0,0.0,0.0,
+42,Red Elvis: The Cold War Cowboy,0,2022-01-20,91,Documentary,Thomas Latter,0,0,English,0.0,7.5,0.0,min
+43,Shotgun Wedding,0,2022-06-29,0,"Action, Comedy, Romance",Jason Moore,"Mark Hammer, Elizabeth Meriwether","Jennifer Lopez, Jennifer Coolidge, Josh Duhamel",English,0.0,0.0,0.0,
+44,Minions 2: The Rise of Gru,PG,2022-07-01,90,"Animation, Adventure, Comedy","Kyle Balda, Brad Ableson, Jonathan del Val","Brian Lynch, Matthew Fogel, Cinco Paul","Steve Carell, Pierre Coffin, Taraji P. Henson","English, Vietnamese",0.0,0.0,0.0,min
+45,Thor: Love and Thunder,0,2022-07-08,0,"Action, Adventure, Fantasy",Taika Waititi,"Stan Lee, Jennifer Kaytin Robinson, Taika Waititi","Taika Waititi, Karen Gillan, Natalie Portman",English,0.0,0.0,0.0,
+46,Bullet Train,0,2022-07-15,0,"Action, Thriller",David Leitch,"Kôtarô Isaka, Zak Olkewicz","Sandra Bullock, Brad Pitt, Aaron Taylor-Johnson",English,0.0,0.0,0.0,
+47,Mrs Harris Goes to Paris,0,2022-05-06,0,Drama,Anthony Fabian,"Carroll Cartwright, Anthony Fabian, Paul Gallico","Jason Isaacs, Lucas Bravo, Alba Baptista",English,0.0,0.0,0.0,
+48,The Wrong Place,0,2022-07-15,0,Thriller,Mike Burns,Bill Lawrence,"Bruce Willis, Ashley Greene, Michael Sirow",English,0.0,0.0,0.0,
+49,Nope,0,2022-07-22,0,Horror,Jordan Peele,Jordan Peele,"Barbie Ferreira, Keke Palmer, Michael Wincott",English,0.0,0.0,0.0,
+50,Where the Crawdads Sing,0,2022-07-22,0,"Drama, Mystery",Olivia Newman,"Lucy Alibar, Delia Owens","David Strathairn, Eric Ladin, Harris Dickinson",English,0.0,0.0,0.0,
+51,Blazing Samurai,0,2022-07-22,0,"Animation, Action, Comedy","Mark Koetsier, Rob Minkoff, Chris Bailey","Nate Hopper, Mel Brooks, Andrew Bergman","Ricky Gervais, Samuel L. Jackson, Michelle Yeoh",English,0.0,0.0,0.0,
+52,Black Adam,0,2022-07-29,0,"Action, Fantasy, Sci-Fi",Jaume Collet-Serra,"Adam Sztykiel, Rory Haines, Sohrab Noshirvani","Dwayne Johnson, Sarah Shahi, Pierce Brosnan",English,0.0,0.0,0.0,
+53,Guns 3: Alias Billy the Kid,0,2022-08-03,0,Western,Emilio Estevez,"Emilio Estevez, John Fusco","Christian Slater, Emilio Estevez, Lou Diamond Phillips",English,0.0,0.0,0.0,
+54,Secret Headquarters,0,2022-08-05,0,"Action, Adventure, Sci-Fi","Henry Joost, Ariel Schulman","Henry Joost, Josh Koenigsberg, Ariel Schulman","Owen Wilson, Michael Peña, Jesse Williams",English,0.0,0.0,0.0,
+55,The Man from Toronto,PG-13,2022-08-12,0,"Action, Comedy, Thriller",Patrick Hughes,"Robbie Fox, Chris Bremner, Jason Blumenthal","Kaley Cuoco, Woody Harrelson, Kevin Hart",English,0.0,0.0,0.0,
+56,Samaritan,PG-13,2022-08-26,0,"Action, Drama, Fantasy",Julius Avery,Bragi F. Schut,"Javon 'Wanna' Walton, Sylvester Stallone, Martin Starr",English,0.0,0.0,0.0,
+57,After Ever Happy,0,2022-09-07,119,"Drama, Romance",Castille Landon,"Sharon Soboil, Anna Todd","Hero Fiennes Tiffin, Josephine Langford, Carter Jenkins",English,0.0,0.0,0.0,min
+58,Salem's Lot,0,2022-09-09,0,Horror,Gary Dauberman,"Gary Dauberman, Stephen King","Pilou Asbæk, Spencer Treat Clark, Alfre Woodard",English,0.0,0.0,0.0,
+59,Dark Harvest,0,2022-09-09,0,Horror,David Slade,"Michael Gilio, Norman Partridge","Jeremy Davies, Elizabeth Reaser, Luke Kirby",0,0.0,0.0,0.0,
+60,The Woman King,0,2022-09-16,0,"Drama, History",Gina Prince-Bythewood,"Gina Prince-Bythewood, Dana Stevens","Hero Fiennes Tiffin, Jordan Bolger, Viola Davis",0,0.0,0.0,0.0,
+61,Don't Worry Darling,R,2022-09-23,0,"Crime, Drama, Horror",Olivia Wilde,"Katie Silberman, Carey Van Dyke, Shane Van Dyke","Gemma Chan, Florence Pugh, Olivia Wilde",English,0.0,0.0,0.0,
+62,Puss in Boots: The Last Wish,0,2022-09-23,0,"Animation, Adventure, Comedy","Joel Crawford, Januel Mercado","Christopher Meledandri, Chris Miller","Antonio Banderas, Chris Miller, Miguel Gabriel",English,0.0,0.0,0.0,
+63,Spider-Man: Across the Spider-Verse - Part One,0,2022-10-07,0,"Animation, Action, Adventure","Joaquim Dos Santos, Kemp Powers, Justin K. Thompson","Phil Lord, Christopher Miller, Dave Callaham","Shameik Moore, Hailee Steinfeld, Oscar Isaac",English,0.0,0.0,0.0,
+64,Till,0,2022-10-07,0,Drama,Chinonye Chukwu,"Keith Beauchamp, Chinonye Chukwu, Michael Reilly","Haley Bennett, Whoopi Goldberg, Danielle Deadwyler",0,0.0,0.0,0.0,
+65,Halloween Ends,0,2022-10-14,0,"Horror, Thriller",David Gordon Green,"Chris Bernier, John Carpenter, David Gordon Green","Jamie Lee Curtis, Kyle Richards, Andi Matichak",English,0.0,0.0,0.0,
+66,Ticket to Paradise,0,2022-10-21,0,"Comedy, Romance",Ol Parker,"Ol Parker, Daniel Pipski","Kaitlyn Dever, George Clooney, Lucas Bravo",0,0.0,0.0,0.0,
+67,The Devil's Light,PG-13,2022-10-28,93,"Horror, Thriller",Daniel Stamm,"Robert Zappia, Todd R. Jones, Earl Richey Jones","Virginia Madsen, Nicholas Ralph, Colin Salmon",English,0.0,0.0,0.0,min
+68,The Monkey King: The Legend Begins,0,2022-11-02,90,Fantasy,Soi Cheang,Edmond Wong,"Donnie Yen, Chow Yun-Fat, Aaron Kwok",English,0.0,5.7,0.0,min
+69,The Flash,0,2022-11-04,0,"Action, Adventure, Fantasy",Andy Muschietti,"Christina Hodson, Gardner Fox, Harry Lampert","Temuera Morrison, Ben Affleck, Michael Keaton",English,0.0,0.0,0.0,
+70,Untitled David O. Russell,0,2022-11-04,0,"Drama, History",David O. Russell,David O. Russell,"Anya Taylor-Joy, Margot Robbie, Rami Malek",English,0.0,0.0,0.0,
+71,Black Panther: Wakanda Forever,0,2022-11-11,0,"Action, Adventure, Drama",Ryan Coogler,"Joe Robert Cole, Ryan Coogler","Letitia Wright, Daniel Kaluuya, Martin Freeman",English,0.0,0.0,0.0,
+72,Spellbound,0,2022-11-11,0,"Animation, Adventure, Comedy",Vicky Jenson,"Lauren Hynek, Elizabeth Martin, Linda Woolverton",0,English,0.0,0.0,0.0,
+73,Thirteen Lives,PG-13,2022-11-18,0,"Biography, Drama, Thriller",Ron Howard,William Nicholson,"Tom Bateman, Colin Farrell, Viggo Mortensen",English,0.0,0.0,0.0,
+74,Creed III,0,2022-11-23,0,"Drama, Sport",Michael B. Jordan,"Zach Baylin, Keenan Coogler","Tessa Thompson, Michael B. Jordan, Jonathan Majors",English,0.0,0.0,0.0,
+75,The Fabelmans,0,2022-11-23,0,Drama,Steven Spielberg,"Tony Kushner, Steven Spielberg","Michelle Williams, Seth Rogen, Paul Dano",English,0.0,0.0,0.0,
+76,Strange World,0,2022-11-23,0,"Animation, Action, Adventure",Don Hall,Qui Nguyen,Alan Tudyk,English,0.0,0.0,0.0,
+77,Avatar 2,0,2022-12-16,0,"Action, Adventure, Sci-Fi",James Cameron,"James Cameron, Josh Friedman","Zoe Saldana, Chloe Coleman, Kate Winslet",English,0.0,0.0,0.0,
+78,Aquaman and the Lost Kingdom,0,2022-12-16,0,"Action, Adventure, Fantasy",James Wan,"David Leslie Johnson-McGoldrick, Paul Norris, Mort Weisinger","Temuera Morrison, Nicole Kidman, Jason Momoa",English,0.0,0.0,0.0,
+79,Untitled Illumination Entertainment Project,0,2022-12-21,0,"Animation, Adventure, Comedy","Aaron Horvath, Michael Jelenic","Matthew Fogel, Shigeru Miyamoto","Anya Taylor-Joy, Chris Pratt, Seth Rogen",English,0.0,0.0,0.0,
+80,I Wanna Dance with Somebody,0,2022-12-23,0,"Biography, Music",Kasi Lemmons,Anthony McCarten,"Stanley Tucci, Tamara Tunie, Clarke Peters",0,0.0,0.0,0.0,
+81,A Man Called Otto,0,1970-01-01,0,"Comedy, Drama",Marc Forster,Fredrik Backman,"Tom Hanks, Rachel Keller, Manuel Garcia-Rulfo",English,0.0,0.0,0.0,
+82,Babylon,0,2023-01-06,0,Drama,Damien Chazelle,Damien Chazelle,"Brad Pitt, Margot Robbie, Olivia Wilde",English,0.0,0.0,0.0,
