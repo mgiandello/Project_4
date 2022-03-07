@@ -1,0 +1,10 @@
+body {
+    height: 400px;
+    padding: 50px;
+    color: rgba(105, 103, 103, 0.822);
+    background: rgba(70, 71, 71, 0.5);
+  }
+  
+  .margin-top-80 {
+    margin-top: 100px;
+  }
