@@ -27,9 +27,9 @@
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto my-2 my-lg-0">
-                        <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#meettheteam">Meet the Team</a></li>
+                        <!-- <li class="nav-item"><a class="nav-link" href="#about">About</a></li> -->
+                        <li class="nav-item"><a class="nav-link" href="#portfolio">Upcoming Movies</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#contact">Meet the Team</a></li>
                     </ul>
                 </div>
             </div>
@@ -44,12 +44,12 @@
                     </div>
                     <div class="col-lg-8 align-self-baseline">
                         <p class="text-white-75 mb-5">The Paramount Predictor is a tool that is used to predict how usccessful upcoming movies will be based on rating and box office. </p>
-                        <a class="btn btn-primary btn-xl" href="#about">Find Out More</a>
+                        <a class="btn btn-primary btn-xl" href="#services">Find Out More</a>
                     </div>
                 </div>
             </div>
         </header>
-        <!-- About-->
+        <!-- About
         <section class="page-section bg-primary" id="about">
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
@@ -57,13 +57,13 @@
                         <h2 class="text-white mt-0">We've got what you need!</h2>
                         <hr class="divider divider-light" />
                         <p class="text-white-75 mb-4">Start Bootstrap has everything you need to get your new website up and running in no time! Choose one of our open source, free to download, and easy to use themes! No strings attached!</p>
-                        <a class="btn btn-light btn-xl" href="#services">View our models!</a>
-                    </div>
+                        <a class="btn btn-light btn-xl" href="#services">View our models!</a> -->
+                    <!-- </div>
                 </div>
-            </div>
+            </div> -->
         </section>
         <!-- Services-->
-        <section class="page-section" id="services">
+        <section class="page-section bg-primary" id="services">
             <div class="container px-4 px-lg-5">
                 <h2 class="text-center mt-0">Featured Upcoming Movies</h2>
                 <hr class="divider" />
@@ -97,6 +97,7 @@
                         </div>
                     </div>
                 </div> -->
+                <!-- style='height: 100%; width: 100%; object-fit: contain' -->
             </div>
         </section>
         <!-- Portfolio-->
@@ -104,17 +105,17 @@
             <div class="container-fluid p-0">
                 <div class="row g-0">
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/1.png" title="Batman">
-                            <img class="img-fluid" src="{{ url_for('static', filename='assets/img/portfolio/thumbnails/1.png') }}" alt="..." />
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/6.png" title="Batman">
+                            <img class="img-fluid" style="height: 100%; width: 100%; object-fit: contain;" src="{{ url_for('static', filename='assets/img/portfolio/thumbnails/6.png') }}"  alt="..." />
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">Release Date: March 4, 2022</div>
-                                <div class="project-name">Batman</div>
+                                <div class="project-name">The Batman</div>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6">
                         <a class="portfolio-box" href="assets/img/portfolio/fullsize/2.png" title="Fantastic Beasts: The Secrets of Dumbledore">
-                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/2.png" alt="..." />
+                            <img class="img-fluid" style="height: 100%; width: 100%; object-fit: contain;" src="{{ url_for('static', filename='assets/img/portfolio/thumbnails/2.png') }}" alt="..." />
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">Release Date: April 15, 2022</div>
                                 <div class="project-name">Fantastic Beasts: The Secrets of Dumbledore</div>
@@ -122,8 +123,8 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/3.png" title="Doctor Strange in the Multiverse of Madness">
-                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/3.png" alt="..." />
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/1.png" title="Doctor Strange in the Multiverse of Madness">
+                            <img class="img-fluid" style="height: 100%; width: 100%; object-fit: contain;" src="{{ url_for('static', filename='assets/img/portfolio/thumbnails/1.png') }}" alt="..." />
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">Release Date: May 6, 2022</div>
                                 <div class="project-name">Doctor Strange in the Multiverse of Madness</div>
@@ -132,7 +133,7 @@
                     </div>
                     <div class="col-lg-4 col-sm-6">
                         <a class="portfolio-box" href="assets/img/portfolio/fullsize/4.png" title="Lightyear">
-                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/4.png" alt="..." />
+                            <img class="img-fluid" style="height: 100%; width: 100%; object-fit: contain;" src="{{ url_for('static', filename='assets/img/portfolio/thumbnails/4.png') }}" alt="..." />
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">Release Date: June 17, 2022</div>
                                 <div class="project-name">Lightyear</div>
@@ -141,7 +142,7 @@
                     </div>
                     <div class="col-lg-4 col-sm-6">
                         <a class="portfolio-box" href="assets/img/portfolio/fullsize/5.png" title="Minions 2: The Rise of Gru">
-                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/5.png" alt="..." />
+                            <img class="img-fluid" style="height: 100%; width: 100%; object-fit: contain;" src="{{ url_for('static', filename='assets/img/portfolio/thumbnails/5.png') }}" alt="..." />
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">Release Date: July 1, 2022</div>
                                 <div class="project-name">Minions 2: The Rise of Gru</div>
@@ -149,11 +150,11 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/6.png" title="Thor: Love and Thunder">
-                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/6.png" alt="..." />
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/3.png" title="Jurassic World Dominion">
+                            <img class="img-fluid" style="height: 100%; width: 100%; object-fit: contain;" src="{{ url_for('static', filename='assets/img/portfolio/thumbnails/3.png') }}" alt="..." />
                             <div class="portfolio-box-caption p-3">
-                                <div class="project-category text-white-50">Release Date: July 8, 2022</div>
-                                <div class="project-name">Thor: Love and Thunder</div>
+                                <div class="project-category text-white-50">Release Date: June 10, 2022</div>
+                                <div class="project-name">Jurassic World Dominion</div>
                             </div>
                         </a>
                     </div>
@@ -164,7 +165,7 @@
         <section class="page-section bg-dark text-white">
             <div class="container px-4 px-lg-5 text-center">
                 <h2 class="mb-4">Check Out Our Models!</h2>
-                <a class="btn btn-light btn-xl" href="/model">View Data!</a>
+                <a class="btn btn-light btn-xl" href="/model">Learn About Our Beta Version</a>
             </div>
         </section>
         <!-- Contact-->
@@ -173,12 +174,15 @@
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-8 col-xl-6 text-center">
                         <h2 class="mt-0">Meet the Team!</h2>
+                        <p class="text-muted mb-5">The Paramount Predictors is a team of female data analysts who are passionate about the movie industry and the data world. They created The Paramount Predictor tool to merge the two worlds together and bring the data to you! Meet Rebecca Melo and Michaela Giandello.</p>
+                        <img src="../static/images/Michaela.png" class="card-img" alt="Michaela">
+                        <img src="../static/images/Rebecca.png" class="card-img" alt="Rebecca">
                         <hr class="divider" />
-                        <p class="text-muted mb-5">Ready to start your next project with us? Send us a messages and we will get back to you as soon as possible!</p>
                     </div>
                 </div>
                 <div class="row gx-4 gx-lg-5 justify-content-center mb-5">
                     <div class="col-lg-6">
+                        <h2 class="mt-0"><center>Contact Us</center></h2>
                         <!-- * * * * * * * * * * * * * * *-->
                         <!-- * * SB Forms Contact Form * *-->
                         <!-- * * * * * * * * * * * * * * *-->
@@ -244,7 +248,7 @@
         </section>
         <!-- Footer-->
         <footer class="bg-light py-5">
-            <div class="container px-4 px-lg-5"><div class="small text-center text-muted">Copyright &copy; 2021 - Company Name</div></div>
+            <div class="container px-4 px-lg-5"><div class="small text-center text-muted">Copyright &copy; 2022 - Emerson College Data Bootcamp</div></div>
         </footer>
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
