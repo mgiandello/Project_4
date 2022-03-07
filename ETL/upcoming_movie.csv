@@ -1,0 +1,84 @@
+movie_id,title,movie_rating,release_date,run_time,meta_score,imdb_rating,box_office
+0,The Batman,PG-13,2022-03-04,175,0.0,0.0,0.0
+1,A Day to Die,0,1970-01-01,0,0.0,0.0,0.0
+2,He Was Asking for It: A Noir Film,0,2022-04-30,0,0.0,0.0,0.0
+3,Tyson's Run,PG,2022-03-11,103,0.0,0.0,0.0
+4,X,R,2022-03-18,0,0.0,0.0,0.0
+5,Operation Fortune: Ruse de guerre,0,2022-03-18,0,0.0,0.0,0.0
+6,The Outfit,R,2022-03-18,105,0.0,0.0,0.0
+7,Cheaper by the Dozen,PG,2022-03-18,0,0.0,0.0,0.0
+8,Alice,0,2022-03-18,100,54.0,5.3,0.0
+9,The Unbreakable Boy,PG,2022-03-18,0,0.0,0.0,0.0
+10,Umma,0,2022-03-18,0,0.0,0.0,0.0
+11,The Lost City,0,2022-03-25,92,0.0,0.0,0.0
+12,The Duke of Marylebone,0,2022-06-29,100,0.0,0.0,0.0
+13,Everything Everywhere All at Once,R,2022-03-25,140,0.0,0.0,0.0
+14,Morbius,PG-13,2022-04-01,108,0.0,0.0,0.0
+15,The Contractor,R,2022-04-01,0,0.0,0.0,0.0
+16,You Won't Be Alone,R,2022-04-01,108,75.0,6.8,0.0
+17,Iris Warriors,0,2022-04-02,80,0.0,5.1,0.0
+18,Sonic the Hedgehog 2,0,2022-04-08,0,0.0,0.0,0.0
+19,Ambulance,R,2022-04-08,0,0.0,0.0,0.0
+20,The Cow Who Sang a Song Into the Future,0,2022-01-23,98,0.0,7.0,0.0
+21,Father Stu,R,2022-04-13,0,0.0,0.0,0.0
+22,Fantastic Beasts: The Secrets of Dumbledore,0,2022-04-15,0,0.0,0.0,0.0
+23,The Bad Guys,PG,2022-04-22,0,0.0,0.0,0.0
+24,The Northman,0,2022-04-22,0,0.0,0.0,0.0
+25,The Unbearable Weight of Massive Talent,0,2022-04-22,0,0.0,0.0,0.0
+26,Hatching,0,2022-04-29,86,75.0,7.1,0.0
+27,The Vortex Voices,0,2022-02-10,99,0.0,0.0,0.0
+28,Firebird,0,1970-01-01,0,0.0,0.0,0.0
+29,Memory,R,2022-04-29,0,0.0,0.0,0.0
+30,Doctor Strange in the Multiverse of Madness,0,2022-05-06,0,0.0,0.0,0.0
+31,What's Happening ... Refugees,0,1970-01-01,0,0.0,0.0,0.0
+32,The Twin,0,2022-04-21,0,0.0,0.0,0.0
+33,Firestarter,R,1970-01-01,0,0.0,0.0,0.0
+34,Downton Abbey: A New Era,PG,2022-05-20,0,0.0,0.0,0.0
+35,Men,0,2022-05-20,0,0.0,0.0,0.0
+36,DC League of Super-Pets,0,2022-05-20,0,0.0,0.0,0.0
+37,Top Gun: Maverick,PG-13,2022-05-27,0,0.0,0.0,0.0
+38,The Bob's Burgers Movie,PG-13,2022-05-27,0,0.0,0.0,0.0
+39,Terror on the Prairie,0,1970-01-01,0,0.0,0.0,0.0
+40,Jurassic World Dominion,PG-13,2022-06-10,0,0.0,0.0,0.0
+41,Lightyear,0,2022-06-17,0,0.0,0.0,0.0
+42,Red Elvis: The Cold War Cowboy,0,2022-01-20,91,0.0,7.5,0.0
+43,Shotgun Wedding,0,2022-06-29,0,0.0,0.0,0.0
+44,Minions 2: The Rise of Gru,PG,2022-07-01,90,0.0,0.0,0.0
+45,Thor: Love and Thunder,0,2022-07-08,0,0.0,0.0,0.0
+46,Bullet Train,0,2022-07-15,0,0.0,0.0,0.0
+47,Mrs Harris Goes to Paris,0,2022-05-06,0,0.0,0.0,0.0
+48,The Wrong Place,0,2022-07-15,0,0.0,0.0,0.0
+49,Nope,0,2022-07-22,0,0.0,0.0,0.0
+50,Where the Crawdads Sing,0,2022-07-22,0,0.0,0.0,0.0
+51,Blazing Samurai,0,2022-07-22,0,0.0,0.0,0.0
+52,Black Adam,0,2022-07-29,0,0.0,0.0,0.0
+53,Guns 3: Alias Billy the Kid,0,2022-08-03,0,0.0,0.0,0.0
+54,Secret Headquarters,0,2022-08-05,0,0.0,0.0,0.0
+55,The Man from Toronto,PG-13,2022-08-12,0,0.0,0.0,0.0
+56,Samaritan,PG-13,2022-08-26,0,0.0,0.0,0.0
+57,After Ever Happy,0,2022-09-07,119,0.0,0.0,0.0
+58,Salem's Lot,0,2022-09-09,0,0.0,0.0,0.0
+59,Dark Harvest,0,2022-09-09,0,0.0,0.0,0.0
+60,The Woman King,0,2022-09-16,0,0.0,0.0,0.0
+61,Don't Worry Darling,R,2022-09-23,0,0.0,0.0,0.0
+62,Puss in Boots: The Last Wish,0,2022-09-23,0,0.0,0.0,0.0
+63,Spider-Man: Across the Spider-Verse - Part One,0,2022-10-07,0,0.0,0.0,0.0
+64,Till,0,2022-10-07,0,0.0,0.0,0.0
+65,Halloween Ends,0,2022-10-14,0,0.0,0.0,0.0
+66,Ticket to Paradise,0,2022-10-21,0,0.0,0.0,0.0
+67,The Devil's Light,PG-13,2022-10-28,93,0.0,0.0,0.0
+68,The Monkey King: The Legend Begins,0,2022-11-02,90,0.0,5.7,0.0
+69,The Flash,0,2022-11-04,0,0.0,0.0,0.0
+70,Untitled David O. Russell,0,2022-11-04,0,0.0,0.0,0.0
+71,Black Panther: Wakanda Forever,0,2022-11-11,0,0.0,0.0,0.0
+72,Spellbound,0,2022-11-11,0,0.0,0.0,0.0
+73,Thirteen Lives,PG-13,2022-11-18,0,0.0,0.0,0.0
+74,Creed III,0,2022-11-23,0,0.0,0.0,0.0
+75,The Fabelmans,0,2022-11-23,0,0.0,0.0,0.0
+76,Strange World,0,2022-11-23,0,0.0,0.0,0.0
+77,Avatar 2,0,2022-12-16,0,0.0,0.0,0.0
+78,Aquaman and the Lost Kingdom,0,2022-12-16,0,0.0,0.0,0.0
+79,Untitled Illumination Entertainment Project,0,2022-12-21,0,0.0,0.0,0.0
+80,I Wanna Dance with Somebody,0,2022-12-23,0,0.0,0.0,0.0
+81,A Man Called Otto,0,1970-01-01,0,0.0,0.0,0.0
+82,Babylon,0,2023-01-06,0,0.0,0.0,0.0
