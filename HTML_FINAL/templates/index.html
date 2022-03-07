@@ -28,7 +28,7 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto my-2 my-lg-0">
                         <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#portfolio">Upcoming Movies</a></li>
                         <li class="nav-item"><a class="nav-link" href="#meettheteam">Meet the Team</a></li>
                     </ul>
                 </div>
@@ -97,6 +97,7 @@
                         </div>
                     </div>
                 </div> -->
+                <!-- style='height: 100%; width: 100%; object-fit: contain' -->
             </div>
         </section>
         <!-- Portfolio-->
@@ -105,16 +106,16 @@
                 <div class="row g-0">
                     <div class="col-lg-4 col-sm-6">
                         <a class="portfolio-box" href="assets/img/portfolio/fullsize/6.png" title="Batman">
-                            <img class="img-fluid" src="{{ url_for('static', filename='assets/img/portfolio/thumbnails/6.png') }}" alt="..." />
+                            <img class="img-fluid" style="height: 100%; width: 100%; object-fit: contain;" src="{{ url_for('static', filename='assets/img/portfolio/thumbnails/6.png') }}"  alt="..." />
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">Release Date: March 4, 2022</div>
-                                <div class="project-name">Batman</div>
+                                <div class="project-name">The Batman</div>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6">
                         <a class="portfolio-box" href="assets/img/portfolio/fullsize/2.png" title="Fantastic Beasts: The Secrets of Dumbledore">
-                            <img class="img-fluid" src="{{ url_for('static', filename='assets/img/portfolio/thumbnails/2.png') }}" alt="..." />
+                            <img class="img-fluid" style="height: 100%; width: 100%; object-fit: contain;" src="{{ url_for('static', filename='assets/img/portfolio/thumbnails/2.png') }}" alt="..." />
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">Release Date: April 15, 2022</div>
                                 <div class="project-name">Fantastic Beasts: The Secrets of Dumbledore</div>
@@ -123,7 +124,7 @@
                     </div>
                     <div class="col-lg-4 col-sm-6">
                         <a class="portfolio-box" href="assets/img/portfolio/fullsize/1.png" title="Doctor Strange in the Multiverse of Madness">
-                            <img class="img-fluid" src="{{ url_for('static', filename='assets/img/portfolio/thumbnails/1.png') }}" alt="..." />
+                            <img class="img-fluid" style="height: 100%; width: 100%; object-fit: contain;" src="{{ url_for('static', filename='assets/img/portfolio/thumbnails/1.png') }}" alt="..." />
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">Release Date: May 6, 2022</div>
                                 <div class="project-name">Doctor Strange in the Multiverse of Madness</div>
@@ -132,7 +133,7 @@
                     </div>
                     <div class="col-lg-4 col-sm-6">
                         <a class="portfolio-box" href="assets/img/portfolio/fullsize/4.png" title="Lightyear">
-                            <img class="img-fluid" src="{{ url_for('static', filename='assets/img/portfolio/thumbnails/4.png') }}" alt="..." />
+                            <img class="img-fluid" style="height: 100%; width: 100%; object-fit: contain;" src="{{ url_for('static', filename='assets/img/portfolio/thumbnails/4.png') }}" alt="..." />
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">Release Date: June 17, 2022</div>
                                 <div class="project-name">Lightyear</div>
@@ -141,7 +142,7 @@
                     </div>
                     <div class="col-lg-4 col-sm-6">
                         <a class="portfolio-box" href="assets/img/portfolio/fullsize/5.png" title="Minions 2: The Rise of Gru">
-                            <img class="img-fluid" src="{{ url_for('static', filename='assets/img/portfolio/thumbnails/5.png') }}" alt="..." />
+                            <img class="img-fluid" style="height: 100%; width: 100%; object-fit: contain;" src="{{ url_for('static', filename='assets/img/portfolio/thumbnails/5.png') }}" alt="..." />
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">Release Date: July 1, 2022</div>
                                 <div class="project-name">Minions 2: The Rise of Gru</div>
@@ -150,7 +151,7 @@
                     </div>
                     <div class="col-lg-4 col-sm-6">
                         <a class="portfolio-box" href="assets/img/portfolio/fullsize/3.png" title="Jurassic World Dominion">
-                            <img class="img-fluid" src="{{ url_for('static', filename='assets/img/portfolio/thumbnails/3.png') }}" alt="..." />
+                            <img class="img-fluid" style="height: 100%; width: 100%; object-fit: contain;" src="{{ url_for('static', filename='assets/img/portfolio/thumbnails/3.png') }}" alt="..." />
                             <div class="portfolio-box-caption p-3">
                                 <div class="project-category text-white-50">Release Date: June 10, 2022</div>
                                 <div class="project-name">Jurassic World Dominion</div>
@@ -164,7 +165,7 @@
         <section class="page-section bg-dark text-white">
             <div class="container px-4 px-lg-5 text-center">
                 <h2 class="mb-4">Check Out Our Models!</h2>
-                <a class="btn btn-light btn-xl" href="/model">View Data!</a>
+                <a class="btn btn-light btn-xl" href="/model">Learn About Our Beta Version</a>
             </div>
         </section>
         <!-- Contact-->
@@ -173,12 +174,15 @@
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-8 col-xl-6 text-center">
                         <h2 class="mt-0">Meet the Team!</h2>
+                        <img src="../static/images/Michaela.png" class="card-img" alt="Michaela">
+                        <img src="../static/images/Rebecca.png" class="card-img" alt="Rebecca">
                         <hr class="divider" />
                         <p class="text-muted mb-5">The Paramount Predictors team of female data analysts who are passionate about the movie industry and the data world. They created The Paramount Predictor tool to merge the two worlds together and bring the data to you! Meet Rebecca Melo and Michaela Giandello.</p>
                     </div>
                 </div>
                 <div class="row gx-4 gx-lg-5 justify-content-center mb-5">
                     <div class="col-lg-6">
+                        <h2 class="mt-0">Contact Us</h2>
                         <!-- * * * * * * * * * * * * * * *-->
                         <!-- * * SB Forms Contact Form * *-->
                         <!-- * * * * * * * * * * * * * * *-->
