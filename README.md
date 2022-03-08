@@ -3,9 +3,9 @@
 ### Team: Paramount Predictors
 ### Members: Michaela Giandello and Rebecca Melo
 
-## [Website](add html to heroku here)
+## [Website](https://movie-predictions.herokuapp.com/)
 
-This repo houses a [website](add html to heroku here) that visualizes and predicts the Box Office revenue and IMDb ratings of upcoming films based on historical movie releases from 1980 to 2022. 
+This repo houses a [website](https://movie-predictions.herokuapp.com/) that visualizes and predicts the Box Office revenue and IMDb ratings of upcoming films based on historical movie releases from 1980 to 2022. 
 
 ### The Data
 
