@@ -1,0 +1,1903 @@
+movie_id,title,movie_rating,run_time,meta_score,box_office,director,writer,actor,genre_name,Year,Predictions_imbdRating,label_imbd_score
+1,The Shining,R,146.0,0.0,46998772.0,Stanley Kubrick,Stephen King,Jack Nicholson,Drama,1980,1,2
+9,Superman II,PG,127.0,0.0,108185706.0,Richard Lester,Jerry Siegel,Gene Hackman,Action,1981,1,1
+15,Dressed to Kill,R,104.0,0.0,31899000.0,Brian De Palma,Brian De Palma,Michael Caine,Crime,1980,1,2
+16,Somewhere in Time,PG,103.0,0.0,9709597.0,Jeannot Szwarc,Richard Matheson,Christopher Reeve,Drama,1980,1,2
+18,9 to 5,PG,109.0,0.0,103300686.0,Colin Higgins,Patricia Resnick,Jane Fonda,Comedy,1980,1,1
+20,Stir Crazy,R,111.0,0.0,101300000.0,Sidney Poitier,Bruce Jay Friedman,Gene Wilder,Comedy,1980,1,1
+24,Xanadu,PG,96.0,0.0,22762571.0,Robert Greenwald,Richard Christian Danus,Olivia Newton-John,Fantasy,1980,1,1
+32,Prom Night,R,92.0,0.0,14796236.0,Paul Lynch,William Gray,Leslie Nielsen,Horror,1980,1,1
+38,Motel Hell,R,101.0,0.0,6342668.0,Kevin Connor,Robert Jaffe,Rory Calhoun,Comedy,1980,1,1
+42,Breaker Morant,PG,107.0,0.0,0.0,Bruce Beresford,Jonathan Hardy,Edward Woodward,Drama,1980,1,2
+46,Cheech and Chong's Next Movie,R,99.0,0.0,41675194.0,Tommy Chong,Tommy Chong,Cheech Marin,Comedy,1980,1,1
+49,The Nude Bomb,PG,94.0,0.0,14662035.0,Clive Donner,Mel Brooks,Don Adams,Action,1980,1,1
+51,Stardust Memories,PG,89.0,0.0,10389003.0,Woody Allen,Woody Allen,Woody Allen,Comedy,1980,1,2
+52,Melvin and Howard,R,95.0,0.0,4309490.0,Jonathan Demme,Bo Goldman,Paul Le Mat,Comedy,1980,1,1
+57,When Time Ran Out...,PG,121.0,0.0,3763988.0,James Goldstone,Gordon Thomas,Paul Newman,Action,1980,1,0
+58,Oh Heavenly Dog,PG,103.0,0.0,6216067.0,Joe Camp,Rod Browning,Chevy Chase,Comedy,1980,1,1
+59,The Octagon,R,103.0,0.0,18971000.0,Eric Karson,Leigh Chapman,Chuck Norris,Action,1980,1,1
+60,Hangar 18,PG,97.0,0.0,0.0,James L. Conway,Ken Pettus,Darren McGavin,Sci-Fi,1981,1,1
+62,The Competition,PG,123.0,0.0,14287755.0,Joel Oliansky,Joel Oliansky,Richard Dreyfuss,Drama,1980,1,1
+66,Fatso,PG,93.0,0.0,7653061.0,Anne Bancroft,Anne Bancroft,Dom DeLuise,Comedy,1980,1,1
+70,Hero at Large,PG,98.0,0.0,15934737.0,Martin Davidson,AJ Carothers,John Ritter,Comedy,1980,1,1
+74,Roadie,PG,106.0,0.0,4226370.0,Alan Rudolph,Big Boy Medlin,Meat Loaf,Comedy,1980,1,1
+81,Phobia,R,94.0,0.0,59167.0,John Huston,Gary Sherman,Paul Michael Glaser,Drama,1980,1,0
+82,Windows,R,96.0,0.0,2128395.0,Gordon Willis,Barry Siegel,Talia Shire,Drama,1980,1,0
+86,"Those Lips, Those Eyes",R,105.0,0.0,804713.0,Michael Pressman,David Shaber,Frank Langella,Comedy,1980,1,1
+89,Gilda Live,R,96.0,0.0,2261507.0,Mike Nichols,Anne Beatts,Gilda Radner,Comedy,1980,1,1
+90,Why Would I Lie?,PG,105.0,0.0,1175855.0,Larry Peerce,Hollis Hodges,Treat Williams,Comedy,1980,1,1
+94,Body Heat,R,113.0,0.0,24058838.0,Lawrence Kasdan,Lawrence Kasdan,William Hurt,Crime,1981,1,2
+96,Escape from New York,R,99.0,0.0,25244626.0,John Carpenter,John Carpenter,Kurt Russell,Action,1981,1,2
+98,Porky's,R,94.0,0.0,111289673.0,Bob Clark,Bob Clark,Dan Monahan,Comedy,1982,1,1
+99,Blow Out,R,108.0,0.0,12000000.0,Brian De Palma,Brian De Palma,John Travolta,Crime,1981,1,2
+104,Stripes,R,106.0,0.0,85297000.0,Ivan Reitman,Len Blum,Bill Murray,Comedy,1981,1,1
+105,Possession,R,124.0,0.0,1113538.0,Andrzej Zulawski,Andrzej Zulawski,Isabelle Adjani,Drama,1983,1,2
+110,The Four Seasons,PG,107.0,0.0,50427646.0,Alan Alda,Alan Alda,Alan Alda,Comedy,1981,1,1
+111,Friday the 13th Part 2,R,87.0,0.0,21722776.0,Steve Miner,Ron Kurz,Betsy Palmer,Horror,1981,1,1
+114,Halloween II,R,92.0,0.0,25533818.0,Rick Rosenthal,John Carpenter,Jamie Lee Curtis,Horror,1981,1,1
+125,Caveman,PG,91.0,0.0,15965924.0,Carl Gottlieb,Rudy De Luca,Ringo Starr,Comedy,1981,1,1
+126,Dead & Buried,R,94.0,0.0,0.0,Gary Sherman,Jeff Millar,James Farentino,Horror,1981,1,1
+135,The Postman Always Rings Twice,R,122.0,0.0,12376625.0,Bob Rafelson,David Mamet,Jack Nicholson,Crime,1981,1,1
+136,Ragtime,PG,155.0,0.0,14920781.0,Milos Forman,E.L. Doctorow,James Cagney,Drama,1981,1,2
+153,Nice Dreams,R,88.0,0.0,37000000.0,Tommy Chong,Tommy Chong,Cheech Marin,Comedy,1981,1,1
+160,Prince of the City,R,167.0,0.0,8124257.0,Sidney Lumet,Jay Presson Allen,Treat Williams,Crime,1981,1,2
+161,The Hand,R,104.0,0.0,2447576.0,Oliver Stone,Marc Brandel,Michael Caine,Drama,1981,1,1
+171,The Night the Lights Went Out in Georgia,PG,112.0,0.0,14923752.0,Ron Maxwell,Bob Bonney,Kristy McNichol,Drama,1981,1,1
+172,Quartet,R,101.0,0.0,12042.0,James Ivory,Jean Rhys,Isabelle Adjani,Drama,1981,1,1
+173,Graduation Day,R,96.0,0.0,0.0,Herb Freed,Anne Marisse,Christopher George,Horror,1981,1,0
+176,American Pop,R,96.0,0.0,0.0,Ralph Bakshi,Ronni Kern,Mews Small,Animation,1981,1,2
+180,An Eye for an Eye,R,106.0,0.0,0.0,Steve Carver,James Bruner,Chuck Norris,Action,1981,1,1
+181,Zoot Suit,R,103.0,0.0,3256082.0,Luis Valdez,Luis Valdez,Daniel Valdez,Drama,1982,1,1
+183,Buddy Buddy,R,96.0,0.0,7258543.0,Billy Wilder,Francis Veber,Jack Lemmon,Comedy,1981,1,1
+185,Modern Romance,R,93.0,0.0,2863642.0,Albert Brooks,Albert Brooks,Albert Brooks,Comedy,1981,1,1
+188,Take This Job and Shove It,PG,100.0,0.0,17569027.0,Gus Trikonis,Barry Schneider,Robert Hays,Comedy,1981,1,0
+189,Raggedy Man,R,94.0,0.0,1976198.0,Jack Fisk,William D. Wittliff,Sissy Spacek,Drama,1981,1,1
+192,All Night Long,R,87.0,0.0,4454295.0,Jean-Claude Tramont,W.D. Richter,Gene Hackman,Comedy,1981,1,1
+200,The Devil and Max Devlin,PG,96.0,0.0,16000000.0,Steven Hilliard Stern,Mary Rodgers,Elliott Gould,Comedy,1981,1,0
+202,Longshot,TV-PG,100.0,0.0,0.0,E.W. Swackhamer,Barry Rosen,Leif Garrett,Comedy,1981,1,1
+203,Comin' at Ya!,R,91.0,0.0,12000000.0,Ferdinando Baldi,Wolfe Lowenthal,Tony Anthony,Western,1981,1,1
+212,An Officer and a Gentleman,R,124.0,0.0,129795554.0,Taylor Hackford,Douglas Day Stewart,Richard Gere,Drama,1982,1,1
+214,Annie,PG,127.0,0.0,57063861.0,John Huston,Carol Sobieski,Aileen Quinn,Comedy,1982,1,1
+220,Sophie's Choice,R,150.0,0.0,30036000.0,Alan J. Pakula,William Styron,Meryl Streep,Drama,1983,1,2
+221,Gandhi,PG,191.0,0.0,52767889.0,Richard Attenborough,John Briley,Ben Kingsley,Biography,1983,1,2
+225,The King of Comedy,PG,109.0,0.0,2536242.0,Martin Scorsese,Paul D. Zimmerman,Robert De Niro,Comedy,1983,1,2
+226,Rocky III,PG,99.0,0.0,125052686.0,Sylvester Stallone,Sylvester Stallone,Sylvester Stallone,Drama,1982,1,1
+232,Fanny and Alexander,R,188.0,0.0,6795771.0,Ingmar Bergman,Ingmar Bergman,Bertil Guve,Drama,1982,1,2
+234,Firefox,PG,136.0,0.0,46708276.0,Clint Eastwood,Alex Lasker,Clint Eastwood,Action,1982,1,1
+235,Halloween III: Season of the Witch,R,98.0,0.0,14400000.0,Tommy Lee Wallace,Tommy Lee Wallace,Tom Atkins,Horror,1982,1,0
+237,The Verdict,R,129.0,0.0,53993738.0,Sidney Lumet,Barry Reed,Paul Newman,Drama,1982,1,2
+243,The Best Little Whorehouse in Texas,R,114.0,0.0,69701637.0,Colin Higgins,Larry L. King,Burt Reynolds,Comedy,1982,1,1
+249,The Entity,R,125.0,0.0,13277558.0,Sidney J. Furie,Frank De Felitta,Barbara Hershey,Drama,1983,1,1
+251,The Toy,PG,102.0,0.0,47118057.0,Richard Donner,Francis Veber,Richard Pryor,Comedy,1982,1,1
+252,The House on Sorority Row,R,91.0,0.0,10604986.0,Mark Rosman,Mark Rosman,Kate McNeil,Horror,1983,1,1
+255,Death Wish II,R,89.0,0.0,16100000.0,Michael Winner,David Engelbach,Charles Bronson,Action,1982,1,1
+258,Personal Best,R,128.0,0.0,5672311.0,Robert Towne,Robert Towne,Mariel Hemingway,Drama,1982,1,1
+263,The Seduction,R,104.0,0.0,11378339.0,David Schmoeller,David Schmoeller,Morgan Fairchild,Thriller,1982,1,0
+267,Time Walker,PG,83.0,0.0,0.0,Tom Kennedy,Jason Williams,Ben Murphy,Horror,1982,1,0
+269,Tempest,PG,140.0,0.0,5005245.0,Paul Mazursky,Paul Mazursky,John Cassavetes,Comedy,1982,1,1
+271,My Favorite Year,PG,92.0,0.0,20123620.0,Richard Benjamin,Norman Steinberg,Peter O'Toole,Comedy,1982,1,2
+283,A Midsummer Night's Sex Comedy,PG,88.0,0.0,9077269.0,Woody Allen,Woody Allen,Woody Allen,Comedy,1982,1,1
+290,A Little Sex,R,95.0,0.0,2370376.0,Bruce Paltrow,Robert De Laurentiis,Tim Matheson,Comedy,1982,1,0
+294,Split Image,R,110.0,0.0,263635.0,Ted Kotcheff,Scott Spencer,Michael O'Keefe,Drama,1982,1,1
+295,The Challenge,R,108.0,0.0,2977706.0,John Frankenheimer,Richard Maxwell,Scott Glenn,Action,1982,1,1
+297,Wrong Is Right,R,117.0,0.0,3583513.0,Richard Brooks,Charles McCarry,Sean Connery,Comedy,1982,1,1
+301,Forced Vengeance,R,90.0,0.0,6660333.0,James Fargo,Franklin Thompson,Chuck Norris,Action,1982,1,1
+313,Five Days One Summer,PG,108.0,0.0,199078.0,Fred Zinnemann,Michael Austin,Sean Connery,Drama,1982,1,1
+320,"Yes, Giorgio",PG,110.0,0.0,2279543.0,Franklin J. Schaffner,Anne Piper,Luciano Pavarotti,Comedy,1982,1,0
+323,Fighting Back,R,98.0,0.0,3355948.0,Lewis Teague,Thomas Hedley Jr.,Tom Skerritt,Action,1982,1,1
+324,Kamikaze 89,Not Rated,106.0,0.0,22440.0,Wolf Gremm,Robert Katz,Rainer Werner Fassbinder,Sci-Fi,1982,1,1
+326,Heidi's Song,G,94.0,0.0,5124391.0,Robert Taylor,Joseph Barbera,Lorne Greene,Animation,1982,1,1
+327,Love Child,R,96.0,0.0,0.0,Larry Peerce,Anne Gerard,Amy Madigan,Crime,1982,1,1
+328,Boardinghouse,R,98.0,0.0,0.0,John Wintergate,John Wintergate,John Wintergate,Comedy,1983,1,0
+329,Experience Preferred... But Not Essential,PG,80.0,0.0,0.0,Peter Duffell,June Roberts,Elizabeth Edmonds,Drama,1982,1,1
+330,The Personals,PG,90.0,0.0,0.0,Peter Markle,Peter Markle,Bill Schoppert,Comedy,1982,1,1
+337,Trading Places,R,116.0,0.0,90404800.0,John Landis,Timothy Harris,Eddie Murphy,Comedy,1983,1,2
+338,Superman III,PG,125.0,0.0,59950623.0,Richard Lester,Jerry Siegel,Christopher Reeve,Action,1983,1,0
+339,The Big Chill,R,105.0,0.0,56399659.0,Lawrence Kasdan,Lawrence Kasdan,Tom Berenger,Comedy,1983,1,2
+344,Flashdance,R,95.0,0.0,92921203.0,Adrian Lyne,Thomas Hedley Jr.,Jennifer Beals,Drama,1983,1,1
+351,Private School,R,89.0,0.0,14049540.0,Noel Black,Dan Greenburg,Phoebe Cates,Comedy,1983,1,1
+352,Valley Girl,R,99.0,0.0,17343596.0,Martha Coolidge,Andrew Lane,Nicolas Cage,Comedy,1983,1,1
+354,Videodrome,R,87.0,0.0,2120439.0,David Cronenberg,David Cronenberg,James Woods,Horror,1983,1,2
+356,Twilight Zone: The Movie,PG,101.0,0.0,29450919.0,Directors,John Landis,Dan Aykroyd,Horror,1983,1,1
+359,Cujo,R,93.0,0.0,21156152.0,Lewis Teague,Stephen King,Dee Wallace,Horror,1983,1,1
+372,Yentl,PG,133.0,0.0,40218899.0,Barbra Streisand,Jack Rosenthal,Barbra Streisand,Drama,1984,1,1
+376,The Meaning of Life,R,107.0,0.0,14949697.0,Terry Jones,Graham Chapman,John Cleese,Comedy,1983,1,2
+378,Hot Dog... The Movie,R,96.0,0.0,20307325.0,Peter Markle,Mike Marvin,David Naughton,Comedy,1984,1,0
+381,Porky's II: The Next Day,R,98.0,0.0,33759266.0,Bob Clark,Roger Swaybill,Dan Monahan,Comedy,1983,1,0
+383,Tender Mercies,PG,92.0,0.0,8443124.0,Bruce Beresford,Horton Foote,Robert Duvall,Drama,1983,1,2
+385,Gorky Park,R,128.0,0.0,15856028.0,Michael Apted,Martin Cruz Smith,William Hurt,Crime,1983,1,1
+386,Lone Wolf McQuade,PG,107.0,0.0,12232628.0,Steve Carver,B.J. Nelson,Chuck Norris,Action,1983,1,1
+392,The Man with Two Brains,R,93.0,0.0,10353438.0,Carl Reiner,George Gipe,Steve Martin,Comedy,1983,1,1
+398,Stroker Ace,PG,96.0,0.0,13000000.0,Hal Needham,William Neely,Burt Reynolds,Action,1983,1,0
+406,Rock & Rule,PG,77.0,0.0,30379.0,Clive Smith,Patrick Loubert,Don Francks,Animation,1987,1,1
+413,The Osterman Weekend,R,103.0,0.0,6486797.0,Sam Peckinpah,Robert Ludlum,Rutger Hauer,Action,1983,1,1
+415,Zelig,PG,79.0,0.0,11798616.0,Woody Allen,Woody Allen,Woody Allen,Comedy,1983,1,2
+419,Eureka,R,130.0,0.0,123572.0,Nicolas Roeg,Marshall Houts,Gene Hackman,Drama,1983,1,1
+420,The Wicked Lady,R,98.0,0.0,724912.0,Michael Winner,Leslie Arliss,Faye Dunaway,Adventure,1983,1,0
+423,Of Unknown Origin,R,88.0,0.0,1080470.0,George P. Cosmatos,Chauncey G. Parker III,Peter Weller,Horror,1983,1,1
+425,D.C. Cab,R,100.0,0.0,16134627.0,Joel Schumacher,Topper Carew,Max Gail,Action,1983,1,1
+426,Beyond the Limit,R,104.0,0.0,5997566.0,John Mackenzie,Graham Greene,Michael Caine,Drama,1983,1,1
+430,The Dresser,PG,118.0,0.0,5310748.0,Peter Yates,Ronald Harwood,Albert Finney,Drama,1983,1,2
+431,The Lords of Discipline,R,102.0,0.0,11787127.0,Franc Roddam,Pat Conroy,David Keith,Thriller,1983,1,1
+434,Nightmares,R,99.0,0.0,6670680.0,Joseph Sargent,Christopher Crowe,Cristina Raines,Horror,1983,1,1
+437,Max Dugan Returns,PG,98.0,0.0,17613720.0,Herbert Ross,Neil Simon,Jason Robards,Comedy,1983,1,1
+439,Baby It's You,R,105.0,0.0,1867792.0,John Sayles,Amy Robinson,Rosanna Arquette,Comedy,1983,1,1
+440,Heat and Dust,R,130.0,0.0,1772889.0,James Ivory,Ruth Prawer Jhabvala,Julie Christie,Drama,1983,1,1
+442,Daniel,R,130.0,0.0,687475.0,Sidney Lumet,E.L. Doctorow,Timothy Hutton,Drama,1984,1,1
+443,Heart Like a Wheel,PG,113.0,0.0,272278.0,Jonathan Kaplan,Ken Friedman,Bonnie Bedelia,Biography,1983,1,1
+444,Love Letters,R,88.0,0.0,5269990.0,Amy Holden Jones,Amy Holden Jones,Jamie Lee Curtis,Drama,1984,1,1
+448,The Black Stallion Returns,PG,103.0,0.0,12049514.0,Robert Dalva,Walter Farley,Kelly Reno,Adventure,1983,1,1
+450,Getting It on,R,96.0,0.0,975414.0,William Olsen,William Olsen,Martin Yost,Comedy,1983,1,0
+452,Better Late Than Never,PG,89.0,0.0,0.0,Bryan Forbes,Gwen Davis,David Niven,Comedy,1983,1,1
+458,The Man Who Wasn't There,R,111.0,0.0,2443487.0,Bruce Malmuth,Stanford Sherman,Steve Guttenberg,Action,1983,1,0
+462,"Man, Woman and Child",PG,99.0,0.0,2314561.0,Dick Richards,Erich Segal,Martin Sheen,Drama,1983,1,1
+471,Cross Country,R,95.0,0.0,0.0,Paul Lynch,Herbert Kastle,Richard Beymer,Thriller,1983,1,1
+474,The Golden Seal,PG,94.0,0.0,6666725.0,Frank Zuniga,Donald G. Payne,Steve Railsback,Drama,1983,1,1
+476,The Terminator,R,107.0,0.0,78371200.0,James Cameron,James Cameron,Arnold Schwarzenegger,Action,1984,1,2
+479,The Karate Kid,PG,126.0,0.0,91119319.0,John G. Avildsen,Robert Mark Kamen,Ralph Macchio,Action,1984,1,2
+480,Once Upon a Time in America,R,229.0,0.0,5473212.0,Sergio Leone,Harry Grey,Robert De Niro,Crime,1984,1,2
+483,Body Double,R,114.0,0.0,8801940.0,Brian De Palma,Robert J. Avrech,Craig Wasson,Crime,1984,1,1
+485,Amadeus,PG,160.0,0.0,52066791.0,Milos Forman,Peter Shaffer,F. Murray Abraham,Biography,1984,1,2
+486,Beverly Hills Cop,R,105.0,0.0,316360478.0,Martin Brest,Daniel Petrie Jr.,Eddie Murphy,Action,1984,1,2
+493,Streets of Fire,PG,93.0,0.0,8089290.0,Walter Hill,Walter Hill,Michael Paré,Action,1984,1,1
+494,Sixteen Candles,PG,93.0,0.0,23686027.0,John Hughes,John Hughes,Molly Ringwald,Comedy,1984,1,1
+498,Top Secret!,PG,90.0,0.0,20458340.0,Jim Abrahams,Jim Abrahams,Val Kilmer,Comedy,1984,1,2
+503,Blood Simple,R,99.0,0.0,4228292.0,Joel Coen,Joel Coen,John Getz,Crime,1985,1,2
+508,Hardbodies,R,88.0,0.0,7121719.0,Mark Griffiths,Steve Greene,Grant Cramer,Comedy,1984,1,0
+509,Against All Odds,R,128.0,0.0,21689062.0,Taylor Hackford,Eric Hughes,Rachel Ward,Action,1984,1,1
+511,The Bounty,PG,132.0,0.0,8613462.0,Roger Donaldson,Robert Bolt,Mel Gibson,Adventure,1984,1,1
+513,C.H.U.D.,R,88.0,0.0,4654423.0,Douglas Cheek,Parnell Hall,John Heard,Horror,1984,1,1
+514,The Woman in Red,PG-13,87.0,0.0,25348610.0,Gene Wilder,Jean-Loup Dabadie,Gene Wilder,Comedy,1984,1,1
+517,Star Trek III: The Search for Spock,PG,105.0,0.0,76471046.0,Leonard Nimoy,Gene Roddenberry,William Shatner,Action,1984,1,1
+519,2010: the Year We Make Contact,PG,116.0,0.0,40400657.0,Peter Hyams,Arthur C. Clarke,Roy Scheider,Adventure,1984,1,1
+526,Crimes of Passion,R,107.0,0.0,2912945.0,Ken Russell,Barry Sandler,Kathleen Turner,Drama,1984,1,1
+535,The Hotel New Hampshire,R,109.0,0.0,5142858.0,Tony Richardson,John Irving,Rob Lowe,Comedy,1984,1,1
+538,Missing in Action,R,101.0,0.0,22812411.0,Joseph Zito,Arthur Silver,Chuck Norris,Action,1984,1,1
+542,Falling in Love,PG-13,106.0,0.0,11129057.0,Ulu Grosbard,Michael Cristofer,Robert De Niro,Drama,1984,1,1
+543,Gwendoline,R,87.0,0.0,1337274.0,Just Jaeckin,Just Jaeckin,Tawny Kitaen,Action,1985,1,1
+546,The Company of Wolves,R,95.0,0.0,4389334.0,Neil Jordan,Angela Carter,Sarah Patterson,Drama,1985,1,1
+551,"Silent Night, Deadly Night",R,79.0,0.0,2491460.0,Charles E. Sellier Jr.,Paul Caimi,Lilyan Chauvin,Horror,1984,1,1
+552,The Pope of Greenwich Village,R,121.0,0.0,6836201.0,Stuart Rosenberg,Vincent Patrick,Eric Roberts,Action,1984,1,1
+555,Where the Boys Are,R,94.0,0.0,10530000.0,Hy Averback,Stu Krieger,Lisa Hartman,Comedy,1984,1,0
+556,Reckless,R,90.0,0.0,8289916.0,James Foley,Chris Columbus,Aidan Quinn,Comedy,1984,1,1
+557,Tightrope,R,114.0,0.0,48143579.0,Richard Tuggle,Richard Tuggle,Clint Eastwood,Crime,1984,1,1
+558,Rhinestone,PG,111.0,0.0,21435321.0,Bob Clark,Phil Alden Robinson,Sylvester Stallone,Comedy,1984,1,0
+561,Swing Shift,PG,100.0,0.0,6650206.0,Jonathan Demme,Nancy Dowd,Goldie Hawn,Drama,1984,1,1
+562,Beat Street,PG,105.0,0.0,16595791.0,Stan Lathan,Steven Hager,Rae Dawn Chong,Drama,1984,1,1
+566,Tank,PG,113.0,0.0,11302884.0,Marvin J. Chomsky,Dan Gordon,James Garner,Action,1984,1,1
+569,The Warrior and the Sorceress,R,81.0,0.0,2886225.0,John C. Broderick,John C. Broderick,David Carradine,Adventure,1984,1,0
+573,Teachers,R,107.0,0.0,27774237.0,Arthur Hiller,W.R. McKinney,Nick Nolte,Comedy,1984,1,1
+581,Irreconcilable Differences,PG,113.0,0.0,12414210.0,Charles Shyer,Nancy Meyers,Ryan O'Neal,Comedy,1984,1,1
+584,Iceman,PG,100.0,0.0,7343032.0,Fred Schepisi,Chip Proser,Timothy Hutton,Drama,1984,1,1
+585,Flashpoint,R,93.0,0.0,3854833.0,William Tannen,George LaFountaine,Kris Kristofferson,Action,1984,1,1
+593,Broadway Danny Rose,PG,84.0,0.0,10600497.0,Woody Allen,Woody Allen,Woody Allen,Comedy,1984,1,2
+594,Best Defense,R,94.0,0.0,19265302.0,Willard Huyck,Robert Grossbach,Dudley Moore,Comedy,1984,1,0
+600,Choose Me,R,106.0,0.0,2490233.0,Alan Rudolph,Alan Rudolph,Geneviève Bujold,Comedy,1984,1,1
+607,Country,PG,105.0,0.0,9640000.0,Richard Pearce,William D. Wittliff,Jessica Lange,Drama,1984,1,1
+609,Purple Hearts,R,116.0,0.0,2075282.0,Sidney J. Furie,Rick Natkin,Ken Wahl,Drama,1984,1,1
+612,Finders Keepers,R,96.0,0.0,1467396.0,Richard Lester,Charles Dennis,Michael O'Keefe,Comedy,1984,1,1
+619,Kaos,R,187.0,0.0,0.0,Paolo Taviani,Luigi Pirandello,Margarita Lozano,Comedy,1986,1,2
+628,Heartbreakers,R,98.0,0.0,148750.0,Bobby Roth,Bobby Roth,Peter Coyote,Drama,1984,1,1
+630,A Sunday in the Country,G,90.0,0.0,2411143.0,Bertrand Tavernier,Pierre Bost,Louis Ducreux,Drama,1984,1,2
+632,Windy City,R,103.0,0.0,343890.0,Armyan Bernstein,Armyan Bernstein,John Shea,Drama,1986,1,1
+633,Lovelines,R,93.0,0.0,0.0,Rod Amateau,Chip Hand,Greg Bradford,Comedy,1984,1,1
+634,The Bear,PG,110.0,0.0,2687148.0,Richard C. Sarafian,Michael Kane,Gary Busey,Biography,1984,1,1
+648,Clue,PG,94.0,0.0,14643997.0,John Hughes,John Landis,Eileen Brennan,Comedy,1985,1,2
+650,Cocoon,PG-13,117.0,0.0,85313124.0,George P. Cosmatos,Tom Benedek,Don Ameche,Comedy,1985,1,1
+670,Fright Night,R,106.0,0.0,24922237.0,Joe Dante,Tom Holland,Chris Sarandon,Fantasy,1985,1,2
+673,Mad Max Beyond Thunderdome,PG-13,107.0,0.0,36230219.0,Martin Scorsese,Terry Hayes,Mel Gibson,Action,1985,1,1
+680,Lifeforce,R,101.0,0.0,11603545.0,Tim Burton,Colin Wilson,Steve Railsback,Action,1985,1,1
+684,Just One of the Guys,PG-13,100.0,0.0,11528900.0,Amy Heckerling,Dennis Feldman,Joyce Hyser,Comedy,1985,1,1
+689,The Black Cauldron,PG,80.0,0.0,21288692.0,Danny Steinmann,Lloyd Alexander,Grant Bardsley,Animation,1985,1,1
+690,Friday the 13th: A New Beginning,R,92.0,0.0,21930418.0,Andrey Konchalovskiy,Martin Kitrosser,Melanie Kinnaman,Horror,1985,1,0
+691,Runaway Train,R,111.0,0.0,7683620.0,Stuart Gordon,Djordje Milicevic,Jon Voight,Action,1986,1,2
+701,Tuff Turf,R,112.0,0.0,9369329.0,Nicholas Meyer,Jette Rinck,James Spader,Action,1985,1,1
+702,Volunteers,R,107.0,0.0,19875740.0,Lewis Teague,Keith Critchlow,Tom Hanks,Adventure,1985,1,1
+704,Once Bitten,PG-13,94.0,0.0,10000000.0,George Bowers,Dimitri Villard,Lauren Hutton,Comedy,1985,1,1
+709,White Nights,PG-13,136.0,0.0,42160849.0,Mel Damski,James Goldman,Mikhail Baryshnikov,Drama,1985,1,1
+713,My Beautiful Laundrette,R,97.0,0.0,2455535.0,Barry Levinson,Hanif Kureishi,Saeed Jaffrey,Comedy,1986,1,1
+714,Young Sherlock Holmes,PG-13,109.0,0.0,19739575.0,Joyce Chopra,Arthur Conan Doyle,Nicholas Rowe,Adventure,1985,1,1
+718,Prizzi's Honor,R,130.0,0.0,26657534.0,Geoff Murphy,Richard Condon,Jack Nicholson,Comedy,1985,1,1
+719,The Quiet Earth,R,91.0,0.0,2123135.0,Jûzô Itami,Craig Harrison,Bruno Lawrence,Drama,1985,1,1
+720,Tampopo,Not Rated,114.0,0.0,444213.0,William Malone,Jûzô Itami,Ken Watanabe,Comedy,1987,1,2
+739,The Holcroft Covenant,R,112.0,0.0,393825.0,John Frankenheimer,Robert Ludlum,Michael Caine,Action,1985,1,1
+742,Desert Hearts,R,91.0,0.0,2492088.0,Donna Deitch,Jane Rule,Helen Shaver,Drama,1986,1,1
+743,The Heavenly Kid,PG-13,90.0,0.0,3852271.0,Cary Medoway,Cary Medoway,Lewis Smith,Comedy,1985,1,1
+745,The Man with One Red Shoe,PG,92.0,0.0,8645411.0,Stan Dragoti,Francis Veber,Tom Hanks,Comedy,1985,1,1
+746,My Life as a Dog,Unrated,101.0,0.0,8349284.0,Lasse Hallström,Reidar Jönsson,Anton Glanzelius,Drama,1987,1,2
+751,Tomboy,R,91.0,0.0,14100000.0,Herb Freed,Ben Zelig,Betsy Russell,Comedy,1985,1,0
+752,Invasion U.S.A.,R,107.0,0.0,17536256.0,Joseph Zito,James Bruner,Chuck Norris,Action,1985,1,1
+755,Subway,R,104.0,0.0,390659.0,Luc Besson,Luc Besson,Christopher Lambert,Thriller,1985,1,1
+756,Moving Violations,PG-13,90.0,0.0,10627754.0,Neal Israel,Neal Israel,John Murray,Comedy,1985,1,1
+757,Nomads,R,91.0,0.0,2278264.0,John McTiernan,John McTiernan,Lesley-Anne Down,Horror,1986,1,1
+760,Code of Silence,R,101.0,0.0,20345361.0,Andrew Davis,Michael Butler,Chuck Norris,Action,1985,1,1
+761,Crimewave,PG-13,83.0,0.0,5101.0,Sam Raimi,Ethan Coen,Louise Lasser,Comedy,1986,1,1
+764,The Slugger's Wife,PG-13,105.0,0.0,1878561.0,Hal Ashby,Neil Simon,Michael O'Keefe,Comedy,1985,1,0
+765,Avenging Angel,R,93.0,0.0,5622787.0,Robert Vincent O'Neil,Robert Vincent O'Neil,Betsy Russell,Action,1985,1,0
+770,The Adventures of Mark Twain,G,86.0,0.0,849915.0,Will Vinton,Susan Shadburne,James Whitmore,Animation,1985,1,2
+772,The Bride,PG-13,118.0,0.0,3558669.0,Franc Roddam,Lloyd Fonvielle,Sting,Fantasy,1985,1,1
+773,Morons from Outer Space,PG-13,90.0,0.0,441137.0,Mike Hodges,Griff Rhys Jones,Mel Smith,Comedy,1985,1,0
+782,The Official Story,Not Rated,112.0,0.0,69832.0,Luis Puenzo,Aída Bortnik,Norma Aleandro,Drama,1985,1,2
+795,Radioactive Dreams,R,98.0,0.0,220038.0,Albert Pyun,Albert Pyun,John Stockwell,Action,1986,1,1
+796,Twice in a Lifetime,R,111.0,0.0,8402424.0,Bud Yorkin,Colin Welland,Gene Hackman,Drama,1985,1,1
+798,Water,PG-13,115.0,0.0,1256862.0,Dick Clement,Dick Clement,Michael Caine,Adventure,1986,1,1
+803,Fever Pitch,R,96.0,0.0,618847.0,Richard Brooks,Richard Brooks,Ryan O'Neal,Drama,1985,1,0
+807,Dreamchild,PG,94.0,0.0,1215923.0,Gavin Millar,Dennis Potter,Coral Browne,Biography,1985,1,1
+809,Bad Medicine,PG-13,98.0,0.0,2685453.0,Harvey Miller,Steven Horowitz,Steve Guttenberg,Comedy,1985,1,0
+814,Three Men and a Cradle,PG-13,106.0,0.0,2052466.0,Coline Serreau,Coline Serreau,Roland Giraud,Comedy,1986,1,1
+820,Code Name: Emerald,PG,95.0,0.0,561548.0,Jonathan Sanger,Ronald Bass,Ed Harris,Action,1985,1,1
+821,Colonel Redl,R,144.0,0.0,2357.0,István Szabó,István Szabó,Klaus Maria Brandauer,Biography,1985,1,2
+837,Wuthering Heights,Not Rated,130.0,0.0,0.0,Jacques Rivette,Pascal Bonitzer,Fabienne Babe,Drama,1985,1,1
+844,Top Gun,PG,110.0,0.0,357288178.0,Tony Scott,Jim Cash,Tom Cruise,Action,1986,1,1
+846,Stand by Me,R,89.0,0.0,52287414.0,Rob Reiner,Stephen King,Wil Wheaton,Adventure,1986,1,2
+849,Labyrinth,PG,101.0,0.0,13915874.0,Jim Henson,Dennis Lee,David Bowie,Adventure,1986,1,2
+853,Platoon,R,120.0,0.0,138545632.0,Oliver Stone,Oliver Stone,Charlie Sheen,Drama,1987,1,2
+858,Little Shop of Horrors,PG-13,94.0,0.0,38983045.0,Frank Oz,Howard Ashman,Rick Moranis,Comedy,1986,1,1
+863,The Golden Child,PG-13,94.0,0.0,79817937.0,Michael Ritchie,Dennis Feldman,Eddie Murphy,Action,1986,1,1
+867,The Name of the Rose,R,130.0,0.0,7153487.0,Jean-Jacques Annaud,Umberto Eco,Sean Connery,Crime,1986,1,2
+869,The Color of Money,R,119.0,0.0,52293982.0,Martin Scorsese,Walter Tevis,Paul Newman,Drama,1986,1,1
+875,The Mission,PG,125.0,0.0,17502499.0,Roland Joffé,Robert Bolt,Robert De Niro,Adventure,1986,1,2
+876,Working Girls,Unrated,93.0,0.0,1777378.0,Lizzie Borden,Lizzie Borden,Louise Smith,Drama,1987,1,1
+877,Youngblood,R,110.0,0.0,15448384.0,Peter Markle,Peter Markle,Rob Lowe,Drama,1986,1,1
+888,Iron Eagle,PG-13,117.0,0.0,24159872.0,Sidney J. Furie,Kevin Alyn Elders,Louis Gossett Jr.,Action,1986,1,1
+890,From Beyond,R,85.0,0.0,1261000.0,Stuart Gordon,H.P. Lovecraft,Jeffrey Combs,Horror,1986,1,1
+891,Sid and Nancy,R,112.0,0.0,2850707.0,Alex Cox,Alex Cox,Gary Oldman,Biography,1986,1,1
+892,Henry: Portrait of a Serial Killer,Unrated,83.0,0.0,609939.0,John McNaughton,Richard Fire,Michael Rooker,Biography,1990,1,1
+900,SpaceCamp,PG,107.0,0.0,9697739.0,Harry Winer,Clifford Green,Kate Capshaw,Adventure,1986,1,1
+915,Running Scared,R,107.0,0.0,38500726.0,Peter Hyams,Gary DeVore,Gregory Hines,Action,1986,1,1
+918,Down by Law,R,107.0,0.0,1504286.0,Jim Jarmusch,Jim Jarmusch,Tom Waits,Comedy,1986,1,2
+919,Poltergeist II: the Other Side,PG-13,91.0,0.0,40996665.0,Brian Gibson,Mark Victor,JoBeth Williams,Horror,1986,1,1
+922,Allan Quatermain and the Lost City of Gold,PG,99.0,0.0,3751699.0,Gary Nelson,H. Rider Haggard,Richard Chamberlain,Action,1987,1,0
+933,Lady Jane,PG-13,136.0,0.0,277646.0,Trevor Nunn,Chris Bryant,Helena Bonham Carter,Biography,1986,1,2
+938,F/X,R,109.0,0.0,20603715.0,Robert Mandel,Robert T. Megginson,Bryan Brown,Action,1986,1,1
+939,King Kong Lives,PG-13,105.0,0.0,4711220.0,John Guillermin,Ronald Shusett,Brian Kerwin,Action,1986,1,0
+944,Trick or Treat,R,98.0,0.0,6797218.0,Charles Martin Smith,Rhet Topham,Marc Price,Comedy,1986,1,1
+949,True Stories,PG,89.0,0.0,2545459.0,David Byrne,Stephen Tobolowsky,David Byrne,Comedy,1986,1,2
+952,Deadly Friend,R,91.0,0.0,8988731.0,Wes Craven,Diana Henstell,Matthew Labyorteaux,Drama,1986,1,1
+969,Firewalker,PG,105.0,0.0,11949484.0,J. Lee Thompson,Robert Gosnell,Chuck Norris,Action,1986,1,1
+972,Clockwise,PG,96.0,0.0,1476356.0,Christopher Morahan,Michael Frayn,John Cleese,Comedy,1986,1,1
+977,American Anthem,PG-13,102.0,0.0,4845724.0,Albert Magnoli,Evan Archerd,Mitchell Gaylord,Drama,1986,1,0
+982,Meatballs III: Summer Job,R,96.0,0.0,2147228.0,George Mendeluk,Janis Allen,Sally Kellerman,Comedy,1987,1,0
+994,A Fine Mess,PG,90.0,0.0,6029824.0,Blake Edwards,Blake Edwards,Ted Danson,Action,1986,1,0
+1006,Ginger and Fred,PG-13,125.0,0.0,837623.0,Federico Fellini,Federico Fellini,Marcello Mastroianni,Comedy,1986,1,2
+1008,Violets Are Blue...,PG-13,88.0,0.0,4743287.0,Jack Fisk,Naomi Foner,Sissy Spacek,Drama,1986,1,1
+1009,Parting Glances,Not Rated,90.0,0.0,0.0,Bill Sherwood,Bill Sherwood,John Bolger,Drama,1986,1,2
+1014,"'night, Mother",PG-13,96.0,0.0,441863.0,Tom Moore,Marsha Norman,Sissy Spacek,Drama,1987,1,2
+1017,Blue City,R,83.0,0.0,6947787.0,Michelle Manning,Ross Macdonald,Judd Nelson,Action,1986,1,0
+1022,Dangerously Close,R,95.0,0.0,2390525.0,Albert Pyun,Scott Fields,John Stockwell,Action,1986,1,1
+1030,Nutcracker,G,89.0,0.0,781727.0,Carroll Ballard,Kent Stowell,Hugh Duncan Bigney Mitchell,Family,1986,1,2
+1033,Oviri,R,90.0,0.0,583800.0,Henning Carlsen,Henning Carlsen,Donald Sutherland,Biography,1986,1,1
+1035,Armed Response,R,86.0,0.0,0.0,Fred Olen Ray,T.L. Lankford,David Carradine,Action,1986,1,0
+1037,Bullies,R,90.0,0.0,2995527.0,Paul Lynch,John Sheppard,Jonathan Crombie,Action,1986,1,1
+1038,Native Son,PG,111.0,0.0,1301121.0,Jerrold Freedman,Richard Wesley,Victor Love,Drama,1986,1,1
+1040,Nobody's Fool,PG-13,107.0,0.0,563358.0,Evelyn Purcell,Beth Henley,Rosanna Arquette,Comedy,1986,1,1
+1046,Full Metal Jacket,R,116.0,0.0,46357676.0,Stanley Kubrick,Stanley Kubrick,Matthew Modine,Drama,1987,1,2
+1047,Predator,R,107.0,0.0,98268458.0,John McTiernan,Jim Thomas,Arnold Schwarzenegger,Action,1987,1,2
+1051,The Untouchables,R,119.0,0.0,76270454.0,Brian De Palma,David Mamet,Kevin Costner,Crime,1987,1,2
+1052,Spaceballs,PG,96.0,0.0,38119483.0,Mel Brooks,Mel Brooks,Mel Brooks,Adventure,1987,1,2
+1054,Lethal Weapon,R,109.0,0.0,120207127.0,Richard Donner,Shane Black,Mel Gibson,Action,1987,1,2
+1055,Near Dark,R,94.0,0.0,3369307.0,Kathryn Bigelow,Kathryn Bigelow,Adrian Pasdar,Action,1988,1,1
+1059,Hellraiser,R,94.0,0.0,14575193.0,Clive Barker,Clive Barker,Andrew Robinson,Horror,1987,1,1
+1060,Empire of the Sun,PG,153.0,0.0,22238696.0,Steven Spielberg,Tom Stoppard,Christian Bale,Action,1987,1,2
+1062,The Witches of Eastwick,R,118.0,0.0,63766510.0,George Miller,John Updike,Jack Nicholson,Comedy,1987,1,1
+1068,Jaws: the Revenge,PG-13,89.0,0.0,51881013.0,Joseph Sargent,Peter Benchley,Lorraine Gary,Adventure,1987,1,0
+1069,Wall Street,R,126.0,0.0,43848069.0,Oliver Stone,Stanley Weiser,Charlie Sheen,Crime,1987,1,2
+1070,"Good Morning, Vietnam",R,121.0,0.0,123922370.0,Barry Levinson,Mitch Markowitz,Robin Williams,Biography,1988,1,2
+1074,Overboard,PG,112.0,0.0,26713187.0,Garry Marshall,Leslie Dixon,Goldie Hawn,Comedy,1987,1,1
+1087,La Bamba,PG-13,108.0,0.0,54215416.0,Luis Valdez,Luis Valdez,Lou Diamond Phillips,Biography,1987,1,1
+1088,Revenge of the Nerds II: Nerds in Paradise,PG-13,88.0,0.0,30063289.0,Joe Roth,Tim Metcalfe,Robert Carradine,Comedy,1987,1,1
+1091,Wings of Desire,PG-13,128.0,0.0,3404057.0,Wim Wenders,Wim Wenders,Bruno Ganz,Drama,1988,1,2
+1092,Maurice,R,140.0,0.0,2642567.0,James Ivory,E.M. Forster,James Wilby,Drama,1987,1,2
+1097,The Stepfather,R,89.0,0.0,2488740.0,Joseph Ruben,Carolyn Lefcourt,Terry O'Quinn,Horror,1987,1,1
+1100,*batteries not included,PG,106.0,0.0,65088797.0,Matthew Robbins,Mick Garris,Hume Cronyn,Comedy,1987,1,1
+1103,Throw Momma from the Train,PG-13,88.0,0.0,57915972.0,Danny DeVito,Stu Silver,Danny DeVito,Comedy,1987,1,1
+1110,Aria,R,90.0,0.0,1028679.0,Directors,Robert Altman,John Hurt,Comedy,1987,1,1
+1114,The Bedroom Window,R,112.0,0.0,12640385.0,Curtis Hanson,Anne Holden,Steve Guttenberg,Crime,1987,1,1
+1116,Maid to Order,PG,93.0,0.0,9868521.0,Amy Holden Jones,Amy Holden Jones,Ally Sheedy,Fantasy,1987,1,1
+1121,No Man's Land,R,106.0,0.0,2877571.0,Peter Werner,Dick Wolf,Charlie Sheen,Crime,1987,1,1
+1122,Ishtar,PG-13,107.0,0.0,14375181.0,Elaine May,Elaine May,Warren Beatty,Action,1987,1,0
+1128,Bagdad Cafe,PG,95.0,0.0,3731829.0,Percy Adlon,Eleonore Adlon,Marianne Sägebrecht,Comedy,1988,1,2
+1132,North Shore,PG,96.0,0.0,3832228.0,William Phelps,William Phelps,Matt Adler,Action,1987,1,1
+1141,Back to the Beach,PG,92.0,0.0,13110903.0,Lyndall Hobbs,James Komack,Frankie Avalon,Comedy,1987,1,1
+1142,Someone to Watch Over Me,R,106.0,0.0,10278549.0,Ridley Scott,Howard Franklin,Tom Berenger,Crime,1987,1,1
+1155,White Water Summer,PG,90.0,0.0,300859.0,Jeff Bleckner,Manya Starr,Kevin Bacon,Adventure,1987,1,1
+1157,Best Seller,R,95.0,0.0,4278150.0,John Flynn,Larry Cohen,James Woods,Action,1987,1,1
+1162,A Month in the Country,PG,96.0,0.0,0.0,Pat O'Connor,Simon Gray,Colin Firth,Drama,1987,1,1
+1166,Tin Men,R,112.0,0.0,25411386.0,Barry Levinson,Barry Levinson,Richard Dreyfuss,Comedy,1987,1,1
+1171,Gandahar,PG,78.0,0.0,370698.0,René Laloux,René Laloux,Glenn Close,Animation,1989,1,2
+1174,The House on Carroll Street,PG,101.0,0.0,459824.0,Peter Yates,Walter Bernstein,Kelly McGillis,Thriller,1987,1,1
+1176,Prick Up Your Ears,R,105.0,0.0,1672927.0,Stephen Frears,John Lahr,Gary Oldman,Biography,1987,1,2
+1181,Slam Dance,R,92.0,0.0,406881.0,Wayne Wang,Don Keith Opper,Tom Hulce,Crime,1987,1,1
+1183,The Sicilian,R,115.0,0.0,5406879.0,Michael Cimino,Mario Puzo,Christopher Lambert,Action,1987,1,1
+1185,Creepozoids,R,72.0,0.0,0.0,David DeCoteau,Dave Eisenstark,Linnea Quigley,Horror,1987,1,0
+1186,The Outing,R,87.0,0.0,1083395.0,Tom Daley,Warren Chaney,Deborah Winters,Horror,1987,1,1
+1187,Nightflyers,R,89.0,0.0,1149470.0,Robert Collector,George R.R. Martin,Catherine Mary Stewart,Horror,1988,1,0
+1188,Fatal Beauty,R,104.0,0.0,12046526.0,Tom Holland,Bill Svanoe,Whoopi Goldberg,Action,1987,1,1
+1189,Siesta,R,97.0,0.0,700000.0,Mary Lambert,Patrice Chaplin,Ellen Barkin,Drama,1987,1,1
+1194,Hot Pursuit,PG-13,93.0,0.0,4215849.0,Steven Lisberger,Steven Lisberger,John Cusack,Comedy,1987,1,1
+1196,The Dead,PG,83.0,0.0,4370078.0,John Huston,James Joyce,Anjelica Huston,Drama,1987,1,2
+1201,Cross My Heart,R,90.0,0.0,1025762.0,Armyan Bernstein,Armyan Bernstein,Martin Short,Comedy,1987,1,1
+1205,Return to Horror High,R,95.0,0.0,1189709.0,Bill Froehlich,Bill Froehlich,Lori Lethin,Comedy,1987,1,0
+1206,Straight to Hell,R,86.0,0.0,210200.0,Alex Cox,Alex Cox,Sy Richardson,Action,1987,1,1
+1208,Promised Land,R,102.0,0.0,316199.0,Michael Hoffman,Michael Hoffman,Jason Gedrick,Drama,1988,1,1
+1210,"No Retreat, No Surrender 2",R,92.0,0.0,0.0,Corey Yuen,Maria Elena Cellino,Loren Avedon,Adventure,1989,1,1
+1212,China Girl,R,90.0,0.0,1262091.0,Abel Ferrara,Nicholas St. John,James Russo,Crime,1987,1,1
+1214,The Squeeze,PG-13,101.0,0.0,2228951.0,Roger Young,Daniel Taplitz,Michael Keaton,Action,1987,1,0
+1223,In the Mood,PG-13,98.0,0.0,999382.0,Phil Alden Robinson,Robert Kosberg,Patrick Dempsey,Comedy,1987,1,1
+1226,Square Dance,PG-13,112.0,0.0,225358.0,Daniel Petrie,Alan Hines,Jason Robards,Drama,1988,1,1
+1229,Disorderlies,PG,86.0,0.0,10348437.0,Michael Schultz,Mark Feldberg,Darren Robinson,Comedy,1987,1,0
+1234,The Kindred,R,91.0,0.0,2407024.0,Stephen Carpenter,Stephen Carpenter,Rod Steiger,Horror,1987,1,1
+1236,Russkies,PG,99.0,0.0,2189047.0,Rick Rosenthal,Sheldon Lettich,Whip Hubley,Drama,1987,1,1
+1238,From the Hip,PG,111.0,0.0,9518342.0,Bob Clark,Bob Clark,Judd Nelson,Comedy,1987,1,1
+1241,Million Dollar Mystery,PG,95.0,0.0,989033.0,Richard Fleischer,Tim Metcalfe,Eddie Deezen,Comedy,1987,1,1
+1257,Akira,R,124.0,0.0,2562351.0,Katsuhiro Ôtomo,Katsuhiro Ôtomo,Mitsuo Iwata,Animation,1988,1,2
+1259,Mississippi Burning,R,128.0,0.0,34603943.0,Alan Parker,Chris Gerolmo,Gene Hackman,Crime,1989,1,2
+1268,Working Girl,R,113.0,0.0,102953112.0,Mike Nichols,Kevin Wade,Melanie Griffith,Comedy,1988,1,1
+1276,Earth Girls Are Easy,PG,100.0,0.0,3916303.0,Julien Temple,Julie Brown,Geena Davis,Comedy,1989,1,1
+1278,Dead Ringers,R,116.0,0.0,8038508.0,David Cronenberg,David Cronenberg,Jeremy Irons,Drama,1988,1,2
+1292,Elvira: Mistress of the Dark,PG-13,96.0,0.0,5596267.0,James Signorelli,Sam Egan,Cassandra Peterson,Comedy,1988,1,1
+1296,The Dead Pool,R,91.0,0.0,37903295.0,Buddy Van Horn,Harry Julian Fink,Clint Eastwood,Action,1988,1,1
+1302,Hellbound: Hellraiser II,R,97.0,0.0,12090735.0,Tony Randel,Peter Atkins,Doug Bradley,Horror,1988,1,1
+1310,Return of the Living Dead II,R,89.0,0.0,9205924.0,Ken Wiederhorn,Ken Wiederhorn,James Karen,Comedy,1988,1,1
+1312,Eight Men Out,PG,119.0,0.0,5680515.0,John Sayles,Eliot Asinof,John Cusack,Drama,1989,1,2
+1313,Stand and Deliver,PG,103.0,0.0,13994920.0,Ramón Menéndez,Ramón Menéndez,Edward James Olmos,Biography,1988,1,2
+1317,Police Academy 5: Assignment: Miami Beach,PG,90.0,0.0,19510371.0,Alan Myerson,Neal Israel,Bubba Smith,Comedy,1988,1,0
+1330,Johnny Be Good,R,91.0,0.0,17550399.0,Bud S. Smith,Steve Zacharias,Anthony Michael Hall,Comedy,1988,1,0
+1332,Short Circuit 2,PG,110.0,0.0,21630088.0,Kenneth Johnson,S.S. Wilson,Fisher Stevens,Comedy,1988,1,1
+1335,The Presidio,R,97.0,0.0,20324096.0,Peter Hyams,Larry Ferguson,Sean Connery,Action,1988,1,1
+1336,Big Business,PG,97.0,0.0,40150487.0,Jim Abrahams,Dori Pierson,Bette Midler,Comedy,1988,1,1
+1337,Monkey Shines,R,113.0,0.0,5344577.0,George A. Romero,Michael Stewart,Jason Beghe,Drama,1988,1,1
+1338,The Seventh Sign,R,97.0,0.0,18875011.0,Carl Schultz,Ellen Green,Demi Moore,Drama,1988,1,1
+1343,Action Jackson,R,96.0,0.0,20256975.0,Craig R. Baxley,Robert Reneau,Carl Weathers,Action,1988,1,1
+1345,Shoot to Kill,R,110.0,0.0,29300090.0,Roger Spottiswoode,Harv Zimmel,Sidney Poitier,Action,1988,1,1
+1350,Betrayed,R,127.0,0.0,25816139.0,Costa-Gavras,Joe Eszterhas,Debra Winger,Crime,1988,1,1
+1354,For Keeps?,PG-13,90.0,0.0,17514553.0,John G. Avildsen,Tim Kazurinsky,Molly Ringwald,Comedy,1988,1,1
+1360,Satisfaction,PG-13,92.0,0.0,8253123.0,Joan Freeman,Charles Purpura,Justine Bateman,Comedy,1988,1,0
+1362,The Milagro Beanfield War,R,117.0,0.0,13825794.0,Robert Redford,John Nichols,Rubén Blades,Comedy,1988,1,1
+1368,Jack's Back,R,97.0,0.0,0.0,Rowdy Herrington,Rowdy Herrington,James Spader,Crime,1988,1,1
+1376,And God Created Woman,R,100.0,0.0,717376.0,Roger Vadim,R.J. Stewart,Rebecca De Mornay,Comedy,1988,1,0
+1378,Little Nikita,PG,98.0,0.0,1733070.0,Richard Benjamin,John Hill,Sidney Poitier,Drama,1988,1,1
+1387,Watchers,R,91.0,0.0,940173.0,Jon Hess,Dean R. Koontz,Corey Haim,Action,1988,1,1
+1388,Rocket Gibraltar,PG,99.0,0.0,187349.0,Daniel Petrie,Amos Poe,Burt Lancaster,Drama,1988,1,1
+1389,The Unholy,R,102.0,0.0,6337299.0,Camilo Vila,Philip Yordan,Ben Cross,Horror,1988,1,0
+1390,Not of This Earth,R,81.0,0.0,0.0,Jim Wynorski,R.J. Robertson,Traci Lords,Comedy,1988,1,0
+1391,A New Life,PG-13,104.0,0.0,7721852.0,Alan Alda,Alan Alda,Alan Alda,Comedy,1988,1,1
+1392,1969,R,95.0,0.0,5979011.0,Ernest Thompson,Ernest Thompson,Robert Downey Jr.,Drama,1988,1,1
+1396,Chocolat,PG-13,105.0,0.0,2319801.0,Claire Denis,Claire Denis,Isaach De Bankolé,Drama,1989,1,2
+1400,Another Woman,PG,81.0,0.0,1562749.0,Woody Allen,Woody Allen,Gena Rowlands,Drama,1988,1,2
+1402,Sunset,R,102.0,0.0,4594452.0,Blake Edwards,Rod Amateau,Bruce Willis,Crime,1988,1,1
+1410,Crossing Delancey,PG,97.0,0.0,16262415.0,Joan Micklin Silver,Susan Sandler,Amy Irving,Comedy,1988,1,1
+1414,Shakedown,R,97.0,0.0,10068039.0,James Glickenhaus,James Glickenhaus,Peter Weller,Action,1988,1,1
+1417,Everybody's All-American,R,127.0,0.0,12638294.0,Taylor Hackford,Frank Deford,Jessica Lange,Drama,1988,1,1
+1419,The Chocolate War,R,100.0,0.0,303624.0,Keith Gordon,Robert Cormier,John Glover,Drama,1988,1,1
+1422,Party Line,R,91.0,0.0,0.0,William Webb,Richard Brandes,Richard Hatch,Thriller,1988,1,0
+1423,The Kiss,R,101.0,0.0,1869148.0,Pen Densham,Tom Ropelewski,Joanna Pacula,Drama,1988,1,1
+1424,Spellbinder,R,99.0,0.0,657446.0,Janet Greek,Tracy Tormé,Tim Daly,Drama,1988,1,1
+1427,Criminal Law,R,117.0,0.0,9974446.0,Martin Campbell,Mark Kasdan,Gary Oldman,Crime,1989,1,1
+1429,Platoon Leader,R,97.0,0.0,1348771.0,Aaron Norris,Andrew Deutsch,Tony Pierce,Drama,1988,1,1
+1431,Permanent Record,PG-13,91.0,0.0,1893139.0,Marisa Silver,Jarre Fees,Alan Boyce,Drama,1988,1,1
+1436,Ernest Saves Christmas,PG,95.0,0.0,28202109.0,John R. Cherry III,Ed Turner,Jim Varney,Comedy,1988,1,1
+1437,Feds,PG-13,82.0,0.0,3838793.0,Daniel Goldberg,Len Blum,Rebecca De Mornay,Comedy,1988,1,1
+1438,Moon Over Parador,PG-13,103.0,0.0,11444204.0,Paul Mazursky,Charles G. Booth,Richard Dreyfuss,Comedy,1988,1,1
+1440,Off Limits,R,102.0,0.0,7242035.0,Christopher Crowe,Christopher Crowe,Willem Dafoe,Action,1988,1,1
+1442,Apartment Zero,R,124.0,0.0,1267578.0,Martin Donovan,Martin Donovan,Hart Bochner,Drama,1989,1,1
+1443,The Good Mother,R,103.0,0.0,4764606.0,Leonard Nimoy,Michael Bortman,Diane Keaton,Drama,1988,1,1
+1446,Batman,PG-13,126.0,0.0,411508343.0,Tim Burton,Bob Kane,Michael Keaton,Action,1989,1,2
+1447,Bill & Ted's Excellent Adventure,PG,90.0,0.0,40508994.0,Stephen Herek,Chris Matheson,Keanu Reeves,Adventure,1989,1,1
+1450,The Little Mermaid,G,83.0,0.0,211343479.0,Ron Clements,John Musker,Jodi Benson,Animation,1989,1,2
+1453,Do the Right Thing,R,120.0,0.0,37295445.0,Spike Lee,Spike Lee,Danny Aiello,Comedy,1989,1,2
+1455,Turner & Hooch,PG,97.0,0.0,71079915.0,Roger Spottiswoode,Dennis Shryack,Tom Hanks,Comedy,1989,1,1
+1460,Major League,R,107.0,0.0,49797148.0,David S. Ward,David S. Ward,Tom Berenger,Comedy,1989,1,2
+1463,Uncle Buck,PG,100.0,0.0,79258538.0,John Hughes,John Hughes,John Candy,Comedy,1989,1,1
+1468,Parenthood,PG-13,124.0,0.0,126297830.0,Ron Howard,Lowell Ganz,Steve Martin,Comedy,1989,1,1
+1469,Lethal Weapon 2,R,114.0,0.0,227853986.0,Richard Donner,Jeffrey Boam,Mel Gibson,Action,1989,1,2
+1482,My Left Foot,R,103.0,0.0,14743391.0,Jim Sheridan,Shane Connaughton,Daniel Day-Lewis,Biography,1990,1,2
+1484,Wild Orchid,R,105.0,0.0,11060485.0,Zalman King,Patricia Louisianna Knop,Mickey Rourke,Drama,1990,1,0
+1494,Leviathan,R,98.0,0.0,15704614.0,George P. Cosmatos,David Webb Peoples,Peter Weller,Adventure,1989,1,1
+1497,Kickboxer,R,97.0,0.0,14697005.0,Mark DiSalle,Mark DiSalle,Jean-Claude Van Damme,Action,1989,1,1
+1500,Driving Miss Daisy,PG,99.0,0.0,145793296.0,Bruce Beresford,Alfred Uhry,Morgan Freeman,Drama,1990,1,2
+1504,Halloween 5: The Revenge of Michael Myers,R,96.0,0.0,11642254.0,Dominique Othenin-Girard,John Carpenter,Donald Pleasence,Horror,1989,1,1
+1505,DeepStar Six,R,99.0,0.0,8143225.0,Sean S. Cunningham,Lewis Abernathy,Greg Evigan,Action,1989,1,1
+1515,Scandal,R,106.0,0.0,8800000.0,Michael Caton-Jones,Michael Thomas,John Hurt,Drama,1989,1,1
+1516,The Fabulous Baker Boys,R,114.0,0.0,18428904.0,Steve Kloves,Steve Kloves,Jeff Bridges,Comedy,1989,1,1
+1518,Next of Kin,R,108.0,0.0,15942628.0,John Irvin,Michael Jenning,Patrick Swayze,Action,1989,1,1
+1519,The Fly II,R,105.0,0.0,38903179.0,Chris Walas,Mick Garris,Eric Stoltz,Drama,1989,1,1
+1524,Gleaming the Cube,PG-13,105.0,0.0,2777280.0,Graeme Clifford,Michael Tolkin,Christian Slater,Action,1989,1,1
+1526,Communion,R,107.0,0.0,1919653.0,Philippe Mora,Whitley Strieber,Christopher Walken,Biography,1989,1,1
+1528,Crimes and Misdemeanors,PG-13,104.0,0.0,18254702.0,Woody Allen,Woody Allen,Martin Landau,Comedy,1989,1,2
+1529,An Innocent Man,R,113.0,0.0,20047604.0,Peter Yates,Larry Brothers,Tom Selleck,Action,1989,1,1
+1530,Let It Ride,PG-13,90.0,0.0,4973285.0,Joe Pytka,Jay Cronley,Richard Dreyfuss,Comedy,1989,1,1
+1531,Loverboy,PG-13,98.0,0.0,3960327.0,Joan Micklin Silver,Robin Schiff,Patrick Dempsey,Comedy,1989,1,1
+1532,Kill Me Again,R,94.0,0.0,283694.0,John Dahl,John Dahl,Val Kilmer,Action,1989,1,1
+1550,Fat Man and Little Boy,PG-13,127.0,0.0,3563162.0,Roland Joffé,Bruce Robinson,Paul Newman,Biography,1989,1,1
+1552,Her Alibi,PG,94.0,0.0,18699037.0,Bruce Beresford,Charlie Peters,Tom Selleck,Comedy,1989,1,1
+1553,The Blood of Heroes,R,90.0,0.0,882290.0,David Webb Peoples,David Webb Peoples,Rutger Hauer,Action,1990,1,1
+1556,Robot Jox,PG,85.0,0.0,1272977.0,Stuart Gordon,Stuart Gordon,Gary Graham,Action,1990,1,1
+1560,Chattahoochee,R,98.0,0.0,259486.0,Mick Jackson,James Cresson,Gary Oldman,Biography,1990,1,1
+1561,Stepfather II: Make Room for Daddy,R,93.0,0.0,1519796.0,Jeff Burr,Carolyn Lefcourt,Terry O'Quinn,Horror,1989,1,1
+1562,Eddie and the Cruisers II: Eddie Lives!,PG-13,104.0,0.0,536508.0,Jean-Claude Lord,P.F. Kluge,Michael Paré,Drama,1989,1,1
+1567,Speed Zone,PG,94.0,0.0,3077361.0,Jim Drake,Michael Short,Peter Boyle,Action,1989,1,0
+1571,Longtime Companion,R,96.0,0.0,4609953.0,Norman René,Craig Lucas,Stephen Caffrey,Drama,1990,1,2
+1574,Tap,PG-13,111.0,0.0,9114702.0,Nick Castle,Nick Castle,Gregory Hines,Comedy,1989,1,1
+1575,A Dry White Season,R,106.0,0.0,3766879.0,Euzhan Palcy,André P. Brink,Donald Sutherland,Drama,1989,1,1
+1576,The Phantom of the Opera,R,93.0,0.0,3953745.0,Dwight H. Little,Gaston Leroux,Robert Englund,Drama,1989,1,1
+1578,Triumph of the Spirit,R,120.0,0.0,408839.0,Robert M. Young,Shimon Arama,Willem Dafoe,Biography,1989,1,1
+1579,The Unbelievable Truth,R,90.0,0.0,0.0,Hal Hartley,Hal Hartley,Adrienne Shelly,Comedy,1990,1,2
+1580,True Believer,R,108.0,0.0,8742750.0,Joseph Ruben,Wesley Strick,James Woods,Crime,1989,1,1
+1582,The Tall Guy,R,92.0,0.0,510712.0,Mel Smith,Richard Curtis,Jeff Goldblum,Comedy,1990,1,1
+1583,The Toxic Avenger Part II,R,102.0,0.0,792966.0,Michael Herz,Lloyd Kaufman,Ron Fazio,Action,1989,1,1
+1586,Gross Anatomy,PG-13,109.0,0.0,11604598.0,Thom Eberhardt,Mark Spragg,Matthew Modine,Drama,1989,1,1
+1592,Miss Firecracker,PG,102.0,0.0,1852655.0,Thomas Schlamme,Beth Henley,Holly Hunter,Comedy,1990,1,1
+1599,Disorganized Crime,R,98.0,0.0,7723506.0,Jim Kouf,Jim Kouf,Hoyt Axton,Action,1989,1,1
+1604,The Terror Within,R,88.0,0.0,858591.0,Thierry Notz,Thomas McKelvey Cleaver,Andrew Stevens,Horror,1989,1,0
+1611,"Enemies, A Love Story",R,119.0,0.0,7754571.0,Paul Mazursky,Isaac Bashevis Singer,Ron Silver,Comedy,1989,1,1
+1613,Physical Evidence,R,99.0,0.0,3560932.0,Michael Crichton,Steve Ransohoff,Burt Reynolds,Crime,1989,1,1
+1618,Mortal Passions,R,92.0,0.0,0.0,Andrew Lane,Alan Moskowitz,Zach Galligan,Crime,1990,1,0
+1624,Too Beautiful for You,R,91.0,0.0,1776440.0,Bertrand Blier,Bertrand Blier,Gérard Depardieu,Comedy,1990,1,1
+1626,Rude Awakening,R,100.0,0.0,3169719.0,David Greenwalt,Neil Levy,Cheech Marin,Comedy,1989,1,0
+1633,Martians Go Home,PG-13,89.0,0.0,129778.0,David Odell,Fredric Brown,Randy Quaid,Comedy,1990,1,0
+1634,Night Game,R,95.0,0.0,337812.0,Peter Masterson,Spencer Eastman,Roy Scheider,Crime,1989,1,0
+1635,Romero,PG-13,102.0,0.0,1316495.0,John Duigan,John Sacret Young,Raul Julia,Biography,1989,1,2
+1636,84C MoPic,R,95.0,0.0,0.0,Patrick Sheane Duncan,Patrick Sheane Duncan,Jonathan Emerson,Drama,1989,1,1
+1641,The Lemon Sisters,PG-13,93.0,0.0,3473905.0,Joyce Chopra,Jeremy Pikser,Diane Keaton,Comedy,1990,1,0
+1650,Dances with Wolves,PG-13,181.0,0.0,424208848.0,Kevin Costner,Michael Blake,Kevin Costner,Adventure,1990,1,2
+1652,Die Hard 2,R,124.0,0.0,240031274.0,Renny Harlin,Steven E. de Souza,Bruce Willis,Action,1990,1,2
+1661,The Handmaid's Tale,R,108.0,0.0,4960385.0,Volker Schlöndorff,Margaret Atwood,Natasha Richardson,Drama,1990,1,1
+1667,Back to the Future Part III,PG,118.0,0.0,245077583.0,Robert Zemeckis,Robert Zemeckis,Michael J. Fox,Adventure,1990,1,2
+1668,Darkman,R,96.0,0.0,48878502.0,Sam Raimi,Sam Raimi,Liam Neeson,Action,1990,1,1
+1670,Cry-Baby,PG-13,85.0,0.0,8266343.0,John Waters,John Waters,Johnny Depp,Comedy,1990,1,1
+1674,King of New York,R,103.0,0.0,2554476.0,Abel Ferrara,Nicholas St. John,Christopher Walken,Crime,1991,1,1
+1680,Lord of the Flies,R,90.0,0.0,13985225.0,Harry Hook,William Golding,Balthazar Getty,Adventure,1990,1,1
+1683,Child's Play 2,R,84.0,0.0,35763605.0,John Lafia,Don Mancini,Alex Vincent,Horror,1990,1,1
+1687,Days of Being Wild,Not Rated,94.0,0.0,3106052.0,Kar-Wai Wong,Jeffrey Lau,Leslie Cheung,Crime,1990,1,2
+1688,The Exorcist III,R,110.0,0.0,39024251.0,William Peter Blatty,William Peter Blatty,George C. Scott,Drama,1990,1,1
+1689,Quigley Down Under,PG-13,119.0,0.0,21413105.0,Simon Wincer,John Hill,Tom Selleck,Action,1990,1,1
+1690,Nightbreed,R,102.0,0.0,8862354.0,Clive Barker,Clive Barker,Craig Sheffer,Action,1990,1,1
+1695,Problem Child,PG,81.0,0.0,72270891.0,Dennis Dugan,Scott Alexander,Michael Oliver,Comedy,1990,1,1
+1712,Frankenhooker,R,85.0,0.0,205068.0,Frank Henenlotter,Robert Martin,James Lorinz,Comedy,1990,1,1
+1717,Marked for Death,R,93.0,0.0,57968936.0,Dwight H. Little,Michael Grais,Steven Seagal,Action,1990,1,1
+1719,Dreams,PG,119.0,0.0,2970161.0,Akira Kurosawa,Akira Kurosawa,Akira Terao,Drama,1990,1,2
+1720,Air America,R,113.0,0.0,33461269.0,Roger Spottiswoode,Christopher Robbins,Mel Gibson,Action,1990,1,1
+1721,I Love You to Death,R,97.0,0.0,16186793.0,Lawrence Kasdan,John Kostmayer,Kevin Kline,Comedy,1990,1,1
+1724,White Palace,R,103.0,0.0,17487531.0,Luis Mandoki,Glenn Savan,Susan Sarandon,Drama,1990,1,1
+1736,The Comfort of Strangers,R,107.0,0.0,1244381.0,Paul Schrader,Ian McEwan,Christopher Walken,Drama,1991,1,1
+1738,"Welcome Home, Roxy Carmichael",PG-13,95.0,0.0,3989297.0,Jim Abrahams,Karen Leigh Hopkins,Winona Ryder,Comedy,1990,1,1
+1739,Bad Influence,R,99.0,0.0,12626043.0,Curtis Hanson,David Koepp,Rob Lowe,Drama,1990,1,1
+1744,Green Card,PG-13,107.0,0.0,29888235.0,Peter Weir,Peter Weir,Gérard Depardieu,Comedy,1991,1,1
+1746,Europa Europa,R,112.0,0.0,5575738.0,Agnieszka Holland,Agnieszka Holland,Solomon Perel,Drama,1990,1,2
+1747,Cyrano de Bergerac,PG,137.0,0.0,5822041.0,Jean-Paul Rappeneau,Edmond Rostand,Gérard Depardieu,Comedy,1990,1,2
+1748,Almost an Angel,PG,95.0,0.0,6939946.0,John Cornell,Paul Hogan,Paul Hogan,Comedy,1990,1,1
+1749,Everybody Wins,R,97.0,0.0,1372350.0,Karel Reisz,Arthur Miller,Debra Winger,Drama,1990,1,1
+1750,Truly Madly Deeply,PG,106.0,0.0,1554742.0,Anthony Minghella,Anthony Minghella,Juliet Stevenson,Comedy,1991,1,2
+1755,Jetsons: The Movie,G,82.0,0.0,20305841.0,Joseph Barbera,Dennis Marks,George O'Hanlon,Animation,1990,1,1
+1758,Narrow Margin,R,97.0,0.0,10873237.0,Peter Hyams,Peter Hyams,Gene Hackman,Action,1990,1,1
+1759,Cadillac Man,R,97.0,0.0,27627310.0,Roger Donaldson,Ken Friedman,Robin Williams,Comedy,1990,1,1
+1764,Fire Birds,PG-13,85.0,0.0,14760451.0,George Armitage,Step Tyner,Nicolas Cage,Action,1990,1,0
+1772,Desperate Hours,R,105.0,0.0,2742912.0,Yimou Zhang,Joseph Hayes,Mickey Rourke,Action,1990,1,1
+1775,Brain Dead,R,85.0,0.0,1627955.0,Patrice Leconte,Charles Beaumont,Bill Pullman,Horror,1990,1,1
+1777,Ernest Goes to Jail,PG,81.0,0.0,25029569.0,Tom Ropelewski,Charlie Cohen,Jim Varney,Comedy,1990,1,1
+1782,Two Evil Eyes,R,120.0,0.0,349618.0,James Ivory,Edgar Allan Poe,Adrienne Barbeau,Horror,1991,1,1
+1785,Crazy People,R,90.0,0.0,13236513.0,Jan Egleson,Mitch Markowitz,Dudley Moore,Comedy,1990,1,1
+1792,Stanley & Iris,PG-13,104.0,0.0,5820015.0,Franco Amurri,Pat Barker,Jane Fonda,Drama,1990,1,1
+1799,Everybody's Fine,PG-13,118.0,0.0,1745470.0,Patrick Read Johnson,Massimo De Rita,Marcello Mastroianni,Drama,1991,1,2
+1800,Spaced Invaders,PG,100.0,0.0,15369573.0,Michael Lehmann,Patrick Read Johnson,Douglas Barr,Adventure,1990,1,1
+1801,Meet the Applegates,R,90.0,0.0,485772.0,Alan Alda,Michael Lehmann,Ed Begley Jr.,Comedy,1991,1,1
+1803,Def by Temptation,R,95.0,0.0,2218579.0,James D. Parriott,James Bond III,James Bond III,Horror,1990,1,0
+1807,Streets,R,85.0,0.0,1510053.0,John Erman,Andy Ruben,Christina Applegate,Action,1990,1,1
+1810,Loose Cannons,R,94.0,0.0,5585154.0,Éric Rohmer,Richard Christian Matheson,Gene Hackman,Action,1990,1,0
+1812,To Sleep with Anger,PG,102.0,0.0,1161135.0,John Boorman,Charles Burnett,Danny Glover,Drama,1990,1,2
+1820,Come See the Paradise,R,138.0,0.0,947306.0,Derek Jarman,Alan Parker,Dennis Quaid,Drama,1991,1,1
+1824,May Fools,R,107.0,0.0,1576702.0,John Mackenzie,Louis Malle,Miou-Miou,Comedy,1990,1,2
+1828,Funny About Love,PG-13,101.0,0.0,8141292.0,Prince,Bob Greene,Gene Wilder,Comedy,1990,1,0
+1834,The Haunting of Morella,R,82.0,0.0,1547867.0,John Frankenheimer,Edgar Allan Poe,Nicole Eggert,Horror,1990,1,0
+1839,Heaven and Earth,PG-13,125.0,0.0,0.0,David Leland,Haruki Kadokawa,Takaaki Enoki,Action,1991,1,1
+1851,The Addams Family,PG-13,99.0,0.0,191502426.0,Ridley Scott,Charles Addams,Anjelica Huston,Comedy,1991,1,1
+1852,Thelma & Louise,R,130.0,0.0,45456285.0,Alfonso Cuarón,Callie Khouri,Susan Sarandon,Adventure,1991,1,2
+1855,The Doors,R,140.0,0.0,34416893.0,Gary Trousdale,Randall Jahnson,Val Kilmer,Biography,1991,1,2
+1859,The Rocketeer,PG,108.0,0.0,46704056.0,Howard Zieff,Dave Stevens,Billy Campbell,Action,1991,1,1
+1860,My Girl,PG,102.0,0.0,59489799.0,Ron Howard,Laurice Elehwany,Anna Chlumsky,Comedy,1991,1,1
+1864,City Slickers,PG-13,113.0,0.0,179033791.0,Stephen Herek,Lowell Ganz,Billy Crystal,Comedy,1991,1,1
+1870,Return to the Blue Lagoon,PG-13,102.0,0.0,2807854.0,Tony Scott,Henry De Vere Stacpoole,Brian Krause,Adventure,1991,1,1
+1878,Barton Fink,R,116.0,0.0,6153939.0,Dan Aykroyd,Joel Coen,John Turturro,Comedy,1991,1,2
+1879,Nothing But Trouble,PG-13,94.0,0.0,8479793.0,Frank Oz,Peter Aykroyd,Chevy Chase,Comedy,1991,1,1
+1882,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,PG,88.0,0.0,78656813.0,David Zucker,Kevin Eastman,Paige Turco,Action,1991,1,1
+1884,Double Impact,R,110.0,0.0,30102717.0,Alan Parker,Sheldon Lettich,Jean-Claude Van Damme,Action,1991,1,1
+1887,The Double Life of Véronique,R,98.0,0.0,2175939.0,Mario Van Peebles,Krzysztof Kieslowski,Irène Jacob,Drama,1991,1,2
+1889,Toy Soldiers,R,111.0,0.0,15073942.0,Wes Craven,William P. Kennedy,Sean Astin,Action,1991,1,1
+1890,The People Under the Stairs,R,102.0,0.0,31347154.0,Mike Nichols,Wes Craven,Brandon Quintin Adams,Comedy,1991,1,1
+1891,Regarding Henry,PG-13,108.0,0.0,43001500.0,Barry Levinson,J.J. Abrams,Harrison Ford,Drama,1991,1,1
+1892,Bugsy,R,136.0,0.0,49114016.0,Michael Caton-Jones,James Toback,Warren Beatty,Biography,1991,1,1
+1896,Child's Play 3,R,90.0,0.0,20560255.0,Rachel Talalay,Don Mancini,Justin Whalin,Horror,1991,1,1
+1900,Highlander II: The Quickening,R,91.0,0.0,15556340.0,Craig R. Baxley,Gregory Widen,Christopher Lambert,Action,1991,1,0
+1902,Wild Hearts Can't Be Broken,G,88.0,0.0,7294835.0,Mark L. Lester,Matt Williams,Gabrielle Anwar,Drama,1991,1,2
+1903,Showdown in Little Tokyo,R,79.0,0.0,2275557.0,Spike Lee,Stephen Glantz,Dolph Lundgren,Action,1991,1,1
+1906,Not Without My Daughter,PG-13,116.0,0.0,14789113.0,Albert Brooks,Betty Mahmoody,Sally Field,Drama,1991,1,1
+1908,Flight of the Intruder,PG-13,115.0,0.0,14587732.0,Brian Levant,Stephen Coonts,Danny Glover,Action,1991,1,1
+1913,Rush,R,120.0,0.0,7241350.0,Kenneth Branagh,Kim Wozencraft,Jason Patric,Action,1992,1,1
+1914,Dead Again,R,107.0,0.0,38016380.0,John Flynn,Scott Frank,Kenneth Branagh,Crime,1991,1,1
+1918,An American Tail: Fievel Goes West,G,75.0,0.0,40766041.0,Phil Nibbelink,Flint Dille,James Stewart,Animation,1991,1,1
+1926,The Rapture,R,100.0,0.0,1277404.0,Michael Tolkin,Michael Tolkin,Mimi Rogers,Drama,1991,1,1
+1933,White Fang,PG,107.0,0.0,34793160.0,Randal Kleiser,Jack London,Ethan Hawke,Adventure,1991,1,1
+1936,Dutch,PG-13,107.0,0.0,4603929.0,Peter Faiman,John Hughes,Ed O'Neill,Comedy,1991,1,1
+1937,Shattered,R,98.0,0.0,11511031.0,Wolfgang Petersen,Richard Neely,Tom Berenger,Crime,1991,1,1
+1939,Suburban Commando,PG,90.0,0.0,6948859.0,Burt Kennedy,Frank A. Cappello,Hulk Hogan,Action,1991,1,0
+1940,Popcorn,R,91.0,0.0,4205000.0,Mark Herrier,Mitchell Smith,Jill Schoelen,Comedy,1991,1,1
+1943,If Looks Could Kill,PG-13,88.0,0.0,7788597.0,William Dear,Fred Dekker,Richard Grieco,Action,1991,1,1
+1947,Whore,NC-17,85.0,0.0,1008404.0,Ken Russell,David Hines,Theresa Russell,Drama,1991,1,1
+1961,Kafka,PG-13,98.0,0.0,1059071.0,Steven Soderbergh,Lem Dobbs,Jeremy Irons,Drama,1991,1,1
+1962,Johnny Suede,R,97.0,0.0,90091.0,Tom DiCillo,Tom DiCillo,Brad Pitt,Comedy,1992,1,1
+1966,Mississippi Masala,R,118.0,0.0,7308786.0,Mira Nair,Sooni Taraporevala,Denzel Washington,Drama,1992,1,1
+1973,House Party 2,R,94.0,0.0,19438638.0,George Jackson,Reginald Hudlin,Christopher Reid,Comedy,1991,1,1
+1975,The Perfect Weapon,R,83.0,0.0,14061361.0,Mark DiSalle,David C. Wilson,Jeff Speakman,Action,1991,1,1
+1985,F/X2,PG-13,108.0,0.0,21082165.0,Richard Franklin,Robert T. Megginson,Bryan Brown,Action,1991,1,1
+1987,Mortal Thoughts,R,103.0,0.0,18784957.0,Alan Rudolph,William Reilly,Demi Moore,Mystery,1991,1,1
+1992,Eve of Destruction,R,99.0,0.0,5451119.0,Duncan Gibbins,Duncan Gibbins,Gregory Hines,Action,1991,1,0
+1993,A Rage in Harlem,R,115.0,0.0,10438504.0,Bill Duke,Chester Himes,Forest Whitaker,Comedy,1991,1,1
+1999,At Play in the Fields of the Lord,R,189.0,0.0,1345903.0,Hector Babenco,Peter Matthiessen,Tom Berenger,Drama,1991,1,1
+2000,True Colors,R,111.0,0.0,418807.0,Herbert Ross,Kevin Wade,John Cusack,Drama,1991,1,1
+2013,Strictly Business,PG-13,83.0,0.0,7683267.0,Kevin Hooks,Pam Gibson,Tommy Davidson,Comedy,1991,1,1
+2024,Madame Bovary,PG-13,143.0,0.0,1942423.0,Claude Chabrol,Gustave Flaubert,Isabelle Huppert,Drama,1991,1,1
+2040,Stepping Out,PG,106.0,0.0,246000.0,Lewis Gilbert,Richard Harris,Liza Minnelli,Comedy,1991,1,1
+2043,Defenseless,R,104.0,0.0,6413375.0,Martin Campbell,James Cresson,Barbara Hershey,Mystery,1991,1,1
+2045,Basic Instinct,R,127.0,0.0,352927224.0,Paul Verhoeven,Joe Eszterhas,Michael Douglas,Drama,1992,1,1
+2047,My Cousin Vinny,R,120.0,0.0,64088552.0,Jonathan Lynn,Dale Launer,Joe Pesci,Comedy,1992,1,2
+2052,A League of Their Own,PG,128.0,0.0,132440069.0,Penny Marshall,Kim Wilson,Tom Hanks,Comedy,1992,1,2
+2054,Scent of a Woman,R,156.0,0.0,134095253.0,Martin Brest,Giovanni Arpino,Al Pacino,Drama,1993,1,2
+2057,Aladdin,G,90.0,0.0,504050219.0,Ron Clements,Ron Clements,Scott Weinger,Animation,1992,1,2
+2059,Alien 3,R,114.0,0.0,159814498.0,David Fincher,Dan O'Bannon,Sigourney Weaver,Action,1992,1,1
+2080,Home Alone 2: Lost in New York,PG,120.0,0.0,358994850.0,Chris Columbus,John Hughes,Macaulay Culkin,Adventure,1992,1,1
+2086,Poison Ivy,R,93.0,0.0,1829804.0,Katt Shea,Melissa Goddard,Drew Barrymore,Drama,1992,1,1
+2103,Juice,R,95.0,0.0,20146880.0,Ernest R. Dickerson,Ernest R. Dickerson,Omar Epps,Action,1992,1,2
+2107,3 Ninjas,PG,84.0,0.0,29000301.0,Jon Turteltaub,Kenny Kim,Victor Wong,Action,1992,1,1
+2111,Captain Ron,PG-13,100.0,0.0,22518097.0,Thom Eberhardt,John Dwyer,Kurt Russell,Adventure,1992,1,1
+2112,The Cutting Edge,PG,101.0,0.0,25105517.0,Paul Michael Glaser,Tony Gilroy,D.B. Sweeney,Comedy,1992,1,1
+2118,Strictly Ballroom,PG,94.0,0.0,11749595.0,Baz Luhrmann,Baz Luhrmann,Paul Mercurio,Comedy,1993,1,2
+2119,Raising Cain,R,92.0,0.0,37170057.0,Brian De Palma,Brian De Palma,John Lithgow,Crime,1992,1,1
+2122,Split Second,R,90.0,0.0,5430822.0,Tony Maylam,Gary Scott Thompson,Rutger Hauer,Action,1992,1,1
+2131,Sidekicks,PG,101.0,0.0,17180393.0,Aaron Norris,Lou Illar,Chuck Norris,Action,1993,1,1
+2134,Thunderheart,R,119.0,0.0,22660758.0,Michael Apted,John Fusco,Val Kilmer,Crime,1992,1,1
+2135,Stop! Or My Mom Will Shoot,PG-13,87.0,0.0,70611210.0,Roger Spottiswoode,Blake Snyder,Sylvester Stallone,Action,1992,1,0
+2136,Innocent Blood,R,112.0,0.0,4943279.0,John Landis,Michael Wolk,Anne Parillaud,Action,1992,1,1
+2139,Final Analysis,R,124.0,0.0,28590665.0,Phil Joanou,Robert Berger,Richard Gere,Drama,1992,1,1
+2142,Consenting Adults,R,99.0,0.0,21591728.0,Alan J. Pakula,Matthew Chapman,Kevin Kline,Crime,1992,1,1
+2143,Fortress,R,95.0,0.0,6739141.0,Stuart Gordon,Troy Neighbors,Christopher Lambert,Action,1993,1,1
+2148,Bébé's Kids,PG-13,72.0,0.0,8442162.0,Bruce W. Smith,Robin Harris,Faizon Love,Animation,1992,1,1
+2150,Peter's Friends,R,101.0,0.0,4058564.0,Kenneth Branagh,Rita Rudner,Hugh Laurie,Comedy,1992,1,1
+2151,Freejack,R,110.0,0.0,17129026.0,Geoff Murphy,Robert Sheckley,Emilio Estevez,Action,1992,1,1
+2155,Class Act,PG-13,98.0,0.0,13272113.0,Randall Miller,Michael Swerdlick,Christopher Reid,Comedy,1992,1,1
+2156,Diggstown,R,98.0,0.0,4836637.0,Michael Ritchie,Leonard Wise,James Woods,Drama,1992,1,1
+2157,Indochine,PG-13,160.0,0.0,5603158.0,Régis Wargnier,Erik Orsenna,Catherine Deneuve,Drama,1992,1,2
+2162,Husbands and Wives,R,108.0,0.0,10555619.0,Woody Allen,Woody Allen,Woody Allen,Comedy,1992,1,2
+2166,Wind,PG-13,126.0,0.0,5519569.0,Carroll Ballard,Jeff Benjamin,Matthew Modine,Action,1992,1,1
+2182,Light Sleeper,R,103.0,0.0,1055987.0,Paul Schrader,Paul Schrader,Willem Dafoe,Crime,1992,1,1
+2189,Where the Day Takes You,R,105.0,0.0,390152.0,Marc Rocco,Michael Hitchcock,Dermot Mulroney,Crime,1992,1,1
+2191,That Night,PG-13,89.0,0.0,20194.0,Craig Bolotin,Alice McDermott,C. Thomas Howell,Drama,1993,1,1
+2193,American Heart,R,113.0,0.0,384048.0,Martin Bell,Peter Silverman,Jeff Bridges,Crime,1993,1,1
+2203,Into the West,PG,97.0,0.0,4790801.0,Mike Newell,Jim Sheridan,Gabriel Byrne,Adventure,1993,1,1
+2204,The Playboys,PG-13,117.0,0.0,4906900.0,Gillies MacKinnon,Shane Connaughton,Albert Finney,Drama,1992,1,1
+2207,Qing shao nian nuo zha,Not Rated,106.0,0.0,28791.0,Ming-liang Tsai,Ming-liang Tsai,Chao-jung Chen,Crime,1994,1,2
+2208,Love Field,PG-13,105.0,0.0,1014726.0,Jonathan Kaplan,Don Roos,Michelle Pfeiffer,Drama,1993,1,1
+2209,Mr. Saturday Night,R,119.0,0.0,13351357.0,Billy Crystal,Billy Crystal,Billy Crystal,Comedy,1992,1,1
+2210,Twin Dragons,PG-13,104.0,0.0,8359717.0,Ringo Lam,Barry Wong,Jackie Chan,Action,1999,1,1
+2215,Folks!,PG-13,107.0,0.0,6132924.0,Ted Kotcheff,Robert Klane,Tom Selleck,Comedy,1992,1,1
+2217,Night and the City,R,105.0,0.0,6202756.0,Irwin Winkler,Gerald Kersh,Robert De Niro,Comedy,1992,1,1
+2225,Out on a Limb,PG,93.0,0.0,1659542.0,Francis Veber,Daniel Goldin,Matthew Broderick,Comedy,1992,1,1
+2232,The Waterdance,R,106.0,0.0,1723319.0,Neal Jimenez,Neal Jimenez,Eric Stoltz,Drama,1992,1,1
+2234,This Is My Life,PG-13,105.0,0.0,2922094.0,Nora Ephron,Meg Wolitzer,Julie Kavner,Drama,1992,1,1
+2241,Once Upon a Time in China III,R,109.0,0.0,0.0,Hark Tsui,Tin-suen Chan,Jet Li,Action,1993,1,1
+2247,Dazed and Confused,R,102.0,0.0,7993039.0,Richard Linklater,Richard Linklater,Jason London,Comedy,1993,1,2
+2251,Robin Hood: Men in Tights,PG-13,104.0,0.0,35739755.0,Mel Brooks,J.D. Shapiro,Cary Elwes,Adventure,1993,1,1
+2252,A Bronx Tale,R,121.0,0.0,17287898.0,Robert De Niro,Chazz Palminteri,Robert De Niro,Crime,1993,1,2
+2253,What's Eating Gilbert Grape,PG-13,118.0,0.0,10032765.0,Lasse Hallström,Peter Hedges,Johnny Depp,Drama,1994,1,2
+2255,Carlito's Way,R,144.0,0.0,63848322.0,Brian De Palma,Edwin Torres,Al Pacino,Crime,1993,1,2
+2259,Dennis the Menace,PG,94.0,0.0,117270765.0,Nick Castle,Hank Ketcham,Walter Matthau,Comedy,1993,1,1
+2271,The Nightmare Before Christmas,PG,76.0,0.0,91491247.0,Henry Selick,Tim Burton,Danny Elfman,Animation,1993,1,2
+2275,Alive,R,120.0,0.0,36733909.0,Frank Marshall,Piers Paul Read,Ethan Hawke,Biography,1993,1,2
+2278,In the Line of Fire,R,128.0,0.0,176997168.0,Wolfgang Petersen,Jeff Maguire,Clint Eastwood,Action,1993,1,2
+2286,RoboCop 3,PG-13,104.0,0.0,10696210.0,Fred Dekker,Edward Neumeier,Robert John Burke,Action,1993,1,0
+2289,Fire in the Sky,PG-13,109.0,0.0,19885552.0,Robert Lieberman,Travis Walton,D.B. Sweeney,Biography,1993,1,1
+2290,Cool Runnings,PG,98.0,0.0,154856263.0,Jon Turteltaub,Lynn Siefert,John Candy,Adventure,1993,1,1
+2292,Kalifornia,R,117.0,0.0,2395231.0,Dominic Sena,Stephen Levy,Brad Pitt,Crime,1993,1,1
+2294,Sliver,R,107.0,0.0,116300000.0,Phillip Noyce,Ira Levin,Sharon Stone,Drama,1993,1,0
+2298,Hot Shots! Part Deux,PG-13,86.0,0.0,133752825.0,Jim Abrahams,Jim Abrahams,Charlie Sheen,Action,1993,1,1
+2299,Much Ado About Nothing,PG-13,111.0,0.0,22549338.0,Kenneth Branagh,William Shakespeare,Kenneth Branagh,Comedy,1993,1,2
+2301,Loaded Weapon 1,PG-13,84.0,0.0,27979399.0,Gene Quintano,Don Holley,Emilio Estevez,Action,1993,1,1
+2302,This Boy's Life,R,115.0,0.0,4104962.0,Michael Caton-Jones,Tobias Wolff,Robert De Niro,Biography,1993,1,2
+2309,Short Cuts,R,188.0,0.0,6110979.0,Robert Altman,Raymond Carver,Andie MacDowell,Comedy,1993,1,2
+2310,Son in Law,PG-13,95.0,0.0,36448400.0,Steve Rash,Patrick J. Clifton,Pauly Shore,Comedy,1993,1,1
+2315,Matinee,PG,99.0,0.0,9532895.0,Joe Dante,Jerico Stone,John Goodman,Comedy,1993,1,1
+2316,The Good Son,R,87.0,0.0,60613008.0,Joseph Ruben,Ian McEwan,Macaulay Culkin,Drama,1993,1,1
+2319,Killing Zoe,R,96.0,0.0,418961.0,Roger Avary,Roger Avary,Eric Stoltz,Crime,1994,1,1
+2326,Rising Sun,R,129.0,0.0,107198790.0,Philip Kaufman,Michael Crichton,Sean Connery,Action,1993,1,1
+2329,Body Snatchers,R,87.0,0.0,428868.0,Abel Ferrara,Jack Finney,Gabrielle Anwar,Horror,1994,1,1
+2330,Stalingrad,Not Rated,134.0,0.0,152972.0,Joseph Vilsmaier,Jürgen Büscher,Dominique Horwitz,Drama,1993,1,2
+2331,Airborne,PG,91.0,0.0,2850263.0,Rob Bowman,Bill Apablasa,Shane McDermott,Adventure,1993,1,1
+2332,The Thing Called Love,PG-13,116.0,0.0,1029721.0,Peter Bogdanovich,Carol Heikkinen,River Phoenix,Comedy,1993,1,1
+2338,Poetic Justice,R,109.0,0.0,27515786.0,John Singleton,John Singleton,Janet Jackson,Drama,1993,1,1
+2340,The Cement Garden,Not Rated,101.0,0.0,322975.0,Andrew Birkin,Andrew Birkin,Charlotte Gainsbourg,Drama,1994,1,2
+2344,Swing Kids,PG-13,112.0,0.0,5632086.0,Thomas Carter,Jonathan Marc Feldman,Robert Sean Leonard,Drama,1993,1,1
+2345,Heart and Souls,PG-13,104.0,0.0,16589540.0,Ron Underwood,Gregory Hansen,Robert Downey Jr.,Comedy,1993,1,1
+2346,Needful Things,R,120.0,0.0,15185672.0,Fraser C. Heston,Stephen King,Max von Sydow,Crime,1993,1,1
+2365,Weekend at Bernie's II,PG,97.0,0.0,12741891.0,Robert Klane,Robert Klane,Andrew McCarthy,Adventure,1993,1,0
+2366,Les visiteurs,R,107.0,0.0,659810.0,Jean-Marie Poiré,Christian Clavier,Christian Clavier,Comedy,1996,1,2
+2374,Mi vida loca,R,92.0,0.0,3267313.0,Allison Anders,Allison Anders,Angel Aviles,Crime,1994,1,1
+2377,Fatal Instinct,PG-13,91.0,0.0,7839327.0,Carl Reiner,David O'Malley,Armand Assante,Comedy,1993,1,1
+2380,Heaven & Earth,R,140.0,0.0,5864949.0,Oliver Stone,Le Ly Hayslip,Hiep Thi Le,Action,1994,1,1
+2383,Posse,R,111.0,0.0,18289763.0,Mario Van Peebles,Sy Richardson,Mario Van Peebles,Western,1993,1,1
+2386,Even Cowgirls Get the Blues,R,106.0,0.0,1708873.0,Gus Van Sant,Tom Robbins,Uma Thurman,Comedy,1994,1,0
+2404,A Far Off Place,PG,108.0,0.0,12890752.0,Mikael Salomon,Lourens van der Post,Reese Witherspoon,Adventure,1993,1,1
+2417,Cop & ½,PG,97.0,0.0,40689691.0,Henry Winkler,Arne Olsen,Burt Reynolds,Comedy,1993,1,0
+2419,Caro diario,Unrated,100.0,0.0,225278.0,Nanni Moretti,Nanni Moretti,Nanni Moretti,Biography,1994,1,2
+2428,Bhaji on the Beach,R,101.0,0.0,735162.0,Gurinder Chadha,Gurinder Chadha,Kim Vithana,Comedy,1994,1,1
+2429,Silent Tongue,PG-13,102.0,0.0,61274.0,Sam Shepard,Sam Shepard,Alan Bates,Drama,1995,1,1
+2432,Born Yesterday,PG,100.0,0.0,17952857.0,Luis Mandoki,Garson Kanin,Melanie Griffith,Comedy,1993,1,1
+2434,The Nutcracker,G,92.0,0.0,2119994.0,Emile Ardolino,Susan Cooper,Darci Kistler,Family,1993,1,1
+2435,Philadelphia Experiment II,PG-13,97.0,0.0,2970.0,Stephen Cornwell,Wallace C. Bennett,Brad Johnson,Action,1994,1,0
+2436,Blue,Not Rated,79.0,0.0,0.0,Derek Jarman,Derek Jarman,Derek Jarman,Biography,1993,1,2
+2437,Fear of a Black Hat,R,88.0,0.0,233824.0,Rusty Cundieff,Rusty Cundieff,Larry B. Scott,Comedy,1994,1,2
+2443,The Night We Never Met,R,99.0,0.0,1884814.0,Warren Leight,Warren Leight,Matthew Broderick,Comedy,1993,1,1
+2446,Forrest Gump,PG-13,142.0,0.0,678226133.0,Robert Zemeckis,Winston Groom,Tom Hanks,Drama,1994,1,2
+2448,True Lies,R,141.0,0.0,378882411.0,James Cameron,Claude Zidi,Arnold Schwarzenegger,Action,1994,1,2
+2449,The Lion King,G,88.0,0.0,1083720877.0,Roger Allers,Irene Mecchi,Matthew Broderick,Animation,1994,1,2
+2454,Dumb and Dumber,PG-13,107.0,0.0,247275374.0,Peter Farrelly,Peter Farrelly,Jim Carrey,Comedy,1994,1,2
+2462,Little Women,PG,115.0,0.0,50083616.0,Gillian Armstrong,Louisa May Alcott,Susan Sarandon,Drama,1994,1,2
+2463,Street Fighter,PG-13,102.0,0.0,99431786.0,Steven E. de Souza,Steven E. de Souza,Jean-Claude Van Damme,Action,1994,1,0
+2472,The Last Seduction,R,110.0,0.0,5842603.0,John Dahl,Steve Barancik,Linda Fiorentino,Crime,1994,1,2
+2476,Star Trek: Generations,PG,118.0,0.0,118071125.0,David Carson,Gene Roddenberry,Patrick Stewart,Action,1994,1,1
+2477,Disclosure,R,128.0,0.0,214015089.0,Barry Levinson,Michael Crichton,Michael Douglas,Drama,1994,1,1
+2478,Angels in the Outfield,PG,102.0,0.0,50236831.0,William Dear,Dorothy Kingsley,Danny Glover,Comedy,1994,1,1
+2484,Sirens,R,98.0,0.0,7770731.0,John Duigan,John Duigan,Hugh Grant,Comedy,1994,1,1
+2489,The River Wild,PG-13,111.0,0.0,94216343.0,Curtis Hanson,Denis O'Neill,Meryl Streep,Adventure,1994,1,1
+2493,Blown Away,R,121.0,0.0,30156002.0,Stephen Hopkins,John Rice,Jeff Bridges,Action,1994,1,1
+2495,North,PG,87.0,0.0,7182747.0,Rob Reiner,Alan Zweibel,Elijah Wood,Adventure,1994,1,0
+2496,Muriel's Wedding,R,106.0,0.0,15482277.0,P.J. Hogan,P.J. Hogan,Toni Collette,Comedy,1995,1,2
+2501,Once Were Warriors,R,102.0,0.0,1608570.0,Lee Tamahori,Riwia Brown,Rena Owen,Crime,1995,1,2
+2504,Exit to Eden,R,113.0,0.0,6841570.0,Garry Marshall,Anne Rice,Dana Delany,Comedy,1994,1,0
+2509,The Specialist,R,110.0,0.0,170362582.0,Luis Llosa,John Shirley,Sylvester Stallone,Action,1994,1,1
+2512,Serial Mom,R,95.0,0.0,7820688.0,John Waters,John Waters,Kathleen Turner,Comedy,1994,1,1
+2515,When a Man Loves a Woman,R,126.0,0.0,50021959.0,Luis Mandoki,Ronald Bass,Meg Ryan,Drama,1994,1,1
+2518,Surviving the Game,R,96.0,0.0,7727256.0,Ernest R. Dickerson,Eric Bernt,Rutger Hauer,Action,1994,1,1
+2519,My Father the Hero,PG,90.0,0.0,25479558.0,Steve Miner,Gérard Lauzier,Gérard Depardieu,Comedy,1994,1,1
+2523,Chasers,R,102.0,0.0,1596687.0,Dennis Hopper,Joe Batteer,Tom Berenger,Action,1994,1,1
+2526,Torment,Not Rated,102.0,0.0,39003.0,Claude Chabrol,Claude Chabrol,Emmanuelle Béart,Crime,1994,1,2
+2529,Clifford,PG,90.0,0.0,7408745.0,Paul Flaherty,William Porter,Martin Short,Comedy,1994,1,1
+2530,Thumbelina,G,86.0,0.0,11373501.0,Don Bluth,Hans Christian Andersen,Jodi Benson,Animation,1994,1,1
+2542,Greedy,PG-13,113.0,0.0,13137484.0,Jonathan Lynn,Lowell Ganz,Michael J. Fox,Comedy,1994,1,1
+2545,Little Big League,PG,119.0,0.0,12267790.0,Andrew Scheinman,Gregory K. Pincus,Luke Edwards,Comedy,1994,1,1
+2547,Ready to Wear,R,133.0,0.0,11300653.0,Robert Altman,Robert Altman,Sophia Loren,Comedy,1994,1,1
+2548,Bullets Over Broadway,R,98.0,0.0,13383747.0,Woody Allen,Woody Allen,John Cusack,Comedy,1995,1,2
+2551,Spanking the Monkey,Unrated,100.0,0.0,1359736.0,David O. Russell,David O. Russell,Jeremy Davies,Comedy,1994,1,1
+2553,Intersection,R,98.0,0.0,21355893.0,Mark Rydell,David Rayfiel,Richard Gere,Drama,1994,1,1
+2554,Sister My Sister,R,86.0,0.0,217881.0,Nancy Meckler,Wendy Kesselman,Julie Walters,Drama,1995,1,1
+2555,Miracle on 34th Street,PG,114.0,0.0,46264384.0,Les Mayfield,Valentine Davies,Richard Attenborough,Family,1994,1,1
+2563,Jason's Lyric,R,119.0,0.0,20851521.0,Doug McHenry,Bobby Smith Jr.,Allen Payne,Crime,1994,1,1
+2566,Blue Chips,PG-13,108.0,0.0,23070663.0,William Friedkin,Ron Shelton,Nick Nolte,Drama,1994,1,1
+2572,Cemetery Man,R,105.0,0.0,253986.0,Michele Soavi,Tiziano Sclavi,Rupert Everett,Comedy,1996,1,2
+2574,Ashes of Time,R,100.0,0.0,1977198.0,Kar-Wai Wong,Louis Cha,Brigitte Lin,Action,1994,1,2
+2575,Brainscan,R,96.0,0.0,4352094.0,John Flynn,Brian Owens,Edward Furlong,Comedy,1994,1,1
+2581,Through the Olive Trees,G,103.0,0.0,0.0,Abbas Kiarostami,Abbas Kiarostami,Mohamad Ali Keshavarz,Drama,1995,1,2
+2601,The Puppet Masters,R,109.0,0.0,8647042.0,Stuart Orme,Robert A. Heinlein,Donald Sutherland,Horror,1994,1,1
+2603,Backbeat,R,100.0,0.0,2392589.0,Iain Softley,Iain Softley,Stephen Dorff,Biography,1994,1,1
+2604,Leprechaun 2,R,85.0,0.0,2260622.0,Rodman Flender,Mark Jones,Warwick Davis,Comedy,1994,1,0
+2606,Mixed Nuts,PG-13,97.0,0.0,6821850.0,Nora Ephron,Nora Ephron,Steve Martin,Comedy,1994,1,1
+2608,House Party 3,R,100.0,0.0,19281235.0,Eric Meza,Reginald Hudlin,Christopher Reid,Comedy,1994,1,0
+2610,Sleep with Me,R,86.0,0.0,200151.0,Rory Kelly,Duane Dell'Amico,Craig Sheffer,Comedy,1994,1,1
+2611,Princess Caraboo,PG,97.0,0.0,3062530.0,Michael Austin,Michael Austin,Phoebe Cates,Comedy,1994,1,1
+2612,A Low Down Dirty Shame,R,108.0,0.0,29392418.0,Keenen Ivory Wayans,Keenen Ivory Wayans,Keenen Ivory Wayans,Action,1994,1,1
+2617,A Troll in Central Park,G,76.0,0.0,71368.0,Don Bluth,Stu Krieger,Dom DeLuise,Animation,1994,1,1
+2624,Mrs. Parker and the Vicious Circle,R,125.0,0.0,2144667.0,Alan Rudolph,Alan Rudolph,Jennifer Jason Leigh,Biography,1994,1,1
+2635,Holy Matrimony,PG-13,93.0,0.0,713234.0,Leonard Nimoy,David Weisberg,Patricia Arquette,Comedy,1994,1,1
+2637,Squanto: A Warrior's Tale,PG,102.0,0.0,3342223.0,Xavier Koller,Darlene Craviotto,Adam Beach,Adventure,1994,1,1
+2641,Rapa Nui,R,107.0,0.0,305070.0,Kevin Reynolds,Kevin Reynolds,Jason Scott Lee,Action,1994,1,1
+2647,Braveheart,R,178.0,0.0,213216216.0,Mel Gibson,Randall Wallace,Mel Gibson,Biography,1995,1,2
+2650,Jumanji,PG,104.0,0.0,262821940.0,Joe Johnston,Jonathan Hensleigh,Robin Williams,Adventure,1995,1,1
+2652,Congo,PG-13,109.0,0.0,152022101.0,Frank Marshall,Michael Crichton,Laura Linney,Action,1995,1,1
+2656,Desperado,R,104.0,0.0,25405445.0,Robert Rodriguez,Robert Rodriguez,Antonio Banderas,Action,1995,1,2
+2660,12 Monkeys,R,129.0,0.0,168839459.0,Terry Gilliam,Chris Marker,Bruce Willis,Mystery,1996,1,2
+2661,Leaving Las Vegas,R,111.0,0.0,32029928.0,Mike Figgis,John O'Brien,Nicolas Cage,Drama,1996,1,2
+2662,Showgirls,NC-17,128.0,0.0,20358624.0,Paul Verhoeven,Joe Eszterhas,Elizabeth Berkley,Drama,1995,1,0
+2672,Species,R,108.0,0.0,113374103.0,Roger Donaldson,Dennis Feldman,Natasha Henstridge,Action,1995,1,1
+2678,La Haine,Not Rated,98.0,0.0,302606.0,Mathieu Kassovitz,Mathieu Kassovitz,Vincent Cassel,Crime,1996,1,2
+2680,"To Wong Foo Thanks for Everything, Julie Newmar",PG-13,109.0,0.0,47774193.0,Beeban Kidron,Douglas Carter Beane,Wesley Snipes,Comedy,1995,1,1
+2681,Heavyweights,PG,100.0,0.0,17689177.0,Steven Brill,Judd Apatow,Tom McGowan,Comedy,1995,1,1
+2682,Tank Girl,R,104.0,0.0,4064495.0,Rachel Talalay,Alan Martin,Lori Petty,Action,1995,1,1
+2685,A Goofy Movie,G,78.0,0.0,35348597.0,Kevin Lima,Jymn Magon,Bill Farmer,Animation,1995,1,1
+2688,To Die For,R,106.0,0.0,21284514.0,Gus Van Sant,Joyce Maynard,Nicole Kidman,Comedy,1995,1,1
+2697,Johnny Mnemonic,R,96.0,0.0,19075720.0,Robert Longo,William Gibson,Keanu Reeves,Action,1995,1,1
+2703,The City of Lost Children,R,112.0,0.0,1781465.0,Marc Caro,Gilles Adrien,Ron Perlman,Fantasy,1995,1,2
+2710,Higher Learning,R,127.0,0.0,38290723.0,John Singleton,John Singleton,Omar Epps,Crime,1995,1,1
+2712,The Prophecy,R,98.0,0.0,16115878.0,Gregory Widen,Gregory Widen,Christopher Walken,Action,1995,1,1
+2718,The Big Green,PG,100.0,0.0,17736619.0,Holly Goldberg Sloan,Holly Goldberg Sloan,Steve Guttenberg,Comedy,1995,1,1
+2719,Virtuosity,R,106.0,0.0,24047675.0,Brett Leonard,Eric Bernt,Denzel Washington,Action,1995,1,1
+2722,Assassins,R,132.0,0.0,30303072.0,Richard Donner,Lilly Wachowski,Sylvester Stallone,Action,1995,1,1
+2727,Dead Presidents,R,119.0,0.0,24147179.0,Albert Hughes,Allen Hughes,Larenz Tate,Action,1995,1,1
+2732,Rumble in the Bronx,R,87.0,0.0,32392047.0,Stanley Tong,Edward Tang,Jackie Chan,Action,1996,1,1
+2734,How to Make an American Quilt,PG-13,117.0,0.0,41200020.0,Jocelyn Moorhouse,Whitney Otto,Winona Ryder,Comedy,1995,1,1
+2741,Village of the Damned,R,98.0,0.0,9418365.0,John Carpenter,John Wyndham,Christopher Reeve,Horror,1995,1,1
+2742,Wild Bill,R,98.0,0.0,2193982.0,Walter Hill,Peter Dexter,Jeff Bridges,Action,1995,1,1
+2753,Underground,Not Rated,167.0,0.0,171082.0,Emir Kusturica,Dusan Kovacevic,Predrag 'Miki' Manojlovic,Comedy,1997,1,2
+2757,Fair Game,R,91.0,0.0,11534477.0,Andrew Sipes,Paula Gosling,William Baldwin,Action,1995,1,0
+2761,Senior Trip,R,91.0,0.0,4686937.0,Kelly Makin,Roger Kumble,Matt Frewer,Adventure,1995,1,1
+2784,Heavy,R,105.0,0.0,941414.0,James Mangold,James Mangold,Pruitt Taylor Vince,Drama,1996,1,1
+2787,The Cure,PG-13,97.0,0.0,2568425.0,Peter Horton,Robert Kuhn,Joseph Mazzello,Drama,1995,1,2
+2789,Forget Paris,PG-13,101.0,0.0,33177694.0,Billy Crystal,Billy Crystal,Billy Crystal,Comedy,1995,1,1
+2791,The Hunted,R,110.0,0.0,6609661.0,J.F. Lawton,J.F. Lawton,Christopher Lambert,Action,1995,1,1
+2814,Fluke,PG,96.0,0.0,3987768.0,Carlo Carlei,James Herbert,Matthew Modine,Drama,1995,1,1
+2825,Rumpelstiltskin,R,87.0,0.0,0.0,Mark Jones,Mark Jones,Max Grodénchik,Comedy,1995,1,0
+2830,Three Wishes,PG,115.0,0.0,7027517.0,Martha Coolidge,Clifford Green,Patrick Swayze,Drama,1995,1,1
+2831,Far from Home: the Adventures of Yellow Dog,PG,81.0,0.0,11642946.0,Phillip Borsos,Phillip Borsos,Jesse Bradford,Adventure,1995,1,1
+2835,Magic in the Water,PG,101.0,0.0,2680717.0,Rick Stevenson,Rick Stevenson,Mark Harmon,Adventure,1995,1,1
+2838,Rough Magic,PG-13,104.0,0.0,247202.0,Clare Peploe,James Hadley Chase,Bridget Fonda,Comedy,1997,1,1
+2848,Sleepers,R,147.0,0.0,165615285.0,Barry Levinson,Lorenzo Carcaterra,Robert De Niro,Crime,1996,1,2
+2854,Twister,PG-13,113.0,0.0,494471524.0,Jan de Bont,Michael Crichton,Helen Hunt,Action,1996,1,1
+2860,A Time to Kill,R,149.0,0.0,152266007.0,Joel Schumacher,John Grisham,Matthew McConaughey,Crime,1996,1,2
+2865,The Long Kiss Goodnight,R,121.0,0.0,89456761.0,Renny Harlin,Shane Black,Geena Davis,Action,1996,1,1
+2868,Stealing Beauty,R,118.0,0.0,4762310.0,Bernardo Bertolucci,Bernardo Bertolucci,Jeremy Irons,Drama,1996,1,1
+2872,The Birdcage,R,117.0,0.0,185260553.0,Mike Nichols,Jean Poiret,Robin Williams,Comedy,1996,1,2
+2875,Kingpin,PG-13,114.0,0.0,25023434.0,Bobby Farrelly,Barry Fanaro,Woody Harrelson,Comedy,1996,1,1
+2879,Striptease,R,115.0,0.0,113309743.0,Andrew Bergman,Carl Hiaasen,Demi Moore,Comedy,1996,1,0
+2881,Swingers,R,96.0,0.0,4555020.0,Doug Liman,Jon Favreau,Vince Vaughn,Comedy,1997,1,2
+2884,The Cable Guy,PG-13,96.0,0.0,102825796.0,Ben Stiller,Lou Holtz Jr.,Jim Carrey,Comedy,1996,1,1
+2895,James and the Giant Peach,PG,79.0,0.0,28946127.0,Henry Selick,Roald Dahl,Paul Terry,Animation,1996,1,1
+2900,White Squall,PG-13,129.0,0.0,10292300.0,Ridley Scott,Charles Gieg Jr.,Jeff Bridges,Adventure,1996,1,1
+2902,Broken Arrow,R,108.0,0.0,150270147.0,John Woo,Graham Yost,John Travolta,Action,1996,1,1
+2908,Waiting for Guffman,R,84.0,0.0,2923982.0,Christopher Guest,Christopher Guest,Christopher Guest,Comedy,1997,1,2
+2914,Beavis and Butt-Head Do America,PG-13,81.0,0.0,63118386.0,Directors,Mike Judge,Mike Judge,Animation,1996,1,1
+2917,Barb Wire,R,98.0,0.0,3793614.0,David Hogan,Chris Warner,Pamela Anderson,Action,1996,1,0
+2919,The Phantom,PG,100.0,0.0,17323326.0,Simon Wincer,Lee Falk,Billy Zane,Action,1996,1,0
+2921,Eye for an Eye,R,101.0,0.0,26877589.0,John Schlesinger,Erika Holzer,Sally Field,Crime,1996,1,1
+2922,2 Days in the Valley,R,104.0,0.0,11132210.0,John Herzfeld,John Herzfeld,Teri Hatcher,Comedy,1996,1,1
+2925,Freeway,R,102.0,0.0,295493.0,Matthew Bright,Matthew Bright,Reese Witherspoon,Comedy,1997,1,1
+2926,Kazaam,PG,93.0,0.0,18937262.0,Paul Michael Glaser,Paul Michael Glaser,Shaquille O'Neal,Comedy,1996,1,0
+2927,Down Periscope,PG-13,92.0,0.0,37553752.0,David S. Ward,Hugh Wilson,Kelsey Grammer,Comedy,1996,1,1
+2930,Jingle All the Way,PG,89.0,0.0,129832389.0,Brian Levant,Randy Kornfield,Arnold Schwarzenegger,Adventure,1996,1,1
+2937,Lone Star,R,135.0,0.0,12408986.0,John Sayles,John Sayles,Chris Cooper,Drama,1996,1,2
+2939,Phenomenon,PG,123.0,0.0,152036382.0,Jon Turteltaub,Gerald Di Pego,John Travolta,Drama,1996,1,1
+2942,Evita,PG,135.0,0.0,141047179.0,Alan Parker,Tim Rice,Madonna,Biography,1997,1,1
+2948,Multiplicity,PG-13,117.0,0.0,21075014.0,Harold Ramis,Chris Miller,Michael Keaton,Comedy,1996,1,1
+2953,Basquiat,R,107.0,0.0,3011195.0,Julian Schnabel,Lech Majewski,Jeffrey Wright,Biography,1996,1,1
+2961,Jude,R,123.0,0.0,409144.0,Michael Winterbottom,Hossein Amini,Christopher Eccleston,Drama,1996,1,1
+2962,Bulletproof,R,84.0,0.0,22611954.0,Ernest R. Dickerson,Joe Gayton,Damon Wayans,Action,1996,1,1
+2966,The Portrait of a Lady,PG-13,144.0,0.0,3692836.0,Jane Campion,Henry James,Nicole Kidman,Drama,1997,1,1
+2967,Foxfire,R,102.0,0.0,269300.0,Annette Haywood-Carter,Joyce Carol Oates,Hedy Burress,Drama,1996,1,1
+2969,Up Close & Personal,PG-13,124.0,0.0,100688705.0,Jon Avnet,Joan Didion,Robert Redford,Drama,1996,1,1
+2974,Ghosts of Mississippi,PG-13,130.0,0.0,13323144.0,Rob Reiner,Lewis Colick,Alec Baldwin,Drama,1997,1,1
+2977,Jane Eyre,PG,112.0,0.0,5200601.0,Franco Zeffirelli,Charlotte Brontë,William Hurt,Drama,1996,1,1
+2979,SubUrbia,R,121.0,0.0,656747.0,Richard Linklater,Eric Bogosian,Giovanni Ribisi,Comedy,1997,1,1
+3008,Mary Reilly,R,108.0,0.0,12379402.0,Stephen Frears,Valerie Martin,Julia Roberts,Drama,1996,1,1
+3012,Caught,R,110.0,0.0,0.0,Robert M. Young,Edward Pomerantz,Edward James Olmos,Drama,1996,1,1
+3015,All Dogs Go to Heaven 2,G,82.0,0.0,8620678.0,Larry Leker,Arne Olsen,Charlie Sheen,Animation,1996,1,1
+3026,The Van,R,100.0,0.0,712095.0,Stephen Frears,Roddy Doyle,Colm Meaney,Comedy,1997,1,1
+3028,Moll Flanders,PG-13,123.0,0.0,3486957.0,Pen Densham,Daniel Defoe,Robin Wright,Drama,1996,1,1
+3030,Shiloh,PG,93.0,0.0,1007822.0,Dale Rosenbloom,Phyllis Reynolds Naylor,Blake Heron,Drama,1997,1,1
+3034,Mr. Wrong,PG-13,96.0,0.0,12825141.0,Nick Castle,Chris Matheson,Ellen DeGeneres,Comedy,1996,1,0
+3038,Bloodsport 2,R,90.0,0.0,684351.0,Alan Mehrez,Jeff Schechter,Daniel Bernhardt,Action,1996,1,0
+3039,Phat Beach,R,89.0,0.0,1383553.0,Doug Ellin,Cleveland O'Neal III,Jermaine Hopkins,Comedy,1996,1,0
+3042,Celtic Pride,PG-13,91.0,0.0,9255027.0,Tom DeCerchio,Judd Apatow,Damon Wayans,Comedy,1996,1,1
+3044,The Game,R,129.0,0.0,109423648.0,David Fincher,John Brancato,Michael Douglas,Drama,1997,1,2
+3048,Austin Powers: International Man of Mystery,PG-13,89.0,0.0,67683989.0,Jay Roach,Mike Myers,Mike Myers,Adventure,1997,1,1
+3049,Lolita,R,137.0,0.0,1071255.0,Adrian Lyne,Vladimir Nabokov,Jeremy Irons,Drama,1998,1,1
+3053,Con Air,R,115.0,0.0,224012234.0,Simon West,Scott Rosenberg,Nicolas Cage,Action,1997,1,1
+3054,Jackie Brown,R,154.0,0.0,39673807.0,Quentin Tarantino,Quentin Tarantino,Pam Grier,Crime,1997,1,2
+3059,Home Alone 3,PG,102.0,0.0,79082515.0,Raja Gosnell,John Hughes,Alex D. Linz,Action,1997,1,0
+3060,Air Force One,R,124.0,0.0,315156409.0,Wolfgang Petersen,Andrew W. Marlowe,Harrison Ford,Action,1997,1,1
+3064,Dante's Peak,PG-13,108.0,0.0,178127760.0,Roger Donaldson,Leslie Bohem,Pierce Brosnan,Action,1997,1,1
+3066,Princess Mononoke,PG-13,134.0,0.0,169785704.0,Hayao Miyazaki,Hayao Miyazaki,Yôji Matsuda,Animation,1997,1,2
+3067,Scream 2,R,120.0,0.0,172363301.0,Wes Craven,Kevin Williamson,Neve Campbell,Horror,1997,1,1
+3070,Gattaca,PG-13,106.0,0.0,12532777.0,Andrew Niccol,Andrew Niccol,Ethan Hawke,Drama,1997,1,2
+3075,Liar Liar,PG-13,86.0,0.0,302710615.0,Tom Shadyac,Paul Guay,Jim Carrey,Comedy,1997,1,1
+3076,Donnie Brasco,R,127.0,0.0,124909762.0,Mike Newell,Joseph D. Pistone,Al Pacino,Biography,1997,1,2
+3077,George of the Jungle,PG,92.0,0.0,174463257.0,Sam Weisman,Jay Ward,Brendan Fraser,Action,1997,1,1
+3078,Anastasia,G,94.0,0.0,139804348.0,Don Bluth,Susan Gauthier,Meg Ryan,Animation,1997,1,2
+3081,Good Burger,PG,95.0,0.0,23712993.0,Brian Robbins,Dan Schneider,Kel Mitchell,Comedy,1997,1,1
+3083,The Edge,R,117.0,0.0,43312294.0,Lee Tamahori,David Mamet,Anthony Hopkins,Action,1997,1,1
+3087,Speed 2: Cruise Control,PG-13,121.0,0.0,164508066.0,Jan de Bont,Graham Yost,Sandra Bullock,Action,1997,1,0
+3093,Seven Years in Tibet,PG-13,136.0,0.0,131457682.0,Jean-Jacques Annaud,Heinrich Harrer,Brad Pitt,Adventure,1997,1,2
+3099,U Turn,R,125.0,0.0,6682098.0,Oliver Stone,John Ridley,Sean Penn,Crime,1997,1,1
+3123,Open Your Eyes,R,119.0,0.0,377967.0,Alejandro Amenábar,Alejandro Amenábar,Eduardo Noriega,Drama,1997,1,2
+3125,Murder at 1600,R,107.0,0.0,25804707.0,Dwight H. Little,Wayne Beach,Wesley Snipes,Action,1997,1,1
+3129,Soul Food,R,115.0,0.0,43700855.0,George Tillman Jr.,George Tillman Jr.,Vanessa Williams,Comedy,1997,1,1
+3138,Wishmaster,R,90.0,0.0,15738769.0,Robert Kurtzman,Peter Atkins,Tammy Lauren,Fantasy,1997,1,1
+3145,The Sweet Hereafter,R,112.0,0.0,3263585.0,Atom Egoyan,Russell Banks,Ian Holm,Drama,1997,1,2
+3150,Steel,PG-13,97.0,0.0,1710972.0,Kenneth Johnson,Louise Simonson,Shaquille O'Neal,Action,1997,1,0
+3152,Kundun,PG-13,134.0,0.0,5684789.0,Martin Scorsese,Melissa Mathison,Tenzin Thuthob Tsarong,Biography,1998,1,1
+3153,Cure,Not Rated,111.0,0.0,0.0,Kiyoshi Kurosawa,Kiyoshi Kurosawa,Masato Hagiwara,Crime,2001,1,2
+3154,Live Flesh,R,103.0,0.0,1785901.0,Pedro Almodóvar,Pedro Almodóvar,Liberto Rabal,Drama,1998,1,2
+3160,Turbo: A Power Rangers Movie,PG,99.0,0.0,9615840.0,Shuki Levy,Shuki Levy,Jason David Frank,Action,1997,1,0
+3168,Nowhere,R,82.0,0.0,194201.0,Gregg Araki,Gregg Araki,James Duval,Comedy,1997,1,1
+3170,Excess Baggage,PG-13,101.0,0.0,14515490.0,Marco Brambilla,Max D. Adams,Alicia Silverstone,Action,1997,1,1
+3173,The Beautician and the Beast,PG,105.0,0.0,11486880.0,Ken Kwapis,Todd Graff,Fran Drescher,Comedy,1997,1,1
+3175,City of Industry,R,97.0,0.0,1568258.0,John Irvin,Ken Solarz,Harvey Keitel,Crime,1997,1,1
+3180,A Life Less Ordinary,R,103.0,0.0,4366722.0,Danny Boyle,John Hodge,Cameron Diaz,Comedy,1997,1,1
+3182,Insomnia,Not Rated,96.0,0.0,227569.0,Erik Skjoldbjærg,Nikolaj Frobenius,Stellan Skarsgård,Crime,1998,1,2
+3184,Nightwatch,R,101.0,0.0,1179002.0,Ole Bornedal,Ole Bornedal,Ewan McGregor,Drama,1998,1,1
+3191,Gridlock'd,R,91.0,0.0,5571205.0,Vondie Curtis-Hall,Vondie Curtis-Hall,Tupac Shakur,Comedy,1997,1,1
+3199,Prefontaine,PG-13,106.0,0.0,589304.0,Steve James,Steve James,Jared Leto,Biography,1997,1,1
+3200,Cats Don't Dance,G,75.0,0.0,3566637.0,Mark Dindal,Mark Dindal,Scott Bakula,Animation,1997,1,1
+3208,Two Girls and a Guy,R,84.0,0.0,2057193.0,James Toback,James Toback,Robert Downey Jr.,Comedy,1999,1,1
+3214,Leave It to Beaver,PG,84.0,0.0,10925060.0,Andy Cadiff,Bob Mosher,Christopher McDonald,Comedy,1997,1,1
+3218,Plump Fiction,R,82.0,0.0,71145.0,Bob Koherr,Bob Koherr,Tommy Davidson,Comedy,1997,1,0
+3221,Gone Fishin',PG,94.0,0.0,19745922.0,Christopher Cain,Jill Mazursky,Joe Pesci,Comedy,1997,1,0
+3230,Eight Days a Week,R,92.0,0.0,9090.0,Michael Davis,Michael Davis,Joshua Schaefer,Comedy,1999,1,1
+3231,Welcome to Sarajevo,R,103.0,0.0,334319.0,Michael Winterbottom,Michael Nicholson,Stephen Dillane,Drama,1997,1,1
+3236,How to Be a Player,R,93.0,0.0,14009368.0,Lionel C. Martin,Mark Brown,Bill Bellamy,Comedy,1997,1,1
+3243,The MatchMaker,R,97.0,0.0,3392080.0,Mark Joffe,Greg Dinner,Janeane Garofalo,Comedy,1997,1,1
+3252,Wild Things,R,108.0,0.0,30166293.0,John McNaughton,Stephen Peters,Kevin Bacon,Crime,1998,1,1
+3255,Meet Joe Black,PG-13,178.0,0.0,142940100.0,Martin Brest,Ron Osborn,Brad Pitt,Drama,1998,1,2
+3257,Fear and Loathing in Las Vegas,R,118.0,0.0,10680275.0,Terry Gilliam,Hunter S. Thompson,Johnny Depp,Adventure,1998,1,2
+3259,There's Something About Mary,R,119.0,0.0,369884651.0,Bobby Farrelly,Ed Decter,Cameron Diaz,Comedy,1998,1,2
+3262,Out of Sight,R,123.0,0.0,77745966.0,Steven Soderbergh,Elmore Leonard,George Clooney,Comedy,1998,1,1
+3266,Pleasantville,PG-13,124.0,0.0,49805462.0,Gary Ross,Gary Ross,Tobey Maguire,Comedy,1998,1,2
+3270,The Mask of Zorro,PG-13,136.0,0.0,250288523.0,Martin Campbell,Johnston McCulley,Antonio Banderas,Action,1998,1,1
+3280,Stepmom,PG-13,125.0,0.0,159710793.0,Chris Columbus,Gigi Levangie,Julia Roberts,Comedy,1998,1,1
+3293,The Horse Whisperer,PG-13,169.0,0.0,186883563.0,Robert Redford,Nick Evans,Robert Redford,Drama,1998,1,1
+3294,Happiness,Unrated,134.0,0.0,2982011.0,Todd Solondz,Todd Solondz,Jane Adams,Comedy,1998,1,2
+3295,Patch Adams,PG-13,115.0,0.0,202292902.0,Tom Shadyac,Patch Adams,Robin Williams,Biography,1998,1,1
+3297,U.S. Marshals,PG-13,131.0,0.0,102367405.0,Stuart Baird,Roy Huggins,Tommy Lee Jones,Action,1998,1,1
+3303,54,R,93.0,0.0,16757163.0,Mark Christopher,Mark Christopher,Ryan Phillippe,Drama,1998,1,1
+3306,Buffalo '66,R,110.0,0.0,2375097.0,Vincent Gallo,Vincent Gallo,Vincent Gallo,Comedy,1998,1,2
+3307,Psycho,R,105.0,0.0,37170655.0,Gus Van Sant,Robert Bloch,Vince Vaughn,Horror,1998,1,0
+3309,Disturbing Behavior,R,84.0,0.0,17514980.0,David Nutter,Scott Rosenberg,James Marsden,Horror,1998,1,1
+3311,Run Lola Run,R,80.0,0.0,7267585.0,Tom Tykwer,Tom Tykwer,Franka Potente,Crime,1999,1,2
+3312,City of Angels,PG-13,114.0,0.0,198685114.0,Brad Silberling,Wim Wenders,Nicolas Cage,Drama,1998,1,1
+3317,Vampires,R,108.0,0.0,20308772.0,John Carpenter,John Steakley,James Woods,Action,1998,1,1
+3339,Dirty Work,PG-13,82.0,0.0,10023282.0,Bob Saget,Frank Sebastiano,Norm MacDonald,Comedy,1998,1,1
+3340,Apt Pupil,R,111.0,0.0,8863193.0,Bryan Singer,Stephen King,Ian McKellen,Crime,1998,1,1
+3345,Madeline,PG,88.0,0.0,29967750.0,Daisy von Scherler Mayer,Ludwig Bemelmans,Frances McDormand,Comedy,1998,1,1
+3347,The Big Hit,R,91.0,0.0,27007143.0,Kirk Wong,Ben Ramsey,Mark Wahlberg,Action,1998,1,1
+3348,Blues Brothers 2000,PG-13,123.0,0.0,14051384.0,John Landis,Dan Aykroyd,Dan Aykroyd,Action,1998,1,0
+3353,Twilight,R,94.0,0.0,15055091.0,Robert Benton,Robert Benton,Paul Newman,Crime,1998,1,1
+3357,Waking Ned Devine,PG,91.0,0.0,55257450.0,Kirk Jones,Kirk Jones,Ian Bannen,Comedy,1999,1,2
+3366,Wrongfully Accused,PG-13,87.0,0.0,9623329.0,Pat Proft,Pat Proft,Leslie Nielsen,Action,1998,1,1
+3371,"Crna macka, beli macor",R,127.0,0.0,351447.0,Emir Kusturica,Gordan Mihic,Bajram Severdzan,Comedy,1998,1,2
+3373,Jack Frost,PG,101.0,0.0,34562556.0,Troy Miller,Mark Steven Johnson,Michael Keaton,Comedy,1998,1,1
+3383,Dead Man on Campus,R,96.0,0.0,15064946.0,Alan Cohn,Anthony Abrams,Tom Everett Scott,Comedy,1998,1,1
+3388,Central Station,R,110.0,0.0,5971073.0,Walter Salles,Marcos Bernstein,Fernanda Montenegro,Drama,1998,1,2
+3392,Return to Paradise,R,111.0,0.0,8341087.0,Joseph Ruben,Pierre Jolivet,Vince Vaughn,Drama,1998,1,1
+3401,Lovers of the Arctic Circle,R,112.0,0.0,357549.0,Julio Medem,Julio Medem,Najwa Nimri,Drama,1998,1,2
+3404,Slums of Beverly Hills,R,91.0,0.0,5502773.0,Tamara Jenkins,Tamara Jenkins,Natasha Lyonne,Comedy,1998,1,1
+3406,Strangeland,R,85.0,0.0,713239.0,John Pieplow,Dee Snider,Kevin Gage,Horror,1998,1,1
+3408,Paulie,PG,91.0,0.0,26875268.0,John Roberts,Laurie Craig,Gena Rowlands,Adventure,1998,1,1
+3409,After Life,Not Rated,119.0,0.0,801985.0,Hirokazu Koreeda,Hirokazu Koreeda,Arata Iura,Drama,1999,1,2
+3411,Permanent Midnight,R,88.0,0.0,1171001.0,David Veloz,Jerry Stahl,Ben Stiller,Biography,1999,1,1
+3421,I'll Be Home for Christmas,PG,86.0,0.0,12214338.0,Arlene Sanford,Tom Nursall,Jonathan Taylor Thomas,Comedy,1998,1,1
+3426,The Acid House,Unrated,111.0,0.0,0.0,Paul McGuigan,Irvine Welsh,Stephen McCole,Comedy,1999,1,1
+3428,Kissing a Fool,R,93.0,0.0,4106588.0,Doug Ellin,James Frey,David Schwimmer,Comedy,1998,1,1
+3430,Sour Grapes,R,91.0,0.0,123104.0,Larry David,Larry David,Steven Weber,Comedy,1998,1,1
+3433,Place Vendôme,R,117.0,0.0,895788.0,Nicole Garcia,Jacques Fieschi,Catherine Deneuve,Crime,1998,1,1
+3443,Sweet Jane,Not Rated,83.0,0.0,0.0,Joe Gayton,Joe Gayton,Samantha Mathis,Drama,1998,1,1
+3446,The Talented Mr. Ripley,R,139.0,0.0,128799509.0,Anthony Minghella,Patricia Highsmith,Matt Damon,Crime,1999,1,2
+3448,The Mummy,PG-13,124.0,0.0,415933406.0,Stephen Sommers,Stephen Sommers,Brendan Fraser,Action,1999,1,1
+3457,Galaxy Quest,PG,102.0,0.0,90683916.0,Dean Parisot,David Howard,Tim Allen,Adventure,1999,1,2
+3460,The Blair Witch Project,R,81.0,0.0,248639099.0,Daniel Myrick,Daniel Myrick,Heather Donahue,Horror,1999,1,1
+3465,Deep Blue Sea,R,105.0,0.0,164648142.0,Renny Harlin,Duncan Kennedy,Thomas Jane,Action,1999,1,1
+3474,Election,R,103.0,0.0,14902041.0,Alexander Payne,Tom Perrotta,Matthew Broderick,Comedy,1999,1,2
+3476,The Iron Giant,PG,86.0,0.0,23180087.0,Brad Bird,Tim McCanlies,Eli Marienthal,Animation,1999,1,2
+3485,Deuce Bigalow: Male Gigolo,R,88.0,0.0,92938755.0,Mike Mitchell,Harris Goldberg,Rob Schneider,Comedy,1999,1,1
+3490,Drop Dead Gorgeous,PG-13,97.0,0.0,10571408.0,Michael Patrick Jann,Lona Williams,Kirsten Dunst,Comedy,1999,1,1
+3491,Boys Don't Cry,R,118.0,0.0,11540607.0,Kimberly Peirce,Kimberly Peirce,Hilary Swank,Biography,2000,1,2
+3502,October Sky,PG,108.0,0.0,34698753.0,Joe Johnston,Homer H. Hickam Jr.,Jake Gyllenhaal,Biography,1999,1,2
+3510,"South Park: Bigger, Longer & Uncut",R,81.0,0.0,83137603.0,Trey Parker,Trey Parker,Trey Parker,Animation,1999,1,2
+3512,Idle Hands,R,92.0,0.0,4152230.0,Rodman Flender,Terri Hughes Burton,Devon Sawa,Comedy,1999,1,1
+3519,Ravenous,R,101.0,0.0,2062405.0,Antonia Bird,Ted Griffin,Guy Pearce,Adventure,1999,1,1
+3521,Mansfield Park,PG-13,112.0,0.0,4775847.0,Patricia Rozema,Jane Austen,Frances O'Connor,Comedy,1999,1,2
+3522,Stir of Echoes,R,99.0,0.0,21142914.0,David Koepp,Richard Matheson,Kevin Bacon,Horror,1999,1,1
+3525,Teaching Mrs. Tingle,PG-13,96.0,0.0,8951935.0,Kevin Williamson,Kevin Williamson,Helen Mirren,Comedy,1999,1,1
+3529,Inspector Gadget,PG,78.0,0.0,134403112.0,David Kellogg,Andy Heyward,Matthew Broderick,Action,1999,1,0
+3530,Arlington Road,R,117.0,0.0,41067311.0,Mark Pellington,Ehren Kruger,Jeff Bridges,Action,1999,1,2
+3532,All About My Mother,R,101.0,0.0,67952969.0,Pedro Almodóvar,Pedro Almodóvar,Cecilia Roth,Drama,2000,1,2
+3534,Blue Streak,PG-13,93.0,0.0,117758500.0,Les Mayfield,Michael Berry,Martin Lawrence,Action,1999,1,1
+3536,Message in a Bottle,PG-13,126.0,0.0,118880016.0,Luis Mandoki,Nicholas Sparks,Kevin Costner,Drama,1999,1,1
+3547,Dick,PG-13,94.0,0.0,6262878.0,Andrew Fleming,Andrew Fleming,Kirsten Dunst,Comedy,1999,1,1
+3550,Titus,R,162.0,0.0,2259680.0,Julie Taymor,William Shakespeare,Anthony Hopkins,Drama,2000,1,2
+3566,Edtv,PG-13,122.0,0.0,35242897.0,Ron Howard,Émile Gaudreault,Matthew McConaughey,Comedy,1999,1,1
+3568,Random Hearts,R,133.0,0.0,74608570.0,Sydney Pollack,Warren Adler,Harrison Ford,Drama,1999,1,1
+3571,Fantasia 2000,G,75.0,0.0,90874570.0,Directors,Eric Goldberg,James Levine,Animation,2000,1,2
+3572,The Rage: Carrie 2,R,104.0,0.0,17762705.0,Katt Shea,Stephen King,Emily Bergl,Horror,1999,1,0
+3573,The Astronaut's Wife,R,109.0,0.0,19598588.0,Rand Ravich,Rand Ravich,Charlize Theron,Drama,1999,1,1
+3581,The Adventures of Elmo in Grouchland,G,73.0,0.0,11683047.0,Gary Halvorson,Mitchell Kriegman,Kevin Clash,Adventure,1999,1,1
+3585,Dudley Do-Right,PG,77.0,0.0,9974410.0,Hugh Wilson,Jay Ward,Brendan Fraser,Comedy,1999,1,0
+3593,Pokémon the Movie 2000,G,99.0,0.0,133949270.0,Michael Haigney,Satoshi Tajiri,Veronica Taylor,Animation,2000,1,1
+3596,At First Sight,PG-13,128.0,0.0,22365133.0,Irwin Winkler,Oliver Sacks,Val Kilmer,Drama,1999,1,1
+3601,Cookie's Fortune,PG-13,118.0,0.0,10920544.0,Robert Altman,Anne Rapp,Glenn Close,Comedy,1999,1,1
+3604,Onegin,R,106.0,0.0,206128.0,Martha Fiennes,Peter Ettedgui,Ralph Fiennes,Drama,1999,1,1
+3611,The Love Letter,PG-13,88.0,0.0,9177355.0,Peter Ho-Sun Chan,Cathleen Schine,Kate Capshaw,Comedy,1999,1,1
+3613,In Too Deep,R,95.0,0.0,14011454.0,Michael Rymer,Michael Henry Brown,Omar Epps,Crime,1999,1,1
+3620,Play It to the Bone,R,124.0,0.0,8678812.0,Ron Shelton,Ron Shelton,Woody Harrelson,Comedy,2000,1,1
+3627,The Color of Paradise,PG,90.0,0.0,2777552.0,Majid Majidi,Majid Majidi,Hossein Mahjoub,Drama,2000,1,2
+3631,An Affair of Love,R,80.0,0.0,401299.0,Frédéric Fonteyne,Philippe Blasband,Nathalie Baye,Drama,1999,1,2
+3633,Aimee & Jaguar,Not Rated,125.0,0.0,927107.0,Max Färberböck,Max Färberböck,Maria Schrader,Biography,1999,1,2
+3636,The Minus Man,R,111.0,0.0,370668.0,Hampton Fancher,Lew McCreary,Owen Wilson,Crime,1999,1,1
+3643,Joe the King,R,93.0,0.0,60279.0,Frank Whaley,Frank Whaley,Noah Fleiss,Crime,1999,1,1
+3645,American Psycho,R,101.0,0.0,34266564.0,Mary Harron,Bret Easton Ellis,Christian Bale,Comedy,2000,1,2
+3655,X-Men,PG-13,104.0,0.0,296339528.0,Bryan Singer,Tom DeSanto,Patrick Stewart,Action,2000,1,2
+3659,Unbreakable,PG-13,106.0,0.0,248118121.0,M. Night Shyamalan,M. Night Shyamalan,Bruce Willis,Drama,2000,1,2
+3662,The Beach,R,119.0,0.0,144056873.0,Danny Boyle,John Hodge,Leonardo DiCaprio,Adventure,2000,1,1
+3665,Mission: Impossible II,PG-13,123.0,0.0,546388108.0,John Woo,Bruce Geller,Tom Cruise,Action,2000,1,1
+3667,The 6th Day,PG-13,123.0,0.0,96085477.0,Roger Spottiswoode,Cormac Wibberley,Arnold Schwarzenegger,Action,2000,1,1
+3668,Chicken Run,G,84.0,0.0,224834564.0,Peter Lord,Peter Lord,Mel Gibson,Animation,2000,1,1
+3670,Final Destination,R,98.0,0.0,112880294.0,James Wong,Glen Morgan,Devon Sawa,Horror,2000,1,1
+3674,What Lies Beneath,PG-13,130.0,0.0,291420351.0,Robert Zemeckis,Clark Gregg,Harrison Ford,Drama,2000,1,1
+3675,The Emperor's New Groove,G,78.0,0.0,169661687.0,Mark Dindal,Chris Williams,David Spade,Animation,2000,1,2
+3676,"Crouching Tiger, Hidden Dragon",PG-13,120.0,0.0,213525736.0,Ang Lee,Hui-Ling Wang,Chow Yun-Fat,Action,2001,1,2
+3678,"Dude, Where's My Car?",PG-13,83.0,0.0,73180723.0,Danny Leiner,Philip Stark,Ashton Kutcher,Comedy,2000,1,1
+3696,Scarlet Diva,R,90.0,0.0,18062.0,Asia Argento,Asia Argento,Asia Argento,Drama,2000,1,0
+3713,Love & Basketball,PG-13,124.0,0.0,27728118.0,Gina Prince-Bythewood,Gina Prince-Bythewood,Sanaa Lathan,Drama,2000,1,2
+3717,Pay It Forward,PG-13,123.0,0.0,55707411.0,Mimi Leder,Catherine Ryan Hyde,Kevin Spacey,Drama,2000,1,2
+3718,Vertical Limit,PG-13,124.0,0.0,215663859.0,Martin Campbell,Robert King,Scott Glenn,Action,2000,1,1
+3723,102 Dalmatians,G,100.0,0.0,183611771.0,Kevin Lima,Dodie Smith,Glenn Close,Adventure,2000,1,0
+3728,Shaft,R,99.0,0.0,107626125.0,John Singleton,Ernest Tidyman,Samuel L. Jackson,Action,2000,1,1
+3739,Keeping the Faith,PG-13,128.0,0.0,59945183.0,Edward Norton,Stuart Blumberg,Ben Stiller,Comedy,2000,1,1
+3742,Book of Shadows: Blair Witch 2,R,90.0,0.0,47737094.0,Joe Berlinger,Daniel Myrick,Jeffrey Donovan,Adventure,2000,1,0
+3743,Rules of Engagement,R,128.0,0.0,71732303.0,William Friedkin,Jim Webb,Tommy Lee Jones,Drama,2000,1,1
+3750,The Dish,PG-13,101.0,0.0,16575074.0,Rob Sitch,Santo Cilauro,Sam Neill,Comedy,2001,1,2
+3755,The Adventures of Rocky & Bullwinkle,PG,92.0,0.0,35134820.0,Des McAnuff,Jay Ward,Robert De Niro,Animation,2000,1,0
+3760,Bamboozled,R,135.0,0.0,2463650.0,Spike Lee,Spike Lee,Damon Wayans,Comedy,2000,1,1
+3763,Tigerland,R,101.0,0.0,148701.0,Joel Schumacher,Ross Klavan,Colin Farrell,Drama,2001,1,1
+3772,Left Behind: The Movie,PG-13,96.0,0.0,4224065.0,Vic Sarin,Alan B. McElroy,Kirk Cameron,Action,2001,1,0
+3774,Psycho Beach Party,Unrated,95.0,0.0,268117.0,Robert Lee King,Charles Busch,Lauren Ambrose,Comedy,2001,1,1
+3778,The Isle,Not Rated,90.0,0.0,24963.0,Kim Ki-duk,Kim Ki-duk,Jung Suh,Drama,2000,1,1
+3786,Ready to Rumble,PG-13,107.0,0.0,12452362.0,Brian Robbins,Steven Brill,David Arquette,Comedy,2000,1,1
+3798,My Dog Skip,PG,95.0,0.0,35547761.0,Jay Russell,Willie Morris,Frankie Muniz,Comedy,2000,1,1
+3804,Lucky Numbers,R,105.0,0.0,10890222.0,Nora Ephron,Adam Resnick,John Travolta,Comedy,2000,1,0
+3814,Small Time Crooks,PG,94.0,0.0,29934477.0,Woody Allen,Woody Allen,Woody Allen,Comedy,2000,1,1
+3816,Bounce,PG-13,106.0,0.0,53425292.0,Don Roos,Don Roos,Ben Affleck,Drama,2000,1,1
+3821,The House of Mirth,PG,135.0,0.0,5164404.0,Terence Davies,Edith Wharton,Gillian Anderson,Romance,2000,1,1
+3825,The Tigger Movie,G,77.0,0.0,96159800.0,Jun Falkenstein,Eddie Guzelian,Jim Cummings,Animation,2000,1,1
+3828,Committed,R,98.0,0.0,40361.0,Lisa Krueger,Lisa Krueger,Heather Graham,Comedy,2000,1,1
+3834,The Golden Bowl,R,130.0,0.0,5753678.0,James Ivory,Henry James,Uma Thurman,Drama,2001,1,1
+3835,Digimon: The Movie,PG,82.0,0.0,16643191.0,Directors,Akiyoshi Hongo,Lara Jill Miller,Animation,2000,1,1
+3844,Harry Potter and the Sorcerer's Stone,PG,152.0,0.0,1006968171.0,Chris Columbus,J.K. Rowling,Daniel Radcliffe,Adventure,2001,1,2
+3846,The Lord of the Rings: The Fellowship of the Ring,PG-13,178.0,0.0,897690072.0,Peter Jackson,J.R.R. Tolkien,Elijah Wood,Action,2001,1,2
+3847,Legally Blonde,PG-13,96.0,0.0,141774679.0,Robert Luketic,Amanda Brown,Reese Witherspoon,Comedy,2001,1,1
+3849,"Monsters, Inc.",G,92.0,0.0,579707738.0,Pete Docter,Pete Docter,Billy Crystal,Animation,2001,1,2
+3852,Not Another Teen Movie,R,89.0,0.0,66468985.0,Joel Gallen,Mike Bender,Chyler Leigh,Comedy,2001,1,1
+3857,A Beautiful Mind,PG-13,135.0,0.0,316791257.0,Ron Howard,Akiva Goldsman,Russell Crowe,Biography,2002,1,2
+3861,Amélie,R,122.0,0.0,173997108.0,Jean-Pierre Jeunet,Guillaume Laurant,Audrey Tautou,Comedy,2002,1,2
+3871,Vanilla Sky,R,136.0,0.0,203388341.0,Cameron Crowe,Alejandro Amenábar,Tom Cruise,Fantasy,2001,1,1
+3877,Rat Race,PG-13,112.0,0.0,85498534.0,Jerry Zucker,Andy Breckman,Breckin Meyer,Action,2001,1,1
+3878,Summer Catch,PG-13,104.0,0.0,19772447.0,Michael Tollin,Kevin Falls,Freddie Prinze Jr.,Comedy,2001,1,1
+3881,Zoolander,PG-13,90.0,0.0,60780981.0,Ben Stiller,Drake Sather,Ben Stiller,Comedy,2001,1,1
+3882,Jurassic Park III,PG-13,92.0,0.0,368780809.0,Joe Johnston,Michael Crichton,Sam Neill,Action,2001,1,1
+3883,Enemy at the Gates,R,131.0,0.0,96976270.0,Jean-Jacques Annaud,Jean-Jacques Annaud,Jude Law,Drama,2001,1,2
+3889,Evolution,PG-13,101.0,0.0,98376292.0,Ivan Reitman,Don Jakoby,David Duchovny,Comedy,2001,1,1
+3895,Bully,TV-MA,108.0,0.0,704808.0,Larry Clark,Jim Schutze,Brad Renfro,Biography,2001,1,1
+3899,The Piano Teacher,R,131.0,0.0,6766381.0,Michael Haneke,Michael Haneke,Isabelle Huppert,Drama,2001,1,2
+3901,Lara Croft: Tomb Raider,PG-13,100.0,0.0,274703340.0,Simon West,Sara B. Cooper,Angelina Jolie,Action,2001,1,1
+3904,Along Came a Spider,R,104.0,0.0,105178561.0,Lee Tamahori,James Patterson,Morgan Freeman,Drama,2001,1,1
+3907,Domestic Disturbance,PG-13,89.0,0.0,54249294.0,Harold Becker,Lewis Colick,John Travolta,Crime,2001,1,1
+3912,3000 Miles to Graceland,R,125.0,0.0,18720175.0,Demian Lichtenstein,Richard Recco,Kurt Russell,Action,2001,1,1
+3915,Jay and Silent Bob Strike Back,R,104.0,0.0,33788161.0,Kevin Smith,Kevin Smith,Jason Mewes,Comedy,2001,1,1
+3918,Crocodile Dundee in Los Angeles,PG,95.0,0.0,39438674.0,Simon Wincer,Paul Hogan,Paul Hogan,Action,2001,1,0
+3919,Heist,R,109.0,0.0,28510652.0,David Mamet,David Mamet,Gene Hackman,Action,2001,1,1
+3922,The Pledge,R,124.0,0.0,29419291.0,Sean Penn,Friedrich Dürrenmatt,Jack Nicholson,Crime,2001,1,1
+3924,Ghosts of Mars,R,98.0,0.0,14010832.0,John Carpenter,Larry Sulkis,Natasha Henstridge,Action,2001,1,0
+3926,Rock Star,R,105.0,0.0,19334145.0,Stephen Herek,John Stockwell,Mark Wahlberg,Drama,2001,1,1
+3930,The Glass House,PG-13,106.0,0.0,23619609.0,Daniel Sackheim,Wesley Strick,Diane Lane,Crime,2001,1,1
+3936,Baby Boy,R,130.0,0.0,29381649.0,John Singleton,John Singleton,Alexsandra Wright,Crime,2001,1,1
+3942,Don't Say a Word,R,113.0,0.0,100020092.0,Gary Fleder,Andrew Klavan,Michael Douglas,Drama,2001,1,1
+3949,In the Bedroom,R,131.0,0.0,44763181.0,Todd Field,Andre Dubus,Tom Wilkinson,Crime,2002,1,2
+3950,Pootie Tang,PG-13,81.0,0.0,3313583.0,Louis C.K.,Louis C.K.,Chris Rock,Action,2001,1,1
+3954,The Devil's Backbone,R,106.0,0.0,6582065.0,Guillermo del Toro,Guillermo del Toro,Marisa Paredes,Drama,2001,1,2
+3961,Exit Wounds,R,101.0,0.0,79958599.0,Andrzej Bartkowiak,Ed Horowitz,Steven Seagal,Action,2001,1,1
+3972,America's Sweethearts,PG-13,102.0,0.0,138307673.0,Joe Roth,Billy Crystal,Julia Roberts,Comedy,2001,1,1
+3981,Millennium Actress,PG,87.0,0.0,262891.0,Satoshi Kon,Satoshi Kon,Miyoko Shôji,Animation,2002,1,2
+3983,Formula 51,R,93.0,0.0,12881605.0,Ronny Yu,Stel Pavlou,Samuel L. Jackson,Action,2002,1,1
+3984,15 Minutes,R,120.0,0.0,56359980.0,John Herzfeld,John Herzfeld,Robert De Niro,Action,2001,1,1
+3985,Iris,R,91.0,0.0,16153953.0,Richard Eyre,John Bayley,Judi Dench,Biography,2002,1,1
+4001,Trouble Every Day,Not Rated,101.0,0.0,15571.0,Claire Denis,Claire Denis,Vincent Gallo,Drama,2001,1,1
+4002,Max Keeble's Big Move,PG,86.0,0.0,18634654.0,Tim Hill,David L. Watts,Alex D. Linz,Comedy,2001,1,1
+4015,Lantana,R,121.0,0.0,15747450.0,Ray Lawrence,Andrew Bovell,Anthony LaPaglia,Drama,2002,1,2
+4016,L.I.E.,Unrated,97.0,0.0,1846059.0,Michael Cuesta,Stephen M. Ryder,Brian Cox,Crime,2002,1,2
+4017,The Wash,R,93.0,0.0,10229331.0,DJ Pooh,DJ Pooh,Dr. Dre,Comedy,2001,1,0
+4020,Texas Rangers,PG-13,90.0,0.0,763740.0,Steve Miner,George Durham,James Van Der Beek,Action,2001,1,1
+4021,What's the Worst That Could Happen?,PG-13,94.0,0.0,38464131.0,Sam Weisman,Donald E. Westlake,Martin Lawrence,Comedy,2001,1,1
+4024,Down to Earth,PG-13,87.0,0.0,71186502.0,Chris Weitz,Elaine May,Chris Rock,Comedy,2001,1,1
+4026,See Spot Run,PG,94.0,0.0,43057552.0,John Whitesell,George Gallo,David Arquette,Action,2001,1,1
+4030,Metropolis,PG-13,108.0,0.0,4035192.0,Rintaro,Osamu Tezuka,Toshio Furukawa,Animation,2002,1,2
+4036,Corky Romano,PG-13,86.0,0.0,25272752.0,Rob Pritts,David Garrett,Chris Kattan,Comedy,2001,1,0
+4045,The Sum of All Fears,PG-13,124.0,0.0,193921372.0,Phil Alden Robinson,Tom Clancy,Ben Affleck,Action,2002,1,1
+4059,Star Wars: Episode II - Attack of the Clones,PG,142.0,0.0,653779970.0,George Lucas,George Lucas,Hayden Christensen,Action,2002,1,1
+4064,Austin Powers in Goldmember,PG-13,94.0,0.0,296938801.0,Jay Roach,Mike Myers,Mike Myers,Action,2002,1,1
+4073,Ice Age,PG,81.0,0.0,383257136.0,Chris Wedge,Michael J. Wilson,Denis Leary,Animation,2002,1,2
+4081,My Big Fat Greek Wedding,PG,95.0,0.0,368744044.0,Joel Zwick,Nia Vardalos,Nia Vardalos,Comedy,2002,1,1
+4082,We Were Soldiers,R,138.0,0.0,115374915.0,Randall Wallace,Harold G. Moore,Mel Gibson,Action,2002,1,2
+4084,xXx,PG-13,124.0,0.0,277448382.0,Rob Cohen,Rich Wilkes,Vin Diesel,Action,2002,1,1
+4086,The Scorpion King,PG-13,92.0,0.0,180630907.0,Chuck Russell,Stephen Sommers,Dwayne Johnson,Action,2002,1,1
+4088,Die Another Day,PG-13,133.0,0.0,431971116.0,Lee Tamahori,Ian Fleming,Pierce Brosnan,Action,2002,1,1
+4093,Ghost Ship,R,91.0,0.0,68349884.0,Steve Beck,Mark Hanlon,Julianna Margulies,Horror,2002,1,1
+4096,Spirit: Stallion of the Cimarron,G,83.0,0.0,122563539.0,Kelly Asbury,John Fusco,Matt Damon,Animation,2002,1,2
+4099,Phone Booth,R,81.0,0.0,97837138.0,Joel Schumacher,Larry Cohen,Colin Farrell,Crime,2003,1,1
+4111,Cabin Fever,R,93.0,0.0,30553394.0,Eli Roth,Eli Roth,Jordan Ladd,Horror,2003,1,1
+4119,25th Hour,R,135.0,0.0,23932055.0,Spike Lee,David Benioff,Edward Norton,Drama,2003,1,2
+4120,Infernal Affairs,R,101.0,0.0,8836958.0,Andrew Lau,Alan Mak,Andy Lau,Action,2002,1,2
+4123,The Rules of Attraction,R,110.0,0.0,11832822.0,Roger Avary,Bret Easton Ellis,James Van Der Beek,Comedy,2002,1,1
+4126,Antwone Fisher,PG-13,120.0,0.0,23367586.0,Denzel Washington,Antwone Fisher,Denzel Washington,Biography,2003,1,2
+4129,Sympathy for Mr. Vengeance,R,129.0,0.0,2046061.0,Park Chan-Wook,Myeong-chan Park,Kang-ho Song,Crime,2002,1,2
+4131,High Crimes,PG-13,115.0,0.0,63781810.0,Carl Franklin,Joseph Finder,Jim Caviezel,Crime,2002,1,1
+4132,Two Weeks Notice,PG-13,101.0,0.0,199043471.0,Marc Lawrence,Marc Lawrence,Sandra Bullock,Comedy,2002,1,1
+4150,Asterix & Obelix: Mission Cleopatra,PG,107.0,0.0,128027976.0,Alain Chabat,René Goscinny,Gérard Depardieu,Adventure,2005,1,1
+4151,Swept Away,R,89.0,0.0,1036520.0,Guy Ritchie,Guy Ritchie,Madonna,Comedy,2002,1,0
+4154,Juwanna Mann,PG-13,91.0,0.0,13802599.0,Jesse Vaughan,Bradley Allenstein,Miguel A. Núñez Jr.,Comedy,2002,1,0
+4155,Divine Secrets of the Ya-Ya Sisterhood,PG-13,116.0,0.0,73839240.0,Callie Khouri,Rebecca Wells,Sandra Bullock,Drama,2002,1,1
+4159,Swimfan,PG-13,85.0,0.0,34411240.0,John Polson,Charles F. Bohl,Jesse Bradford,Drama,2002,1,1
+4160,Talk to Her,R,112.0,0.0,64790996.0,Pedro Almodóvar,Pedro Almodóvar,Rosario Flores,Drama,2003,1,2
+4172,Far from Heaven,PG-13,107.0,0.0,29027914.0,Todd Haynes,Todd Haynes,Julianne Moore,Drama,2003,1,2
+4175,Auto Focus,R,105.0,0.0,2704951.0,Paul Schrader,Robert Graysmith,Greg Kinnear,Biography,2002,1,1
+4177,Collateral Damage,R,108.0,0.0,78382433.0,Andrew Davis,Ronald Roose,Arnold Schwarzenegger,Action,2002,1,1
+4178,Undisputed,R,94.0,0.0,14946150.0,Walter Hill,David Giler,Wesley Snipes,Action,2002,1,1
+4182,Whale Rider,PG-13,101.0,0.0,41062976.0,Niki Caro,Niki Caro,Keisha Castle-Hughes,Drama,2003,1,2
+4184,Trapped,R,106.0,0.0,13414416.0,Luis Mandoki,Greg Iles,Kevin Bacon,Action,2002,1,1
+4186,In America,PG-13,105.0,0.0,25382911.0,Jim Sheridan,Jim Sheridan,Paddy Considine,Drama,2004,1,2
+4196,The Quiet American,R,101.0,0.0,27674124.0,Phillip Noyce,Graham Greene,Michael Caine,Drama,2003,1,2
+4197,The Santa Clause 2,G,104.0,0.0,172855065.0,Michael Lembeck,Don Rhymer,Tim Allen,Comedy,2002,1,1
+4200,Sorority Boys,R,93.0,0.0,12517488.0,Wallace Wolodarsky,Joe Jarvis,Barry Watson,Comedy,2002,1,1
+4201,The Country Bears,G,88.0,0.0,18012097.0,Peter Hastings,Mark Perez,Haley Joel Osment,Comedy,2002,1,0
+4202,All About the Benjamins,R,95.0,0.0,26306533.0,Kevin Bray,Ronald Lang,Ice Cube,Action,2002,1,1
+4214,Darkness,PG-13,88.0,0.0,33988736.0,Jaume Balagueró,Jaume Balagueró,Anna Paquin,Horror,2004,1,1
+4223,Moonlight Mile,PG-13,117.0,0.0,10011050.0,Brad Silberling,Brad Silberling,Jake Gyllenhaal,Drama,2002,1,1
+4224,Half Past Dead,PG-13,98.0,0.0,19233280.0,Don Michael Paul,Don Michael Paul,Morris Chestnut,Action,2002,1,0
+4227,Open Hearts,R,113.0,0.0,1692272.0,Susanne Bier,Susanne Bier,Sonja Richter,Drama,2002,1,2
+4232,Deuces Wild,R,96.0,0.0,6282446.0,Scott Kalvert,Paul Kimatian,Stephen Dorff,Action,2002,1,1
+4245,Pirates of the Caribbean: the Curse of the Black Pearl,PG-13,143.0,0.0,654264015.0,Gore Verbinski,Ted Elliott,Johnny Depp,Action,2003,1,2
+4250,The Life of David Gale,R,130.0,0.0,38955598.0,Alan Parker,Charles Randolph,Kevin Spacey,Crime,2003,1,2
+4265,The Italian Job,PG-13,111.0,0.0,176070171.0,F. Gary Gray,Troy Kennedy-Martin,Donald Sutherland,Action,2003,1,1
+4268,Monster,R,109.0,0.0,58469210.0,Patty Jenkins,Patty Jenkins,Charlize Theron,Biography,2004,1,2
+4270,Daredevil,PG-13,103.0,0.0,179179718.0,Mark Steven Johnson,Mark Steven Johnson,Ben Affleck,Action,2003,1,1
+4272,The Missing,R,137.0,0.0,38364277.0,Ron Howard,Thomas Eidson,Tommy Lee Jones,Adventure,2003,1,1
+4277,Holes,PG,117.0,0.0,71406573.0,Andrew Davis,Louis Sachar,Shia LaBeouf,Adventure,2003,1,1
+4280,The Rundown,PG-13,104.0,0.0,80981914.0,Peter Berg,R.J. Stewart,Dwayne Johnson,Action,2003,1,1
+4283,Once Upon a Time in Mexico,R,102.0,0.0,98769390.0,Robert Rodriguez,Robert Rodriguez,Antonio Banderas,Action,2003,1,1
+4287,In the Cut,R,119.0,0.0,23726793.0,Jane Campion,Jane Campion,Meg Ryan,Mystery,2003,1,1
+4293,Bad Boys II,R,147.0,0.0,273339556.0,Michael Bay,George Gallo,Will Smith,Action,2003,1,1
+4294,Open Range,R,139.0,0.0,68296293.0,Kevin Costner,Lauran Paine,Kevin Costner,Action,2003,1,2
+4297,Bruce Almighty,PG-13,101.0,0.0,484592874.0,Tom Shadyac,Steve Koren,Jim Carrey,Comedy,2003,1,1
+4301,Charlie's Angels: Full Throttle,PG-13,106.0,0.0,259175788.0,McG,Ivan Goff,Drew Barrymore,Action,2003,1,0
+4305,Open Water,R,79.0,0.0,54683487.0,Chris Kentis,Chris Kentis,Blanchard Ryan,Adventure,2004,1,1
+4306,Something's Gotta Give,PG-13,128.0,0.0,265328738.0,Nancy Meyers,Nancy Meyers,Jack Nicholson,Comedy,2003,1,1
+4307,Girl with a Pearl Earring,PG-13,100.0,0.0,33030115.0,Peter Webber,Tracy Chevalier,Scarlett Johansson,Biography,2004,1,1
+4310,The Brown Bunny,Not Rated,93.0,0.0,402599.0,Vincent Gallo,Vincent Gallo,Vincent Gallo,Drama,2003,1,0
+4314,Intolerable Cruelty,PG-13,100.0,0.0,120801243.0,Joel Coen,Robert Ramsey,George Clooney,Comedy,2003,1,1
+4318,Under the Tuscan Sun,PG-13,113.0,0.0,58878723.0,Audrey Wells,Frances Mayes,Diane Lane,Comedy,2003,1,1
+4324,Elephant,R,81.0,0.0,10012022.0,Gus Van Sant,Gus Van Sant,Elias McConnell,Crime,2003,1,2
+4325,Darkness Falls,PG-13,86.0,0.0,47488536.0,Jonathan Liebesman,Joe Harris,Chaney Kley,Fantasy,2003,1,0
+4326,Spy Kids 3-D: Game Over,PG,84.0,0.0,197101678.0,Robert Rodriguez,Robert Rodriguez,Daryl Sabara,Action,2003,1,0
+4336,Daddy Day Care,PG,92.0,0.0,164433867.0,Steve Carr,Geoff Rodkey,Eddie Murphy,Comedy,2003,1,1
+4340,Wonderland,R,104.0,0.0,2466444.0,James Cox,James Cox,Val Kilmer,Crime,2003,1,1
+4344,Gods and Generals,PG-13,219.0,0.0,12923936.0,Ron Maxwell,Jeff Shaara,Stephen Lang,Biography,2003,1,1
+4345,House of Sand and Fog,R,126.0,0.0,16763804.0,Vadim Perelman,Andre Dubus III,Jennifer Connelly,Crime,2004,1,2
+4349,Basic,R,98.0,0.0,42792561.0,John McTiernan,James Vanderbilt,John Travolta,Action,2003,1,1
+4353,Agent Cody Banks,PG,102.0,0.0,58795814.0,Harald Zwart,Ashley Miller,Frankie Muniz,Action,2003,1,1
+4362,Cold Creek Manor,R,118.0,0.0,29119434.0,Mike Figgis,Richard Jefferies,Dennis Quaid,Drama,2003,1,0
+4365,View from the Top,PG-13,87.0,0.0,19526014.0,Bruno Barreto,Eric Wald,Gwyneth Paltrow,Comedy,2003,1,1
+4368,The Return,Not Rated,110.0,0.0,8482993.0,Andrey Zvyagintsev,Vladimir Moiseenko,Vladimir Garin,Drama,2003,1,2
+4369,Radio,PG,109.0,0.0,53293628.0,Michael Tollin,Mike Rich,Cuba Gooding Jr.,Biography,2003,1,1
+4381,Tokyo Godfathers,PG-13,92.0,0.0,453133.0,Satoshi Kon,Satoshi Kon,Tôru Emori,Animation,2003,1,2
+4382,Dorm Daze,R,96.0,0.0,436365.0,David Hillenbrand,Pat Casey,Tatyana Ali,Comedy,2004,1,0
+4384,Bright Young Things,R,102.0,0.0,2905499.0,Stephen Fry,Stephen Fry,Stephen Campbell Moore,Comedy,2003,1,1
+4385,Love Me If You Dare,R,93.0,0.0,8604201.0,Yann Samuell,Yann Samuell,Guillaume Canet,Comedy,2004,1,2
+4389,The Green Butchers,R,100.0,0.0,3783.0,Anders Thomas Jensen,Anders Thomas Jensen,Nikolaj Lie Kaas,Comedy,2003,1,2
+4395,Willard,PG-13,100.0,0.0,8564586.0,Glen Morgan,Glen Morgan,Crispin Glover,Drama,2003,1,1
+4396,Love Don't Cost a Thing,PG-13,100.0,0.0,21964072.0,Troy Byer,Michael Swerdlick,Nick Cannon,Comedy,2003,1,1
+4397,The Best of Youth,R,366.0,0.0,2799773.0,Marco Tullio Giordana,Sandro Petraglia,Luigi Lo Cascio,Drama,2003,1,2
+4398,The in-Laws,PG-13,98.0,0.0,26891849.0,Andrew Fleming,Andrew Bergman,Albert Brooks,Action,2003,1,1
+4402,It Runs in the Family,PG-13,109.0,0.0,8211508.0,Fred Schepisi,Jesse Wigutow,Kirk Douglas,Comedy,2003,1,1
+4404,The Fighting Temptations,PG-13,123.0,0.0,33972062.0,Jonathan Lynn,Elizabeth Hunter,Cuba Gooding Jr.,Comedy,2003,1,1
+4405,Anything Else,R,108.0,0.0,13585075.0,Woody Allen,Woody Allen,Woody Allen,Comedy,2003,1,1
+4407,Camp,PG-13,114.0,0.0,2707738.0,Todd Graff,Todd Graff,Don Dixon,Comedy,2003,1,1
+4408,The Jungle Book 2,G,72.0,0.0,186303759.0,Steve Trenbirth,Karl Geurs,John Goodman,Animation,2003,1,1
+4411,Intermission,R,105.0,0.0,5175215.0,John Crowley,Mark O'Rowe,Cillian Murphy,Comedy,2004,1,1
+4412,All the Real Girls,R,108.0,0.0,579986.0,David Gordon Green,David Gordon Green,Zooey Deschanel,Drama,2003,1,1
+4415,Head of State,PG-13,95.0,0.0,38620484.0,Chris Rock,Chris Rock,Chris Rock,Comedy,2003,1,1
+4422,The Order,R,102.0,0.0,11560806.0,Brian Helgeland,Brian Helgeland,Heath Ledger,Horror,2003,1,1
+4427,Sylvia,R,100.0,0.0,2917393.0,Christine Jeffs,John Brownlow,Gwyneth Paltrow,Biography,2003,1,1
+4435,My Life Without Me,R,106.0,0.0,9781854.0,Isabel Coixet,Isabel Coixet,Sarah Polley,Drama,2003,1,2
+4446,Dodgeball: A True Underdog Story,PG-13,92.0,0.0,168423227.0,Rawson Marshall Thurber,Rawson Marshall Thurber,Ben Stiller,Comedy,2004,1,1
+4448,Mean Girls,PG-13,97.0,0.0,130126277.0,Mark Waters,Rosalind Wiseman,Lindsay Lohan,Comedy,2004,1,1
+4451,Eternal Sunshine of the Spotless Mind,R,108.0,0.0,74036715.0,Michel Gondry,Charlie Kaufman,Jim Carrey,Drama,2004,1,2
+4452,Kill Bill: Vol. 2,R,137.0,0.0,154118820.0,Quentin Tarantino,Quentin Tarantino,Uma Thurman,Action,2004,1,2
+4457,Saw,R,103.0,0.0,103911669.0,James Wan,Leigh Whannell,Cary Elwes,Horror,2004,1,2
+4462,"I, Robot",PG-13,115.0,0.0,353133898.0,Alex Proyas,Jeff Vintar,Will Smith,Action,2004,1,2
+4463,Howl's Moving Castle,PG,119.0,0.0,236214446.0,Hayao Miyazaki,Hayao Miyazaki,Chieko Baishô,Animation,2005,1,2
+4468,My Summer of Love,R,86.0,0.0,2766976.0,Pawel Pawlikowski,Helen Cross,Natalie Press,Drama,2005,1,1
+4473,50 First Dates,PG-13,99.0,0.0,198520934.0,Peter Segal,George Wing,Adam Sandler,Comedy,2004,1,1
+4475,Downfall,R,156.0,0.0,92181574.0,Oliver Hirschbiegel,Bernd Eichinger,Bruno Ganz,Biography,2005,1,2
+4477,Shrek 2,PG,93.0,0.0,928760770.0,Andrew Adamson,William Steig,Mike Myers,Animation,2004,1,2
+4480,Dawn of the Dead,R,101.0,0.0,102278712.0,Zack Snyder,George A. Romero,Sarah Polley,Action,2004,1,2
+4484,Anchorman: The Legend of Ron Burgundy,PG-13,94.0,0.0,90709367.0,Adam McKay,Will Ferrell,Will Ferrell,Comedy,2004,1,2
+4494,9 Songs,Not Rated,71.0,0.0,1590308.0,Michael Winterbottom,Michael Winterbottom,Kieran O'Brien,Drama,2005,1,0
+4501,Meet the Fockers,PG-13,115.0,0.0,522657936.0,Jay Roach,Greg Glienna,Ben Stiller,Comedy,2004,1,1
+4502,Sideways,R,127.0,0.0,109706931.0,Alexander Payne,Rex Pickett,Paul Giamatti,Comedy,2004,1,2
+4504,Starsky & Hutch,PG-13,101.0,0.0,170268750.0,Todd Phillips,William Blinn,Ben Stiller,Comedy,2004,1,1
+4505,Shark Tale,PG,90.0,0.0,374583879.0,Bibo Bergeron,Michael J. Wilson,Will Smith,Animation,2004,1,1
+4508,Primer,PG-13,77.0,0.0,545436.0,Shane Carruth,Shane Carruth,Shane Carruth,Drama,2005,1,1
+4511,Somersault,Not Rated,106.0,0.0,1482316.0,Cate Shortland,Cate Shortland,Abbie Cornish,Drama,2004,1,1
+4512,The SpongeBob SquarePants Movie,PG,87.0,0.0,141067127.0,Stephen Hillenburg,Derek Drymon,Tom Kenny,Animation,2004,1,2
+4520,The Princess Diaries 2: Royal Engagement,G,113.0,0.0,134734481.0,Garry Marshall,Meg Cabot,Anne Hathaway,Comedy,2004,1,1
+4522,Catwoman,PG-13,104.0,0.0,82102379.0,Pitof,Bob Kane,Halle Berry,Action,2004,1,0
+4523,Seed of Chucky,R,87.0,0.0,24829644.0,Don Mancini,Don Mancini,Jennifer Tilly,Comedy,2004,1,0
+4525,Torque,PG-13,84.0,0.0,46546197.0,Joseph Kahn,Matt Johnson,Martin Henderson,Action,2004,1,0
+4534,Around the World in 80 Days,PG,120.0,0.0,72178895.0,Frank Coraci,Jules Verne,Jackie Chan,Action,2004,1,1
+4540,Mindhunters,R,106.0,0.0,21148829.0,Renny Harlin,Wayne Kramer,Val Kilmer,Crime,2005,1,1
+4548,The Heart Is Deceitful Above All Things,R,97.0,0.0,217499.0,Asia Argento,Laura Albert,Asia Argento,Drama,2005,1,1
+4552,Sky Captain and the World of Tomorrow,PG,106.0,0.0,57947036.0,Kerry Conran,Kerry Conran,Gwyneth Paltrow,Action,2004,1,1
+4557,District B13,R,84.0,0.0,11169386.0,Pierre Morel,Luc Besson,Cyril Raffaelli,Action,2006,1,2
+4560,A Very Long Engagement,R,133.0,0.0,69424389.0,Jean-Pierre Jeunet,Sébastien Japrisot,Audrey Tautou,Drama,2005,1,2
+4563,Saved!,PG-13,92.0,0.0,10275509.0,Brian Dannelly,Brian Dannelly,Jena Malone,Comedy,2004,1,1
+4572,Bridget Jones: The Edge of Reason,R,108.0,0.0,265126918.0,Beeban Kidron,Helen Fielding,Renée Zellweger,Comedy,2004,1,1
+4574,Dirty Dancing: Havana Nights,PG-13,86.0,0.0,27685016.0,Guy Ferland,Kate Gunzinger,Diego Luna,Drama,2004,1,1
+4575,D.E.B.S.,PG-13,91.0,0.0,97446.0,Angela Robinson,Angela Robinson,Sara Foster,Action,2005,1,1
+4585,Vanity Fair,PG-13,141.0,0.0,19463185.0,Mira Nair,Matthew Faulk,Reese Witherspoon,Drama,2004,1,1
+4588,Swades,Not Rated,189.0,0.0,1953889.0,Ashutosh Gowariker,M.G. Sathya,Shah Rukh Khan,Drama,2004,1,2
+4589,I Heart Huckabees,R,107.0,0.0,20094909.0,David O. Russell,David O. Russell,Jason Schwartzman,Comedy,2004,1,1
+4591,The Door in the Floor,R,111.0,0.0,6715067.0,Tod Williams,John Irving,Jeff Bridges,Comedy,2004,1,1
+4592,The Whole Ten Yards,PG-13,98.0,0.0,26170671.0,Howard Deutch,Mitchell Kapner,Bruce Willis,Comedy,2004,1,1
+4593,Envy,PG-13,99.0,0.0,14494036.0,Barry Levinson,Steve Adams,Ben Stiller,Comedy,2004,1,0
+4594,Alfie,R,103.0,0.0,35060882.0,Charles Shyer,Bill Naughton,Jude Law,Comedy,2004,1,1
+4596,Nobody Knows,PG-13,141.0,0.0,2288093.0,Hirokazu Koreeda,Hirokazu Koreeda,Yûya Yagira,Drama,2004,1,2
+4600,The Woodsman,R,87.0,0.0,4678405.0,Nicole Kassell,Steven Fechter,Kevin Bacon,Drama,2005,1,2
+4608,Ladder 49,PG-13,115.0,0.0,100572044.0,Jay Russell,Lewis Colick,Joaquin Phoenix,Action,2004,1,1
+4611,You Got Served,PG-13,95.0,0.0,50576805.0,Chris Stokes,Chris Stokes,Omarion,Drama,2004,1,0
+4613,Beyond the Sea,PG-13,118.0,0.0,8447615.0,Kevin Spacey,Kevin Spacey,Kevin Spacey,Biography,2004,1,1
+4614,Ladies in Lavender,PG-13,104.0,0.0,20421130.0,Charles Dance,William J. Locke,Judi Dench,Drama,2005,1,1
+4624,Maria Full of Grace,R,101.0,0.0,12594630.0,Joshua Marston,Joshua Marston,Catalina Sandino Moreno,Crime,2004,1,2
+4627,It's All Gone Pete Tong,R,90.0,0.0,1635056.0,Michael Dowse,Michael Dowse,Paul Kaye,Biography,2005,1,2
+4639,Welcome to Mooseport,PG-13,110.0,0.0,14615099.0,Donald Petrie,Doug Richardson,Gene Hackman,Comedy,2004,1,1
+4643,Melinda and Melinda,PG-13,99.0,0.0,20129327.0,Woody Allen,Woody Allen,Will Ferrell,Comedy,2005,1,1
+4660,King Kong,PG-13,187.0,0.0,562363449.0,Peter Jackson,Fran Walsh,Naomi Watts,Action,2005,1,2
+4661,The Hitchhiker's Guide to the Galaxy,PG,109.0,0.0,104478416.0,Garth Jennings,Douglas Adams,Martin Freeman,Adventure,2005,1,1
+4663,Green Street Hooligans,R,109.0,0.0,3814717.0,Lexi Alexander,Lexi Alexander,Elijah Wood,Crime,2005,1,2
+4677,House of Wax,R,113.0,0.0,68766121.0,Jaume Collet-Serra,Charles Belden,Chad Michael Murray,Horror,2005,1,1
+4678,Four Brothers,R,109.0,0.0,92374674.0,John Singleton,David Elliot,Mark Wahlberg,Action,2005,1,1
+4680,The Interpreter,PG-13,128.0,0.0,162944923.0,Sydney Pollack,Martin Stellman,Nicole Kidman,Crime,2005,1,1
+4681,Walk the Line,PG-13,136.0,0.0,186797986.0,James Mangold,Johnny Cash,Joaquin Phoenix,Biography,2005,1,2
+4682,Lords of Dogtown,PG-13,107.0,0.0,13411957.0,Catherine Hardwicke,Stacy Peralta,Heath Ledger,Biography,2005,1,2
+4683,Munich,R,164.0,0.0,130982129.0,Steven Spielberg,Tony Kushner,Eric Bana,Action,2006,1,2
+4689,Hitch,PG-13,118.0,0.0,371594210.0,Andy Tennant,Kevin Bisch,Will Smith,Comedy,2005,1,1
+4691,Rent,PG-13,135.0,0.0,31670620.0,Chris Columbus,Stephen Chbosky,Taye Diggs,Drama,2005,1,1
+4693,Jarhead,R,125.0,0.0,97076152.0,Sam Mendes,William Broyles Jr.,Jake Gyllenhaal,Action,2005,1,1
+4694,Into the Blue,PG-13,110.0,0.0,46117696.0,John Stockwell,Matt Johnson,Paul Walker,Action,2005,1,1
+4696,Revolver,R,111.0,0.0,7155807.0,Guy Ritchie,Luc Besson,Jason Statham,Action,2005,1,1
+4701,Zathura: A Space Adventure,PG,101.0,0.0,65079104.0,Jon Favreau,Chris Van Allsburg,Josh Hutcherson,Action,2005,1,1
+4704,Be Cool,PG-13,118.0,0.0,95763716.0,F. Gary Gray,Elmore Leonard,John Travolta,Comedy,2005,1,1
+4709,The Brothers Grimm,PG-13,118.0,0.0,105316267.0,Terry Gilliam,Ehren Kruger,Matt Damon,Action,2005,1,1
+4716,Wolf Creek,R,99.0,0.0,30894796.0,Greg McLean,Greg McLean,Nathan Phillips,Horror,2005,1,1
+4721,The Legend of Zorro,PG,129.0,0.0,142400065.0,Martin Campbell,Roberto Orci,Antonio Banderas,Action,2005,1,1
+4722,Cheaper by the Dozen 2,PG,94.0,0.0,130154568.0,Adam Shankman,Sam Harper,Steve Martin,Adventure,2005,1,1
+4728,Kicking & Screaming,PG,95.0,0.0,56070433.0,Jesse Dylan,Leo Benvenuti,Will Ferrell,Comedy,2005,1,1
+4729,The Cave,PG-13,97.0,0.0,33296457.0,Bruce Hunt,Michael Steinberg,Piper Perabo,Action,2005,1,1
+4737,The Skeleton Key,PG-13,104.0,0.0,93983911.0,Iain Softley,Ehren Kruger,Kate Hudson,Drama,2005,1,1
+4742,Chicken Little,G,81.0,0.0,314432837.0,Mark Dindal,Mark Dindal,Zach Braff,Animation,2005,1,1
+4745,The Ring Two,PG-13,110.0,0.0,163995949.0,Hideo Nakata,Ehren Kruger,Naomi Watts,Horror,2005,1,1
+4746,London,R,92.0,0.0,20361.0,Hunter Richards,Hunter Richards,Jessica Biel,Drama,2006,1,1
+4752,Casanova,R,112.0,0.0,37691644.0,Lasse Hallström,Jeffrey Hatcher,Heath Ledger,Adventure,2006,1,1
+4755,Thank You for Smoking,R,92.0,0.0,39323027.0,Jason Reitman,Jason Reitman,Aaron Eckhart,Comedy,2006,1,2
+4758,Miss Congeniality 2: Armed & Fabulous,PG-13,115.0,0.0,101393569.0,John Pasquin,Marc Lawrence,Sandra Bullock,Action,2005,1,1
+4770,The Greatest Game Ever Played,PG,120.0,0.0,15431177.0,Bill Paxton,Mark Frost,Shia LaBeouf,Biography,2005,1,2
+4774,Hoodwinked,PG,80.0,0.0,110013167.0,Cory Edwards,Todd Edwards,Anne Hathaway,Animation,2006,1,1
+4775,Adam's Apples,R,94.0,0.0,2421577.0,Anders Thomas Jensen,Anders Thomas Jensen,Ulrich Thomsen,Comedy,2005,1,2
+4776,BloodRayne,R,95.0,0.0,3650275.0,Uwe Boll,Guinevere Turner,Kristanna Loken,Action,2006,1,0
+4780,The Notorious Bettie Page,R,91.0,0.0,1778006.0,Mary Harron,Mary Harron,Gretchen Mol,Biography,2006,1,1
+4782,"Good Night, and Good Luck.",PG,93.0,0.0,54641191.0,George Clooney,George Clooney,David Strathairn,Biography,2005,1,2
+4783,Ice Princess,G,98.0,0.0,27645491.0,Tim Fywell,Meg Cabot,Michelle Trachtenberg,Comedy,2005,1,1
+4784,A Lot Like Love,PG-13,107.0,0.0,42886719.0,Nigel Cole,Colin Patrick Lynch,Ashton Kutcher,Comedy,2005,1,1
+4785,Cry Wolf,PG-13,90.0,0.0,32586408.0,Jeff Wadlow,Jeff Wadlow,Julian Morris,Drama,2005,1,1
+4786,The Proposition,R,104.0,0.0,5048693.0,John Hillcoat,Nick Cave,Ray Winstone,Crime,2006,1,2
+4795,Must Love Dogs,PG-13,98.0,0.0,58231520.0,Gary David Goldberg,Claire Cook,Diane Lane,Comedy,2005,1,1
+4802,Roll Bounce,PG-13,112.0,0.0,17521290.0,Malcolm D. Lee,Norman Vance Jr.,Shad Moss,Comedy,2005,1,1
+4805,Supercross,PG-13,80.0,0.0,3344431.0,Steve Boyum,Ken Solarz,Steve Howey,Action,2005,1,0
+4806,Oliver Twist,PG-13,130.0,0.0,42580321.0,Roman Polanski,Charles Dickens,Barney Clark,Crime,2005,1,1
+4811,Last Days,R,97.0,0.0,2456454.0,Gus Van Sant,Gus Van Sant,Michael Pitt,Drama,2005,1,1
+4816,Angel-A,R,91.0,0.0,9995168.0,Luc Besson,Luc Besson,Rie Rasmussen,Comedy,2005,1,2
+4821,Me and You and Everyone We Know,R,91.0,0.0,8012838.0,Miranda July,Miranda July,John Hawkes,Comedy,2005,1,2
+4832,Dominion,R,117.0,0.0,251495.0,Paul Schrader,William Wisher,Stellan Skarsgård,Drama,2005,1,1
+4833,Battle in Heaven,Unrated,98.0,0.0,258227.0,Carlos Reygadas,Carlos Reygadas,Marcos Hernández,Crime,2005,1,1
+4834,Little Manhattan,PG,90.0,0.0,1254005.0,Mark Levin,Jennifer Flackett,Josh Hutcherson,Comedy,2006,1,2
+4835,Dreamer,PG,106.0,0.0,38741732.0,John Gatins,John Gatins,Kurt Russell,Drama,2005,1,1
+4837,Factotum,R,94.0,0.0,2708087.0,Bent Hamer,Charles Bukowski,Matt Dillon,Comedy,2005,1,1
+4839,Joyeux Noel,PG-13,116.0,0.0,17709155.0,Christian Carion,Christian Carion,Diane Kruger,Drama,2005,1,2
+4840,Dirty Love,R,91.0,0.0,36099.0,John Asher,Jenny McCarthy,Jenny McCarthy,Comedy,2006,1,0
+4841,Everything Is Illuminated,PG-13,106.0,0.0,3601974.0,Liev Schreiber,Jonathan Safran Foer,Elijah Wood,Comedy,2005,1,2
+4844,The Departed,R,151.0,0.0,291465373.0,Martin Scorsese,William Monahan,Leonardo DiCaprio,Crime,2006,1,2
+4845,The Fast and the Furious: Tokyo Drift,PG-13,104.0,0.0,158964610.0,Justin Lin,Chris Morgan,Lucas Black,Action,2006,1,1
+4849,300,R,117.0,0.0,456068181.0,Zack Snyder,Zack Snyder,Gerard Butler,Action,2007,1,2
+4858,Children of Men,R,109.0,0.0,70595464.0,Alfonso Cuarón,Alfonso Cuarón,Julianne Moore,Adventure,2007,1,2
+4861,Little Miss Sunshine,R,101.0,0.0,101058954.0,Jonathan Dayton,Michael Arndt,Steve Carell,Comedy,2006,1,2
+4863,Blood Diamond,R,143.0,0.0,171720398.0,Edward Zwick,Charles Leavitt,Leonardo DiCaprio,Adventure,2006,1,2
+4865,Night at the Museum,PG,108.0,0.0,574481229.0,Shawn Levy,Robert Ben Garant,Ben Stiller,Adventure,2006,1,1
+4870,Accepted,PG-13,93.0,0.0,38623262.0,Steve Pink,Adam Cooper,Justin Long,Comedy,2006,1,1
+4877,X-Men: the Last Stand,PG-13,104.0,0.0,460435291.0,Brett Ratner,Simon Kinberg,Patrick Stewart,Action,2006,1,1
+4882,Basic Instinct 2,R,114.0,0.0,38629478.0,Michael Caton-Jones,Joe Eszterhas,Sharon Stone,Drama,2006,1,0
+4889,Deja Vu,PG-13,126.0,0.0,180557550.0,Tony Scott,Bill Marsilii,Denzel Washington,Action,2006,1,1
+4895,Step Up,PG-13,104.0,0.0,114197742.0,Anne Fletcher,Duane Adler,Channing Tatum,Crime,2006,1,1
+4896,The Host,R,120.0,0.0,89433436.0,Bong Joon Ho,Bong Joon Ho,Kang-ho Song,Action,2007,1,2
+4898,Snakes on a Plane,R,105.0,0.0,62022014.0,David R. Ellis,John Heffernan,Samuel L. Jackson,Action,2006,1,1
+4905,Alpha Dog,R,122.0,0.0,32351125.0,Nick Cassavetes,Nick Cassavetes,Emile Hirsch,Biography,2007,1,1
+4912,Eragon,PG,104.0,0.0,250425512.0,Stefen Fangmeier,Peter Buchman,Ed Speleers,Action,2006,1,1
+4913,Dreamgirls,PG-13,130.0,0.0,155430335.0,Bill Condon,Tom Eyen,Beyoncé,Drama,2006,1,1
+4919,Happy Feet,PG,108.0,0.0,384336108.0,George Miller,George Miller,Elijah Wood,Animation,2006,1,1
+4922,Paprika,R,90.0,0.0,946590.0,Satoshi Kon,Yasutaka Tsutsui,Megumi Hayashibara,Animation,2007,1,2
+4923,Monster House,PG,91.0,0.0,141861243.0,Gil Kenan,Dan Harmon,Mitchel Musso,Animation,2006,1,1
+4924,Scoop,PG-13,96.0,0.0,39220946.0,Woody Allen,Woody Allen,Scarlett Johansson,Comedy,2006,1,1
+4932,Rescue Dawn,PG-13,120.0,0.0,7177143.0,Werner Herzog,Werner Herzog,Christian Bale,Action,2007,1,2
+4934,A Scanner Darkly,R,100.0,0.0,7659918.0,Richard Linklater,Philip K. Dick,Keanu Reeves,Animation,2006,1,2
+4938,The Break-Up,PG-13,106.0,0.0,205668210.0,Peyton Reed,Jeremy Garelick,Jennifer Aniston,Comedy,2006,1,1
+4941,The Pink Panther,PG,93.0,0.0,164115897.0,Shawn Levy,Len Blum,Steve Martin,Adventure,2006,1,1
+4947,Clerks II,R,97.0,0.0,26986174.0,Kevin Smith,Kevin Smith,Brian O'Halloran,Comedy,2006,1,2
+4951,The Lake House,PG,99.0,0.0,114830111.0,Alejandro Agresti,David Auburn,Keanu Reeves,Drama,2006,1,1
+4953,Open Season,PG,86.0,0.0,200811689.0,Roger Allers,Steve Bencich,Ashton Kutcher,Animation,2006,1,1
+4956,The Omen,R,110.0,0.0,119974972.0,John Moore,David Seltzer,Liev Schreiber,Action,2006,1,1
+4957,The Wind that Shakes the Barley,Not Rated,127.0,0.0,22903165.0,Ken Loach,Paul Laverty,Cillian Murphy,Drama,2007,1,2
+4960,Beerfest,R,110.0,0.0,20387597.0,Jay Chandrasekhar,Jay Chandrasekhar,Jay Chandrasekhar,Comedy,2006,1,1
+4966,Volver,R,121.0,0.0,85585177.0,Pedro Almodóvar,Pedro Almodóvar,Penélope Cruz,Comedy,2007,1,2
+4967,Seraphim Falls,R,115.0,0.0,1220058.0,David Von Ancken,David Von Ancken,Pierce Brosnan,Action,2007,1,1
+4974,Madea's Family Reunion,PG-13,107.0,0.0,63368939.0,Tyler Perry,Tyler Perry,Tyler Perry,Comedy,2006,1,1
+4977,Let's Go to Prison,R,84.0,0.0,4630045.0,Bob Odenkirk,Robert Ben Garant,Dax Shepard,Comedy,2006,1,1
+4984,Arthur and the Invisibles,PG,94.0,0.0,108605609.0,Luc Besson,Céline Garcia,Freddie Highmore,Animation,2007,1,1
+4990,Flyboys,PG-13,140.0,0.0,17858059.0,Tony Bill,Phil Sears,James Franco,Action,2006,1,1
+4996,After the Wedding,R,120.0,0.0,11632723.0,Susanne Bier,Susanne Bier,Mads Mikkelsen,Drama,2007,1,2
+5001,Last Holiday,PG-13,112.0,0.0,43451846.0,Wayne Wang,Jeffrey Price,Queen Latifah,Comedy,2006,1,1
+5002,Friends with Money,R,88.0,0.0,18245244.0,Nicole Holofcener,Nicole Holofcener,Jennifer Aniston,Comedy,2006,1,1
+5009,Behind the Mask: The Rise of Leslie Vernon,R,92.0,0.0,69136.0,Scott Glosserman,Scott Glosserman,Nathan Baesel,Comedy,2006,1,1
+5010,Bobby,R,117.0,0.0,20718608.0,Emilio Estevez,Emilio Estevez,Anthony Hopkins,Biography,2006,1,1
+5016,Gridiron Gang,PG-13,125.0,0.0,41480851.0,Phil Joanou,Jeff Maguire,Dwayne Johnson,Biography,2006,1,1
+5019,Rang De Basanti,Not Rated,167.0,0.0,10800778.0,Rakeysh Omprakash Mehra,Renzil D'Silva,Aamir Khan,Comedy,2006,1,2
+5023,Big Momma's House 2,PG-13,99.0,0.0,141522961.0,John Whitesell,Don Rhymer,Martin Lawrence,Comedy,2006,1,0
+5026,The Foot Fist Way,R,85.0,0.0,245292.0,Jody Hill,Ben Best,Danny McBride,Comedy,2008,1,1
+5034,Loving Annabelle,Not Rated,77.0,0.0,0.0,Katherine Brooks,Katherine Brooks,Erin Kelly,Drama,2007,1,1
+5035,Kabhi Alvida Naa Kehna,Not Rated,193.0,0.0,25229168.0,Karan Johar,Karan Johar,Shah Rukh Khan,Drama,2006,1,1
+5036,Old Joy,Unrated,76.0,0.0,301047.0,Kelly Reichardt,Jonathan Raymond,Daniel London,Drama,2007,1,1
+5039,The Sentinel,PG-13,108.0,0.0,78810595.0,Clark Johnson,George Nolfi,Michael Douglas,Action,2006,1,1
+5040,The Breed,R,91.0,0.0,1689984.0,Nicholas Mastandrea,Robert Conte,Michelle Rodriguez,Action,2007,1,1
+5042,Hoot,PG,91.0,0.0,8224998.0,Wil Shriner,Wil Shriner,Logan Lerman,Adventure,2006,1,1
+5045,No Country for Old Men,R,122.0,0.0,171627166.0,Ethan Coen,Joel Coen,Tommy Lee Jones,Crime,2007,1,2
+5058,Spider-Man 3,PG-13,139.0,0.0,894983373.0,Sam Raimi,Sam Raimi,Tobey Maguire,Action,2007,1,1
+5062,I Am Legend,PG-13,101.0,0.0,585410052.0,Francis Lawrence,Mark Protosevich,Will Smith,Action,2007,1,2
+5066,Hitman,R,100.0,0.0,101276318.0,Xavier Gens,Skip Woods,Timothy Olyphant,Action,2007,1,1
+5067,Enchanted,PG,107.0,0.0,340487836.0,Kevin Lima,Bill Kelly,Amy Adams,Comedy,2007,1,1
+5077,The Nanny Diaries,PG-13,105.0,0.0,47817020.0,Shari Springer Berman,Emma McLaughlin,Scarlett Johansson,Comedy,2007,1,1
+5085,Next,PG-13,96.0,0.0,77621983.0,Lee Tamahori,Gary Goldman,Nicolas Cage,Action,2007,1,1
+5086,3:10 to Yuma,R,122.0,0.0,70016220.0,James Mangold,Halsted Welles,Russell Crowe,Action,2007,1,2
+5087,Across the Universe,PG-13,133.0,0.0,29625761.0,Julie Taymor,Dick Clement,Evan Rachel Wood,Drama,2007,1,2
+5095,Bee Movie,PG,91.0,0.0,293514336.0,Simon J. Smith,Jerry Seinfeld,Jerry Seinfeld,Animation,2007,1,1
+5096,The Heartbreak Kid,R,116.0,0.0,128453183.0,Bobby Farrelly,Scot Armstrong,Ben Stiller,Comedy,2007,1,1
+5097,Aliens vs. Predator: Requiem,R,94.0,0.0,130290885.0,Colin Strause,Shane Salerno,Reiko Aylesworth,Action,2007,1,0
+5098,Shrek the Third,PG,93.0,0.0,813367380.0,Chris Miller,Jeffrey Price,Mike Myers,Animation,2007,1,1
+5101,The Assassination of Jesse James by the Coward Robert Ford,R,160.0,0.0,15001776.0,Andrew Dominik,Andrew Dominik,Brad Pitt,Biography,2007,1,2
+5105,The Golden Compass,PG-13,113.0,0.0,372234864.0,Chris Weitz,Chris Weitz,Nicole Kidman,Adventure,2007,1,1
+5106,Rush Hour 3,PG-13,91.0,0.0,258097122.0,Brett Ratner,Jeff Nathanson,Jackie Chan,Action,2007,1,1
+5108,Timecrimes,R,92.0,0.0,553198.0,Nacho Vigalondo,Nacho Vigalondo,Karra Elejalde,Horror,2008,1,2
+5109,Epic Movie,PG-13,86.0,0.0,87238158.0,Jason Friedberg,Jason Friedberg,Kal Penn,Adventure,2007,1,0
+5110,Meet the Robinsons,G,95.0,0.0,169333034.0,Stephen J. Anderson,Jon Bernstein,Daniel Hansen,Animation,2007,1,1
+5114,Charlie Wilson's War,R,102.0,0.0,119483446.0,Mike Nichols,Aaron Sorkin,Tom Hanks,Biography,2007,1,1
+5119,Alvin and the Chipmunks,PG,92.0,0.0,365352546.0,Tim Hill,Jon Vitti,Jason Lee,Animation,2007,1,1
+5121,Walk Hard: the Dewey Cox Story,R,96.0,0.0,20576198.0,Jake Kasdan,Judd Apatow,John C. Reilly,Comedy,2007,1,1
+5122,National Treasure: Book of Secrets,PG,124.0,0.0,459242249.0,Jon Turteltaub,Marianne Wibberley,Nicolas Cage,Action,2007,1,1
+5125,The Game Plan,PG,110.0,0.0,147880543.0,Andy Fickman,Nichole Millard,Dwayne Johnson,Comedy,2007,1,1
+5132,Wild Hogs,PG-13,100.0,0.0,253625427.0,Walt Becker,Brad Copeland,Tim Allen,Action,2007,1,1
+5135,Like Stars on Earth,PG,165.0,0.0,21897373.0,Aamir Khan,Amole Gupte,Darsheel Safary,Drama,2007,1,2
+5142,Reservation Road,R,102.0,0.0,1783226.0,Terry George,John Burnham Schwartz,Joaquin Phoenix,Crime,2008,1,1
+5146,Shoot 'Em Up,R,86.0,0.0,27122238.0,Michael Davis,Michael Davis,Clive Owen,Action,2007,1,1
+5153,Rogue,R,99.0,0.0,4631926.0,Greg McLean,Greg McLean,Michael Vartan,Action,2007,1,1
+5164,Shelter,R,97.0,0.0,142666.0,Jonah Markowitz,Jonah Markowitz,Trevor Wright,Drama,2009,1,2
+5166,Sydney White,PG-13,108.0,0.0,13620075.0,Joe Nussbaum,Chad Gomez Creasey,Amanda Bynes,Comedy,2007,1,1
+5178,Savage Grace,Not Rated,97.0,0.0,1432799.0,Tom Kalin,Howard A. Rodman,Julianne Moore,Drama,2008,1,1
+5180,The Water Horse,PG,112.0,0.0,103967384.0,Jay Russell,Robert Nelson Jacobs,Emily Watson,Adventure,2007,1,1
+5182,The Diving Bell and the Butterfly,PG-13,112.0,0.0,19780116.0,Julian Schnabel,Ronald Harwood,Mathieu Amalric,Biography,2008,1,2
+5184,Margot at the Wedding,R,91.0,0.0,2900156.0,Noah Baumbach,Noah Baumbach,Nicole Kidman,Comedy,2008,1,1
+5200,I Know Who Killed Me,R,105.0,0.0,9669758.0,Chris Sivertson,Jeff Hammond,Lindsay Lohan,Crime,2007,1,0
+5201,Mr. Magorium's Wonder Emporium,G,93.0,0.0,69474661.0,Zach Helm,Zach Helm,Natalie Portman,Comedy,2007,1,1
+5202,Rise: Blood Hunter,R,97.0,0.0,2850927.0,Sebastian Gutierrez,Sebastian Gutierrez,Lucy Liu,Action,2007,1,0
+5211,The Invisible,PG-13,102.0,0.0,26810113.0,David S. Goyer,Mick Davis,Justin Chatwin,Crime,2007,1,1
+5213,The Last Legion,PG-13,101.0,0.0,25303038.0,Doug Lefler,Jez Butterworth,Colin Firth,Action,2007,1,1
+5215,Evangelion: 1.0 You Are (Not) Alone,PG-13,98.0,0.0,16444137.0,Masayuki,Hideaki Anno,Megumi Ogata,Animation,2007,1,2
+5216,Mongol: The Rise of Genghis Khan,R,126.0,0.0,26527510.0,Sergei Bodrov,Arif Aliev,Tadanobu Asano,Action,2008,1,2
+5224,Joshua,R,106.0,0.0,719968.0,George Ratliff,David Gilbert,Sam Rockwell,Drama,2007,1,1
+5226,Rendition,R,122.0,0.0,27066382.0,Gavin Hood,Kelley Sane,Reese Witherspoon,Drama,2007,1,1
+5234,Stomp the Yard,PG-13,115.0,0.0,75511123.0,Sylvain White,Robert Adetuyi,Columbus Short,Drama,2007,1,1
+5249,Tropic Thunder,R,107.0,0.0,195702963.0,Ben Stiller,Justin Theroux,Ben Stiller,Action,2008,1,1
+5250,Step Brothers,R,98.0,0.0,128108211.0,Adam McKay,Will Ferrell,Will Ferrell,Comedy,2008,1,1
+5255,Taken,PG-13,90.0,0.0,226837760.0,Pierre Morel,Luc Besson,Liam Neeson,Action,2009,1,2
+5257,Wanted,R,110.0,0.0,342463063.0,Timur Bekmambetov,Michael Brandt,Angelina Jolie,Action,2008,1,1
+5262,Forgetting Sarah Marshall,R,111.0,0.0,105833257.0,Nicholas Stoller,Jason Segel,Kristen Bell,Comedy,2008,1,2
+5266,Sex and the City,R,145.0,0.0,418765519.0,Michael Patrick King,Michael Patrick King,Sarah Jessica Parker,Comedy,2008,1,1
+5268,The House Bunny,PG-13,97.0,0.0,70439696.0,Fred Wolf,Karen McCullah,Anna Faris,Comedy,2008,1,1
+5270,Gran Torino,R,116.0,0.0,269958228.0,Clint Eastwood,Nick Schenk,Clint Eastwood,Drama,2009,1,2
+5273,The Hurt Locker,R,131.0,0.0,49259766.0,Kathryn Bigelow,Mark Boal,Jeremy Renner,Drama,2009,1,2
+5275,Eden Lake,R,91.0,0.0,3984669.0,James Watkins,James Watkins,Kelly Reilly,Horror,2008,1,1
+5280,Eagle Eye,PG-13,118.0,0.0,178767383.0,D.J. Caruso,John Glenn,Shia LaBeouf,Action,2008,1,1
+5286,Hancock,PG-13,92.0,0.0,629443428.0,Peter Berg,Vy Vincent Ngo,Will Smith,Action,2008,1,1
+5290,Sex Drive,R,109.0,0.0,18755936.0,Sean Anders,Sean Anders,Josh Zuckerman,Comedy,2008,1,1
+5293,Pineapple Express,R,111.0,0.0,101624843.0,David Gordon Green,Seth Rogen,Seth Rogen,Action,2008,1,1
+5296,27 Dresses,PG-13,111.0,0.0,162655351.0,Anne Fletcher,Aline Brosh McKenna,Katherine Heigl,Comedy,2008,1,1
+5298,Role Models,R,99.0,0.0,92649419.0,David Wain,Timothy Dowling,Paul Rudd,Comedy,2008,1,1
+5299,Defiance,R,137.0,0.0,51262751.0,Edward Zwick,Clayton Frohman,Daniel Craig,Action,2009,1,2
+5305,Yes Man,PG-13,104.0,0.0,223241637.0,Peyton Reed,Nicholas Stoller,Jim Carrey,Comedy,2008,1,1
+5312,The Bank Job,R,111.0,0.0,64828421.0,Roger Donaldson,Dick Clement,Jason Statham,Crime,2008,1,2
+5320,Fool's Gold,PG-13,112.0,0.0,111231041.0,Andy Tennant,John Claflin,Matthew McConaughey,Action,2008,1,1
+5322,Nick and Norah's Infinite Playlist,PG-13,90.0,0.0,33556631.0,Peter Sollett,Lorene Scafaria,Michael Cera,Comedy,2008,1,1
+5329,The Spirit,PG-13,103.0,0.0,39164441.0,Frank Miller,Frank Miller,Gabriel Macht,Action,2008,1,0
+5330,Ghost Town,PG-13,102.0,0.0,27090159.0,David Koepp,David Koepp,Ricky Gervais,Comedy,2008,1,1
+5337,Saw V,R,92.0,0.0,113864059.0,David Hackl,Patrick Melton,Scott Patterson,Crime,2008,1,1
+5341,The Women,PG-13,114.0,0.0,50007546.0,Diane English,Diane English,Meg Ryan,Comedy,2008,1,0
+5345,"10,000 BC",PG-13,109.0,0.0,269784201.0,Roland Emmerich,Roland Emmerich,Camilla Belle,Action,2008,1,1
+5347,Drillbit Taylor,PG-13,110.0,0.0,49944325.0,Steven Brill,Kristofor Brown,Owen Wilson,Action,2008,1,1
+5348,Made of Honor,PG-13,101.0,0.0,106407672.0,Paul Weiland,Adam Sztykiel,Patrick Dempsey,Comedy,2008,1,1
+5357,Red Cliff,R,148.0,0.0,129710514.0,John Woo,John Woo,Tony Chiu-Wai Leung,Action,2009,1,2
+5364,Righteous Kill,R,101.0,0.0,79498846.0,Jon Avnet,Russell Gewirtz,Robert De Niro,Crime,2008,1,1
+5366,Meet the Spartans,PG-13,87.0,0.0,85897593.0,Jason Friedberg,Jason Friedberg,Sean Maguire,Comedy,2008,1,0
+5368,Mirrors,R,110.0,0.0,78094714.0,Alexandre Aja,Alexandre Aja,Kiefer Sutherland,Horror,2008,1,1
+5381,The Edge of Love,R,110.0,0.0,4297711.0,John Maybury,Sharman Macdonald,Keira Knightley,Biography,2008,1,1
+5389,Chocolate,R,110.0,0.0,3179014.0,Prachya Pinkaew,Napalee,JeeJa Yanin,Action,2008,1,1
+5390,Killshot,R,95.0,0.0,2961647.0,John Madden,Hossein Amini,Thomas Jane,Action,2008,1,1
+5392,Passengers,PG-13,93.0,0.0,5798974.0,Rodrigo García,Ronnie Christensen,Anne Hathaway,Romance,2008,1,1
+5393,Shutter,PG-13,85.0,0.0,48555306.0,Masayuki Ochiai,Luke Dawson,Joshua Jackson,Horror,2008,1,1
+5395,Ghajini,Not Rated,186.0,0.0,38316584.0,A.R. Murugadoss,Piyush Mishra,Aamir Khan,Action,2008,1,2
+5399,The Informers,R,98.0,0.0,382174.0,Gregor Jordan,Bret Easton Ellis,Billy Bob Thornton,Crime,2009,1,0
+5410,"New York, I Love You",R,103.0,0.0,14603177.0,Directors,Hu Hong,Shia LaBeouf,Comedy,2009,1,1
+5416,Waltz with Bashir,R,90.0,0.0,11179372.0,Ari Folman,Ari Folman,Ari Folman,Animation,2008,1,2
+5420,The Burning Plain,R,107.0,0.0,5642478.0,Guillermo Arriaga,Guillermo Arriaga,Charlize Theron,Crime,2009,1,1
+5421,Brideshead Revisited,PG-13,133.0,0.0,13451186.0,Julian Jarrold,Andrew Davies,Matthew Goode,Drama,2008,1,1
+5424,Pathology,R,95.0,0.0,3234706.0,Marc Schölermann,Mark Neveldine,Alyssa Milano,Crime,2008,1,1
+5434,Igor,PG,87.0,0.0,30893885.0,Tony Leondis,Chris McKenna,John Cusack,Animation,2008,1,1
+5436,CJ7,PG,88.0,0.0,49529913.0,Stephen Chow,Stephen Chow,Stephen Chow,Comedy,2008,1,1
+5439,"Surfer, Dude",R,85.0,0.0,52132.0,S.R. Bindler,S.R. Bindler,Matthew McConaughey,Comedy,2008,1,0
+5440,Last Chance Harvey,PG-13,93.0,0.0,32568427.0,Joel Hopkins,Joel Hopkins,Dustin Hoffman,Drama,2009,1,1
+5442,The Family That Preys,PG-13,111.0,0.0,37105289.0,Tyler Perry,Tyler Perry,Kathy Bates,Drama,2008,1,1
+5445,Star Trek,PG-13,127.0,0.0,385680446.0,J.J. Abrams,Roberto Orci,Chris Pine,Action,2009,1,2
+5446,Avatar,PG-13,162.0,0.0,2847246203.0,James Cameron,James Cameron,Sam Worthington,Action,2009,1,2
+5447,Jennifer's Body,R,102.0,0.0,31556061.0,Karyn Kusama,Diablo Cody,Megan Fox,Comedy,2009,1,1
+5448,Watchmen,R,162.0,0.0,185382813.0,Zack Snyder,David Hayter,Jackie Earle Haley,Action,2009,1,2
+5456,State of Play,PG-13,127.0,0.0,87812371.0,Kevin Macdonald,Matthew Michael Carnahan,Russell Crowe,Crime,2009,1,2
+5470,Up in the Air,R,109.0,0.0,166842739.0,Jason Reitman,Walter Kirn,George Clooney,Comedy,2009,1,2
+5476,Coraline,PG,100.0,0.0,124596837.0,Henry Selick,Henry Selick,Dakota Fanning,Animation,2009,1,2
+5477,Moon,R,97.0,0.0,9760107.0,Duncan Jones,Duncan Jones,Sam Rockwell,Drama,2009,1,2
+5483,Mr. Nobody,R,141.0,0.0,3559160.0,Jaco Van Dormael,Jaco Van Dormael,Jared Leto,Drama,2013,1,2
+5488,Dogtooth,Not Rated,97.0,0.0,676126.0,Yorgos Lanthimos,Efthymis Filippou,Christos Stergioglou,Drama,2009,1,2
+5489,Angels & Demons,PG-13,138.0,0.0,485930816.0,Ron Howard,David Koepp,Tom Hanks,Action,2009,1,1
+5493,Pandorum,R,108.0,0.0,20648328.0,Christian Alvart,Travis Milloy,Dennis Quaid,Action,2009,1,1
+5503,Sorority Row,R,101.0,0.0,27206120.0,Stewart Hendler,Josh Stolberg,Briana Evigan,Horror,2009,1,1
+5505,The Imaginarium of Doctor Parnassus,PG-13,123.0,0.0,61808775.0,Terry Gilliam,Terry Gilliam,Christopher Plummer,Adventure,2010,1,1
+5512,A Perfect Getaway,R,98.0,0.0,22955544.0,David Twohy,David Twohy,Milla Jovovich,Drama,2009,1,1
+5513,Invictus,PG-13,134.0,0.0,122426792.0,Clint Eastwood,Anthony Peckham,Morgan Freeman,Biography,2009,1,2
+5514,Mother,R,129.0,0.0,17203507.0,Bong Joon Ho,Bong Joon Ho,Hye-ja Kim,Crime,2009,1,2
+5515,The Ugly Truth,R,96.0,0.0,321682600.0,Robert Luketic,Nicole Eastman,Katherine Heigl,Comedy,2009,1,1
+5519,Extract,R,92.0,0.0,10848783.0,Mike Judge,Mike Judge,Jason Bateman,Comedy,2009,1,1
+5520,The Collector,R,90.0,0.0,10234475.0,Marcus Dunstan,Patrick Melton,Josh Stewart,Horror,2009,1,1
+5521,Ninja Assassin,R,99.0,0.0,61601280.0,James McTeigue,Matthew Sand,Rain,Action,2009,1,1
+5527,Dragonball Evolution,PG,85.0,0.0,55720772.0,James Wong,Ben Ramsey,Justin Chatwin,Action,2009,1,0
+5535,Agora,R,127.0,0.0,39457342.0,Alejandro Amenábar,Alejandro Amenábar,Rachel Weisz,Adventure,2009,1,2
+5536,The Joneses,R,96.0,0.0,7043835.0,Derrick Borte,Randy T. Dinzler,Demi Moore,Comedy,2010,1,1
+5545,Julie & Julia,PG-13,123.0,0.0,129540522.0,Nora Ephron,Nora Ephron,Amy Adams,Biography,2009,1,1
+5549,The Young Victoria,PG,105.0,0.0,29196409.0,Jean-Marc Vallée,Julian Fellowes,Emily Blunt,Biography,2010,1,2
+5551,A Prophet,R,155.0,0.0,17874044.0,Jacques Audiard,Thomas Bidegain,Tahar Rahim,Crime,2010,1,2
+5552,My Sister's Keeper,PG-13,109.0,0.0,95714875.0,Nick Cassavetes,Jeremy Leven,Cameron Diaz,Drama,2009,1,2
+5557,Saw VI,R,90.0,0.0,68234154.0,Kevin Greutert,Patrick Melton,Tobin Bell,Horror,2009,1,1
+5559,Push,PG-13,111.0,0.0,48858618.0,Paul McGuigan,David Bourla,Camilla Belle,Action,2009,1,1
+5564,The Box,PG-13,115.0,0.0,33334176.0,Richard Kelly,Richard Kelly,Cameron Diaz,Drama,2009,1,1
+5567,"I Love You, Beth Cooper",PG-13,102.0,0.0,15821907.0,Chris Columbus,Larry Doyle,Hayden Panettiere,Comedy,2009,1,1
+5569,Thirst,R,134.0,0.0,13085023.0,Park Chan-Wook,Émile Zola,Kang-ho Song,Drama,2009,1,2
+5584,The White Ribbon,R,144.0,0.0,19319671.0,Michael Haneke,Michael Haneke,Christian Friedel,Drama,2010,1,2
+5587,Hannah Montana: The Movie,G,102.0,0.0,155545279.0,Peter Chelsom,Dan Berendsen,Miley Cyrus,Comedy,2009,1,0
+5590,12 Rounds,PG-13,108.0,0.0,17280326.0,Renny Harlin,Daniel Kunka,John Cena,Action,2009,1,1
+5591,Survival of the Dead,R,90.0,0.0,386078.0,George A. Romero,George A. Romero,Alan Van Sprang,Comedy,2010,1,0
+5596,Astro Boy,PG,94.0,0.0,39886986.0,David Bowers,Osamu Tezuka,Freddie Highmore,Animation,2009,1,1
+5598,My Life in Ruins,PG-13,95.0,0.0,20458873.0,Donald Petrie,Mike Reiss,Nia Vardalos,Comedy,2009,1,1
+5599,G-Force,PG,88.0,0.0,292817898.0,Hoyt Yeatman,Cormac Wibberley,Will Arnett,Animation,2009,1,1
+5602,Love Happens,PG-13,109.0,0.0,36088028.0,Brandon Camp,Brandon Camp,Jennifer Aniston,Drama,2009,1,1
+5603,The Girl Who Kicked the Hornet's Nest,R,147.0,0.0,44276335.0,Daniel Alfredson,Jonas Frykberg,Michael Nyqvist,Crime,2010,1,2
+5607,Harry Brown,R,103.0,0.0,10371451.0,Daniel Barber,Gary Young,Michael Caine,Action,2010,1,2
+5614,Madea Goes to Jail,PG-13,103.0,0.0,90508336.0,Tyler Perry,Tyler Perry,Tyler Perry,Comedy,2009,1,0
+5616,Sin Nombre,R,96.0,0.0,5102705.0,Cary Joji Fukunaga,Cary Joji Fukunaga,Paulina Gaitan,Adventure,2009,1,2
+5621,The Messenger,R,113.0,0.0,1595417.0,Oren Moverman,Alessandro Camon,Ben Foster,Drama,2009,1,2
+5622,Bitch Slap,R,109.0,0.0,439587.0,Rick Jacobson,Rick Jacobson,Julia Voth,Action,2009,1,0
+5629,The Disappearance of Alice Creed,R,100.0,0.0,896919.0,J Blakeson,J Blakeson,Gemma Arterton,Crime,2010,1,1
+5632,Cirque du Freak: the Vampire's Assistant,PG-13,109.0,0.0,39291383.0,Paul Weitz,Paul Weitz,Chris Massoglia,Action,2009,1,1
+5633,Aliens in the Attic,PG,86.0,0.0,57881056.0,John Schultz,Mark Burton,Ashley Tisdale,Adventure,2009,1,1
+5635,Daniel and Ana,Not Rated,90.0,0.0,2372.0,Michel Franco,Michel Franco,Dario Yazbek Bernal,Drama,2010,1,1
+5637,Fighting,PG-13,105.0,0.0,32482728.0,Dito Montiel,Robert Munic,Channing Tatum,Action,2009,1,1
+5646,Shutter Island,R,138.0,0.0,294805697.0,Martin Scorsese,Laeta Kalogridis,Leonardo DiCaprio,Mystery,2010,1,2
+5647,Scott Pilgrim vs. the World,PG-13,112.0,0.0,48917974.0,Edgar Wright,Michael Bacall,Michael Cera,Action,2010,1,2
+5652,The Town,R,125.0,0.0,154026136.0,Ben Affleck,Peter Craig,Ben Affleck,Crime,2010,1,2
+5654,Flipped,PG,90.0,0.0,4324817.0,Rob Reiner,Rob Reiner,Madeline Carroll,Comedy,2010,1,2
+5656,Robin Hood,PG-13,140.0,0.0,321669741.0,Ridley Scott,Brian Helgeland,Russell Crowe,Action,2010,1,1
+5661,I Spit on Your Grave,R,108.0,0.0,1278650.0,Steven R. Monroe,Adam Rockoff,Sarah Butler,Horror,2011,1,1
+5662,The Last Airbender,PG,103.0,0.0,319713881.0,M. Night Shyamalan,M. Night Shyamalan,Noah Ringer,Action,2010,1,0
+5664,The American,R,105.0,0.0,67876281.0,Anton Corbijn,Rowan Joffe,George Clooney,Crime,2010,1,1
+5665,Incendies,R,131.0,0.0,7099598.0,Denis Villeneuve,Denis Villeneuve,Lubna Azabal,Drama,2011,1,2
+5670,Love & Other Drugs,R,112.0,0.0,102820008.0,Edward Zwick,Charles Randolph,Jake Gyllenhaal,Comedy,2010,1,1
+5671,True Grit,PG-13,110.0,0.0,252276927.0,Ethan Coen,Joel Coen,Jeff Bridges,Drama,2010,1,2
+5678,Knight and Day,PG-13,109.0,0.0,261989769.0,James Mangold,Patrick O'Neill,Tom Cruise,Action,2010,1,1
+5683,TRON: Legacy,PG,125.0,0.0,400063852.0,Joseph Kosinski,Edward Kitsis,Jeff Bridges,Action,2010,1,1
+5687,The Next Three Days,PG-13,133.0,0.0,67448651.0,Paul Haggis,Paul Haggis,Russell Crowe,Action,2010,1,2
+5692,The Debt,R,113.0,0.0,45636368.0,John Madden,Matthew Vaughn,Helen Mirren,Drama,2011,1,1
+5699,The A-Team,PG-13,117.0,0.0,177238796.0,Joe Carnahan,Joe Carnahan,Liam Neeson,Action,2010,1,1
+5700,Animal Kingdom,R,113.0,0.0,7209912.0,David Michôd,David Michôd,James Frecheville,Crime,2010,1,2
+5703,Diary of a Wimpy Kid,PG,120.0,0.0,76196538.0,Thor Freudenthal,Jackie Filgo,Zachary Gordon,Animation,2010,1,1
+5705,Predators,R,107.0,0.0,127233108.0,Nimród Antal,Alex Litvak,Adrien Brody,Action,2010,1,1
+5707,Legion,R,100.0,0.0,67918658.0,Scott Stewart,Peter Schink,Paul Bettany,Action,2010,1,1
+5709,Jonah Hex,PG-13,81.0,0.0,10903312.0,Jimmy Hayward,Mark Neveldine,Josh Brolin,Action,2010,1,0
+5723,Faster,R,98.0,0.0,35626958.0,George Tillman Jr.,Tony Gayton,Dwayne Johnson,Action,2010,1,1
+5725,It's Kind of a Funny Story,PG-13,101.0,0.0,6491240.0,Anna Boden,Anna Boden,Keir Gilchrist,Comedy,2010,1,2
+5726,The Crazies,R,101.0,0.0,54806823.0,Breck Eisner,Scott Kosar,Radha Mitchell,Horror,2010,1,1
+5737,The Runaways,R,106.0,0.0,4681651.0,Floria Sigismondi,Floria Sigismondi,Kristen Stewart,Biography,2010,1,1
+5740,Frozen,R,93.0,0.0,3843774.0,Adam Green,Adam Green,Shawn Ashmore,Adventure,2010,1,1
+5741,Beyond the Black Rainbow,R,110.0,0.0,56491.0,Panos Cosmatos,Panos Cosmatos,Eva Bourne,Horror,2011,1,1
+5743,Skyline,PG-13,92.0,0.0,66984887.0,Colin Strause,Joshua Cordes,Eric Balfour,Action,2010,1,0
+5746,The Man from Nowhere,R,119.0,0.0,44723232.0,Jeong-beom Lee,Jeong-beom Lee,Won Bin,Action,2010,1,2
+5748,Trollhunter,PG-13,103.0,0.0,5341098.0,André Øvredal,André Øvredal,Otto Jespersen,Drama,2010,1,1
+5750,Letters to Juliet,PG,105.0,0.0,79628830.0,Gary Winick,Jose Rivera,Amanda Seyfried,Adventure,2010,1,1
+5768,Rubber,R,82.0,0.0,101729.0,Quentin Dupieux,Quentin Dupieux,Stephen Spinella,Comedy,2010,1,1
+5770,You Again,PG,105.0,0.0,32054369.0,Andy Fickman,Moe Jelline,Kristen Bell,Comedy,2010,1,1
+5774,Nanny McPhee Returns,PG,109.0,0.0,93251121.0,Susanna White,Emma Thompson,Emma Thompson,Comedy,2010,1,1
+5776,Wild Target,PG-13,98.0,0.0,3494154.0,Jonathan Lynn,Lucinda Coxon,Bill Nighy,Action,2010,1,1
+5777,When in Rome,PG-13,91.0,0.0,43053376.0,Mark Steven Johnson,David Diamond,Kristen Bell,Comedy,2010,1,1
+5788,The Whistleblower,R,112.0,0.0,1870392.0,Larysa Kondracki,Larysa Kondracki,Rachel Weisz,Biography,2011,1,2
+5790,Twelve,R,93.0,0.0,2648195.0,Joel Schumacher,Jordan Melamed,Chace Crawford,Action,2010,1,1
+5798,My Name Is Khan,PG-13,165.0,0.0,42345360.0,Karan Johar,Shibani Bathija,Shah Rukh Khan,Drama,2010,1,2
+5800,The Company Men,R,104.0,0.0,8087000.0,John Wells,John Wells,Ben Affleck,Drama,2011,1,1
+5802,Paranormal Activity 2,R,91.0,0.0,177512032.0,Tod Williams,Michael R. Perry,Katie Featherston,Horror,2010,1,1
+5806,Stone,R,105.0,0.0,10300416.0,John Curran,Angus MacLachlan,Edward Norton,Drama,2010,1,1
+5807,Why Did I Get Married Too?,PG-13,121.0,0.0,60673972.0,Tyler Perry,Tyler Perry,Janet Jackson,Comedy,2010,1,0
+5813,The Back-up Plan,PG-13,104.0,0.0,77477008.0,Alan Poul,Kate Angelo,Jennifer Lopez,Comedy,2010,1,1
+5814,What If...,PG,111.0,0.0,814906.0,Dallas Jenkins,Chuck Konzelman,Kevin Sorbo,Drama,2010,1,1
+5817,Country Strong,PG-13,117.0,0.0,20529194.0,Shana Feste,Shana Feste,Garrett Hedlund,Drama,2011,1,1
+5818,Little White Lies,Not Rated,154.0,0.0,53319615.0,Guillaume Canet,Guillaume Canet,François Cluzet,Comedy,2010,1,2
+5819,Charlie St. Cloud,PG-13,99.0,0.0,48190704.0,Burr Steers,Craig Pearce,Zac Efron,Drama,2010,1,1
+5821,Stake Land,R,98.0,0.0,405380.0,Jim Mickle,Nick Damici,Connor Paolo,Drama,2011,1,1
+5822,Vanishing on 7th Street,R,92.0,0.0,1671196.0,Brad Anderson,Anthony Jaswinski,Hayden Christensen,Horror,2011,1,0
+5836,Hesher,R,106.0,0.0,449702.0,Spencer Susser,Spencer Susser,Joseph Gordon-Levitt,Drama,2011,1,1
+5839,Love Ranch,R,117.0,0.0,146149.0,Taylor Hackford,Mark Jacobson,Helen Mirren,Biography,2011,1,1
+5843,Everything Must Go,R,97.0,0.0,2820490.0,Dan Rush,Dan Rush,Will Ferrell,Drama,2011,1,1
+5845,Thor,PG-13,115.0,0.0,449326618.0,Kenneth Branagh,Ashley Miller,Chris Hemsworth,Action,2011,1,1
+5849,Fast Five,PG-13,130.0,0.0,626137675.0,Justin Lin,Chris Morgan,Vin Diesel,Action,2011,1,2
+5860,No Strings Attached,R,108.0,0.0,149228077.0,Ivan Reitman,Elizabeth Meriwether,Natalie Portman,Comedy,2011,1,1
+5865,Friends with Benefits,R,109.0,0.0,149542245.0,Will Gluck,Keith Merryman,Mila Kunis,Comedy,2011,1,1
+5866,Immortals,R,110.0,0.0,226904017.0,Tarsem Singh,Charley Parlapanides,Henry Cavill,Action,2011,1,1
+5873,Shame,NC-17,101.0,0.0,19123767.0,Steve McQueen,Steve McQueen,Michael Fassbender,Drama,2012,1,2
+5874,Mission: Impossible - Ghost Protocol,PG-13,132.0,0.0,694713380.0,Brad Bird,Bruce Geller,Tom Cruise,Action,2011,1,2
+5875,Super 8,PG-13,112.0,0.0,260095986.0,J.J. Abrams,J.J. Abrams,Elle Fanning,Mystery,2011,1,1
+5880,Cowboys & Aliens,PG-13,119.0,0.0,174822325.0,Jon Favreau,Roberto Orci,Daniel Craig,Action,2011,1,1
+5884,Cars 2,G,106.0,0.0,559852396.0,John Lasseter,John Lasseter,Owen Wilson,Animation,2011,1,1
+5894,Sleeping Beauty,Not Rated,101.0,0.0,408680.0,Julia Leigh,Julia Leigh,Emily Browning,Drama,2011,1,1
+5895,Tower Heist,PG-13,104.0,0.0,152930623.0,Brett Ratner,Adam Cooper,Eddie Murphy,Action,2011,1,1
+5899,Your Highness,R,102.0,0.0,28013733.0,David Gordon Green,Danny McBride,Danny McBride,Adventure,2011,1,1
+5904,A Separation,PG-13,123.0,0.0,22926076.0,Asghar Farhadi,Asghar Farhadi,Payman Maadi,Drama,2011,1,2
+5923,Final Destination 5,R,92.0,0.0,157887643.0,Steven Quale,Eric Heisserer,Nicholas D'Agosto,Action,2011,1,1
+5930,Drive Angry,R,104.0,0.0,40909909.0,Patrick Lussier,Todd Farmer,Nicolas Cage,Action,2011,1,1
+5941,Battle Los Angeles,PG-13,116.0,0.0,211819354.0,Jonathan Liebesman,Christopher Bertolini,Aaron Eckhart,Action,2011,1,1
+5943,Killer Elite,R,116.0,0.0,57084522.0,Gary McKendry,Matt Sherring,Jason Statham,Action,2011,1,1
+5945,J. Edgar,R,137.0,0.0,84920539.0,Clint Eastwood,Dustin Lance Black,Leonardo DiCaprio,Biography,2011,1,1
+5948,A Dangerous Method,R,99.0,0.0,30519436.0,David Cronenberg,Christopher Hampton,Michael Fassbender,Biography,2011,1,1
+5957,The Snowtown Murders,Not Rated,119.0,0.0,1349387.0,Justin Kurzel,Shaun Grant,Lucas Pittaway,Biography,2011,1,1
+5959,The Human Centipede II (Full Sequence),Not Rated,91.0,0.0,170323.0,Tom Six,Tom Six,Laurence R. Harvey,Horror,2011,1,0
+5965,Kill List,Not Rated,95.0,0.0,450275.0,Ben Wheatley,Ben Wheatley,Neil Maskell,Action,2011,1,1
+5967,Attack the Block,R,88.0,0.0,6206022.0,Joe Cornish,Joe Cornish,John Boyega,Action,2011,1,1
+5968,The Guard,R,96.0,0.0,19561904.0,John Michael McDonagh,John Michael McDonagh,Brendan Gleeson,Comedy,2011,1,2
+5978,Beastly,PG-13,86.0,0.0,43202283.0,Daniel Barnz,Daniel Barnz,Alex Pettyfer,Drama,2011,1,1
+5988,The Eagle,PG-13,114.0,0.0,37989684.0,Kevin Macdonald,Jeremy Brock,Channing Tatum,Action,2011,1,1
+5990,Spy Kids 4-D: All the Time in the World,PG,89.0,0.0,85564310.0,Robert Rodriguez,Robert Rodriguez,Jessica Alba,Animation,2011,1,0
+5994,Salmon Fishing in the Yemen,PG-13,107.0,0.0,34564651.0,Lasse Hallström,Simon Beaufoy,Ewan McGregor,Comedy,2012,1,1
+6005,Weekend,Not Rated,97.0,0.0,1192003.0,Andrew Haigh,Andrew Haigh,Tom Cullen,Drama,2011,1,2
+6008,The Big Year,PG,100.0,0.0,8179416.0,David Frankel,Howard Franklin,Owen Wilson,Comedy,2011,1,1
+6020,Take This Waltz,R,116.0,0.0,4965950.0,Sarah Polley,Sarah Polley,Michelle Williams,Comedy,2012,1,1
+6024,Jin ling shi san chai,R,146.0,0.0,2855644.0,Yimou Zhang,Heng Liu,Christian Bale,Drama,2011,1,2
+6034,The Beaver,PG-13,91.0,0.0,7294800.0,Jodie Foster,Kyle Killen,Mel Gibson,Drama,2011,1,1
+6038,Rockstar,Not Rated,159.0,0.0,11219667.0,Imtiaz Ali,Imtiaz Ali,Ranbir Kapoor,Drama,2011,1,2
+6039,"Big Mommas: Like Father, Like Son",PG-13,107.0,0.0,82686066.0,John Whitesell,Matthew Fogel,Martin Lawrence,Action,2011,1,0
+6042,The Dilemma,PG-13,111.0,0.0,69721966.0,Ron Howard,Allan Loeb,Vince Vaughn,Comedy,2011,1,1
+6048,The Dark Knight Rises,PG-13,164.0,0.0,1081142612.0,Christopher Nolan,Jonathan Nolan,Christian Bale,Action,2012,1,2
+6054,The Impossible,PG-13,114.0,0.0,198087212.0,J.A. Bayona,Sergio G. Sánchez,Naomi Watts,Drama,2013,1,2
+6056,The Twilight Saga: Breaking Dawn - Part 2,PG-13,115.0,0.0,829747654.0,Bill Condon,Melissa Rosenberg,Kristen Stewart,Adventure,2012,1,1
+6058,Zero Dark Thirty,R,157.0,0.0,132820716.0,Kathryn Bigelow,Mark Boal,Jessica Chastain,Drama,2013,1,2
+6059,Cloud Atlas,R,172.0,0.0,130482868.0,Tom Tykwer,David Mitchell,Tom Hanks,Action,2012,1,2
+6060,Skyfall,PG-13,143.0,0.0,1108569499.0,Sam Mendes,Neal Purvis,Daniel Craig,Action,2012,1,2
+6061,The Perks of Being a Wallflower,PG-13,103.0,0.0,33384127.0,Stephen Chbosky,Stephen Chbosky,Logan Lerman,Drama,2012,1,2
+6066,The Master,R,138.0,0.0,28258060.0,Paul Thomas Anderson,Paul Thomas Anderson,Philip Seymour Hoffman,Drama,2012,1,2
+6068,Killing Them Softly,R,97.0,0.0,37930465.0,Andrew Dominik,Andrew Dominik,Brad Pitt,Crime,2012,1,1
+6069,Flight,R,138.0,0.0,161772375.0,Robert Zemeckis,John Gatins,Denzel Washington,Drama,2012,1,2
+6071,Ted,R,106.0,0.0,549368315.0,Seth MacFarlane,Seth MacFarlane,Mark Wahlberg,Comedy,2012,1,1
+6079,Dark Shadows,PG-13,113.0,0.0,245527149.0,Tim Burton,Seth Grahame-Smith,Johnny Depp,Comedy,2012,1,1
+6090,Lore,Not Rated,109.0,0.0,2362019.0,Cate Shortland,Cate Shortland,Saskia Rosendahl,Drama,2012,1,2
+6093,Wreck-It Ralph,PG,101.0,0.0,471222889.0,Rich Moore,Rich Moore,John C. Reilly,Animation,2012,1,2
+6098,Savages,R,131.0,0.0,82966152.0,Oliver Stone,Shane Salerno,Aaron Taylor-Johnson,Crime,2012,1,1
+6105,Rock of Ages,PG-13,123.0,0.0,59418613.0,Adam Shankman,Justin Theroux,Julianne Hough,Comedy,2012,1,1
+6108,The Expendables 2,R,103.0,0.0,314975955.0,Simon West,Richard Wenk,Sylvester Stallone,Action,2012,1,1
+6109,Safety Not Guaranteed,R,86.0,0.0,4424699.0,Colin Trevorrow,Derek Connolly,Aubrey Plaza,Comedy,2012,1,1
+6110,Chronicle,PG-13,84.0,0.0,126636097.0,Josh Trank,Max Landis,Dane DeHaan,Adventure,2012,1,1
+6113,Wrath of the Titans,PG-13,99.0,0.0,301970083.0,Jonathan Liebesman,Dan Mazeau,Sam Worthington,Action,2012,1,1
+6116,Man on a Ledge,PG-13,102.0,0.0,47636031.0,Asger Leth,Pablo F. Fenjves,Sam Worthington,Action,2012,1,1
+6127,The Sessions,R,95.0,0.0,10656155.0,Ben Lewin,Ben Lewin,John Hawkes,Biography,2012,1,2
+6131,The Vow,PG-13,104.0,0.0,196114570.0,Michael Sucsy,Abby Kohn,Rachel McAdams,Drama,2012,1,1
+6132,Taken 2,PG-13,92.0,0.0,376152455.0,Olivier Megaton,Luc Besson,Liam Neeson,Action,2012,1,1
+6140,Bullet to the Head,R,92.0,0.0,21947209.0,Walter Hill,Alessandro Camon,Sylvester Stallone,Action,2013,1,1
+6144,Ice Age: Continental Drift,PG,88.0,0.0,877244782.0,Steve Martino,Michael Berg,Ray Romano,Animation,2012,1,1
+6155,The Possession,PG-13,92.0,0.0,85446075.0,Ole Bornedal,Juliet Snowden,Natasha Calis,Horror,2012,1,1
+6165,John Dies at the End,R,99.0,0.0,141951.0,Don Coscarelli,Don Coscarelli,Chase Williamson,Comedy,2012,1,1
+6172,The Man with the Iron Fists,R,95.0,0.0,20546518.0,RZA,RZA,Russell Crowe,Action,2012,1,1
+6178,Stand Up Guys,R,95.0,0.0,5072654.0,Fisher Stevens,Noah Haidle,Al Pacino,Comedy,2013,1,1
+6183,Thanks for Sharing,R,112.0,0.0,3499442.0,Stuart Blumberg,Stuart Blumberg,Mark Ruffalo,Comedy,2013,1,1
+6185,The Angels' Share,R,101.0,0.0,13090471.0,Ken Loach,Paul Laverty,Paul Brannigan,Comedy,2012,1,1
+6186,Universal Soldier: Day of Reckoning,R,114.0,0.0,1402307.0,John Hyams,John Hyams,Jean-Claude Van Damme,Action,2012,1,0
+6189,Red Tails,PG-13,125.0,0.0,50365498.0,Anthony Hemingway,John Ridley,Cuba Gooding Jr.,Action,2012,1,1
+6192,The Apparition,PG-13,82.0,0.0,11350665.0,Todd Lincoln,Todd Lincoln,Ashley Greene,Horror,2012,1,0
+6195,Chasing Mavericks,PG,116.0,0.0,7942116.0,Michael Apted,Kario Salem,Jonny Weston,Biography,2012,1,2
+6197,Bachelorette,R,87.0,0.0,12128575.0,Leslye Headland,Leslye Headland,Kirsten Dunst,Comedy,2012,1,1
+6209,Upside Down,PG-13,109.0,0.0,22187813.0,Juan Solanas,Juan Solanas,Jim Sturgess,Drama,2013,1,1
+6212,Premium Rush,PG-13,91.0,0.0,31083599.0,David Koepp,David Koepp,Joseph Gordon-Levitt,Action,2012,1,1
+6221,People Like Us,PG-13,114.0,0.0,12558931.0,Alex Kurtzman,Alex Kurtzman,Chris Pine,Comedy,2012,1,2
+6229,A Thousand Words,PG-13,91.0,0.0,22044277.0,Brian Robbins,Steve Koren,Eddie Murphy,Comedy,2012,1,1
+6231,Escape from Planet Earth,PG,89.0,0.0,74939189.0,Cal Brunker,Bob Barlen,Brendan Fraser,Animation,2013,1,1
+6235,"For a Good Time, Call...",R,85.0,0.0,1386088.0,Jamie Travis,Katie Anne Naylon,Ari Graynor,Comedy,2012,1,1
+6238,The Devil Inside,R,83.0,0.0,101758490.0,William Brent Bell,William Brent Bell,Fernanda Andrade,Horror,2012,1,0
+6240,Fun Size,PG-13,86.0,0.0,11417362.0,Josh Schwartz,Max Werner,Victoria Justice,Adventure,2012,1,1
+6245,Iron Man 3,PG-13,130.0,0.0,1214811252.0,Shane Black,Drew Pearce,Robert Downey Jr.,Action,2013,1,2
+6246,The Conjuring,R,112.0,0.0,320290989.0,James Wan,Chad Hayes,Patrick Wilson,Horror,2013,1,2
+6249,The Purge,R,85.0,0.0,89328627.0,James DeMonaco,James DeMonaco,Ethan Hawke,Horror,2013,1,1
+6250,Grown Ups 2,PG-13,101.0,0.0,246984278.0,Dennis Dugan,Fred Wolf,Adam Sandler,Comedy,2013,1,1
+6252,Gravity,PG-13,91.0,0.0,723192705.0,Alfonso Cuarón,Alfonso Cuarón,Sandra Bullock,Drama,2013,1,2
+6254,The Hobbit: The Desolation of Smaug,PG-13,161.0,0.0,959007513.0,Peter Jackson,Fran Walsh,Ian McKellen,Adventure,2013,1,2
+6255,Man of Steel,PG-13,143.0,0.0,668045518.0,Zack Snyder,David S. Goyer,Henry Cavill,Action,2013,1,1
+6256,Under the Skin,R,108.0,0.0,5866389.0,Jonathan Glazer,Walter Campbell,Scarlett Johansson,Drama,2014,1,1
+6257,Blue Is the Warmest Colour,NC-17,180.0,0.0,19465835.0,Abdellatif Kechiche,Abdellatif Kechiche,Léa Seydoux,Drama,2013,1,2
+6260,Snowpiercer,R,126.0,0.0,86758912.0,Bong Joon Ho,Jacques Lob,Chris Evans,Action,2014,1,2
+6265,American Hustle,R,138.0,0.0,251171807.0,David O. Russell,Eric Warren Singer,Christian Bale,Crime,2013,1,2
+6268,Monsters University,G,104.0,0.0,743559645.0,Dan Scanlon,Dan Scanlon,Billy Crystal,Animation,2013,1,2
+6284,The Croods,PG,98.0,0.0,587205319.0,Kirk DeMicco,Chris Sanders,Nicolas Cage,Animation,2013,1,2
+6291,Evil Dead,R,91.0,0.0,97542952.0,Fede Alvarez,Fede Alvarez,Jane Levy,Horror,2013,1,1
+6292,White House Down,PG-13,131.0,0.0,205366737.0,Roland Emmerich,James Vanderbilt,Channing Tatum,Action,2013,1,1
+6294,Olympus Has Fallen,R,119.0,0.0,170270201.0,Antoine Fuqua,Creighton Rothenberger,Gerard Butler,Action,2013,1,1
+6300,Coherence,Not Rated,89.0,0.0,139745.0,James Ward Byrkit,James Ward Byrkit,Emily Baldoni,Drama,2014,1,2
+6302,Anchorman 2: the Legend Continues,PG-13,119.0,0.0,173649931.0,Adam McKay,Will Ferrell,Will Ferrell,Comedy,2013,1,1
+6305,The Mortal Instruments: City of Bones,PG-13,130.0,0.0,95396573.0,Harald Zwart,Jessica Postigo,Lily Collins,Action,2013,1,1
+6307,Riddick,R,119.0,0.0,98337295.0,David Twohy,David Twohy,Vin Diesel,Action,2013,1,1
+6308,A Good Day to Die Hard,R,98.0,0.0,304654182.0,John Moore,Skip Woods,Bruce Willis,Action,2013,1,1
+6309,Escape Plan,R,115.0,0.0,137328301.0,Mikael Håfström,Miles Chapman,Sylvester Stallone,Action,2013,1,1
+6313,47 Ronin,PG-13,128.0,0.0,151783839.0,Carl Rinsch,Chris Morgan,Keanu Reeves,Action,2013,1,1
+6317,Percy Jackson: Sea of Monsters,PG,106.0,0.0,199850315.0,Thor Freudenthal,Marc Guggenheim,Logan Lerman,Adventure,2013,1,1
+6319,Nymphomaniac: Vol. II,Not Rated,124.0,0.0,4934725.0,Lars von Trier,Lars von Trier,Charlotte Gainsbourg,Drama,2014,1,1
+6323,Locke,R,85.0,0.0,5090608.0,Steven Knight,Steven Knight,Tom Hardy,Drama,2014,1,2
+6331,The Call,R,94.0,0.0,68572631.0,Brad Anderson,Richard D'Ovidio,Halle Berry,Crime,2013,1,1
+6343,Side Effects,R,106.0,0.0,63414135.0,Steven Soderbergh,Scott Z. Burns,Rooney Mara,Crime,2013,1,2
+6344,The Heat,R,117.0,0.0,229930771.0,Paul Feig,Katie Dippold,Sandra Bullock,Action,2013,1,1
+6347,Belle,PG,100.0,0.0,16607575.0,Amma Asante,Misan Sagay,Gugu Mbatha-Raw,Biography,2014,1,2
+6350,Lee Daniels' The Butler,PG-13,132.0,0.0,177313795.0,Lee Daniels,Danny Strong,Forest Whitaker,Biography,2013,1,2
+6351,Only God Forgives,R,90.0,0.0,10639616.0,Nicolas Winding Refn,Nicolas Winding Refn,Ryan Gosling,Action,2013,1,1
+6357,42,PG-13,128.0,0.0,97470701.0,Brian Helgeland,Brian Helgeland,Chadwick Boseman,Biography,2013,1,2
+6363,Short Term 12,R,96.0,0.0,1645164.0,Destin Daniel Cretton,Destin Daniel Cretton,Brie Larson,Drama,2013,1,2
+6365,The Book Thief,PG-13,131.0,0.0,76586316.0,Brian Percival,Markus Zusak,Sophie Nélisse,Drama,2013,1,2
+6367,Lovelace,R,93.0,0.0,1585583.0,Rob Epstein,Andy Bellin,Amanda Seyfried,Biography,2013,1,1
+6369,The Family,R,111.0,0.0,78418811.0,Luc Besson,Luc Besson,Robert De Niro,Comedy,2013,1,1
+6370,The Wind Rises,PG-13,126.0,0.0,136533257.0,Hayao Miyazaki,Hayao Miyazaki,Hideaki Anno,Animation,2014,1,2
+6371,Life of Crime,R,98.0,0.0,1456675.0,Daniel Schechter,Daniel Schechter,Jennifer Aniston,Comedy,2014,1,1
+6376,Grudge Match,PG-13,113.0,0.0,44907260.0,Peter Segal,Tim Kelleher,Robert De Niro,Comedy,2013,1,1
+6377,Planes,PG,91.0,0.0,239258712.0,Klay Hall,John Lasseter,Carlos Alazraqui,Animation,2013,1,1
+6384,The Kings of Summer,R,95.0,0.0,1501595.0,Jordan Vogt-Roberts,Chris Galletta,Nick Robinson,Adventure,2013,1,2
+6394,The Grandmaster,PG-13,130.0,0.0,73906736.0,Kar-Wai Wong,Kar-Wai Wong,Tony Chiu-Wai Leung,Action,2013,1,1
+6395,The Incredible Burt Wonderstone,PG-13,100.0,0.0,27437881.0,Don Scardino,Jonathan Goldstein,Steve Carell,Comedy,2013,1,1
+6399,Snitch,PG-13,112.0,0.0,57824674.0,Ric Roman Waugh,Justin Haythe,Dwayne Johnson,Action,2013,1,1
+6401,Last Vegas,PG-13,105.0,0.0,134409025.0,Jon Turteltaub,Dan Fogelman,Robert De Niro,Comedy,2013,1,1
+6403,Palo Alto,R,100.0,0.0,919591.0,Gia Coppola,Gia Coppola,Emma Roberts,Drama,2014,1,1
+6408,Europa Report,PG-13,90.0,0.0,125687.0,Sebastián Cordero,Philip Gelatt,Sharlto Copley,Action,2013,1,1
+6410,I Give It a Year,R,97.0,0.0,29128433.0,Dan Mazer,Dan Mazer,Rose Byrne,Comedy,2013,1,1
+6411,Starred Up,Not Rated,106.0,0.0,3025189.0,David Mackenzie,Jonathan Asser,Jack O'Connell,Crime,2014,1,2
+6413,The Inevitable Defeat of Mister & Pete,R,108.0,0.0,506303.0,George Tillman Jr.,Michael Starrbury,Skylan Brooks,Drama,2013,1,2
+6414,Romeo and Juliet,PG-13,118.0,0.0,2966268.0,Carlo Carlei,Arthur Brooke,Hailee Steinfeld,Drama,2013,1,1
+6415,Runner Runner,R,88.0,0.0,62675095.0,Brad Furman,Brian Koppelman,Ben Affleck,Crime,2013,1,1
+6417,The Tale of The Princess Kaguya,PG,137.0,0.0,24706166.0,Isao Takahata,Isao Takahata,Chloë Grace Moretz,Animation,2013,1,2
+6419,Yeh Jawaani Hai Deewani,Not Rated,160.0,0.0,30991781.0,Ayan Mukherjee,Hussain Dalal,Ranbir Kapoor,Drama,2013,1,2
+6430,The Congress,Not Rated,122.0,0.0,758754.0,Ari Folman,Stanislaw Lem,Robin Wright,Animation,2014,1,1
+6432,Ida,PG-13,82.0,0.0,11156836.0,Pawel Pawlikowski,Pawel Pawlikowski,Agata Kulesza,Drama,2013,1,2
+6437,Ain't Them Bodies Saints,R,96.0,0.0,1031243.0,David Lowery,David Lowery,Rooney Mara,Crime,2013,1,1
+6440,The Lunchbox,PG,104.0,0.0,11621777.0,Ritesh Batra,Ritesh Batra,Irrfan Khan,Drama,2013,1,2
+6442,Charlie Countryman,R,103.0,0.0,443990.0,Fredrik Bond,Matt Drake,Shia LaBeouf,Action,2013,1,1
+6450,The Grand Budapest Hotel,R,99.0,0.0,172945750.0,Wes Anderson,Stefan Zweig,Ralph Fiennes,Adventure,2014,1,2
+6451,Whiplash,R,106.0,0.0,49396747.0,Damien Chazelle,Damien Chazelle,Miles Teller,Drama,2014,1,2
+6455,Nightcrawler,R,117.0,0.0,47398992.0,Dan Gilroy,Dan Gilroy,Jake Gyllenhaal,Crime,2014,1,2
+6456,The Hobbit: The Battle of the Five Armies,PG-13,144.0,0.0,962182865.0,Peter Jackson,Fran Walsh,Ian McKellen,Adventure,2014,1,2
+6457,The Equalizer,R,132.0,0.0,192330738.0,Antoine Fuqua,Richard Wenk,Denzel Washington,Action,2014,1,2
+6458,The Maze Runner,PG-13,113.0,0.0,348319861.0,Wes Ball,Noah Oppenheim,Dylan O'Brien,Action,2014,1,1
+6462,The Imitation Game,PG-13,114.0,0.0,233555708.0,Morten Tyldum,Graham Moore,Benedict Cumberbatch,Biography,2014,1,2
+6469,Blended,PG-13,117.0,0.0,127994610.0,Frank Coraci,Ivan Menchell,Adam Sandler,Comedy,2014,1,1
+6479,The Amazing Spider-Man 2,PG-13,142.0,0.0,708982323.0,Marc Webb,Alex Kurtzman,Andrew Garfield,Action,2014,1,1
+6480,Maleficent,PG,97.0,0.0,758411779.0,Robert Stromberg,Linda Woolverton,Angelina Jolie,Action,2014,1,1
+6483,The Lego Movie,PG,100.0,0.0,468060692.0,Christopher Miller,Phil Lord,Chris Pratt,Animation,2014,1,2
+6486,Night at the Museum: Secret of the Tomb,PG,98.0,0.0,363204635.0,Shawn Levy,David Guion,Ben Stiller,Adventure,2014,1,1
+6487,The Fault in Our Stars,PG-13,126.0,0.0,307166834.0,Josh Boone,Scott Neustadter,Shailene Woodley,Drama,2014,1,2
+6488,"As Above, So Below",R,93.0,0.0,41898409.0,John Erick Dowdle,John Erick Dowdle,Perdita Weeks,Horror,2014,1,1
+6495,Transformers: Age of Extinction,PG-13,165.0,0.0,1104054072.0,Michael Bay,Ehren Kruger,Mark Wahlberg,Action,2014,1,1
+6499,Sex Tape,R,94.0,0.0,126069509.0,Jake Kasdan,Kate Angelo,Jason Segel,Comedy,2014,1,1
+6501,Wild Tales,R,122.0,0.0,30642704.0,Damián Szifron,Germán Servidio,Darío Grandinetti,Comedy,2014,1,2
+6503,Foxcatcher,R,134.0,0.0,19206513.0,Bennett Miller,E. Max Frye,Steve Carell,Biography,2015,1,1
+6512,The Monuments Men,PG-13,118.0,0.0,156706638.0,George Clooney,George Clooney,George Clooney,Comedy,2014,1,1
+6514,Dumb and Dumber to,PG-13,109.0,0.0,169837010.0,Bobby Farrelly,Sean Anders,Jim Carrey,Comedy,2014,1,1
+6518,A Walk Among the Tombstones,R,114.0,0.0,58834384.0,Scott Frank,Lawrence Block,Liam Neeson,Action,2014,1,1
+6519,Need for Speed,PG-13,132.0,0.0,203277636.0,Scott Waugh,George Gatins,Aaron Paul,Action,2014,1,1
+6534,Testament of Youth,PG-13,129.0,0.0,5874883.0,James Kent,Vera Brittain,Alicia Vikander,Biography,2015,1,2
+6540,Unfriended,R,83.0,0.0,62882090.0,Levan Gabriadze,Nelson Greaves,Heather Sossaman,Horror,2015,1,1
+6546,The Good Lie,PG-13,110.0,0.0,3396345.0,Philippe Falardeau,Margaret Nagle,Reese Witherspoon,Biography,2014,1,2
+6547,Deliver Us from Evil,R,118.0,0.0,87937815.0,Scott Derrickson,Scott Derrickson,Eric Bana,Action,2014,1,1
+6551,Kill Me Three Times,R,90.0,0.0,101807.0,Kriv Stenders,James McFarland,Simon Pegg,Action,2015,1,1
+6552,Ride Along,PG-13,99.0,0.0,154468902.0,Tim Story,Greg Coolidge,Ice Cube,Action,2014,1,1
+6563,Clown,R,100.0,0.0,4381603.0,Jon Watts,Christopher Ford,Andy Powers,Horror,2016,1,1
+6564,The Signal,PG-13,97.0,0.0,2595622.0,William Eubank,Carlyle Eubank,Brenton Thwaites,Drama,2014,1,1
+6569,She's Funny That Way,R,93.0,0.0,6034851.0,Peter Bogdanovich,Louise Stratten,Imogen Poots,Comedy,2015,1,1
+6572,3 Days to Kill,PG-13,117.0,0.0,53260230.0,McG,Adi Hasak,Kevin Costner,Action,2014,1,1
+6574,Love & Mercy,PG-13,121.0,0.0,28641776.0,Bill Pohlad,Oren Moverman,John Cusack,Biography,2015,1,2
+6575,Big Eyes,PG-13,106.0,0.0,29253166.0,Tim Burton,Scott Alexander,Amy Adams,Biography,2014,1,1
+6581,The One I Love,R,91.0,0.0,596933.0,Charlie McDowell,Justin Lader,Mark Duplass,Comedy,2014,1,2
+6588,Cake,R,102.0,0.0,2433850.0,Daniel Barnz,Patrick Tobin,Jennifer Aniston,Drama,2015,1,1
+6591,Two Night Stand,R,86.0,0.0,492332.0,Max Nichols,Mark Hammer,Miles Teller,Comedy,2014,1,1
+6598,Kill the Messenger,R,112.0,0.0,5218973.0,Michael Cuesta,Peter Landesman,Jeremy Renner,Biography,2014,1,1
+6602,Winter's Tale,PG-13,118.0,0.0,30800231.0,Akiva Goldsman,Akiva Goldsman,Colin Farrell,Drama,2014,1,1
+6605,Tammy,R,97.0,0.0,100375432.0,Ben Falcone,Melissa McCarthy,Melissa McCarthy,Comedy,2014,1,0
+6608,The Rover,R,103.0,0.0,2510007.0,David Michôd,David Michôd,Guy Pearce,Action,2014,1,1
+6612,Magic in the Moonlight,PG-13,97.0,0.0,51029361.0,Woody Allen,Woody Allen,Colin Firth,Comedy,2014,1,1
+6613,Song of the Sea,PG,93.0,0.0,4190884.0,Tomm Moore,Will Collins,David Rawle,Animation,2015,1,2
+6616,Zombeavers,R,77.0,0.0,54985.0,Jordan Rubin,Al Kaplan,Rachel Melvin,Action,2015,1,0
+6624,Frank,R,95.0,0.0,1897363.0,Lenny Abrahamson,Jon Ronson,Michael Fassbender,Comedy,2014,1,1
+6625,Get on Up,PG-13,139.0,0.0,33448971.0,Tate Taylor,Jez Butterworth,Chadwick Boseman,Biography,2014,1,1
+6626,Suffragette,PG-13,106.0,0.0,31972096.0,Sarah Gavron,Abi Morgan,Carey Mulligan,Drama,2015,1,1
+6628,Heaven Is for Real,PG,99.0,0.0,101982712.0,Randall Wallace,Randall Wallace,Greg Kinnear,Biography,2014,1,1
+6632,Dear White People,R,108.0,0.0,4633961.0,Justin Simien,Justin Simien,Tyler James Williams,Comedy,2014,1,1
+6636,The Keeping Room,R,95.0,0.0,73922.0,Daniel Barber,Julia Hart,Brit Marling,Drama,2015,1,1
+6643,Laggies,R,99.0,0.0,2379154.0,Lynn Shelton,Andrea Seigel,Keira Knightley,Comedy,2014,1,1
+6646,Crimson Peak,R,119.0,0.0,74679822.0,Guillermo del Toro,Guillermo del Toro,Mia Wasikowska,Drama,2015,1,1
+6650,Fifty Shades of Grey,R,125.0,0.0,569651467.0,Sam Taylor-Johnson,Kelly Marcel,Dakota Johnson,Drama,2015,1,0
+6652,The Witch,R,92.0,0.0,40423945.0,Robert Eggers,Robert Eggers,Anya Taylor-Joy,Drama,2016,1,1
+6657,Room,R,118.0,0.0,35401758.0,Lenny Abrahamson,Emma Donoghue,Brie Larson,Drama,2016,1,2
+6661,The Man from U.N.C.L.E.,PG-13,116.0,0.0,107045109.0,Guy Ritchie,Guy Ritchie,Henry Cavill,Action,2015,1,2
+6673,The Intern,PG-13,121.0,0.0,194564672.0,Nancy Meyers,Nancy Meyers,Robert De Niro,Comedy,2015,1,2
+6679,Mission: Impossible - Rogue Nation,PG-13,131.0,0.0,682716636.0,Christopher McQuarrie,Bruce Geller,Tom Cruise,Action,2015,1,2
+6682,Creed,PG-13,133.0,0.0,173567581.0,Ryan Coogler,Ryan Coogler,Michael B. Jordan,Drama,2015,1,2
+6683,The Age of Adaline,PG-13,112.0,0.0,65663276.0,Lee Toland Krieger,J. Mills Goodloe,Blake Lively,Drama,2015,1,2
+6685,Focus,R,105.0,0.0,158762963.0,Glenn Ficarra,Glenn Ficarra,Will Smith,Comedy,2015,1,1
+6687,Jupiter Ascending,PG-13,127.0,0.0,183887723.0,Lana Wachowski,Lilly Wachowski,Channing Tatum,Action,2015,1,1
+6688,I Saw the Light,R,123.0,0.0,1767963.0,Marc Abraham,Marc Abraham,Tom Hiddleston,Biography,2016,1,1
+6695,The Danish Girl,R,119.0,0.0,64191523.0,Tom Hooper,Lucinda Coxon,Eddie Redmayne,Biography,2016,1,2
+6697,Straight Outta Compton,R,147.0,0.0,201634991.0,F. Gary Gray,Jonathan Herman,O'Shea Jackson Jr.,Biography,2015,1,2
+6714,Hitman: Agent 47,R,96.0,0.0,82347656.0,Aleksander Bach,Skip Woods,Rupert Friend,Action,2015,1,1
+6716,Steve Jobs,R,122.0,0.0,34441873.0,Danny Boyle,Aaron Sorkin,Michael Fassbender,Biography,2015,1,2
+6721,Brooklyn,PG-13,117.0,0.0,62402155.0,John Crowley,Nick Hornby,Saoirse Ronan,Drama,2015,1,2
+6722,Youth,R,124.0,0.0,23459358.0,Paolo Sorrentino,Paolo Sorrentino,Michael Caine,Comedy,2015,1,2
+6723,Self/less,PG-13,117.0,0.0,31807156.0,Tarsem Singh,Àlex Pastor,Ryan Reynolds,Action,2015,1,1
+6730,Run All Night,R,114.0,0.0,71561644.0,Jaume Collet-Serra,Brad Ingelsby,Liam Neeson,Action,2015,1,1
+6732,Magic Mike XXL,R,115.0,0.0,117813057.0,Gregory Jacobs,Reid Carolin,Channing Tatum,Comedy,2015,1,1
+6734,Trumbo,R,124.0,0.0,11430025.0,Jay Roach,John McNamara,Bryan Cranston,Biography,2015,1,2
+6741,Goosebumps,PG,103.0,0.0,158261424.0,Rob Letterman,Darren Lemke,Jack Black,Adventure,2015,1,1
+6742,Aloha,PG-13,105.0,0.0,26250020.0,Cameron Crowe,Cameron Crowe,Bradley Cooper,Comedy,2015,1,1
+6745,The Wedding Ringer,R,101.0,0.0,79799880.0,Jeremy Garelick,Jeremy Garelick,Kevin Hart,Comedy,2015,1,1
+6746,Sisters,R,118.0,0.0,105011053.0,Jason Moore,Paula Pell,Amy Poehler,Comedy,2015,1,1
+6750,Paper Towns,PG-13,109.0,0.0,85512300.0,Jake Schreier,Scott Neustadter,Nat Wolff,Adventure,2015,1,1
+6766,Summertime,Not Rated,105.0,0.0,3778938.0,Catherine Corsini,Catherine Corsini,Cécile de France,Drama,2015,1,1
+6771,Attack on Titan Part 1,Not Rated,98.0,0.0,30810658.0,Shinji Higuchi,Hajime Isayama,Haruma Miura,Action,2015,1,0
+6774,Eye in the Sky,R,102.0,0.0,35259653.0,Gavin Hood,Guy Hibbert,Helen Mirren,Action,2016,1,2
+6776,Tumbledown,R,105.0,0.0,282083.0,Sean Mewshaw,Sean Mewshaw,Rebecca Hall,Comedy,2016,1,1
+6783,By the Sea,R,122.0,0.0,3334927.0,Angelina Jolie,Angelina Jolie,Brad Pitt,Drama,2015,1,1
+6788,Regression,R,106.0,0.0,17671101.0,Alejandro Amenábar,Alejandro Amenábar,Ethan Hawke,Crime,2015,1,1
+6791,The Transporter Refueled,PG-13,96.0,0.0,72629670.0,Camille Delamarre,Adam Cooper,Ed Skrein,Action,2015,1,1
+6799,The Lure,Not Rated,92.0,0.0,108846.0,Agnieszka Smoczynska,Robert Bolesto,Marta Mazurek,Drama,2015,1,1
+6807,The Peanuts Movie,G,88.0,0.0,246233113.0,Steve Martino,Craig Schulz,Noah Schnapp,Animation,2015,1,2
+6808,Rock the Kasbah,R,106.0,0.0,3394174.0,Barry Levinson,Mitch Glazer,Bill Murray,Comedy,2015,1,1
+6812,Love the Coopers,PG-13,107.0,0.0,42426912.0,Jessie Nelson,Steven Rogers,Steve Martin,Comedy,2015,1,1
+6822,The End of the Tour,R,106.0,0.0,3072991.0,James Ponsoldt,Donald Margulies,Jason Segel,Biography,2015,1,2
+6823,Cop Car,R,88.0,0.0,143658.0,Jon Watts,Jon Watts,Kevin Bacon,Crime,2015,1,1
+6826,Cemetery of Splendor,Unrated,122.0,0.0,98932.0,Apichatpong Weerasethakul,Apichatpong Weerasethakul,Jenjira Pongpas,Drama,2015,1,1
+6827,Captive,PG-13,97.0,0.0,2801508.0,Jerry Jameson,Brian Bird,Kate Mara,Action,2015,1,1
+6846,The Magnificent Seven,PG-13,132.0,0.0,162360636.0,Antoine Fuqua,Akira Kurosawa,Denzel Washington,Action,2016,1,1
+6852,Me Before You,PG-13,106.0,0.0,208314186.0,Thea Sharrock,Jojo Moyes,Emilia Clarke,Drama,2016,1,2
+6862,The Conjuring 2,R,134.0,0.0,321788219.0,James Wan,Chad Hayes,Vera Farmiga,Horror,2016,1,2
+6864,Zootopia,PG,108.0,0.0,1024121104.0,Byron Howard,Byron Howard,Ginnifer Goodwin,Animation,2016,1,2
+6868,13 Hours,R,144.0,0.0,69411370.0,Michael Bay,Chuck Hogan,John Krasinski,Action,2016,1,2
+6869,Nocturnal Animals,R,116.0,0.0,30311857.0,Tom Ford,Tom Ford,Amy Adams,Drama,2016,1,2
+6874,The Nice Guys,R,116.0,0.0,62788218.0,Shane Black,Shane Black,Russell Crowe,Action,2016,1,2
+6884,Hidden Figures,PG,127.0,0.0,236225193.0,Theodore Melfi,Allison Schroeder,Taraji P. Henson,Biography,2017,1,2
+6890,The Accountant,R,128.0,0.0,155160045.0,Gavin O'Connor,Bill Dubuque,Ben Affleck,Action,2016,1,2
+6898,Silence,R,161.0,0.0,23834809.0,Martin Scorsese,Jay Cocks,Andrew Garfield,Drama,2017,1,2
+6907,10 Cloverfield Lane,PG-13,103.0,0.0,110216998.0,Dan Trachtenberg,Josh Campbell,John Goodman,Action,2016,1,2
+6908,The Lost City of Z,PG-13,141.0,0.0,19263938.0,James Gray,James Gray,Charlie Hunnam,Biography,2017,1,1
+6912,Meet the Blacks,R,94.0,0.0,9097072.0,Deon Taylor,Deon Taylor,Mike Epps,Comedy,2016,1,0
+6921,Deepwater Horizon,PG-13,107.0,0.0,121790373.0,Peter Berg,Matthew Michael Carnahan,Mark Wahlberg,Action,2016,1,2
+6926,The Infiltrator,R,127.0,0.0,21011110.0,Brad Furman,Ellen Furman,Bryan Cranston,Biography,2016,1,1
+6928,A Cure for Wellness,R,146.0,0.0,26620002.0,Gore Verbinski,Justin Haythe,Dane DeHaan,Drama,2017,1,1
+6932,The 5th Wave,PG-13,112.0,0.0,109906372.0,J Blakeson,Susannah Grant,Chloë Grace Moretz,Action,2016,1,1
+6934,Allegiant,PG-13,120.0,0.0,179246868.0,Robert Schwentke,Noah Oppenheim,Shailene Woodley,Action,2016,1,1
+6937,The Great Wall,PG-13,103.0,0.0,334933831.0,Yimou Zhang,Carlo Bernard,Matt Damon,Action,2017,1,1
+6939,Bad Moms,R,100.0,0.0,183936074.0,Jon Lucas,Jon Lucas,Mila Kunis,Comedy,2016,1,1
+6954,Teenage Mutant Ninja Turtles: Out of the Shadows,PG-13,112.0,0.0,245623848.0,Dave Green,Josh Appelbaum,Megan Fox,Action,2016,1,1
+6956,Everybody Wants Some!!,R,117.0,0.0,4644472.0,Richard Linklater,Richard Linklater,Blake Jenner,Comedy,2016,1,1
+6958,The Finest Hours,PG-13,117.0,0.0,52099090.0,Craig Gillespie,Scott Silver,Chris Pine,Action,2016,1,1
+6961,The Belko Experiment,R,89.0,0.0,11084630.0,Greg McLean,James Gunn,John Gallagher Jr.,Horror,2017,1,1
+6967,Nerve,PG-13,96.0,0.0,85251425.0,Henry Joost,Jessica Sharzer,Emma Roberts,Action,2016,1,1
+6968,Mechanic: Resurrection,R,98.0,0.0,125729635.0,Dennis Gansel,Lewis John Carlino,Jason Statham,Action,2016,1,1
+6978,Neighbors 2: Sorority Rising,R,92.0,0.0,108007109.0,Nicholas Stoller,Andrew Jay Cohen,Seth Rogen,Comedy,2016,1,1
+6980,Free State of Jones,R,139.0,0.0,25035950.0,Gary Ross,Gary Ross,Matthew McConaughey,Action,2016,1,1
+6985,Keanu,R,100.0,0.0,20651333.0,Peter Atencio,Jordan Peele,Keegan-Michael Key,Action,2016,1,1
+6988,A Monster Calls,PG-13,108.0,0.0,47309313.0,J.A. Bayona,Patrick Ness,Lewis MacDougall,Adventure,2017,1,2
+6992,Blair Witch,R,89.0,0.0,45173154.0,Adam Wingard,Simon Barrett,James Allen McCune,Horror,2016,1,0
+6994,In a Valley of Violence,R,104.0,0.0,61797.0,Ti West,Ti West,Ethan Hawke,Action,2016,1,1
+6997,Rules Don't Apply,PG-13,127.0,0.0,3885342.0,Warren Beatty,Warren Beatty,Lily Collins,Comedy,2016,1,1
+6999,Better Watch Out,R,89.0,0.0,176288.0,Chris Peckover,Zack Kahn,Olivia DeJonge,Comedy,2017,1,1
+7005,Ouija: Origin of Evil,PG-13,99.0,0.0,81705746.0,Mike Flanagan,Mike Flanagan,Elizabeth Reaser,Drama,2016,1,1
+7019,Bleed for This,R,117.0,0.0,6698679.0,Ben Younger,Ben Younger,Miles Teller,Biography,2016,1,1
+7029,Denial,PG-13,109.0,0.0,7994527.0,Mick Jackson,Deborah Lipstadt,Rachel Weisz,Biography,2016,1,1
+7030,Carrie Pilby,Not Rated,98.0,0.0,28430.0,Susan Johnson,Kara Holden,Bel Powley,Comedy,2017,1,1
+7033,Under the Shadow,PG-13,84.0,0.0,133324.0,Babak Anvari,Babak Anvari,Narges Rashidi,Drama,2016,1,1
+7034,Rock Dog,PG,90.0,0.0,23157646.0,Ash Brannon,Ash Brannon,Luke Wilson,Animation,2017,1,1
+7040,Complete Unknown,R,91.0,0.0,217473.0,Joshua Marston,Joshua Marston,Erin Darke,Drama,2016,1,1
+7058,Dunkirk,PG-13,106.0,0.0,527016307.0,Christopher Nolan,Christopher Nolan,Fionn Whitehead,Action,2017,1,2
+7059,Coco,PG,105.0,0.0,807817888.0,Lee Unkrich,Lee Unkrich,Anthony Gonzalez,Animation,2017,1,2
+7085,Logan Lucky,PG-13,118.0,0.0,48453605.0,Steven Soderbergh,Jules Asner,Channing Tatum,Comedy,2017,1,1
+7088,Transformers: The Last Knight,PG-13,154.0,0.0,605425157.0,Michael Bay,Art Marcum,Mark Wahlberg,Action,2017,1,1
+7092,Molly's Game,R,140.0,0.0,59284015.0,Aaron Sorkin,Aaron Sorkin,Jessica Chastain,Biography,2018,1,2
+7093,Hostiles,R,134.0,0.0,35669017.0,Scott Cooper,Scott Cooper,Scott Shepherd,Drama,2018,1,2
+7097,American Assassin,R,111.0,0.0,67234188.0,Michael Cuesta,Stephen Schiff,Dylan O'Brien,Action,2017,1,1
+7101,The Death of Stalin,R,107.0,0.0,24646055.0,Armando Iannucci,Armando Iannucci,Steve Buscemi,Comedy,2018,1,2
+7102,Gifted,PG-13,101.0,0.0,43069254.0,Marc Webb,Tom Flynn,Chris Evans,Drama,2017,1,2
+7104,The Upside,PG-13,126.0,0.0,125856180.0,Neil Burger,Jon Hartmere,Kevin Hart,Comedy,2019,1,1
+7107,American Made,R,115.0,0.0,134866593.0,Doug Liman,Gary Spinelli,Tom Cruise,Action,2017,1,2
+7108,War for the Planet of the Apes,PG-13,140.0,0.0,490719763.0,Matt Reeves,Mark Bomback,Andy Serkis,Action,2017,1,2
+7113,xXx: Return of Xander Cage,PG-13,107.0,0.0,346118277.0,D.J. Caruso,Rich Wilkes,Vin Diesel,Action,2017,1,1
+7120,The Lego Batman Movie,PG,104.0,0.0,311950384.0,Chris McKay,Seth Grahame-Smith,Will Arnett,Animation,2017,1,2
+7131,The Post,PG-13,116.0,0.0,180419231.0,Steven Spielberg,Liz Hannah,Meryl Streep,Drama,2018,1,2
+7151,Loving Vincent,PG-13,94.0,0.0,42187665.0,Dorota Kobiela,Dorota Kobiela,Douglas Booth,Animation,2017,1,2
+7162,Daddy's Home 2,PG-13,100.0,0.0,180613824.0,Sean Anders,Sean Anders,Will Ferrell,Comedy,2017,1,1
+7163,Mark Felt: The Man Who Brought Down the White House,PG-13,103.0,0.0,4372130.0,Peter Landesman,Mark Felt,Liam Neeson,Biography,2017,1,1
+7164,A Dog's Purpose,PG,100.0,0.0,205035819.0,Lasse Hallström,W. Bruce Cameron,Josh Gad,Adventure,2017,1,2
+7166,The Little Hours,R,90.0,0.0,1647175.0,Jeff Baena,Giovanni Boccaccio,Alison Brie,Comedy,2017,1,1
+7172,Professor Marston & the Wonder Women,R,108.0,0.0,1899615.0,Angela Robinson,Angela Robinson,Luke Evans,Biography,2017,1,2
+7195,A Taxi Driver,Not Rated,137.0,0.0,86252940.0,Hun Jang,Yu-na Eom,Kang-ho Song,Action,2017,1,2
+7198,Smurfs: The Lost Village,PG,90.0,0.0,197183546.0,Kelly Asbury,Stacey Harman,Demi Lovato,Animation,2017,1,1
+7205,Fist Fight,R,91.0,0.0,41087017.0,Richie Keen,Van Robichaux,Ice Cube,Comedy,2017,1,1
+7216,Ghost Stories,Not Rated,98.0,0.0,4131358.0,Jeremy Dyson,Jeremy Dyson,Samuel Bottomley,Drama,2018,1,1
+7219,The Bookshop,PG,113.0,0.0,12062146.0,Isabel Coixet,Isabel Coixet,Emily Mortimer,Drama,2018,1,1
+7223,Captain Underpants: The First Epic Movie,PG,89.0,0.0,125427681.0,David Soren,Nicholas Stoller,Kevin Hart,Animation,2017,1,1
+7228,Journey's End,R,107.0,0.0,970809.0,Saul Dibb,Simon Reade,Paul Bettany,Drama,2018,1,1
+7231,BPM (Beats Per Minute),Not Rated,143.0,0.0,7704369.0,Robin Campillo,Robin Campillo,Nahuel Pérez Biscayart,Drama,2017,1,2
+7238,The Villainess,Not Rated,124.0,0.0,8737458.0,Byung-gil Jung,Byeong-sik Jung,Kim Ok-bin,Action,2017,1,1
+7239,How to Talk to Girls at Parties,R,102.0,0.0,385733.0,John Cameron Mitchell,Philippa Goslett,Elle Fanning,Comedy,2018,1,1
+7245,Avengers: Infinity War,PG-13,149.0,0.0,2048359754.0,Anthony Russo,Christopher Markus,Robert Downey Jr.,Action,2018,1,2
+7250,A Simple Favor,R,117.0,0.0,97644617.0,Paul Feig,Darcey Bell,Anna Kendrick,Comedy,2018,1,1
+7256,Green Book,PG-13,130.0,0.0,321752656.0,Peter Farrelly,Nick Vallelonga,Viggo Mortensen,Biography,2018,1,2
+7257,Crazy Rich Asians,PG-13,120.0,0.0,238539198.0,Jon M. Chu,Peter Chiarelli,Constance Wu,Comedy,2018,1,1
+7263,Midnight Sun,PG-13,91.0,0.0,27365467.0,Scott Speer,Kenji Bando,Bella Thorne,Drama,2018,1,1
+7264,Under the Silver Lake,R,139.0,0.0,2053469.0,David Robert Mitchell,David Robert Mitchell,Andrew Garfield,Crime,2019,1,1
+7266,Annihilation,R,115.0,0.0,43070915.0,Alex Garland,Alex Garland,Natalie Portman,Adventure,2018,1,1
+7270,Death Wish,R,107.0,0.0,49562710.0,Eli Roth,Joe Carnahan,Bruce Willis,Action,2018,1,1
+7279,Sicario: Day of the Soldado,R,122.0,0.0,75837743.0,Stefano Sollima,Taylor Sheridan,Benicio Del Toro,Action,2018,1,2
+7287,Charlie Says,R,110.0,0.0,98240.0,Mary Harron,Guinevere Turner,Hannah Murray,Biography,2019,1,1
+7290,The Commuter,PG-13,104.0,0.0,119942387.0,Jaume Collet-Serra,Byron Willinger,Liam Neeson,Action,2018,1,1
+7292,Red Joan,R,101.0,0.0,10647493.0,Trevor Nunn,Lindsay Shapero,Judi Dench,Biography,2019,1,1
+7293,Tag,R,100.0,0.0,78130625.0,Jeff Tomsic,Rob McKittrick,Jeremy Renner,Action,2018,1,1
+7294,The Hate U Give,PG-13,133.0,0.0,34934009.0,George Tillman Jr.,Audrey Wells,Amandla Stenberg,Crime,2018,1,2
+7295,Bad Times at the El Royale,R,141.0,0.0,31882724.0,Drew Goddard,Drew Goddard,Jeff Bridges,Crime,2018,1,2
+7297,Fantastic Beasts: The Crimes of Grindelwald,PG-13,134.0,0.0,654855901.0,David Yates,J.K. Rowling,Eddie Redmayne,Adventure,2018,1,1
+7298,Hunter Killer,R,121.0,0.0,31676128.0,Donovan Marsh,Arne Schmidt,Gerard Butler,Action,2018,1,1
+7306,Mary Poppins Returns,PG,130.0,0.0,349546142.0,Rob Marshall,P.L. Travers,Emily Blunt,Comedy,2018,1,1
+7307,Leave No Trace,PG,109.0,0.0,7682928.0,Debra Granik,Debra Granik,Thomasin McKenzie,Adventure,2018,1,2
+7308,Bumblebee,PG-13,114.0,0.0,467989645.0,Travis Knight,Christina Hodson,Hailee Steinfeld,Action,2018,1,1
+7314,The Spy Who Dumped Me,R,117.0,0.0,75339459.0,Susanna Fogel,Susanna Fogel,Justin Theroux,Action,2018,1,1
+7320,The Girl in the Spider's Web,R,115.0,0.0,35164920.0,Fede Alvarez,David Lagercrantz,Claire Foy,Action,2018,1,1
+7323,First Man,PG-13,141.0,0.0,105713218.0,Damien Chazelle,Josh Singer,Ryan Gosling,Biography,2018,1,2
+7324,Creed II,PG-13,130.0,0.0,214215889.0,Steven Caple Jr.,Juel Taylor,Michael B. Jordan,Drama,2018,1,2
+7329,Widows,R,129.0,0.0,75984700.0,Steve McQueen,Gillian Flynn,Viola Davis,Crime,2018,1,1
+7335,Peppermint,R,101.0,0.0,53918723.0,Pierre Morel,Chad St. John,Jennifer Garner,Action,2018,1,1
+7338,Operation Finale,PG-13,122.0,0.0,17612099.0,Chris Weitz,Matthew Orton,Oscar Isaac,Biography,2018,1,1
+7348,American Woman,R,111.0,0.0,245416.0,Jake Scott,Brad Ingelsby,Sienna Miller,Drama,2019,1,1
+7353,Holmes & Watson,PG-13,90.0,0.0,40466970.0,Etan Cohen,Etan Cohen,Will Ferrell,Comedy,2018,1,0
+7356,Truth or Dare,PG-13,100.0,0.0,95330710.0,Jeff Wadlow,Michael Reisz,Lucy Hale,Horror,2018,1,1
+7358,At Eternity's Gate,PG-13,111.0,0.0,11473638.0,Julian Schnabel,Jean-Claude Carrière,Willem Dafoe,Biography,2019,1,1
+7360,Summer of 84,Not Rated,105.0,0.0,42027.0,François Simard,Matt Leslie,Graham Verchere,Drama,2018,1,1
+7365,Hotel Mumbai,R,123.0,0.0,21315827.0,Anthony Maras,John Collee,Dev Patel,Action,2019,1,2
+7367,American Animals,R,116.0,0.0,4080073.0,Bart Layton,Bart Layton,Spencer Reinhard,Biography,2018,1,1
+7374,The Miseducation of Cameron Post,Not Rated,91.0,0.0,1474577.0,Desiree Akhavan,Desiree Akhavan,Chloë Grace Moretz,Drama,2018,1,1
+7377,"Don't Worry, He Won't Get Far on Foot",R,114.0,0.0,4241656.0,Gus Van Sant,John Callahan,Joaquin Phoenix,Biography,2018,1,1
+7381,Johnny English Strikes Again,PG,89.0,0.0,158972499.0,David Kerr,William Davies,Rowan Atkinson,Action,2018,1,1
+7383,Wildlife,PG-13,105.0,0.0,3321367.0,Paul Dano,Paul Dano,Ed Oxenbould,Drama,2019,1,1
+7386,On the Basis of Sex,PG-13,120.0,0.0,38755900.0,Mimi Leder,Daniel Stiepleman,Felicity Jones,Biography,2019,1,2
+7392,Border,R,110.0,0.0,2177678.0,Ali Abbasi,John Ajvide Lindqvist,Eva Melander,Crime,2018,1,1
+7401,Lords of Chaos,R,118.0,0.0,365353.0,Jonas Åkerlund,Dennis Magnusson,Rory Culkin,Biography,2019,1,1
+7407,Wild Rose,R,101.0,0.0,7123449.0,Tom Harper,Nicole Taylor,Jessie Buckley,Comedy,2019,1,2
+7408,The Possession of Hannah Grace,R,86.0,0.0,43016528.0,Diederik Van Rooijen,Brian Sieve,Shay Mitchell,Horror,2018,1,1
+7409,If Beale Street Could Talk,R,119.0,0.0,20596567.0,Barry Jenkins,Barry Jenkins,KiKi Layne,Drama,2018,1,2
+7415,Action Point,R,85.0,0.0,5103663.0,Tim Kirkby,John Altschuler,Johnny Knoxville,Comedy,2018,1,1
+7418,Never Look Away,R,189.0,0.0,6193234.0,Florian Henckel von Donnersmarck,Florian Henckel von Donnersmarck,Tom Schilling,Biography,2018,1,2
+7427,Padmaavat,Not Rated,164.0,0.0,60508780.0,Sanjay Leela Bhansali,Prakash Kapadia,Deepika Padukone,Drama,2018,1,1
+7432,The Hummingbird Project,R,111.0,0.0,878199.0,Kim Nguyen,Kim Nguyen,Jesse Eisenberg,Drama,2019,1,1
+7435,Kin,PG-13,102.0,0.0,10313019.0,Jonathan Baker,Jonathan Baker,Myles Truitt,Action,2018,1,1
+7439,The Quake,PG-13,106.0,0.0,13837294.0,John Andreas Andersen,John Kåre Raake,Kristoffer Joner,Action,2018,1,1
+7459,Spider-Man: Far from Home,PG-13,129.0,0.0,1131927996.0,Jon Watts,Chris McKenna,Tom Holland,Action,2019,1,2
+7462,It Chapter Two,R,169.0,0.0,473093228.0,Andy Muschietti,Stephen King,Jessica Chastain,Drama,2019,1,1
+7470,Us,R,116.0,0.0,255184580.0,Jordan Peele,Jordan Peele,Lupita Nyong'o,Horror,2019,1,1
+7471,Ready or Not,R,95.0,0.0,57615777.0,Matt Bettinelli-Olpin,Guy Busick,Samara Weaving,Action,2019,1,1
+7473,Terminator: Dark Fate,R,128.0,0.0,261119292.0,Tim Miller,David S. Goyer,Linda Hamilton,Action,2019,1,1
+7474,Downton Abbey,PG,122.0,0.0,237860050.0,Michael Engler,Julian Fellowes,Stephen Campbell Moore,Drama,2019,1,2
+7475,Gemini Man,PG-13,117.0,0.0,173469516.0,Ang Lee,David Benioff,Will Smith,Action,2019,1,1
+7484,Godzilla: King of the Monsters,PG-13,132.0,0.0,386600138.0,Michael Dougherty,Michael Dougherty,Kyle Chandler,Action,2019,1,1
+7486,Hustlers,R,110.0,0.0,157563598.0,Lorene Scafaria,Lorene Scafaria,Constance Wu,Comedy,2019,1,1
+7490,Zombieland: Double Tap,R,99.0,0.0,122810399.0,Ruben Fleischer,Rhett Reese,Woody Harrelson,Action,2019,1,1
+7496,Brightburn,R,90.0,0.0,32893421.0,David Yarovesky,Brian Gunn,Elizabeth Banks,Drama,2019,1,1
+7500,Ma,R,99.0,0.0,61105744.0,Tate Taylor,Scotty Landes,Octavia Spencer,Horror,2019,1,1
+7503,Crawl,R,87.0,0.0,91542097.0,Alexandre Aja,Michael Rasmussen,Kaya Scodelario,Action,2019,1,1
+7509,A Beautiful Day in the Neighborhood,PG,109.0,0.0,67760877.0,Marielle Heller,Micah Fitzerman-Blue,Tom Hanks,Biography,2019,1,2
+7510,How to Train Your Dragon: The Hidden World,PG,104.0,0.0,525683457.0,Dean DeBlois,Dean DeBlois,Jay Baruchel,Animation,2019,1,2
+7511,Pokémon Detective Pikachu,PG,104.0,0.0,433921300.0,Rob Letterman,Dan Hernandez,Ryan Reynolds,Action,2019,1,1
+7513,Maleficent: Mistress of Evil,PG,119.0,0.0,491730089.0,Joachim Rønning,Linda Woolverton,Angelina Jolie,Adventure,2019,1,1
+7515,The Secret Life of Pets 2,PG,86.0,0.0,430051293.0,Chris Renaud,Brian Lynch,Patton Oswalt,Animation,2019,1,1
+7519,The Intruder,PG-13,102.0,0.0,36599361.0,Deon Taylor,David Loughery,Michael Ealy,Thriller,2019,1,1
+7524,The Art of Self-Defense,R,104.0,0.0,2414269.0,Riley Stearns,Riley Stearns,Jesse Eisenberg,Action,2019,1,1
+7528,Sword of Trust,R,88.0,0.0,323369.0,Lynn Shelton,Lynn Shelton,Marc Maron,Comedy,2019,1,1
+7532,The Souvenir,R,120.0,0.0,1719157.0,Joanna Hogg,Joanna Hogg,Neil Young,Drama,2019,1,1
+7538,The Beach Bum,R,95.0,0.0,4554416.0,Harmony Korine,Harmony Korine,Matthew McConaughey,Comedy,2019,1,1
+7540,Can You Keep a Secret?,Not Rated,94.0,0.0,1378160.0,Elise Durán,Peter Hutchings,Alexandra Daddario,Comedy,2019,1,1
+7542,The Art of Racing in the Rain,PG,109.0,0.0,33766787.0,Simon Curtis,Mark Bomback,Kevin Costner,Comedy,2019,1,2
+7545,Ip Man 4: The Finale,Not Rated,107.0,0.0,176345966.0,Wilson Yip,Edmond Wong,Donnie Yen,Action,2019,1,1
+7558,Miss Bala,PG-13,104.0,0.0,15383580.0,Catherine Hardwicke,Gareth Dunnet-Alcocer,Gina Rodriguez,Action,2019,1,1
+7563,The Fanatic,R,88.0,0.0,0.0,Fred Durst,Fred Durst,John Travolta,Crime,2019,1,0
+7570,Breakthrough,PG,116.0,0.0,50444358.0,Roxann Dawson,Joyce Smith,Marcel Ruiz,Biography,2019,1,1
+7572,Little,PG-13,109.0,0.0,49000667.0,Tina Gordon,Tracy Oliver,Regina Hall,Comedy,2019,1,1
+7574,Ne Zha,Not Rated,110.0,0.0,726264074.0,Yu Yang,Yu Yang,Yanting Lü,Animation,2019,1,2
+7587,Sonchiriya,Not Rated,143.0,0.0,914565.0,Abhishek Chaubey,Sudip Sharma,Sushant Singh Rajput,Action,2019,1,2
+7591,Saaho,Not Rated,170.0,0.0,5708522.0,Sujeeth,Sujeeth,Prabhas,Action,2019,1,1
+7592,Exit,Not Rated,103.0,0.0,69501772.0,Sang-Geun Lee,Sang-Geun Lee,Jo Jung-Suk,Action,2019,1,1
+7595,Unplanned,R,109.0,0.0,21354152.0,Chuck Konzelman,Abby Johnson,Ashley Bratcher,Biography,2019,1,1
+7596,Student of the Year 2,Not Rated,146.0,0.0,1635907.0,Punit Malhotra,Arshad Sayed,Tiger Shroff,Action,2019,1,0
+7601,Bennett's War,PG-13,94.0,0.0,1067629.0,Alex Ranarivelo,Alex Ranarivelo,Michael Roark,Sport,2019,1,1
+7602,Code Geass: Lelouch of the Re;Surrection,Not Rated,112.0,0.0,9982083.0,Gorô Taniguchi,Gorô Taniguchi,Jun Fukuyama,Animation,2019,1,2
+7603,Before You Know It,Not Rated,98.0,0.0,151507.0,Hannah Pearl Utt,Jen Tullock,Hannah Pearl Utt,Comedy,2019,1,1
+7609,Photograph,PG-13,110.0,0.0,996171.0,Ritesh Batra,Ritesh Batra,Nawazuddin Siddiqui,Drama,2019,1,1
+7611,Body at Brighton Rock,R,87.0,0.0,5123.0,Roxanne Benjamin,Roxanne Benjamin,Karina Fontes,Horror,2019,1,0
+7612,The Bravest,PG-13,118.0,0.0,245179562.0,Tony Chan,Chao Wang,Xiaoming Huang,Action,2019,1,1
+7614,42nd Street: The Musical,Not Rated,155.0,0.0,2217255.0,Mark Bramble,Mark Bramble,Bonnie Langford,Musical,2019,1,2
+7617,High on the Hog,R,85.0,0.0,45696.0,Tony Wash,Andy Golub,Sid Haig,Action,2019,1,0
+7622,The Fighting Preacher,PG,100.0,0.0,954641.0,T.C. Christensen,T.C. Christensen,David McConnell,Comedy,2019,1,1
+7632,The Least of These: The Graham Staines Story,PG-13,112.0,0.0,695164.0,Aneesh Daniel,Andrew E. Matthews,Sharman Joshi,Drama,2019,1,1
+7650,Sonic the Hedgehog,PG,99.0,0.0,319715683.0,Jeff Fowler,Pat Casey,Ben Schwartz,Action,2020,1,1
+7651,Dolittle,PG,101.0,0.0,245487753.0,Stephen Gaghan,Stephen Gaghan,Robert Downey Jr.,Adventure,2020,1,1
+7652,The Call of the Wild,PG,100.0,0.0,111105497.0,Chris Sanders,Michael Green,Harrison Ford,Adventure,2020,1,1
+7659,Black Wall Street Burning,R,78.0,0.0,0.0,Marcus Brown,Dekoven Riggins,Dan Belcher,Drama,2020,1,1
+7677,Ghostbusters: Afterlife,PG-13,124.0,45.0,128885266.0,Jason Reitman,Jason Reitman,Paul Rudd,Adventure,2021,1,2
+7678,Free Guy,PG-13,115.0,62.0,121626598.0,Shawn Levy,Zak Penn,Taika Waititi,Action,2021,1,2
+7683,Halloween Kills,R,105.0,42.0,92002155.0,David Gordon Green,Scott Teems,Judy Greer,Horror,2021,1,1
+7688,The Boss Baby: Family Business,PG,107.0,39.0,57300280.0,Tom McGrath,Tom McGrath,James Marsden,Animation,2021,1,1
+7699,PAW Patrol: The Movie,G,86.0,50.0,40127371.0,Cal Brunker,Cal Brunker,Will Brisbin,Animation,2021,1,1
+7700,West Side Story,PG-13,156.0,85.0,37200196.0,Steven Spielberg,Tony Kushner,Rachel Zegler,Crime,2021,1,2
+7701,The Matrix Resurrections,R,148.0,63.0,36645917.0,Lana Wachowski,Lana Wachowski,Yahya Abdul-Mateen II,Action,2021,1,1
+7706,Escape Room: Tournament of Champions,PG-13,88.0,48.0,25314753.0,Adam Robitel,Will Honley,Taylor Russell,Action,2021,1,1
+7707,Respect,PG-13,145.0,61.0,24278399.0,Liesl Tommy,Tracey Scott Wilson,Marlon Wayans,Biography,2021,1,1
+7711,The Green Knight,R,130.0,85.0,17173321.0,David Lowery,David Lowery,Joel Edgerton,Adventure,2021,1,1
+7712,Resident Evil: Welcome to Raccoon City,R,107.0,44.0,16962542.0,Johannes Roberts,Johannes Roberts,Robbie Amell,Action,2021,1,1
+7714,Licorice Pizza,R,133.0,90.0,14592081.0,Paul Thomas Anderson,Paul Thomas Anderson,Sean Penn,Comedy,2021,1,2
+7717,The Little Things,R,128.0,54.0,15342746.0,John Lee Hancock,John Lee Hancock,Rami Malek,Crime,2021,1,1
+7718,Dear Evan Hansen,PG-13,137.0,39.0,15002646.0,Stephen Chbosky,Steven Levenson,Kaitlyn Dever,Drama,2021,1,1
+7721,Malignant,R,111.0,51.0,13391791.0,James Wan,James Wan,Maddie Hasson,Crime,2021,1,1
+7725,The Last Duel,R,152.0,67.0,10853945.0,Ridley Scott,Nicole Holofcener,Matt Damon,Action,2021,1,2
+7726,Antlers,R,99.0,57.0,10619670.0,Scott Cooper,Scott Cooper,Keri Russell,Drama,2021,1,1
+7728,Last Night in Soho,R,116.0,65.0,10127625.0,Edgar Wright,Krysty Wilson-Cairns,Thomasin McKenzie,Drama,2021,1,2
+7735,Judas and the Black Messiah,R,126.0,85.0,5478009.0,Shaka King,Will Berson,LaKeith Stanfield,Biography,2021,1,2
+7738,Separation,R,107.0,0.0,4509143.0,William Brent Bell,Nick Amadeus,Violet McGraw,Horror,2021,1,0
+7746,Here Today,PG-13,117.0,40.0,2807494.0,Billy Crystal,Billy Crystal,Dierdre Friel,Comedy,2021,1,1
+7748,Lamb,R,106.0,68.0,2657850.0,Valdimar Jóhannsson,Valdimar Jóhannsson,Noomi Rapace,Drama,2021,1,1
+7752,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)",PG-13,118.0,96.0,2170750.0,Questlove,0,Dorinda Drake,Documentary,2021,1,2
+7763,Red Rocket,R,130.0,75.0,1018532.0,Sean Baker,Sean Baker,Suzanna Son,Comedy,2021,1,2
+7764,True to the Game 3,R,98.0,0.0,1016725.0,David Wolfgang,Jeff Robertson,Starletta DuPois,Romance,2021,1,0
+7770,Blue Bayou,R,117.0,58.0,744813.0,Justin Chon,Justin Chon,Mark O'Brien,Drama,2021,1,2
+7782,Julia,PG-13,95.0,71.0,350000.0,Julie Cohen,0,Julia Child,Documentary,2022,1,2
+7792,Becoming Cousteau,PG-13,94.0,74.0,0.0,Liz Garbus,Pax Wassermann,Vincent Cassel,Documentary,2021,1,2
+7803,Mass,PG-13,111.0,81.0,0.0,Fran Kranz,Fran Kranz,Martha Plimpton,Drama,2021,1,2
+7810,Walking with Herb,PG,110.0,0.0,110995.0,Ross Kagan Marks,Mark Medoff,Kathleen Quinlan,Comedy,2021,1,1
+7812,Small Engine Repair,R,102.0,57.0,102651.0,John Pollono,John Pollono,Shea Whigham,Comedy,2021,1,1
+7813,The Loneliest Whale: The Search for 52,PG,96.0,69.0,0.0,Joshua Zeman,Lisa Schiller,Joshua Zeman,Documentary,2021,1,1
+7814,Tango Shalom,PG-13,115.0,0.0,98929.0,Gabriel Bologna,Joseph Bologna,Renée Taylor,Comedy,2021,1,1
+7816,The Souvenir: Part II,R,107.0,90.0,90050.0,Joanna Hogg,Joanna Hogg,Tilda Swinton,Drama,2022,1,2
+7838,Memoria,PG,136.0,91.0,48144.0,Apichatpong Weerasethakul,Apichatpong Weerasethakul,Tilda Swinton,Drama,2021,1,1
+7839,France,Unrated,133.0,57.0,44736.0,Bruno Dumont,Bruno Dumont,Léa Seydoux,Comedy,2021,1,1
+7846,"All Light, Everywhere",Unrated,105.0,76.0,33765.0,Theo Anthony,0,Theo Anthony,Documentary,2021,1,1
+7854,The Beta Test,Unrated,93.0,72.0,29183.0,PJ McCabe,PJ McCabe,Virginia Newcomb,Comedy,2021,1,1
+7873,The Laws of the Universe: The Age of Elohim,PG,119.0,0.0,15063.0,Isamu Imakake,Sayaka Okawa,Satomi Arai,Animation,2021,1,0
+7879,Secret Agent Dingledorf and His Trusty Dog Splat,PG,89.0,0.0,0.0,Billy Dickson,Bill Myers,Zackary Arthur,Comedy,2021,1,0
+7881,We Need to Do Something,Unrated,97.0,48.0,0.0,Sean King O'Grady,Max Booth III,Vinessa Shaw,Horror,2021,1,0
+7916,Uncharted,PG-13,116.0,42.0,0.0,Ruben Fleischer,Rafe Judkins,Tom Holland,Action,2022,1,1
+7920,Moonfall,PG-13,130.0,41.0,13122665.0,Roland Emmerich,Spenser Cohen,Patrick Wilson,Action,2022,1,1
+7921,Marry Me,PG-13,112.0,50.0,14427585.0,Kat Coiro,Tami Sagher,Owen Wilson,Comedy,2022,1,1
+7927,The Tiger Rising,PG,102.0,33.0,0.0,Ray Giarratana,Ray Giarratana,Queen Latifah,Family,2022,1,1

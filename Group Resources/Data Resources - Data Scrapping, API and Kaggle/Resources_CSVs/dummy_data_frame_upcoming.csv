@@ -1,0 +1,84 @@
+movie_id,title,movie_rating,release_date,run_time,meta_score,imdb_rating,box_office,director,writer,actor,genre_name
+0,The Batman,PG-13,2022-03-04,175,0.0,0.0,0.0,Matt Reeves,Peter Craig,Zoë Kravitz,NA
+1,A Day to Die,0,1970-01-01,0,0.0,0.0,0.0,Wes Miller,Scott Mallace,Kevin Dillon,Action
+2,He Was Asking for It: A Noir Film,0,2022-04-30,0,0.0,0.0,0.0,Rocky Karlage,Staci Layne Wilson,Rocky Karlage,Action
+3,Tyson's Run,PG,2022-03-11,103,0.0,0.0,0.0,Kim Bass,Kim Bass,Major Dodson,Action
+4,X,R,2022-03-18,0,0.0,0.0,0.0,Ti West,Ti West,Mia Goth,Action
+5,Operation Fortune: Ruse de guerre,0,2022-03-18,0,0.0,0.0,0.0,Guy Ritchie,Marn Davies,Josh Hartnett,Action
+6,The Outfit,R,2022-03-18,105,0.0,0.0,0.0,Graham Moore,Johnathan McClain,Zoey Deutch,Action
+7,Cheaper by the Dozen,PG,2022-03-18,0,0.0,0.0,0.0,Gail Lerner,Kenya Barris,Zach Braff,Action
+8,Alice,0,2022-03-18,100,54.0,5.3,0.0,Krystin Ver Linden,Krystin Ver Linden,Keke Palmer,Animation
+9,The Unbreakable Boy,PG,2022-03-18,0,0.0,0.0,0.0,Jon Gunn,Jon Gunn,Zachary Levi,Adventure
+10,Umma,0,2022-03-18,0,0.0,0.0,0.0,Iris K. Shim,Iris K. Shim,Sandra Oh,Action
+11,The Lost City,0,2022-03-25,92,0.0,0.0,0.0,Adam Nee,Oren Uziel,Sandra Bullock,Action
+12,The Duke of Marylebone,0,2022-06-29,100,0.0,0.0,0.0,Mitch Riverman,Mitch Riverman,Ninette Finch,Action
+13,Everything Everywhere All at Once,R,2022-03-25,140,0.0,0.0,0.0,Daniel Scheinert,Daniel Scheinert,Michelle Yeoh,Action
+14,Morbius,PG-13,2022-04-01,108,0.0,0.0,0.0,Daniel Espinosa,Roy Thomas,Michael Keaton,Animation
+15,The Contractor,R,2022-04-01,0,0.0,0.0,0.0,Tarik Saleh,J.P. Davis,Gillian Jacobs,Horror
+16,You Won't Be Alone,R,2022-04-01,108,75.0,6.8,0.0,Goran Stolevski,Goran Stolevski,Noomi Rapace,Adventure
+17,Iris Warriors,0,2022-04-02,80,0.0,5.1,0.0,Roydon Turner,Roydon Turner,Sven-Eric Muller,Animation
+18,Sonic the Hedgehog 2,0,2022-04-08,0,0.0,0.0,0.0,Jeff Fowler,Pat Casey,Idris Elba,Horror
+19,Ambulance,R,2022-04-08,0,0.0,0.0,0.0,Michael Bay,Laurits Munch-Petersen,Jake Gyllenhaal,Horror
+20,The Cow Who Sang a Song Into the Future,0,2022-01-23,98,0.0,7.0,0.0,Francisca Alegria,Manuela Infante,Mía Maestro,Animation
+21,Father Stu,R,2022-04-13,0,0.0,0.0,0.0,Rosalind Ross,Rosalind Ross,Mel Gibson,Animation
+22,Fantastic Beasts: The Secrets of Dumbledore,0,2022-04-15,0,0.0,0.0,0.0,David Yates,Steve Kloves,Mads Mikkelsen,Action
+23,The Bad Guys,PG,2022-04-22,0,0.0,0.0,0.0,Pierre Perifel,Hilary Winston,Sam Rockwell,Animation
+24,The Northman,0,2022-04-22,0,0.0,0.0,0.0,Robert Eggers,Sjón,Nicole Kidman,Crime
+25,The Unbearable Weight of Massive Talent,0,2022-04-22,0,0.0,0.0,0.0,Tom Gormican,Tom Gormican,Pedro Pascal,Adventure
+26,Hatching,0,2022-04-29,86,75.0,7.1,0.0,Hanna Bergholm,Ilja Rautsi,Sophia Heikkilä,Drama
+27,The Vortex Voices,0,2022-02-10,99,0.0,0.0,0.0,Michael Jason Allen,Michael Jason Allen,Mariya Tensina,Animation
+28,Firebird,0,1970-01-01,0,0.0,0.0,0.0,0,0,0,Action
+29,Memory,R,2022-04-29,0,0.0,0.0,0.0,Martin Campbell,Jef Geeraerts,Ray Stevenson,Action
+30,Doctor Strange in the Multiverse of Madness,0,2022-05-06,0,0.0,0.0,0.0,Sam Raimi,Steve Ditko,Rachel McAdams,Animation
+31,What's Happening ... Refugees,0,1970-01-01,0,0.0,0.0,0.0,Ted Kamp,0,0,Animation
+32,The Twin,0,2022-04-21,0,0.0,0.0,0.0,Taneli Mustonen,Taneli Mustonen,Teresa Palmer,Crime
+33,Firestarter,R,1970-01-01,0,0.0,0.0,0.0,Keith Thomas,Stephen King,Zac Efron,Action
+34,Downton Abbey: A New Era,PG,2022-05-20,0,0.0,0.0,0.0,Simon Curtis,Julian Fellowes,Michelle Dockery,Action
+35,Men,0,2022-05-20,0,0.0,0.0,0.0,Alex Garland,Alex Garland,Rory Kinnear,Drama
+36,DC League of Super-Pets,0,2022-05-20,0,0.0,0.0,0.0,Sam Levine,John Whittington,Vanessa Bayer,Action
+37,Top Gun: Maverick,PG-13,2022-05-27,0,0.0,0.0,0.0,Joseph Kosinski,Eric Warren Singer,Tom Cruise,Action
+38,The Bob's Burgers Movie,PG-13,2022-05-27,0,0.0,0.0,0.0,Loren Bouchard,Nora Smith,Kristen Schaal,Action
+39,Terror on the Prairie,0,1970-01-01,0,0.0,0.0,0.0,Michael Polish,Josiah Nelson,Samaire Armstrong,Biography
+40,Jurassic World Dominion,PG-13,2022-06-10,0,0.0,0.0,0.0,Colin Trevorrow,Emily Carmichael,Dichen Lachman,Crime
+41,Lightyear,0,2022-06-17,0,0.0,0.0,0.0,Angus MacLane,Pete Docter,Taika Waititi,Animation
+42,Red Elvis: The Cold War Cowboy,0,2022-01-20,91,0.0,7.5,0.0,Thomas Latter,0,0,Animation
+43,Shotgun Wedding,0,2022-06-29,0,0.0,0.0,0.0,Jason Moore,Mark Hammer,Josh Duhamel,Adventure
+44,Minions 2: The Rise of Gru,PG,2022-07-01,90,0.0,0.0,0.0,Kyle Balda,Matthew Fogel,Taraji P. Henson,Action
+45,Thor: Love and Thunder,0,2022-07-08,0,0.0,0.0,0.0,Taika Waititi,Taika Waititi,Taika Waititi,Comedy
+46,Bullet Train,0,2022-07-15,0,0.0,0.0,0.0,David Leitch,Zak Olkewicz,Sandra Bullock,Comedy
+47,Mrs Harris Goes to Paris,0,2022-05-06,0,0.0,0.0,0.0,Anthony Fabian,Paul Gallico,Lucas Bravo,Action
+48,The Wrong Place,0,2022-07-15,0,0.0,0.0,0.0,Mike Burns,Bill Lawrence,Michael Sirow,Drama
+49,Nope,0,2022-07-22,0,0.0,0.0,0.0,Jordan Peele,Jordan Peele,Michael Wincott,Crime
+50,Where the Crawdads Sing,0,2022-07-22,0,0.0,0.0,0.0,Olivia Newman,Lucy Alibar,Harris Dickinson,Drama
+51,Blazing Samurai,0,2022-07-22,0,0.0,0.0,0.0,Rob Minkoff,Nate Hopper,Samuel L. Jackson,Biography
+52,Black Adam,0,2022-07-29,0,0.0,0.0,0.0,Jaume Collet-Serra,Sohrab Noshirvani,Sarah Shahi,Crime
+53,Guns 3: Alias Billy the Kid,0,2022-08-03,0,0.0,0.0,0.0,Emilio Estevez,John Fusco,Lou Diamond Phillips,Crime
+54,Secret Headquarters,0,2022-08-05,0,0.0,0.0,0.0,Henry Joost,Josh Koenigsberg,Owen Wilson,Music
+55,The Man from Toronto,PG-13,2022-08-12,0,0.0,0.0,0.0,Patrick Hughes,Robbie Fox,Woody Harrelson,Action
+56,Samaritan,PG-13,2022-08-26,0,0.0,0.0,0.0,Julius Avery,Bragi F. Schut,Sylvester Stallone,Crime
+57,After Ever Happy,0,2022-09-07,119,0.0,0.0,0.0,Castille Landon,Sharon Soboil,Josephine Langford,Action
+58,Salem's Lot,0,2022-09-09,0,0.0,0.0,0.0,Gary Dauberman,Stephen King,Spencer Treat Clark,Drama
+59,Dark Harvest,0,2022-09-09,0,0.0,0.0,0.0,David Slade,Norman Partridge,Luke Kirby,Drama
+60,The Woman King,0,2022-09-16,0,0.0,0.0,0.0,Gina Prince-Bythewood,Gina Prince-Bythewood,Viola Davis,Drama
+61,Don't Worry Darling,R,2022-09-23,0,0.0,0.0,0.0,Olivia Wilde,Shane Van Dyke,Olivia Wilde,Biography
+62,Puss in Boots: The Last Wish,0,2022-09-23,0,0.0,0.0,0.0,Joel Crawford,Christopher Meledandri,Miguel Gabriel,Crime
+63,Spider-Man: Across the Spider-Verse - Part One,0,2022-10-07,0,0.0,0.0,0.0,Kemp Powers,Phil Lord,Shameik Moore,Action
+64,Till,0,2022-10-07,0,0.0,0.0,0.0,Chinonye Chukwu,Michael Reilly,Whoopi Goldberg,Action
+65,Halloween Ends,0,2022-10-14,0,0.0,0.0,0.0,David Gordon Green,John Carpenter,Kyle Richards,Biography
+66,Ticket to Paradise,0,2022-10-21,0,0.0,0.0,0.0,Ol Parker,Ol Parker,Lucas Bravo,Drama
+67,The Devil's Light,PG-13,2022-10-28,93,0.0,0.0,0.0,Daniel Stamm,Todd R. Jones,Virginia Madsen,Biography
+68,The Monkey King: The Legend Begins,0,2022-11-02,90,0.0,5.7,0.0,Soi Cheang,Edmond Wong,Donnie Yen,Documentary
+69,The Flash,0,2022-11-04,0,0.0,0.0,0.0,Andy Muschietti,Harry Lampert,Temuera Morrison,Action
+70,Untitled David O. Russell,0,2022-11-04,0,0.0,0.0,0.0,David O. Russell,David O. Russell,Rami Malek,Horror
+71,Black Panther: Wakanda Forever,0,2022-11-11,0,0.0,0.0,0.0,Ryan Coogler,Ryan Coogler,Martin Freeman,Drama
+72,Spellbound,0,2022-11-11,0,0.0,0.0,0.0,Vicky Jenson,Linda Woolverton,0,Mystery
+73,Thirteen Lives,PG-13,2022-11-18,0,0.0,0.0,0.0,Ron Howard,William Nicholson,Viggo Mortensen,History
+74,Creed III,0,2022-11-23,0,0.0,0.0,0.0,Michael B. Jordan,Zach Baylin,Tessa Thompson,Drama
+75,The Fabelmans,0,2022-11-23,0,0.0,0.0,0.0,Steven Spielberg,Tony Kushner,Seth Rogen,Drama
+76,Strange World,0,2022-11-23,0,0.0,0.0,0.0,Don Hall,Qui Nguyen,Alan Tudyk,Adventure
+77,Avatar 2,0,2022-12-16,0,0.0,0.0,0.0,James Cameron,Josh Friedman,Zoe Saldana,Action
+78,Aquaman and the Lost Kingdom,0,2022-12-16,0,0.0,0.0,0.0,James Wan,Paul Norris,Temuera Morrison,Comedy
+79,Untitled Illumination Entertainment Project,0,2022-12-21,0,0.0,0.0,0.0,Michael Jelenic,Shigeru Miyamoto,Seth Rogen,Drama
+80,I Wanna Dance with Somebody,0,2022-12-23,0,0.0,0.0,0.0,Kasi Lemmons,Anthony McCarten,Tamara Tunie,Drama
+81,A Man Called Otto,0,1970-01-01,0,0.0,0.0,0.0,Marc Forster,Fredrik Backman,Tom Hanks,Crime
+82,Babylon,0,2023-01-06,0,0.0,0.0,0.0,Damien Chazelle,Damien Chazelle,Olivia Wilde,Adventure
